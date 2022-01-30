@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcNve7rtzUVSfo6A2At4ZpDDCeWFZ8AemicRQLhCQDZso9uiBZV5UQKEFRieDKdvoenVbgtXkFlOLQb76PRRNqAM=
+SHA256 (Pkgfile) = bc9fada266ab7917810b4cb5337351efc31354d2934da6ad39bf9c936292d505
+SHA256 (.footprint) = 3645fd99dd9ade3b2a13c12afd6831261222e6c5ef2cd388c69d4c4b37cf312f
+SHA256 (Gblocks_Linux64_0.91b.tar.Z) = 563658f03cc5e76234a8aa705bdc149398defec813d3a0c172b5f94c06c880dc

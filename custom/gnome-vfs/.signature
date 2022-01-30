@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwypiwlr3tUbALQ68aR+Dx1KQPJv24+p/hHhzhq3sp9PpqjQTAObebWHQ+nUv6VwPETJ1Zdf9pnLeqG2tK76c6ws=
+SHA256 (Pkgfile) = 2cef2fed8dece1c8643dfcc36e60736b91e1f48621c9f7af287b33d1f23689d3
+SHA256 (.footprint) = 779605a83a16258d3dbb6e1ba7e782cf334eae3cd5a03181f84e06f42864070b
+SHA256 (gnome-vfs_2.24.4.orig.tar.gz) = 2eb84be8d260e3c4f13b68e820acf4100e97956f6953067a99119fa8d88c5c00

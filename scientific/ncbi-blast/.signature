@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcK51WQOwJPYCfqVR+t1W306ffwZssGIG5QCyj6OB9c4EFSC4UoUmm/GXGgJTw7CHMZBSLYJ7BiMInSV8LtBG/AM=
+SHA256 (Pkgfile) = fe07150ff7a430c2ff5025b7635e523e65b0d411e4a7c6643e0a075cf3a531f7
+SHA256 (.footprint) = 3f43847c0cccc4e705fa251c117f11ef976b7bf27b57a36d7df176ea0774c87c
+SHA256 (blast-2.2.26-x64-linux.tar.gz) = 8a2f986cf47f0f7cbdb3478c4fc7e25c7198941d2262264d0b6b86194b3d063d

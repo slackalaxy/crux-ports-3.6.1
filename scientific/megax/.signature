@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcI7VzcmNmItmRP6/ECWkKyphrEwk8/TFCKoYJO9dAzmojfbjUiWRoX8YPcx/hIcSyrnlHuHVc5/c5WH12g8uxgc=
+SHA256 (Pkgfile) = 570d0249710f4576dc851e1c3de7d5d4aee8c7747efa344bbdd7dd1d7f979cc2
+SHA256 (.footprint) = 9741f4567c7abf8bb9f1e4160af11fb8d110d520b2f263a18532f321dff37140
+SHA256 (megax_10.2.5-1_amd64.deb) = 6e8b52e7f3968fc611d3a752e5f7174cbf5c040877dfb1a618112afa6a1acda2
+SHA256 (megax.desktop) = ff932da44594ce4bfc7498c7edc54c0a1863a6fbd41a764780c26c2325f1dcfd

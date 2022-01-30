@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcLFYEv4EAFmZ3Jl+kWzICH9qRaE3zLzBwnLzHCBvqjQDRwHrDJM+yjO35ZxvS7YqPvB4T7Z7Mqqm8bwUJQJqGQM=
+SHA256 (Pkgfile) = 71a368cf29518a0e3e183289f5d1a6b6a33de048103f51c51b6e2a8a25ab39ba
+SHA256 (.footprint) = fc989e2327b731774f21ab7e5d939371b8d60d00bae33af010ce5dad60935ba1
+SHA256 (clustalx-2.1.tar.gz) = e10adb728c320598a165ca529f1aa3d2560061de0236e0a0926eaca9554afa05
+SHA256 (clustalx.desktop) = 499849fa0313372f83e4e9375329647991071db8a9b08d29694ca466478653a7
+SHA256 (clustalx.png) = f81b0cf26c80231280714dde89f79fda309cb775c74739c93803475181459f65
+SHA256 (fix-static.patch) = 5c070a5cd2e7ba5eddf984b6d5ad2bdbb1dc5fd1c50edaefd109e094ed33431c

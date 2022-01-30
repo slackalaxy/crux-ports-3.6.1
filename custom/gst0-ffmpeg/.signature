@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw4QEMX8QFmDx2URVk7i4bId8XcSr7bVyZvCWQFyIuES5CVJellZ9EPm6iA+DZSytEl9hUoSpOthWfkF9VY2rlwc=
+SHA256 (Pkgfile) = 700903c7875ba91862079a0fd2d97589ac1e70ecb2e85fc89be9ec20cc8cd4dd
+SHA256 (.footprint) = 5da0c73447649c3db982ed7583ed6645c803bd0f2b39cae533491a4db58a6bb6
+SHA256 (gst-ffmpeg-0.10.13.tar.gz) = ed9cc4375100c80ce56540ac1c30b8712a94d0cb97ba33dd52dd6203cd554729
+SHA256 (orc-0.4.30.patch) = d7f4c05cb9a673f3ab5956f451c2d437b5a266d22dc22620d4c575b35611d39f

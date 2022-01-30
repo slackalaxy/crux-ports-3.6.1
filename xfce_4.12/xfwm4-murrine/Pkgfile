@@ -1,0 +1,15 @@
+# Description: Murrine themes for Xfwm4
+# URL: https://www.gnome-look.org/p/1016191/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: xfwm4
+
+name=xfwm4-murrine
+version=0.01
+release=1
+source=(105376-MurrineX_h25.tar.bz2 MurrineXfwm.tar.bz2)
+
+build() {
+	mkdir -p $PKG/usr/share/themes
+	cp -a $SRC/Murrine $PKG/usr/share/themes/Murrine
+	cp -a $SRC/MurrineX2 $PKG/usr/share/themes/MurrineX2
+}

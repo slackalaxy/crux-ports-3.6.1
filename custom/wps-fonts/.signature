@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw3taYhc9qqGVL51gf3uWyPUPu6uabiuCq+8nUHfljLStYvDs8fcjAUycdB9X+BfqPNPs8X+UtIy/nuqO2NUX2AE=
+SHA256 (Pkgfile) = 93ad8d88b8bd91bb43e8868d54f4ffb89c5643686778d7f50c47777e24b34748
+SHA256 (.footprint) = 6b594950e143240ddd742ec51bcaf8b595e87225f35a649cb1fa979022a975eb
+SHA256 (ttf-wps-fonts-b3e935355afcfb5240bac5a99707ffecc35772a2.tar.gz) = 2dcc451f4c4f9c3903f8223595d208591f11cdbc3039ce621587e3ef3d549581

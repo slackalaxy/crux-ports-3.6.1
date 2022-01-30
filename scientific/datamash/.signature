@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcH3zuGnA/FII2PBR/De2hUra0xa1nfWIFJRy13jhOEV9kI8F7Kmkrr61rDnJA10iPHksOy7Fg1lwGJUMHJ39bQE=
+SHA256 (Pkgfile) = 028516d85d33bff780314f55bc645e6778ff2cc53ca606829bf3727e092b9bcb
+SHA256 (.footprint) = d6310dcb51f961db65bec091300fe2586856eb7c0263d12e325f287edbcd6e15
+SHA256 (datamash-1.7.tar.gz) = 574a592bb90c5ae702ffaed1b59498d5e3e7466a8abf8530c5f2f3f11fa4adb3

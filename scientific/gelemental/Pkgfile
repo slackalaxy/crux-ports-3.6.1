@@ -1,0 +1,21 @@
+# Description: Periodic table
+# URL: https://github.com/ginggs/gelemental
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: gtkmm
+
+name=gelemental
+version=2.0.0
+release=1
+source=(https://github.com/ginggs/gelemental/archive/v${version}/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	
+	CXXFLAGS="$CXXFLAGS -std=c++11" \
+	./configure --prefix=/usr \
+	--disable-nls
+	make
+	make install DESTDIR=$PKG
+	
+	rm -rf $PKG/usr/share/locale
+}

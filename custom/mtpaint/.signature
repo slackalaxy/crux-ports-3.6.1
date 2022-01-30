@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwxKPgFe+T2oAwaTzHGU63pmejf1A/tZ5US4uBJnuwglbLjAkp93j/gTPQLba8G9vFCob4TGYVeIUXTnsMIcSfgA=
+SHA256 (Pkgfile) = d0ccca11385f0f27e992fe79a1720663600439921ac73a70c79e33743fde38fa
+SHA256 (.footprint) = 561e94f7f558ba53aa6b871e9671577d3eb26a8d1729edcbdd8fd20b12f4f63b
+SHA256 (mtpaint-3.50.tar.bz2) = 695cea10c428a8f122ed59beee5ffa49dcdcba8d88a4790eaf3c64fd7c73d6ac

@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcKaIVUgyCVLVjJC5Xe8zCppFxXCshHfhpagWHwzc68e8j+EaWRMcpD2ZpyL8jTRvftWhl/3g4I0HXGk/8Ch8eQA=
+SHA256 (Pkgfile) = c6959e16dcb979cd7fd03e785a5cc4c5b8570f02d7667bb075d71b7803969cc4
+SHA256 (.footprint) = 67dab0ba4f1884da72e5080a3bdb451662d895d2394f6b2ec7f5d851693c6538
+SHA256 (unix.source.tar.gz) = 9423bad39fc729ac8150d0630c82ca3452d30ba0f5da862a76a7358c06d0831c
+SHA256 (unix.examples.tar.gz) = 58e26a065c4ddf055cad403a30c2482db500e19de6ff6a2116b2d91aaee6b7a1
+SHA256 (gconvdoc.pdf) = 14f91fe7437e115241cad83b1c0587791998498d085e58b8699186edb6735cd2

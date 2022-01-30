@@ -1,0 +1,16 @@
+# Description: Qt5 Configuration Utility
+# URL:         https://qt5ct.sourceforge.net
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: libpcre2 qt5
+
+name=qt5ct
+version=1.2
+release=1
+source=(https://downloads.sourceforge.net/project/$name/$name-$version.tar.bz2)
+
+build(){
+	cd $name-$version
+	qmake-qt5 $name.pro
+	make
+	make INSTALL_ROOT="$PKG" install
+}

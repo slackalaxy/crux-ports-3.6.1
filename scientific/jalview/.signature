@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcGjXAHlQesn30qqqdDihmVXIfOItrplwdW2jJEITq4JZqNUGt8K9C8R9QDaIg2ZiJNO50+b9/GcKiopjXl3lrAU=
+SHA256 (Pkgfile) = 1a7a5db64c375096b1b264d81f91d4b8121bc32a958c16ab69aea44ce197a98a
+SHA256 (.footprint) = 11f5c30c22d126191e05b64589479bf6d254c017b63862e8756a883c3ebdc5f8
+SHA256 (jalview-all-2.11.1.4-j1.8.jar) = 6bb3dd9e9cca3eb24be3c38c3f279d6de94420d0d9f1c9b583c94b12269cf6b5
+SHA256 (jalview.desktop) = bd9367e0b8815b61e9e2971571c4812479c43d391d4996a1c63cac9cb3c924e9
+SHA256 (jalview.png) = f94adcbb597e0c98d08b936ff5f8b84d6d73da501cafb5811a89339214d86164

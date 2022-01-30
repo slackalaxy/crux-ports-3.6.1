@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw8p2/jUqICkK9wyU1y0jTuXtz7gF+thpLVTcsqt1A1LTE/YL1e7O+2Rqc7YPkauPl4P/pa9E6E1Hfgo3OqWdzgE=
+SHA256 (Pkgfile) = b5f29c61c7391920900d13c0cd9198e892305d6b0dd0fae36681d570cded409f
+SHA256 (.footprint) = e7048b152513712372d4b79a09f366d2f9aa89aaeb9ebe45e04e8fdae9d0c9e3
+SHA256 (calibre-5.34.0-x86_64.txz) = d46391c0c962495ec7e5875afda5bcfe2e85c8929953b35942829c66c8090905
+SHA256 (calibre-bin.desktop) = 10c24204c865e22718146e9a917c00d101f61eeae82408173e42c317b57a42dd

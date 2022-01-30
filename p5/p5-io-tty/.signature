@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/p5.pub
+RWT98vC9fmFJmmRXHqTy1Oj9Zh9x4XwJomYz1pOWrVMeBoIA7VTcyc1Op5KQi46vrMvcCEKz9PFvzuCRlYgKrxFETtBw2vWvSA0=
+SHA256 (Pkgfile) = 4cc18ee7380e136b755f8a4583dc943929fb9c2fded7f2b22d2ad3430180fc67
+SHA256 (.footprint) = 15c9735db22b408ab887b9deaf24f9b1f22d5bce72a8502187911b0d2e33b114
+SHA256 (IO-Tty-1.16.tar.gz) = 8f1a09c070738adc695df903f2e7f74308dd8d991b914c0bc390a0e6021294dd

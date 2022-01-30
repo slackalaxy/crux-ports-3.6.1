@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw/+/N8qmdDIukfuubyTcT8Cs4dnMxXK8qyoYruI2ydaym5lgmfaRDArI7Z9S9XgHIQleuq8WsWsk2wulp/NURAE=
+SHA256 (Pkgfile) = 2c7ac737ae79cb7387c1ddff53ab0fef5baf2c024f8e4a8f96948daf532979f7
+SHA256 (.footprint) = 0cdda9daa53a2dadbf208bb6d62cbb6b8c183da85db70645c863ac9644232d72
+SHA256 (bluefish-2.2.12.tar.bz2) = 0df9905ba2c601cd767fa53e147969e9c90bc0cc4c005c4011c150b248979e6a

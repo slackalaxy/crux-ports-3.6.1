@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw/7U4NBNRGhemSvy69FCTrqGiSWylwny8p56cJWThdz4j+w8+FkxQvP5p80bktOasSbfuXhWR8qbA+iLgKtvkQ8=
+SHA256 (Pkgfile) = dffe139af642445255ffcf50e5ab6c74928f0584cae6a2b7b4f53c2fb5310f26
+SHA256 (.footprint) = 2d04cf7a0b74daf614e7fca8744654544d1bbbc1b9ebe3c2c1b1b0fa87a70f82
+SHA256 (wmctrl-1.07.tar.gz) = d78a1efdb62f18674298ad039c5cbdb1edb6e8e149bb3a8e3a01a4750aa3cca9

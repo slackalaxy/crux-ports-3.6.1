@@ -1,0 +1,21 @@
+# Description: GNOME desktop libs
+# URL: https://download.gnome.org
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: gconf graphite2 atk brotli cairo dbus dbus-glib fontconfig freetype fribidi gdk-pixbuf glib gtk harfbuzz libjpeg-turbo libpng pango startup-notification xorg-libpixman xorg-libx11 xorg-libxau xorg-libxcb xorg-libxcomposite xorg-libxcursor xorg-libxdamage xorg-libxdmcp xorg-libxext xorg-libxfixes xorg-libxinerama xorg-libxrandr xorg-libxrender xorg-xcb-util
+
+name=gnome-desktop2
+version=2.32.1
+release=1
+source=(https://download.gnome.org/sources/gnome-desktop/${version%.*}/gnome-desktop-$version.tar.bz2)
+
+build() {
+	cd gnome-desktop-$version
+	./configure --prefix=/usr \
+	--sysconfdir=/usr/etc \
+	--disable-nls
+	
+	make
+	make DESTDIR=$PKG install
+	
+	rm -rf $PKG/usr/share/{gtk-doc,locale}
+}

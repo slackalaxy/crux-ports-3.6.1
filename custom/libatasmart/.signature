@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw32JJN0SmaP7zqiXbH8z0rSe/zMDLhf70wjHd/E0uEs7OHY0Tne3O+au8Hl6bHUQzvHSEWX1TBa7t7VuaHmRjwc=
+SHA256 (Pkgfile) = fe032a952c66871b88f308710f0d7f36ce4aeb377d456795d13a5d6232a644f0
+SHA256 (.footprint) = ba7a47c097590b2255e9e72cef422c4e5a4180e34eb0b99f6f8323de4a949502
+SHA256 (libatasmart-0.19.tar.xz) = 61f0ea345f63d28ab2ff0dc352c22271661b66bf09642db3a4049ac9dbdb0f8d

@@ -1,0 +1,15 @@
+# Description: a cross-platform universal vector graphics translator
+# URL: https://github.com/sk1project/uniconvertor/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli imagemagick libxml2 python
+
+name=python-uniconvertor
+version=ce8693c
+release=1
+source=(https://github.com/sk1project/uniconvertor/archive/$version/uniconvertor-ce8693cbd56c3f5e060c5c381cf42cb3c15df1f9.tar.gz)
+
+build() {
+	cd uniconvertor-${version}*
+	/usr/bin/python2.7 setup.py build
+	/usr/bin/python2.7 setup.py install --root $PKG
+}

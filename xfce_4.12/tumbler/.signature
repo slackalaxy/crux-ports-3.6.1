@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/xfce_4.12.pub
+RWTkDNbF//FThCEVl6JyZXPx+zz1ojqXUSlvATKMbJFnku/HbKF9F9DFKJPs/KL4DBLCU7PxHNHg4bqoyiSeOWY1n6hRy+iJlwM=
+SHA256 (Pkgfile) = daac4d8f2615ecf436ff6f80d9410f2feb6ad31847b0b291d176195c63f58f06
+SHA256 (.footprint) = 3b792b9928e395b195721b60bb56d0acc4ba6d1d359ae5c04fa27dcf9643577b
+SHA256 (tumbler-0.1.21.tar.bz2) = 348ac093e3be000d064c94d0856e3da3b6df0c8a98f87695ff548a77edf602a6

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcJV8LPM0fNX/LcJMJ35zfJ7g+nAKEgMW9wiZVZ55GrcpES26a2ZjS/KsPOhuavvTMdkFwza/ZMOLkq2wJIGZQAE=
+SHA256 (Pkgfile) = 64275f6c7cb3861e9429d1a0703157c7820efaf1f21143adc711fef7327d9c6c
+SHA256 (.footprint) = b1ccf6e00a43f0e1ef28e9b16b091dd267d1ba3a7d44e9370a34372251af70e5
+SHA256 (hmmer-3.3.2.tar.gz) = 92fee9b5efe37a5276352d3502775e7c46e9f7a0ee45a331eacb2a0cac713c69

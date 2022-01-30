@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw4aKjB4jsPOMCCfwd/SzlMj+AunscequkWq7WwQc+sOpG/VOHKEqURr+2J6uuiWMUH3V03ZeRVKVXXe7C3cTZQ8=
+SHA256 (Pkgfile) = fbe1007b522eaa9c440686424721b6ff48c9e3949ba40097a99373163f2070f9
+SHA256 (.footprint) = 43bde2a6b70b4c34d9f68c4425fda74a8a53379da422477e37502cef788638b0
+SHA256 (diffuse-0.4.8.tar.bz2) = c1d3b79bba9352fcb9aa4003537d3fece248fb824781c5e21f3fcccafd42df2b

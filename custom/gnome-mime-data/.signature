@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw/al2sHVsk+TeG9EzyKQ/fj2uYtUrt9ej8Je6xfMp+slS+iuzOSQ5fl1RB4tbccv9zYfnWzkjBnJF0HsMSt4Ogo=
+SHA256 (Pkgfile) = d3fc17c276f5ed914c97c8b17dc08ea900ef568345503d6a8596fac54610d313
+SHA256 (.footprint) = 0082b9d668df3ee158b0a95601c10d38a9576d019d43262a9b57a79a3cd1d8ad
+SHA256 (gnome-mime-data-2.18.0.tar.bz2) = 37196b5b37085bbcd45c338c36e26898fe35dd5975295f69f48028b1e8436fd7

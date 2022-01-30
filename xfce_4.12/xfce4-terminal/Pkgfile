@@ -1,0 +1,24 @@
+# Description: A modern terminal emulator
+# URL: https://docs.xfce.org/apps/terminal/start
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: exo vte3
+
+name=xfce4-terminal
+version=0.8.9.2
+versdir=0.8
+release=1
+source=(http://archive.xfce.org/src/apps/$name/$versdir/$name-$version.tar.bz2)
+build () {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls \
+              --mandir=/usr/share/man \
+              --libexecdir=/usr/bin \
+              --docdir=/usr/share/Terminal/doc
+  make
+  make DESTDIR=$PKG install
+  rm -rf $PKG/usr/share/locale
+  rm -rf $PKG/usr/share/gnome*
+  rm -rf $PKG/usr/share/Terminal/doc/{??,??_??}
+  rm -rf $PKG/usr/share/man/{??,??_??}
+}

@@ -1,0 +1,24 @@
+# Description: A unified bioinformatics toolkit
+# URL: http://ugene.net/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli double-conversion glu graphite2 icu keyutils krb5 libpcre2 qt5 xorg-libxtst
+
+name=ugene
+version=39.0
+release=2
+source=(https://github.com/ugeneunipro/$name/archive/${version}/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	
+	qmake-qt5 CONFIG+=x64 -r \
+	QMAKE_CFLAGS="$CFLAGS" \
+	QMAKE_CXXFLAGS="$CXXCFLAGS" \
+	UGENE_EXCLUDE_LIST_ENABLED=1
+	
+	make
+	make INSTALL_ROOT=$PKG install
+	
+	# Do not associate with my fasta files...
+	rm -rf $PKG/usr/share/{icons,mime}	
+}

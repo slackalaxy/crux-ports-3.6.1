@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwyTPhSyy9r2DbnR3PPYYGUlHagJLhc5zTzK9J/knu3ls2j6CZWauwIPidMLFEzbNnjTjCildaeXPdlEa3SpFpA4=
+SHA256 (Pkgfile) = 930501dd52cfafa919a88af0a5afafcd89b7f6fd5f4913fec8838855e8dfa691
+SHA256 (.footprint) = eeff47737af5b5594df26e950ecc374816bbacaa0b7c807730d64d1fd5f24a20
+SHA256 (libgtop-2.40.0.tar.xz) = 78f3274c0c79c434c03655c1b35edf7b95ec0421430897fb1345a98a265ed2d4

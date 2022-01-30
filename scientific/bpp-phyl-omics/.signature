@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcHQoUuqbAgcU6LhEQrseUmDLjeKhqEoR9J4xqs1Trako4sJiyVlQ5KEEhcFX/uuR09yZUQ5D9u3YgGTeCeW95wo=
+SHA256 (Pkgfile) = b255f486e93041bc2cdc64039a885f18c3fde396eb1579c93a277a2972728968
+SHA256 (.footprint) = 48321b3f54aa9bfb64e8baefc75062f88532e9f09e1cc51b3f97eb3c59268a5a
+SHA256 (bpp-phyl-omics-2.4.1.tar.gz) = fb0908422e59c71065db874e68d5c71acddf66d8a51776f7e04a5f8d5f0f6577

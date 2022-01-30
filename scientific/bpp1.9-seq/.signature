@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPVyatzu4za6Y28z8E9uHAk1RLSebv/64LIvBh8BDiWVjP0gb3AJST3YFcIrRgI/PubmVFX7xC0b/NAm6PBHsQ8=
+SHA256 (Pkgfile) = baf98475847392dbcaa5254ee0458201bb24e722dca602003568502e14a54c24
+SHA256 (.footprint) = 714c06d8edc6ab54d8c63e2638b50c3b88784d22a3ad37bf491360b2e0a2f075
+SHA256 (bpp-seq-1.7.0.tar.gz) = 413e3adeb03a48299941f35682c57fcc7e660f3d61468e105f48cd946860bf4b

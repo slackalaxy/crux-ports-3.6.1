@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwzNhlp4HX5EeOnUkPnsTQ+waqSakyQqxd0xjYJDhPdhkRtLK1d+ypEFDYmxwqSgBCTSVe2GxsgBadBYIZ6qW5wE=
+SHA256 (Pkgfile) = 6379ce745f924212d5695db0e3ffd19f9be5d44851fb6a48a0cabcb7e27f3af4
+SHA256 (.footprint) = 7428136b1aa15d1ea6527e026bce22b00a95007567e84a5c63feeb0f6edbf6ff
+SHA256 (audacious-plugins-4.1.tar.bz2) = dad6fc625055349d589e36e8e5c8ae7dfafcddfe96894806509696d82bb61d4c

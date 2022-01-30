@@ -1,0 +1,23 @@
+# Description: The European Molecular Biology Open Software Suite
+# URL: http://emboss.sourceforge.net/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: adoptopenjdk fontconfig libgd libwebp mysql postgresql
+
+name=emboss
+version=6.6.0
+release=1
+source=(https://sourceforge.net/projects/sboppetrov/files/EMBOSS/EMBOSS-$version.tar.gz
+	EMBOSS.desktop EMBOSS.png)
+
+build() {
+	cd EMBOSS-$version
+	
+	sed -i "/embossupdate/d" Makefile.am Makefile.in
+	./configure --prefix=/usr --with-x
+	make
+	make install DESTDIR=$PKG
+	
+	mkdir -p $PKG/usr/share/{applications,pixmaps}
+	cp $SRC/EMBOSS.desktop $PKG/usr/share/applications
+	cp $SRC/EMBOSS.png $PKG/usr/share/pixmaps
+}

@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw/WDMI8gQFZnuzdr0TGWmPXQnsv2WIdlt4dwS245QHaR+QVlAvCrvKZ23JbS6xlseIZthGqt0v/Owf/6vxOYHQI=
+SHA256 (Pkgfile) = 2364e8d5edaef9f41ac0aca707e6ca63dd88d593e24e9b20cbbf3a9d6325a39a
+SHA256 (.footprint) = 0837b76578f3005193a5b54827c5e5d1bec01103a409b58887461e4b9e9d013a
+SHA256 (gtk+-1.2.10.tar.gz) = 3fb843ea671c89b909fd145fa09fd2276af3312e58cbab29ed1c93b462108c34
+SHA256 (aclocal-fixes.patch) = 5836b331f224f950b73edebd3029487ff13dcb33b9d47ad4f6566059494c418f

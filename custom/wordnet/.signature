@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw+iWymSXnf0s+arEhWaUEX2t8OLnS6QoRJqB5RIXWPmT/+H0sgStwR5O6cQ/GDkKnsJz7nbxX4M4zvCa2nfxpwE=
+SHA256 (Pkgfile) = 564ff2f9604bd9f1b6fa3a9574e0e261e37cd59c057ee6982194336c54c003b2
+SHA256 (.footprint) = 35f0428664c76b41d98f39fc1ef6546127a92696d10c15905ddf0d75ef71b0ad
+SHA256 (WordNet-3.0.tar.bz2) = 6c492d0c7b4a40e7674d088191d3aa11f373bb1da60762e098b8ee2dda96ef22

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw+4NBcG6cYJlsqaWIVdv2sBBBvJOAeZflVjx8e9uuIZdtUArAMMqXwEVrrLWhVYT1AJk4x9tb9h7EIjH2TJyjgE=
+SHA256 (Pkgfile) = 91deead6d6b0c3cd5b2961d4f380fb8f40a29d86b4fae1ffe7807c02ad45b8e5
+SHA256 (.footprint) = 318045a372e08004168ac5e3fbff3d24aaa811becfac9d6566b3998e2103a3f3
+SHA256 (flam3-3.1.1.tar.gz) = afcd4af13897740e34f6ae1f3061bbfbda9c1dd5df3ecc9f57141c985d35d19d

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw2An+fV546uu0BAgoo1vJsorzpa0/fcLh9fd53K/PTVYttSKnBCOE8WJsHvxCLkIalQ7qwu/gG0//SqiIC6QWQA=
+SHA256 (Pkgfile) = 4ddf23fad125607062d185e0e7522023fc0823520cc06e0291cd9708207da165
+SHA256 (.footprint) = 469afb95884653a76296d0ef654c372597be129f23417517e200ae645c2cefaa
+SHA256 (geeqie-1.6.tar.xz) = 48f8a4474454d182353100e43878754b76227f3b8f30cfc258afc9d90a4e1920

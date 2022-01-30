@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw2T/lT4olvvpQK+hNZVMQh2OeeSFqcc+9m7EWb39cU9z6KAltidkhFD1UQaDE4pr58PcNf4gRy8ONLMQ4huXVgY=
+SHA256 (Pkgfile) = c4954f869eef1dba73a81f016db7248cb5f57601ea921911c08966451064293b
+SHA256 (.footprint) = dd120070f2fe1e7bfdac095c0586403cb5dc5ac0c57562c8cbf84cc3f347d68b
+SHA256 (gigolo-0.4.2.tar.bz2) = 553fc78fe4e7bd2f01f3851baea7e63f6414fe652dfb4b08c60b5c4b2b909164

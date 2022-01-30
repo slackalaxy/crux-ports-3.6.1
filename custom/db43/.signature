@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw6KL2qwnO34YGTfAWk/pLJhuIxcYPqoxl1gxGIHE+TOhzuNz7uEZrMUclO8HCnbfcXhQ+MpgxQEDLxk8PBoVKwI=
+SHA256 (Pkgfile) = c929bab2a3ac7609dfa4415115f29e05eafdde35d4eaf9063959f95391a164a7
+SHA256 (.footprint) = 5a778c4ff00f6761367a24bf195a98ae0e2964d7ac185dfc429482dc6a988562
+SHA256 (db-4.3.29.tar.gz) = a1fa714482f25a67a19490303a0164326ac63bd7653ae3f4664c2536b14f3337

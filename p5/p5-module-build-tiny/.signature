@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/p5.pub
+RWT98vC9fmFJmqknKmAu2GKHz8KFOBpgXSC492OjKCkOjUVldCfoeD8pSI68zOBQsgYUf1XhpAT5yE4Z97RZjV0baRLXHl7bEQQ=
+SHA256 (Pkgfile) = 01d738268fb14e321eb1e9cfefd2573df92aec8d93521ade06842863a50b6a23
+SHA256 (.footprint) = 6477ae8d9f079d3b2c00e4f3427c6ce9dcbf49e3c6295dd72aa6ab2e77fa4075
+SHA256 (Module-Build-Tiny-0.039.tar.gz) = 7d580ff6ace0cbe555bf36b86dc8ea232581530cbeaaea09bccb57b55797f11c

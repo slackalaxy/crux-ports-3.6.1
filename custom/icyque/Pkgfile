@@ -1,0 +1,15 @@
+# Description: ICQ plugin for Pidgin
+# URL: https://github.com/EionRobb/icyque/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: json-glib pidgin
+
+name=icyque
+version=4fc08a0
+release=1
+source=(https://github.com/EionRobb/icyque/archive/4fc08a09f2824bd039089fa54cbabf6be2221707/icyque-4fc08a09f2824bd039089fa54cbabf6be2221707.tar.gz)
+
+build() {
+	cd $name-${version}*
+	make
+	make install DESTDIR=$PKG
+}

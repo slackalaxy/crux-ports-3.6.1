@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gephi
+Comment=The Open Graph Viz Platform
+Exec=gephi
+Icon=gephi
+StartupNotify=false
+Type=Application
+Categories=Education

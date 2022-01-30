@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/p5.pub
+RWT98vC9fmFJmm6DGv/9e+4KZBckJl2UmmEmqNqQWuaagj3/cWtzObDfTVvUnmkEkLMhj6fmdDvDyfuVKbZNiw7IIboufaCzcQA=
+SHA256 (Pkgfile) = 5f923980372abb16bf445a58620ae4187210dbad7ec540fc68acbd7b337d21f9
+SHA256 (.footprint) = 0591d992f5be813d4542c78936daa9a7c2bc295a66d95ec4621fd0bfece76ac2
+SHA256 (Devel-CheckLib-1.14.tar.gz) = f21c5e299ad3ce0fdc0cb0f41378dca85a70e8d6c9a7599f0e56a957200ec294

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw3Nn3sP0JN7sFCl5cEU88GNh2+Qh8iXYydmITwmSaA134xJz3fAzG2RKn34dJVzo7v9SQZ3nEuU2bvh1g7VRpwg=
+SHA256 (Pkgfile) = 1539366ff285deeac4ff8ee3120ab1b519d961243f27eca2cf29cbea830c992e
+SHA256 (.footprint) = 6662ee898a6473b0c24386f4c4dea2d68183874e68c3b5583143122f7ba3214f
+SHA256 (falkon-3.1.0.tar.xz) = ce743cd80c0e2d525a784e29c9b487f73480119b0567f9ce8ef1f44cca527587

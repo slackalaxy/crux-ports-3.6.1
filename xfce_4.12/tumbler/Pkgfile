@@ -1,0 +1,50 @@
+# Description: Thumbnail management per D-Bus specification for Xfce
+# URL: https://docs.xfce.org/xfce/thunar/tumbler http://git.xfce.org/xfce/tumbler/tree/README
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli dbus-glib ffmpegthumbnailer graphite2 lame libass libva libvdpau libvpx libwebp poppler-glib x264 x265 xfce4-dev-tools
+
+name=tumbler
+version=0.1.21
+release=2
+source=(http://archive.xfce.org/src/xfce/$name/${version%.*}/$name-$version.tar.bz2)
+
+build () {
+	cd $name-$version
+
+	# Use version 0.1.21, due to this bug:
+	# https://bugs.archlinux.org/task/26107
+
+	./configure --prefix=/usr \
+	--disable-debug \
+	--disable-nls \
+	--disable-gtk-doc \
+	--disable-poppler-thumbnailer \
+	--enable-ffmpeg-thumbnailer \
+	--enable-pixbuf-thumbnailer \
+	--enable-jpeg-thumbnailer \
+	--disable-font-thumbnailer
+	
+	# More options below:
+	#--disable-odf-thumbnailer
+	#--disable-gstreamer-thumbnailer \
+	#--enable-ffmpeg-thumbnailer
+	#--disable-dependency-tracking \
+	#--disable-gtk-doc \
+	#--disable-odf-thumbnailer \
+	#--enable-gstreamer-thumbnailer \
+	#--enable-ffmpeg-thumbnailer
+  
+	#--enable-ffmpeg-thumbnailer \
+	#--disable-cover-thumbnailer \
+	#--disable-font-thumbnailer \
+	#--enable-jpeg-thumbnailer \
+	#--disable-pixbuf-thumbnailer \
+	#--enable-ffmpeg-thumbnailer \
+	#--enable-gstreamer-thumbnailer \
+	#--enable-poppler-thumbnailer \
+	#--disable-raw-thumbnailer
+  
+	make
+	make DESTDIR=$PKG install
+	rm -rf $PKG/usr/share/{gtk-doc,locale}
+}

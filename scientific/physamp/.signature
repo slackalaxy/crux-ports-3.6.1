@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPHOu7X+toVGU68Y8HJRLvk6eu3HkTTEiAkuXfGTbBPTClKTvdhaWpHd4AZpcIWGhi0X7ySU8mHbcI7NOxXnHw8=
+SHA256 (Pkgfile) = ba3a92995c81d409ba852fb8415cd1c04378d5de6ded9cba4faa2576219cef64
+SHA256 (.footprint) = 425c27ee9fc62f27c4b3d24ca57668c446d86696cf7a84a7cfc091346b52ea99
+SHA256 (physamp-1.1.0.tar.gz) = 0c687e7f46d6d5732a3ad6f029a0169667921101294a9fb5efaae9adfc397ae8

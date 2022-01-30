@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw0sDs3P5aaeNj2lHELwO7EXxOBu0C4r6pF65NAnxmIeocfInsxc/AXDAYQxie3wupNHM0F8yTNwuf0SSHoXczwo=
+SHA256 (Pkgfile) = d5399c88cee5cc15ee5d1479073b3dab23e3f03bb2a56f71c93513743eac8a9a
+SHA256 (.footprint) = 8b396e0beb5b4c6f1763179e115dfb059879e4c25e9b8781f779cc561bb3b5c5
+SHA256 (tklib-0.7.tar.gz) = 70c220a9702628abaebc2e2253a55445771183fe56a8b9a0a2ac29f6af13fca5

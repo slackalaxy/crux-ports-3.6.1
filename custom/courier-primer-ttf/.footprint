@@ -1,0 +1,16 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/fonts/
+drwxr-xr-x	root/root	usr/share/fonts/TTF/
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Bold Italic.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Bold.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Code Italic.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Code.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Italic.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Sans Bold Italic.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Sans Bold.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Sans Italic.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime Sans.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/Courier Prime.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/CourierPrime-Medium.ttf
+-rw-r--r--	root/root	usr/share/fonts/TTF/CourierPrime-SemiBold.ttf

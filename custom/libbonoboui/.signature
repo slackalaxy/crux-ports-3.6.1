@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwzIm8dqNPbxBprHdj7tQmuwHA6zr2ufZb8Ff68Jda+Ek3j3x+ITrtI/mevOWoBulbd9apro1OZ9qqF5x3YBOQww=
+SHA256 (Pkgfile) = 14bce25820548541e692faa3524efce3f7b9a0f48dbb400545b249657f7b3a84
+SHA256 (.footprint) = c12b98ffd894fca78d275d0914d03cb37f0fdf73f44ee382d90e2ab0213ef395
+SHA256 (libbonoboui-2.24.5.tar.bz2) = fab5f2ac6c842d949861c07cb520afe5bee3dce55805151ce9cd01be0ec46fcd

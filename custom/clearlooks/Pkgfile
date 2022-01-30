@@ -1,0 +1,25 @@
+# Description: The classic Clearlooks themes
+# URL: http://clearlooks.sourceforge.net/index-old.html
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: gtk-engines
+
+name=clearlooks
+version=0.6.2
+release=1
+source=(http://downloads.sourceforge.net/$name/$name-$version.tar.bz2)
+
+build() {
+	cd $name-$version/themes
+	
+	install -D -m644 Clearlooks/gtk-2.0/gtkrc \
+	$PKG/usr/share/themes/Clearlooks-Classic/gtk-2.0/gtkrc
+	
+	install -D -m644 Clearlooks-DeepSky/gtk-2.0/gtkrc \
+	$PKG/usr/share/themes/Clearlooks-Deepsky/gtk-2.0/gtkrc
+	
+	install -D -m644 Clearlooks-Olive/gtk-2.0/gtkrc \
+	$PKG/usr/share/themes/Clearlooks-Olive/gtk-2.0/gtkrc
+	
+	install -D -m644 Clearlooks-Quicksilver/gtk-2.0/gtkrc \
+	$PKG/usr/share/themes/Clearlooks-Quicksilver/gtk-2.0/gtkrc
+}

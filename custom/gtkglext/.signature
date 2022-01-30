@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw8clgAJo520FmAGbxets0oE3b98lp//EeMmULaQOrLnq1EQHotETV9y63e2NocsCXK+B4gVKys8Z5YSsU67ukQg=
+SHA256 (Pkgfile) = 2115685a62ab93a5de219ee3886e78640226c287c4f9373d0d0c3b7754446f5f
+SHA256 (.footprint) = e165b92f22d9154d6a337bc74d75c6ee14e2af11604a250dc98235e2c848bdaf
+SHA256 (gtkglext-1.2.0.tar.bz2) = 16bd736074f6b14180f206b7e91263fc721b49912ea3258ab5f094cfa5497f51
+SHA256 (gtkglext-no-deprecated-flags.patch) = 3ca4ad6c1f4e8670bb7a93c655bde2670e0ab29983b806e0b08370540d4a2ce4
+SHA256 (0002-GCC-8-fixes.patch) = 0ec0c22b15054b0684f9a9015ff05920af0c00dae5409e76321f683dcc17cff9

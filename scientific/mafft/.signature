@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcNZUFo2gTXefoBhVD/YwsHtslzO02se+fpdWu3ksMurwezZVNvq5O1xDGwloLLi4uiU6Bvwz4DLC1tn5jLoWeQU=
+SHA256 (Pkgfile) = 788c9e9ac990190e9b95e42d8a47fc7fd52cb902f209f01aedb6a1c3819c46fe
+SHA256 (.footprint) = e19a3c248a6b5a94dc26adf6ae52afe15a383e516890288986678f31ea1784e1
+SHA256 (mafft-7.481-with-extensions-src.tgz) = 7397f1193048587a3d887e46a353418e67849f71729764e8195b218e3453dfa2

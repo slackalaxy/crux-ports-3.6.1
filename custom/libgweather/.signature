@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwwpSqB/SOHCO/3JvnylQ1xxY94hZWtmYl7Ve72k466Q7lKoTg6v2EibsDNN9Sgi7wyPRIN/bPZvz4GOe9bWKWQ4=
+SHA256 (Pkgfile) = d60c3a6f6d2c664fcf4168133bc718ac6497d42c59272490496577a388222fbc
+SHA256 (.footprint) = a0991debd37cff359f9f293515bfd713e9fbab00aaf47d4b11e042d6e6c8dd1c
+SHA256 (libgweather-2.30.3.tar.bz2) = b835374661423f37c46aa8e37368ae24a68856f117b7c21e475a21efdba5264c

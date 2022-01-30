@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw9V+G37vACgPlDwg2UiFL8Dx9D8E036bbNXnyUv4JE1aa3EwEifRqjE9BLHkgaSOMAWdsjWMUpX5PDMU/orJZwA=
+SHA256 (Pkgfile) = c8ebc07c1fd656c6d57f235bf075495309dfc360ef618c168865521d2260e6d1
+SHA256 (.footprint) = cb10e1c6cbf0350c0dbc205ccff5d558cdda35ad4999f2ac891dd9ad22bd363a
+SHA256 (gnome-colors-48-41b4fda231d74049ac42434a0ade4a8871c2d7e3.tar.gz) = 6ba52c65bb612bb57ed63d96068ed2ca5d5f69f0c947f9adeaf1acd17fadc01d

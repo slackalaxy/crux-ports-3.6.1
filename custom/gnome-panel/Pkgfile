@@ -1,0 +1,23 @@
+# Description: GNOME panel
+# URL: https://download.gnome.org/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: gnome-desktop2 gnome-menus libbonoboui libgweather librsvg libsoup libwnck startup-notification xorg-libxres
+
+name=gnome-panel
+version=2.30.2
+release=2
+source=(https://download.gnome.org/sources/$name/${version%.*}/$name-$version.tar.bz2)
+
+build() {
+	cd $name-$version
+	#patch -p1 -i $SRC/show_all.patch
+	./configure --prefix=/usr \
+	--libexecdir=/usr/lib \
+	--sysconfdir=/usr/etc \
+	--disable-nls
+	
+	make
+	make DESTDIR=$PKG install
+	
+	rm -rf $PKG/usr/share/{gtk-doc,locale,omf}
+}

@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPxhWZbpvI8J+2OUfZMl9CpLHSXRJsOOXWOqFiiOmPReAgO7A2wY1MtgQsHyNPd5v5bSl9e9hTYH5BnUgYpTPwo=
+SHA256 (Pkgfile) = cae7e2085850f275e0b0b8c1e645114b66f9288e2fa517d9290bce1740b73a3f
+SHA256 (.footprint) = e8e30fdd87ea8760cf98e3f574501c651f0bba5d5bbc0a31cfb79960a80bf92f
+SHA256 (bpp-phyl-1.9.0.tar.gz) = 85fd314d32e35c4678dc6d0a5fe19638939ef2e424b70baceb834121060f4252
+SHA256 (caps_TreeTemplateTools.patch) = f56f67c27588291f974ea38777266f6aa7d5262be93573a7064960c4f6b9f92f

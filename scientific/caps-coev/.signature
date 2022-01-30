@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcHGjweiNwGtaaUOFc7ePhSJtxx/QxI5V1pYtJMP/3gXg5hlKp/901mScQU1g+QHaEyA5f3xwAkCh8uBA+Jhm8Qo=
+SHA256 (Pkgfile) = df9be09b0f86c40d90ed629253eded308e411cbc4e4e6b1d5d668a39dba2dff1
+SHA256 (.footprint) = 3463b924216d0d44db8983aca6bf851f2992ea775a3cad0ecb7c0ae7e96093ca
+SHA256 (caps2_src.zip) = 56b9866d471a824c5d57b43fae143e365a58a26a51e626e5bd424c39050142c5
+SHA256 (01_caps_verbose.patch) = 1abfb94527e2d25da763dbf93743b0130718419353df0037d0a560a43ffcae51
+SHA256 (02_caps_sort_input.patch) = 5579d77a24169076dc8e64b5855ae7424f6a3f945a0369cba07fcdb2c68d3654

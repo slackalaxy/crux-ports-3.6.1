@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcBwGKbVDgQ851aw75IQVqQVZv2Lrm9HeBoHzjtUB9HbaJdbdsKqEOfOgQuo5IN32GrIvpZCKYIU9BluwOBxN7Ag=
+SHA256 (Pkgfile) = 914152e50a0f3a47bddc10c08db2bce9d62f032deba916e0d4774d2b3a4acd84
+SHA256 (.footprint) = 6c96a401c8afa1902743f6503c4b26ec6f335464c8c8408ee77b423ecaff4170
+SHA256 (g3data-1.5.4.tar.gz) = ec729322fa8b47dd8f70ecef350ff880faf73e18b693cb5d4b2330f7ebb08b7a

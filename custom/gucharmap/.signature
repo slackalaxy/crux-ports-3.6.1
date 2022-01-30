@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw4J5O3RLwNCKYj6QyLfIDr6uZ+3bQgxdy5RHfAfZ1PRtv6B4aC3p03cx6n/GQ3bHj7WzUC33kL0RhnIJoI45DQ8=
+SHA256 (Pkgfile) = ab72c628303a41651ab1b014db424e2db617f21930e8dd3ba7278be7e9e6472d
+SHA256 (.footprint) = c442fd973c97da3aa56be541276de36c9b6381c697f6d8e482135ff9f82f9496
+SHA256 (gucharmap-2.33.2.tar.gz) = f6ba591062c61a280b4a5f5e6597dd8d1cd3295c69cfdad07ac67f76866c473a

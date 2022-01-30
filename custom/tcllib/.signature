@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw1oqVA2K2NW9GY8JBJ/w39zktTL3WO2nz3yW2OGJiQo6PaqFltSGchJM+yOXA8Qpe9wBq21nfmbl+2sN9JNrIwA=
+SHA256 (Pkgfile) = f78f7afa5393005209fd3be58ee798687146c6d1bfeb8e024470ad28b1c9ce9c
+SHA256 (.footprint) = fb1e78d0f9d7cf472d4f8c69c069d1c6d363301a5cb13a88c8ff102ac27c0d2e
+SHA256 (tcllib-1.20.tar.gz) = e3b097475bcb93c4439df4a088daa59592e1937beee2a2c8495f4f0303125d71

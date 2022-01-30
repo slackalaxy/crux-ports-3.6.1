@@ -1,0 +1,20 @@
+# Description: A C++ interface for the glade library.
+# URL: http://gtkmm.sourceforge.net
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli graphite2 gtkmm libglade pkg-config
+
+name=libglademm
+version=2.6.7
+release=1
+source=(http://ftp.gnome.org/pub/GNOME/sources/libglademm/${version%.*}/libglademm-$version.tar.bz2)
+
+build() {
+	cd $name-$version
+	export CXXFLAGS+=' -std=c++11'
+	./configure --prefix=/usr
+	
+	make
+	make install DESTDIR=$PKG
+	
+	rm -r $PKG/usr/share
+}

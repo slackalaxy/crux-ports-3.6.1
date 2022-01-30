@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/p5.pub
+RWT98vC9fmFJmi92sDX7m2Yj0iCybDUcdiScNJ4oy1DtIXalbUMGbhCIBn3nyP5ipuNtwCuv6VEzAYwdCeq7C7eE/GhrrPJ9eQk=
+SHA256 (Pkgfile) = 7b1d881420da6862ff61bef53aad243e89cfb0e3896c5ac282119c0def47c1fb
+SHA256 (.footprint) = 834e18a781ef9fe201e6cd76100386f3cfb97331c253902aee17b7855b103e86
+SHA256 (ExtUtils-Config-0.008.tar.gz) = ae5104f634650dce8a79b7ed13fb59d67a39c213a6776cfdaa3ee749e62f1a8c

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcKPAUQNx6vVpFqEjEbQ0D0+2g3hXTRnW6VIDG466yna4NyiJF3v0vBAlbB+emTRfiM5rTdNV5aKrMqiRCBR6lwc=
+SHA256 (Pkgfile) = 9a99479a61919be0494b7eff7664b75f2a16b295a3f4f38fccffa49047fced57
+SHA256 (.footprint) = e229ce5ab13b98042f151f9d6bf44828480c48b68406ed7bdd95dd94554a7548
+SHA256 (mumsa-1.0.tgz) = 7083e45fc28219a7ceea808feedbb83a911a02e1e4b808deb6e7a22c302f9be6

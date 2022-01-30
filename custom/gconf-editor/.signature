@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw/5Rc4ZUw/QyHUXONQj43L3KlTLi5nBy2zHa5RylUtS0KYZFExnuJn3UwlsZSPkhPNCZn6oCkQwKVgrdIgNaJQk=
+SHA256 (Pkgfile) = e21321dbd619cdbac1dfbcfe199c8aeb3708635a573b5efdc03dd7c4f8c8f8c5
+SHA256 (.footprint) = 7c7a5b08e194c95e432e6d2af9dd0980f9ddac76c57c731428df1a95108b9292
+SHA256 (gconf-editor-2.32.0.tar.bz2) = c6d1d35ce5d136121ad76efe1c4033425bb2ad3800e711bd1bca9ce869c12a1f

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/xfce_4.12.pub
+RWTkDNbF//FThNRg7QF7rE+bOdZKjPa9Hl53SOciEnXfQDkggOM+XbP2aCcB2v/37iXeukuiINjV21QyUUuCZklhhx0VLiTASgs=
+SHA256 (Pkgfile) = 012fcc0b49a0a1799a4cccfa40dac2c1772bbe66494f89e19f70f0e3c646eb98
+SHA256 (.footprint) = dfe96c6739513770f4123ea0812f8d9c209eb4f234266861ae12641f0f83af2d
+SHA256 (garcon-0.6.4.tar.bz2) = d75e4753037a74733c07b71b8db7a656d869869f0f107f6411a306bbc87a762d

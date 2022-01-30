@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcJApX2EbKGoaD8oDgnilgq8nMmaoefcX+h//ED9T7+8zXHPN+Vy9ZP6KapLS1bzVmY/B/9dYXn9BbntFoZ+uYgE=
+SHA256 (Pkgfile) = 4584836c5df009c3187c90385062ecf888fff33f4b562fad52e1c34112706097
+SHA256 (.footprint) = 0f0f10075cc4eecef7289fdbfe161d1d1a6d573e9cfb85910604d41bd204773c
+SHA256 (staden-2.0.0b11-2016-src.tar.gz) = cd7ee17626c25bc845ebd3f6311b5a538815fb73a0dfef2393001bf579ac9649
+SHA256 (desktop.tar.xz) = 5d507431d40d9ce9b5eada06864006a251f9e27dd092cd3b31bcd27f20899caf

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcJMvF7uDuaWdkkFSHXfqjEXlUwvoUgRjOLz4VO3MmZMytYiATaTvWAm+A7caeiMvDG/qxzuYxZui9xDPsMUSyAc=
+SHA256 (Pkgfile) = ef023c7c0ce2c4dd03db3f49fac83f01729a1ee74f229babe58bfc41303e10d0
+SHA256 (.footprint) = 8d3b747280e967eb52c7dc3d29611c72e6b0e82d1d7cd11aea81ea2da7c6dccc
+SHA256 (tcoffee-28bdc39911d10d8597db8513f9515fb2ed7a9158.tar.gz) = 745f14f2c26d27c5e04f95ebe4ebcf3c0d3587d259ebd696e7d7530fb28b44d5

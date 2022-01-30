@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPQYFxxjfULYjJoqjgSvrO6MKEhjJRBGU1MeMsgXuXD4/JlFxiRJfNnUakDst9UwMl6fcpTGZXNZM+aOeI/3SQw=
+SHA256 (Pkgfile) = 3b51e357c06595911b98b3a6dda688ab996c986e5861b616837b776c3b3661ab
+SHA256 (.footprint) = 013ff541d6621775bbf14e7025a391e264f3961a31b43779edbdb3c9b55debb6
+SHA256 (bpp-utils-1.5.0.tar.gz) = 45016a2035900d272a578705272db7bd7bb6d76fef7b66878717aada95997b40

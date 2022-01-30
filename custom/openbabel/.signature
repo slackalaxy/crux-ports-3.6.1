@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw7cqMo+pNy5gIZelIYoJwIO0jSoBKTrh3ksRN2GRVcP6diu0/G8kXGJqLBDbN9Zf9U3sF5HyJuD7h+o5MevvhQw=
+SHA256 (Pkgfile) = cb9f415db07d0ca028916e2f051942aea63fd19a0bd994bb06da63397d62b7e3
+SHA256 (.footprint) = 504da77ff72cbcaca6c711e0d969527064dea3436a2b9834875d61b0f0fb2d08
+SHA256 (openbabel-2-4-1.tar.gz) = 594c7f8a83f3502381469d643f7b185882da1dd4bc2280c16502ef980af2a776
+SHA256 (gcc.patch) = 9f836c7bbaaaef9159966984e02e3592584eb1c5b20e27023578e909503c05d4
+SHA256 (backport.patch) = 49f9fc47d1c864d501a266c4d1d7251d5921ce64f1de33a7679d369938bd8490

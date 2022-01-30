@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwzo4SaQo3/Zc0Z9mP5aOpbcA/LX/oCG8jo8VYqCU0Dhvey2U4OLR07HeJ5NUcN6pjP1fTm6llT5mcFklb02C7Qs=
+SHA256 (Pkgfile) = fff023dd35bdb723039092f3ee69b12bd0101a8d6df9e39c1ea4f11ffff4386b
+SHA256 (.footprint) = 8961afc085aa429b4921c5be1bc50f91f6e2d3ae9596e9238fcbe8717256780a
+SHA256 (alltray-0.7.5.1dev.tar.gz) = 09dad447b85ecb57debcb423f34381db7f112a010fbc83e4f65b3b31cf416514

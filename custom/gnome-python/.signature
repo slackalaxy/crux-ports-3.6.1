@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNww/leBwqrEYivImAvJ3U5BEn2wRyitmedcH+PhpikTeePWLFUWgL2JMuG5DUj+mQiruAs8e9WBQKRMJTwXwFuwc=
+SHA256 (Pkgfile) = 5ee947bcd5f0eed9d7d8a4fe56e76a34913b04334dca349b38a02620e75666af
+SHA256 (.footprint) = 6fcb69724056e9290acd19e7c6c8464df1357322a890900faf6d971bf22c99be
+SHA256 (gnome-python_2.28.1+dfsg.orig.tar.xz) = cc7c7aab15fc81ed4bbbcfce087a634e20c5db0d11c31d3b5b2d9405f9ef0bb1

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwwRyq1TRq/NT/sX1Ol/08+s7LIeNJSex//tqyW5+7tNDlfQOu7AtQrIg/x36qEKBhgYqaYmAJs8myCyVp1cs0wQ=
+SHA256 (Pkgfile) = 3a219af4c3e07aeca8619f66197c98e3b2b3f754868dfef77a84afe73e33f354
+SHA256 (.footprint) = 8aa839eb01f2eaf6c96f816e49a2dc148eae95f6f73e8ec253961a5235895030
+SHA256 (rarian-0.8.1.tar.bz2) = aafe886d46e467eb3414e91fa9e42955bd4b618c3e19c42c773026b205a84577

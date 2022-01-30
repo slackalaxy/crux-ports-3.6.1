@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcGRG1q42rg+JPoM8feuekmcfzyO3Unwrz4+NbbTGVwOMlKyYQlk7yDQjxosJJSU+UXQdVuQjmrkj1lRctefPcQQ=
+SHA256 (Pkgfile) = ef4615e3e0100af590bd52452c6ba7f57b178ba146001d3fb49cb185d363aba9
+SHA256 (.footprint) = d24c8e54a5a7cc36ffb3d6179ab35d368b27e461c79a3ac4f25c8fc5d52e6655
+SHA256 (exonerate-2.4.0.tar.gz) = f849261dc7c97ef1f15f222e955b0d3daf994ec13c9db7766f1ac7e77baa4042

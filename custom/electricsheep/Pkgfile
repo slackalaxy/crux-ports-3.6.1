@@ -1,0 +1,33 @@
+# Description: A collaborative abstract artwork
+# URL: https://electricsheep.org/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: boost ffmpeg flam3 freeglut glee gnutls lame libgtop libnotify libvpx lua51 tinyxml wxgtk
+
+name=electricsheep
+version=37ba0fd
+release=2
+source=(https://github.com/scottdraves/electricsheep/archive/37ba0fd692d6581f8fe009ed11c9650cd8174123.tar.gz
+	$name-preferences.desktop)
+
+build() {
+	cd ${name}-${version}*/client_generic
+	sed -i -e 's/av_close_input_file( m_pFormatContext )/avformat_close_input( \&m_pFormatContext )/' ContentDecoder/ContentDecoder.cpp
+	sed -i -e 's/AM_PROG_CC_STDC/AC_PROG_CC/' configure.ac
+	sed -i '12 i\
+	#include <cstdio>' Common/Singleton.h
+	install -d m4
+	#sed -e 's|\[lua5.1\]|\[lua51\]|g' -i configure.ac
+	./autogen.sh
+
+	CPPFLAGS+=" -I/usr/include/lua5.1" ./configure --prefix=/usr
+	sed -i 's|-I /usr/include/libavutil||' MSVC/SettingsGUI/Makefile
+	make CXXFLAGS+="-DUSE_NEW_FFMPEG_API=1 -DGL_GLEXT_PROTOTYPES" GLEE_LIBS="-lGLee" LDFLAGS+="-lpthread"
+
+	make DESTDIR=$PKG install
+	
+	rm -rf $PKG/usr/lib
+	rm -rf $PKG/usr/share/doc
+	rm -rf $PKG/usr/share/applications/{ElectricSheep.desktop,screensavers}
+	cp $SRC/$name-preferences.desktop $PKG/usr/share/applications
+}
+

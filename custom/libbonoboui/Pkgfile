@@ -1,0 +1,22 @@
+# Description: Independant CORBA interface support library
+# URL: https://www.gnome.org/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli graphite2 libgnome libgnomecanvas
+
+name=libbonoboui
+version=2.24.5
+release=1
+source=(http://ftp.gnome.org/pub/gnome/sources/$name/${version%.*}/$name-$version.tar.bz2)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr \
+	--sysconfdir=/usr/etc \
+	--disable-nls \
+	--disable-gnome-doc
+
+	make
+	make install DESTDIR=$PKG
+	
+	rm -rf $PKG/usr/share/{locale,gtk-doc}
+}

@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcJ4CRTUM4TgiqQCnAM/IERgKMmVWhgVq2t+4JVt794OC62bF/DbDzOhcs4ckxoT8HWdZOD9mEa5SthZYxCad9QQ=
+SHA256 (Pkgfile) = 7f145457eb1ae3a18ec97085b7c655ea773cfa80d38904f6099c90eee2c41e7b
+SHA256 (.footprint) = ddd7c36b112d058a3685f1dac211fc7162187ba4b74e98a444a5ab16b6043c8d
+SHA256 (TreeGraph_2.15.0-887_beta.zip) = 6e0445ce128e03178dd18d48e5393f10d62023315b3c306bbcc04fc21d74efe3
+SHA256 (treegraph.desktop) = 590359960340fd8b5969c5d8c4553e63a8f3becd2a841a05e860af58addb8739
+SHA256 (treegraph.png) = 0c6844838cc69fb94afc1506535b7d593cdca6dc14d158e95b2d08ed1cb3269d
+SHA256 (treegraph.sh) = bb2ffc07ca38361de00864756fe25481ad1fb6b759aef00e338f9bd69f5dfc4f

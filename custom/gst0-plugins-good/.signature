@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw1HBQ5LjpJS3/HJyygojlOe//Pzq/q457lD3KJXlasHxZwB6Yu/7CnLy/qYD95CgMhN2M+npjexANb5eB2l4cg0=
+SHA256 (Pkgfile) = ce48ef129b788ae83f098c91674026df7fc30b736bd1b2384b6d9edd9ed5448c
+SHA256 (.footprint) = d30055ec01d2f0a5bead0b699df2295ac36332a9a551b222a3bf54c6bebcb2ff
+SHA256 (gst-plugins-good-0.10.31.tar.xz) = 77a8436a7c0a15f876bad29616835046890df2bcaf72da02151bd91e3d292b64
+SHA256 (00-test-rtp-payloading.patch) = c2f7f07f9bf5ca3afddc81d0a44665d2d54b1e9aea0ef1b25d219cf34bf7bb29
+SHA256 (01-souptest.patch) = 3a74492c3d2939efabe7e22211c2350084e0a8cc3af23f553130f1e774c5f1e1
+SHA256 (02-v4l.compile.fixes.diff) = 24f615180a99c2034d81d783c3f8ac5493205966e272daaff5cb1d06e08e0a2f

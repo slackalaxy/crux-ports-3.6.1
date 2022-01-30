@@ -1,0 +1,19 @@
+# Description: Tango Desktop Project
+# URL: http://tango.freedesktop.org/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: gtk imagemagick
+
+name=tango-icon-theme
+version=0.8.90
+release=1
+source=(http://tango.freedesktop.org/releases/$name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+
+	./configure --prefix=/usr \
+	--disable-nls
+
+	make
+	make DESTDIR=$PKG install
+}

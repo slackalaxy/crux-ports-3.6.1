@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/p5.pub
+RWT98vC9fmFJmsKD9w9ikWyjbC5jksUoM5KAb6+ySvao26MzYbtQdkvs+EK0mLoHKElg/Q5p8rHsMiSswfJS1flaQQtj0/WNTg0=
+SHA256 (Pkgfile) = bc39f5c6e40a4fdb90f551e3f028a6d9d64039d66a4e1cf3c27f1e5f90ba3d24
+SHA256 (.footprint) = 0b654f42da87a62367f8c4fce2261b5e26ab8d09aef574ef425ade179f5b1cdf
+SHA256 (DBI-1.643.tar.gz) = 8a2b993db560a2c373c174ee976a51027dd780ec766ae17620c20393d2e836fa

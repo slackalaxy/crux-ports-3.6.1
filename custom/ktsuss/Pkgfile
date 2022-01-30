@@ -1,0 +1,17 @@
+# Description: keep the su simple, stupid
+# URL: https://github.com/nomius/ktsuss
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli gtk xorg-libxdamage
+
+name=ktsuss
+version=99ea197
+release=1
+source=(https://github.com/nomius/ktsuss/archive/99ea197/$name-99ea19743328a8e72b8b966635e44f1e816cf294.tar.gz)
+
+build() {
+	cd $name-${version}*
+	./autogen.sh
+	./configure --prefix=/usr
+	make
+	make install DESTDIR=$PKG
+}

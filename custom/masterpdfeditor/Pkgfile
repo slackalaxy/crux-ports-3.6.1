@@ -1,0 +1,28 @@
+# Description: A complete solution for creation and editing PDF files
+# URL: https://code-industry.net/free-pdf-editor/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: brotli double-conversion icu keyutils krb5 libpcre2 qt5 sane
+
+name=masterpdfeditor
+version=5.8.20
+release=1
+source=(https://code-industry.net/public/master-pdf-editor-${version}-qt5.x86_64.tar.gz)
+
+build(){
+	cd master-pdf-editor-${version%.*.*}
+	mkdir -p $PKG/usr/lib/$name
+	cp -a --no-preserve=ownership * $PKG/usr/lib/$name
+
+	mkdir -p $PKG/usr/share/{applications,pixmaps}
+	cp masterpdfeditor${version%.*.*}.desktop $PKG/usr/share/applications/$name.desktop
+	cp masterpdfeditor${version%.*.*}.png $PKG/usr/share/pixmaps/$name.png
+	
+	sed -i "s:/opt/master-pdf-editor-${version%.*.*}/masterpdfeditor${version%.*.*}:$name:g" \
+		$PKG/usr/share/applications/$name.desktop
+	
+	mkdir -p $PKG/usr/bin
+	cd $PKG/usr/bin
+	ln -s ../lib/$name/masterpdfeditor${version%.*.*} $name
+	
+	rm -rf $PKG/usr/lib/$name/lang
+}

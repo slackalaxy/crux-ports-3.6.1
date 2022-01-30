@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/p5.pub
+RWT98vC9fmFJmnfPzvkJ2HgiqLDL3cjlQ2FPNqByG+sdHCy5AUSi5a/pRg6b0zeCVY+/wOEJxDnwGTW+ygLEyBPHj9vTVlZVLgs=
+SHA256 (Pkgfile) = c06bdcc358a2eaf658df319060f901557566f661dbe30f501a69e49732c6b3af
+SHA256 (.footprint) = c326310f83688a124c93b578cb20f29ca30e4794862b6ddad33018bb2c6767a6
+SHA256 (libxml-perl-0.08.tar.gz) = 4571059b7b5d48b7ce52b01389e95d798bf5cf2020523c153ff27b498153c9cb

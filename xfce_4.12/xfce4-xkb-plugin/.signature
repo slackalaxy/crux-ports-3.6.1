@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/xfce_4.12.pub
+RWTkDNbF//FThHxZCId1m3ceCUH5SUu/tip4Rr3/OZ+J2T86LNIl1bXjgWnFFnJs3tAEXQOP5zc4uGERGfiJyjA58bh3WE+w/QA=
+SHA256 (Pkgfile) = 9801b5a38bee09af7e968c1b6441045afd6d05000f3874d01e866830d0975e5e
+SHA256 (.footprint) = 65a3e0c512bff5b7ab934c6578079646e97e890baf24c0edd27fc19fedb8282b
+SHA256 (xfce4-xkb-plugin-0.7.1.tar.bz2) = 61fe2e33fe99939d5d06a682e94e40e05ef844c930ad612154090d158b2ce681

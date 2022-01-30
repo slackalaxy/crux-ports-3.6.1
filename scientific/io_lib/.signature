@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcJEtQA02DSDt+qmshgEwRTWcH5NTzFB9fyO68V/IywfFqa/wqeB7btDuGP8SbqnYtiOf7uGiVGStsHLhPEl0ggc=
+SHA256 (Pkgfile) = bbb6e681eed77a662fba93ef27c624a41dad64cb8d2fe452b449cf435765dfe9
+SHA256 (.footprint) = 15ef8f6187f1deea9cec4aaea7599e0632e7995d1621cbcc00c1b9efff0ba12d
+SHA256 (io_lib-1.14.14.tar.gz) = a471c79b9aede1776a895cb46fcb81b5d163d6ca9c3e1e33096346fef46d3598

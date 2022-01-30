@@ -1,0 +1,17 @@
+# Description: Mac fonts
+# URL: https://svn.code.sf.net/p/macbuntu/code/Macbuntu/fonts/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on:
+
+name=ttf-mac-fonts
+version=20100901.134
+release=1
+source=($name-$version.tar.gz)
+
+build() {
+	cd $name-$version
+	mkdir -p $PKG/usr/share/fonts/{TTF,Type1}
+	cp -a gbk/*.ttf $PKG/usr/share/fonts/TTF
+	cp -a mac/*.ttf $PKG/usr/share/fonts/TTF
+	cp -a mac/*.pfb $PKG/usr/share/fonts/Type1
+}

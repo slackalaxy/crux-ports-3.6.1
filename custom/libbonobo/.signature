@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw3cIq3rh3xDrf6yb8XLmV+rEc+2n7NoL2B2vYxUZNOrKgMkdYFQFJqhhUww8tJZDoqqbFZOmyMfncsZaM0yOMA4=
+SHA256 (Pkgfile) = 3ef9bd5ee2f4d25e9d7f63d2eb4e8490fe379aa9b97be6c0e3b2edac4924ebc1
+SHA256 (.footprint) = 8c19f2e5765abf9fc848b0bb1c7a9bb1a7e281b76a344991ee334b74a4cab0ab
+SHA256 (libbonobo-2.32.1.tar.bz2) = 9160d4f277646400d3bb6b4fa73636cc6d1a865a32b9d0760e1e9e6ee624976b
+SHA256 (remove_use_of_G_DISABLE_DEPRECATED.patch) = e22fc844512e2e3078d3970fe655f7c294c3a9dda9ed3e4dd1319e9b24cd28e3
+SHA256 (test_no_srcdir.patch) = 72514fa6324ccc13ffd5b4664e93c8bdf0b97006f5541ce3a91671b01040e3f4

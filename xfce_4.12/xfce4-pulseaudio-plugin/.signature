@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/xfce_4.12.pub
+RWTkDNbF//FThJukqfo18ZbPRpJWJ1mF7TfAlHwtPmpzq/WJuVikSdbzQLgJBzPi1wCQprJEvvsWqBbkw0eU0HLLIesKAaK/JwM=
+SHA256 (Pkgfile) = 87bb51e7ef1286b7f434161c5a5141599d5db0c1f0ef830ee8c41990131023fa
+SHA256 (.footprint) = c47783fa4f4491a9579abaa92e3f89715e84d01ce584d4cc37050c4eff49628a
+SHA256 (xfce4-pulseaudio-plugin-0.2.5.tar.bz2) = 087441331240f8fca6cbcc2839251ad7e8d624fed7b4b7b4cd4e6938cb26c0b2

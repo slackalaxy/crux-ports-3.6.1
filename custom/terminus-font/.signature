@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw/i2OUZZIHMgqC6SfupB9HG4K7sdOWs/gp/iD904xBJt5xJdw0Fvt+2hltpJMFF3wiIaKURA6QQ0vpUWaFvdbAY=
+SHA256 (Pkgfile) = dfbc74247ab608c5c6edd348606b9c6222067a9d0cc8e56b792157f58e41fa8a
+SHA256 (.footprint) = 3d66eb104715f3476a3355ea13134c108bbbc4236a919adb3e9b879a00f66923
+SHA256 (terminus-font-4.49.1.tar.gz) = d961c1b781627bf417f9b340693d64fc219e0113ad3a3af1a3424c7aa373ef79

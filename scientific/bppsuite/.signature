@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcF2ti+MK1VoPY/I7fsDpViuDK6zMOgF5+xTP+kGJX8k1WfKcFxPw4B3tp+j0N/T1SIfSTvFSsSk2vTvsqQ2Ewgk=
+SHA256 (Pkgfile) = 91915af6336db6c3bb28403b443689c5dba748122bc9c87f4992cc6a2303f3cb
+SHA256 (.footprint) = 0ae3f9cb8b3ba288442be773d5b85af9bd6d3a6caaebbda36374d6eea2a0f142
+SHA256 (bppsuite-2.4.1.tar.gz) = 0485adcc17e37439069d27e4fac144e5ae38036ba21f31e6d21f070ce4ea5199

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwwMUPGT2FJSjO9Pj3EFXjcxjb8QaJNBDpA0cBZ1rq3wgsm0z05TxzEgzmwqZcND8KSty/Z+pvsndKqDg7Qrv0Q4=
+SHA256 (Pkgfile) = 10fd2a410cb7d4530d9d744a0366aa7445538808000bfa03d0a14ac6ad007900
+SHA256 (.footprint) = 148943a7e5796da007dd57a083cf1a541c722f7f04f17650d1e780546b9f9b42
+SHA256 (xdg-user-dirs-0.17.tar.gz) = 2a07052823788e8614925c5a19ef5b968d8db734fdee656699ea4f97d132418c

@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPovMAO1fBzizViMxW645R+Ag8QH7+t5tIMWAOEuZmN9BFjpJV3UWva2P68Wjagr/5IcLnJlfK0wB/9Mpoxk1wc=
+SHA256 (Pkgfile) = d3d9cbeef2bded1b395c3e53b527dd89e113b21b7a394eed49ff7da8422364c5
+SHA256 (.footprint) = 27d3d4279e942818afe802570004016de3f8867e76413ddd4938e129bf04510b
+SHA256 (guidance.v2.02.tar.gz) = 825e105dde526759fb5bda1cd539b24db0b90b8b586f26b1df74d9c5abaa7844
+SHA256 (guidance.sh) = 42b7ac3e36b132b83a40b16da3c886c9137914dba0b660f758d4606de3f3603e

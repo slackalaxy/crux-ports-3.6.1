@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcGx6mA/HA2jyTfimqDQJjbdZp1OCJzngofGHyiPPzTL0ETPaGm/5lr6040ldd0MOrMV7+bbFO7grEh0A4l5zmgo=
+SHA256 (Pkgfile) = 18bd1f05b7aa3c1a14fef86883f871708acbcf89476a76cda0edba789e7aecde
+SHA256 (.footprint) = 4105103ca81db8664a51884450fc970e8a7266d8b1d6b162e9c6272750742d7e
+SHA256 (IGV_2.11.9.zip) = 9a5b5861be38c653cf7402817a1b068e8f65a1090de2d9dffb28872f05a8ac99
+SHA256 (igv.desktop) = aba0b1ae7c444a8f750c8fb04dca49dbb7be30693dc217bab27c1307c7933534
+SHA256 (igv.png) = 227430dd1d8c7f7632a002cddaf210c50ba85ef656213259ce10aadc9604c5f2

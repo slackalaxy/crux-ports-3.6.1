@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw1y7IBFhDQgYeO0xOEbE8uW9kkHK55MuMAWjZ06UjuyJjDR//x7BipumwdDfku8IqBzJ74QAP3O+uc5VrxfKVwk=
+SHA256 (Pkgfile) = fc164a4087aabbe3f47fff30c2df640ed618128dbccfa6de2b69da332fa92abf
+SHA256 (.footprint) = 31bf4b6e6e7bfce2a3b15d0a429517fb825aa4e7230f48ff6777c1c2975e0a7a
+SHA256 (Apache_OpenOffice_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz) = 4b3c99a29330f2ff1ac6076ffcbe8f9cbfbce1a80522c9e464a8d22d865069b7
+SHA256 (openoffice.directory) = d4f062d66467e6355de4de39ece381d73a935740c552a7c9a29753ad85fb2381
+SHA256 (openoffice.menu) = 80488dbefebeb0759c201bd43399e636aea6b68823c4d0d27f72fabee54dea07

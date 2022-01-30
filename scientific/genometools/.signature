@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcN2Y2k+ESGAhsNui7QhDy44e+1epbRnpTlrqtqcj7kFVi4jRi0fcNA4Hd55KjbebhRmiet80t54dtULv2mK8uwo=
+SHA256 (Pkgfile) = 0a6c07e1fa9c2eb503ef703d0f00b168d9a31ec6d7413733dc88543ecb1c8f17
+SHA256 (.footprint) = 6899e2877aa0f9319797445a36f401844a7836300d69763e5012c234ce5886e5
+SHA256 (genometools-1.6.1.tar.gz) = 879cc3a7d931e3cbabfe128d9ff4fa925626360dbfbae528f9a75082e4ba1c68
+SHA256 (gcc10.patch) = 743c5f8e9b0b98efb30f0ea2c405022c4f1bac00743de60774fc16e2a4706135

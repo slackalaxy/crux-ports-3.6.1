@@ -1,0 +1,16 @@
+# Description: Algorithmically generated images and animations
+# URL: https://flam3.com/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: libjpeg-turbo libpng libxml2
+
+name=flam3
+version=3.1.1
+release=1
+source=(https://github.com/scottdraves/$name/archive/v${version}/flam3-${version}.tar.gz)
+
+build() {
+	cd $name-$version
+	./configure --prefix=/usr
+	make
+	make DESTDIR=$PKG install
+}

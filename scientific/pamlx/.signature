@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcKKF0DOqC3LNWnjwPFD4l7aN+lg21V4TfVwJYst0M/I7RWfiDp2IyjQ9pEM3jaCl25rSf2AihdTiJEhQAMyvWwc=
+SHA256 (Pkgfile) = fc5156c7d4773a7eaebbe371db72fb2d91d4ae03c198c20b142b036e50b11efa
+SHA256 (.footprint) = 05094ee09179151a649e14b39c8042a52ce5f67761677e2650037d36b2f77675
+SHA256 (pamlX1.3.1-src.tgz) = e6abbbc715aff1d9ebcb6d9b7c2fb494f916bee53f9cf807bf38cebc7bd625bf
+SHA256 (pamlx.desktop) = 9264fde125f37b819d110817752024223ff28f73ac88aa3e0e9bdabce4fd9685

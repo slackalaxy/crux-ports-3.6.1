@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw48FawSuoLplmxrQUfSKWl//2XhruTN7AQLxjGcQYAlrIuYBOD1f85rfeffdbcuS8L3km2ChbB8Kf7cLsjvblw4=
+SHA256 (Pkgfile) = 57b7e92b384b14143f9b0a5e78cd6eb5922a19623b63d0b275d5a7b41360435f
+SHA256 (.footprint) = 8f38d0bb3a174b968b9090046061094382f9e85ef6a140ad56ee7883b125e9c6
+SHA256 (sodipodi-0.34.tar.gz) = c553d925aa7482a7ab70f36567d887de09c54b9749c0447c53be1b6513b3ff3d
+SHA256 (png_jmpbuf.patch) = 9423a15099d5cbb683b600323bd63af97217367a958230d1c3e084d755b6f3ab

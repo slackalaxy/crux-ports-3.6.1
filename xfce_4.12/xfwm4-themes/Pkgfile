@@ -1,0 +1,20 @@
+# Description: XFWM4 themes collection (old)
+# URL: https://archive.xfce.org/src/art/xfwm4-themes/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: xfwm4
+
+name=xfwm4-themes
+version=4.10.0
+release=1
+source=(https://mirrors.slackware.com/slackware/slackware64-14.1/source/xfce/xfwm4-themes/$name-$version.tar.xz)
+
+build() {
+cd $name-$version
+./configure --prefix=/usr \
+  --sysconfdir=/etc \
+  --mandir=/usr/man \
+  --disable-static \
+  --disable-debug \
+  make
+  make DESTDIR=$PKG install
+}

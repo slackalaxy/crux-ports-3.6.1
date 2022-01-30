@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw4NezD+ITt7gnJmqcYEVgrSfpLcIhk+pk7FmxuJe9zWmqQL4/v/Y4ZuDwcJuPBncAHmZr4VjL/q+yxWsGQmJtws=
+SHA256 (Pkgfile) = 2b73b91c4a1c9aaf09b495a7196ad80696de27ec6fcff14382281d9c912f27f0
+SHA256 (.footprint) = 689715d81f801b1c820eb98df0df21eb75a3202f71e05cf7b60655912e29dea4
+SHA256 (smpeg-0.4.5.tar.xz) = c1551535476ed521c7e1fff446846d44027cd4a8afe2ce30d71f6ef8bd6759ea

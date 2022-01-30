@@ -1,0 +1,13 @@
+# Description: Scan against missing '.la files and rebuild
+# URL: https://github.com/mhoush/crux-mate/issues/2#issuecomment-744419759
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on:
+
+name=larebuild
+version=20201214
+release=1
+source=(laRebuild.sh)
+
+build() {
+	install -D -m755 $SRC/laRebuild.sh $PKG/usr/bin/laRebuild.sh
+}
