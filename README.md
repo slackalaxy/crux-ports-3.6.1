@@ -10,6 +10,12 @@ I did all this in a hurry and it would be too complicated to track back
 the original authors, in order to credit them properly. So, if someone
 recognised their port and wants to have their name on it, let me know!
 
+Ports are divided (for now) in 4 categories:
+* **custom**: collection ot programs and libraries
+* **p5**: perl modules
+* **scientific**: academic programs for biologists and chemists
+* **xfce_4.12**: I like to have a GTK2 desktop, so here it is
+
 There are 3 ports that are unversioned, they simply use the latest tar-
 ball available:
 
