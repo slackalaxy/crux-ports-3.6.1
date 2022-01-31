@@ -13,9 +13,9 @@ recognised their port and wants to have their name on it, let me know!
 There are 3 ports that are unversioned, they simply use the latest tar-
 ball available:
 
-custom/google-chrome
-custom/viber
-custom/zoom-linux
+* [custom/google-chrome]
+* [custom/viber]
+* [custom/zoom-linux]
 
 I can extract the version number from the archive, but it's just simpler
 to do it that way. This can change of course.
