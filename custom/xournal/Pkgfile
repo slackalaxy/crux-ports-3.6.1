@@ -5,7 +5,7 @@
 
 name=xournal
 version=0.4.8.2016
-release=1
+release=2
 source=(https://downloads.sourceforge.net/$name/$name-$version.tar.gz)
 
 build() {
@@ -17,4 +17,6 @@ build() {
 	make
 	make install DESTDIR=$PKG
 	make desktop-install DESTDIR=$PKG
+	
+	rm -rf $PKG/usr/share/locale
 }
