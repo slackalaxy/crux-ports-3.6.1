@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw0ftvqI9YPXEX8098HV3W7QiJ7J/hwCv8U/8AF8q292R7RU9fM0gNndOzuHSFcdRpMZ8U/hUDxZ3qZ/23zETeAI=
-SHA256 (Pkgfile) = 0af592ee05f328bdc5c0a267b5b5788840b72936c57189bcf69a6306bfed12a3
-SHA256 (.footprint) = 1fab5f4c0083b1ccfe1dcace289ccaa98ee7ad00ff5e2dbca0b910d93b39f4f8
+RWQ0fvpBKVgNw/BkEf46OV306GawPdY5P0RXyGCrwMlaDnwj5wbopieBGgWnnkxlqx6zlBl9uGok5jNoCraHHJRy0IOougRWtQo=
+SHA256 (Pkgfile) = a8282751d7f55a19257ad2d50329087371c89f93778ba1ef794da2f3b628e4fb
+SHA256 (.footprint) = 6a897736eff1feddf12297640c29754f702903cb173e99941e70b48c3c2740f9
 SHA256 (file-roller-2.32.2.tar.bz2) = 3ddbe4e4134eab4ff8e97789a1626aec6cbc588190f2f520850d0697037e5755
 SHA256 (no_GPtrArray.patch) = 650b79f11188f4ce0843c39c984efe070783f5e7c0ce41d5ec7b2ec98be52ab1

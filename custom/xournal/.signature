@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw/udcEzUiGZjXD9cMywBIlIUvp2Bhxx3QJXE0PNdPBNsT58GldKgWHpySh5T5TV14flW9UaoSnfNX+9oRhXFvQs=
-SHA256 (Pkgfile) = 575324eb59094f176c7cb71d9736c9f8d87bf969c7b3da51fabd5214885d3275
-SHA256 (.footprint) = 9516e25bc48499c608dadc1642bc1edd43d706ea0d595697df8580d21ef209a9
+RWQ0fvpBKVgNw1skLvzNNJcTauOslZL1XIIaOeK8Ts4OhVEN0GpcyxY+e1udsJq3dATx1k0a9biu6jugmnrT6EXYftH74JYVyQE=
+SHA256 (Pkgfile) = 251b732c367548b771d2f8dc915fc752b358a7d4bceea05f3fea8c2c6d055ff9
+SHA256 (.footprint) = 4d0b6a1b26d8ca2565e1659f19ee5620af466bd95ffd1934e4efdd9da4132def
 SHA256 (xournal-0.4.8.2016.tar.gz) = b25898dbd7a149507f37a16769202d69fbebd4a000d766923bbd32c5c7462826

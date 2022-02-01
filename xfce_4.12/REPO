@@ -72,9 +72,9 @@ f:6d5f3ca1bfa60c6a16e8c8ab44db843d:xfce4-cpufreq-plugin/post-install
 f:e40bd56e77a408efdc9dd1aa28cdf696:xfce4-cpufreq-plugin/gcc10_fix.patch
 f:6c7e47766fb55ee1a0e76aeead5473af:xfce4-cpufreq-plugin/.signature
 f:bea6c4413c4d0ca33878396a6e9c41b5:xfce4-cpufreq-plugin/Pkgfile
-f:9f338ec72442e570c1085900e5d5fd7b:thunar-archive-plugin/.footprint
-f:62decf9dc6730922e5df8bd9f72348ef:thunar-archive-plugin/.signature
-f:a0b15d8707a43d482a3b96dc80eeb511:thunar-archive-plugin/Pkgfile
+f:be445aabcf56858d8905577c198c4899:thunar-archive-plugin/.footprint
+f:8b655b3d2f1b5c891f857eb6d0c11f75:thunar-archive-plugin/.signature
+f:ad875bd162b52e5ad281f1d0efe7ba46:thunar-archive-plugin/Pkgfile
 f:c13b4f34cc98e58bb4b16110317978b7:xfce4-power-manager/Pkgfile
 f:2c00bbf17e2ffa72ed6f03c0efc3a0f7:xfce4-power-manager/.footprint
 f:8f0dc2d1c054276b7edb9a165bfa4e66:xfce4-power-manager/.signature
