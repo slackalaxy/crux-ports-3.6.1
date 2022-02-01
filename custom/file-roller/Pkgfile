@@ -5,7 +5,7 @@
 
 name=file-roller
 version=2.32.2
-release=1
+release=2
 source=(http://ftp.gnome.org/pub/gnome/sources/$name/${version%.*}/$name-$version.tar.bz2
 	no_GPtrArray.patch)
 
@@ -26,5 +26,5 @@ build() {
 	make
 	make DESTDIR=$PKG install
 	
-	rm -rf $PKG/usr/share/omf
+	rm -rf $PKG/usr/share/{omf,gnome}
 }
