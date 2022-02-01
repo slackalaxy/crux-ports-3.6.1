@@ -1,5 +1,0 @@
-untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwyjxGFlsHFtY4eCX3V2KfgR0dV166b3CgIxMFBj6XI71eGk1FuworDEkBKX45PjKaS+DEaOlA4ZTeEE1/6TFCwY=
-SHA256 (Pkgfile) = 601e412ab6736e80cce86170575042f05c0bd893b6597037eaba58b12b422202
-SHA256 (.footprint) = e229acfdece5d4709f78aa4220f1b12a44a95f47c3b6e8419b1711a15cf38b45
-SHA256 (laRebuild.sh) = ac9ca6c3503bc2c5f6ffbad9c6edff8f95b412453df5f30d09e6f986fcfb8881
