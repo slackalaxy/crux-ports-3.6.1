@@ -39,6 +39,7 @@ d:xfce4-appfinder
 d:xfce4-screenshooter
 d:xfce4-panel
 d:gtk-xfce-engine
+d:libxfcegui4
 f:e9d655d4d455a9f7f25d43a70b103686:xfce4-settings/.signature
 f:86c882b08f5c5503405c3becebdf95a3:xfce4-settings/xfce4-settings.theme.diff.gz
 f:7e44e7233a51eb31b11369b7f6a6792a:xfce4-settings/xfce4-settings.xft.defaults.diff.gz
@@ -184,3 +185,7 @@ f:47c2cd9f8eb8aa4db8a053c49fa0ed62:xfce4-panel/Pkgfile
 f:f33e6a0a9860815281c2f8c3f274259c:gtk-xfce-engine/.signature
 f:b376f03b586dcf6657c4ea84ba59834f:gtk-xfce-engine/Pkgfile
 f:1611967318257fde58e39c21545889f5:gtk-xfce-engine/.footprint
+f:bcf66b1de8784060c1010e2ac69252c9:libxfcegui4/libxfcegui4-4.10.0-no-xfce_setenv.patch
+f:dd5ecb958c5bc95752bcb2acaa89a0b4:libxfcegui4/.signature
+f:545ff2727b2550a09b33fa3eeae12450:libxfcegui4/.footprint
+f:697f8583201c0391aed01e0ad79f5db3:libxfcegui4/Pkgfile

@@ -19,7 +19,6 @@ d:inkscape-gtk2
 d:gvfs
 d:libbonoboui
 d:gnome-desktop2
-d:libxfcegui4
 d:alltray
 d:wordnet
 d:libgtop
@@ -44,7 +43,6 @@ d:openoffice
 d:libgnomemm
 d:libpanelappletmm
 d:njam
-d:larebuild
 d:wps-office
 d:aiksaurus
 d:meld
@@ -228,10 +226,6 @@ f:f2a3cd535189370511c1f8207d35ac73:gnome-desktop2/.signature
 f:c6d861d497cac9082dec681dda4247af:gnome-desktop2/README
 f:33ffff31bcd4df094c3f6c47a88c720e:gnome-desktop2/.footprint
 f:947b00dc34e38a694acf7f6e2143400a:gnome-desktop2/Pkgfile
-f:bcf66b1de8784060c1010e2ac69252c9:libxfcegui4/libxfcegui4-4.10.0-no-xfce_setenv.patch
-f:6f67f798d43bd02ec729aef3f97ac7ac:libxfcegui4/.signature
-f:545ff2727b2550a09b33fa3eeae12450:libxfcegui4/.footprint
-f:697f8583201c0391aed01e0ad79f5db3:libxfcegui4/Pkgfile
 f:18d590c732328d54f7b7fe62a95b6fda:alltray/Pkgfile
 f:c6c105408e688a053ee52e03f62dc1c8:alltray/.footprint
 f:5e7c43711fec71084252ec22517d692d:alltray/.signature
@@ -319,10 +313,6 @@ f:fb939a85e2210a93ed26c46b448342bc:njam/gcc_46.patch
 f:a28d4ce03b8973833acc3bba7bef615d:njam/njam.desktop
 f:b1129e6d01b07c160fa0283b6a4af981:njam/njam.png
 f:2d53cbc0c087a80dc0e147e8810e4672:njam/.footprint
-f:8738a05339e975e633563a075df926af:larebuild/.signature
-f:94e5b095c328c503183764760fc59ec3:larebuild/.footprint
-f:24627505c743ea43a2862fc740a69826:larebuild/Pkgfile
-f:3caf26c1034b8057e4c154fd85a3d653:larebuild/laRebuild.sh
 f:de7058e1be9dc69f1709f54499703784:wps-office/.signature
 f:a2a14ae7b011256f171961a76e98624d:wps-office/desktop.tar
 f:2af22c4da0a5ca5217923dbb0cf71660:wps-office/Pkgfile
