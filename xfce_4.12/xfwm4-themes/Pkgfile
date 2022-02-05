@@ -5,16 +5,13 @@
 
 name=xfwm4-themes
 version=4.10.0
-release=1
-source=(https://mirrors.slackware.com/slackware/slackware64-14.1/source/xfce/xfwm4-themes/$name-$version.tar.xz)
+release=3
+source=(https://mirrors.slackware.com/slackware/slackware64-14.1/source/xfce/$name/$name-$version.tar.xz)
 
 build() {
-cd $name-$version
-./configure --prefix=/usr \
-  --sysconfdir=/etc \
-  --mandir=/usr/man \
-  --disable-static \
-  --disable-debug \
-  make
-  make DESTDIR=$PKG install
+	cd $name-$version
+	./configure --prefix=/usr \
+	--disable-debug
+	make
+	make DESTDIR=$PKG install
 }
