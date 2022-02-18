@@ -171,9 +171,9 @@ f:d451676691912cea4d889c0fc819ea21:gconfmm/Pkgfile
 f:8ac7ac7a6e91e3d4fa6a407ecb4bd4b4:xmms-pulse/Pkgfile
 f:4393e2c11596093fafff7d8faba3046a:xmms-pulse/.signature
 f:b2553c8537299d37bbce67e0a2fbb0fb:xmms-pulse/.footprint
-f:8e7066a1f45a1a0680e74aa3d74382a5:falkon/Pkgfile
-f:2d8bd046b7e163efec7a850eeef225ba:falkon/.signature
-f:818214ef8288b4846bf4971292d45187:falkon/.footprint
+f:fafef31e99046f5f11d317334a8d8b27:falkon/Pkgfile
+f:32cc472c57908426193f8700c1bfac6f:falkon/.signature
+f:93136daef9df990fce4d4d131e688850:falkon/.footprint
 f:50ed17ea341209bb5eaae69b9ef44b31:gcolor2/gcolor2.svg
 f:6da69a6d36f2781b5452c2b15fa2796a:gcolor2/gcolor2.desktop
 f:5791378f6f86dd25a302ad8586292dd6:gcolor2/amd64_segfault.patch
@@ -422,7 +422,6 @@ f:6ccf518e26ef66ff73e2e848842bd41e:glee/.signature
 f:c74219215e3f515dd637d7046ba23e82:glee/.footprint
 f:937a48856486291070943488fa2824d0:glee/glee.pc
 f:cd4010b6ed67be643eebd726da2f638b:glee/Pkgfile
-f:ea27ee74b5d731a4963c8da181b0c8fa:glee/.SRCINFO
 f:cdc559a58ad1158da7dbd9750a78bca8:glee/Makefile
 f:bcc98b49ea788794afc5296a5daef363:libpng12/.signature
 f:ac7bbf76fbac1dc92c49f55778f563cf:libpng12/Pkgfile
@@ -569,9 +568,7 @@ f:d6516ce9cda7468f87d90f67d6ff2017:gbgoffice/10_workhelper-buttonbox.patch
 f:103468b86444dc1058bf28ffcff6f3f7:gbgoffice/11_explicit-linkage.patch
 f:edbcdad55233a4e77f6c7d485a2f38f3:gbgoffice/gbgoffice.desktop
 f:cb5f9923c9844c15fcb7fa96326f8897:ffmpegthumbnailer/.signature
-f:c7a38cb37a2a56c66afc6400970f72cb:ffmpegthumbnailer/.httpup-urlinfo
 f:2e44b4d393c09b5c468aa77dcb5ee347:ffmpegthumbnailer/.footprint
-f:342557b485262c65a7930afda9b09dfb:ffmpegthumbnailer/.httpup-repo.current
 f:b85fe914ceb3b53692d6e5cb984e0f93:ffmpegthumbnailer/Pkgfile
 f:4ffbf0da6f34d71c1c8afe7c61615384:lilo-nvme/lilo.gcc10.diff.gz
 f:1ded48ce8d71a0d1de957611bf253c44:lilo-nvme/lilo.ignore.usable.memory.above.4G.diff.gz
@@ -670,9 +667,7 @@ f:7884a2886058a97eeea6ff2dcaae04eb:xpdf/.signature
 f:1b9f7c80c5b609a954317786b143be5d:xpdf/xpdf.desktop
 f:6b1a9c69223950f59bbad556775f9c1b:xpdf/xpdfrc.diff
 f:f699b64640b202f092d7b3012698d9ab:masterpdfeditor/.signature
-f:a463fca721d385c74eae7c76d7d8a4ae:masterpdfeditor/.httpup-urlinfo
 f:49b87df6560f983387362fb1f1de3ebb:masterpdfeditor/.footprint
-f:65284554bf4d58009003e0f689775f2f:masterpdfeditor/.httpup-repo.current
 f:2348e8622845d1ef0a6fd83504ae5167:masterpdfeditor/Pkgfile
 f:bc4a81bde2c8ec536ea0b437d7374a1e:vivaldi/Pkgfile
 f:2d7dac370ff04faba951bee9da41b696:vivaldi/vivaldi.desktop
@@ -725,7 +720,6 @@ f:81ab437cd6ff3e3ab537dae0ad237585:adoptopenjdk/Pkgfile
 f:15a3202d766840e44c0b68c4e21d0a2d:adoptopenjdk/.footprint
 f:adf8487c3ac59f90328513bd6d47dd68:adoptopenjdk/adoptopenjdk.revdep
 f:41f9524fb3d231581166561925ea70d2:qt4/Pkgfile
-f:ce4ff4f253aba781b6603b3870054970:qt4/.SRCINFO
 f:1803ab6313df762d807678e58fc85f53:qt4/disable-sslv3.patch
 f:85679531c8a7310317adfb7002d9f99a:qt4/glib-honor-ExcludeSocketNotifiers-flag.diff
 f:c439c7731c25387352d8453ca7574971:qt4/improve-cups-support.patch
@@ -754,15 +748,11 @@ f:7790963d81674fdf7c61805ca7176d5b:gtk1-theme-switch/.signature
 f:bce75b17f7c7b9d6e38c13d503cbf5ab:ttf-mac-fonts/.signature
 f:ef31b5b797799ba15148d243de1f2614:ttf-mac-fonts/Pkgfile
 f:da3ee2f6f5a3e2ee45795e2a75d600ba:ttf-mac-fonts/.footprint
-f:0c50667f87c17c22e6091a29ce4a473b:dbus-python/.httpup-urlinfo
 f:c95667bed0e4c6b34a72a34f02424fca:dbus-python/.footprint
 f:59d39b42af49fd285e82debcc1a06ea1:dbus-python/.signature
-f:f656e3303ecfb56d1502d241354c0f3f:dbus-python/.httpup-repo.current
 f:f11f6231a2abd84766f31a34345cf887:dbus-python/Pkgfile
 f:a0f0805085052b29f46b09077eeab629:zotero-gtk2/Pkgfile
-f:ae0cd1537215870c26ae3c2c62d22e7d:zotero-gtk2/.httpup-urlinfo
 f:f133a84a9647b1f754b34926a75bed6d:zotero-gtk2/.footprint
-f:507b881ff4717d8a07d3feee6aa718c5:zotero-gtk2/.httpup-repo.current
 f:4c62dfd60de4225f05bfffc57129df4b:zotero-gtk2/zotero.desktop
 f:8862de0edfe39cb8491620d1dd230e0d:zotero-gtk2/zotero.png
 f:075284f1878a363bde0bc51ae359fab9:zotero-gtk2/.signature

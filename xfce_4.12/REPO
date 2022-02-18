@@ -52,9 +52,9 @@ f:5ec1b92f7f81c954cffe5ec604ee515d:orage/.footprint
 f:3d8c9ae7a173c2204ef3abfe2fb9d2ce:garcon/.footprint
 f:9bb8371087acd1ce36145a519d433511:garcon/Pkgfile
 f:1bba9bb46e9bd4853dcffa1d7c4a3929:garcon/.signature
-f:6edf71db41ef8c2ba51acbf32a11fd97:xfwm4-themes/Pkgfile
+f:09bd15aa6d74baa7666cee65bdd2b21f:xfwm4-themes/Pkgfile
 f:09fca193824f4bd4631918710e08921a:xfwm4-themes/.footprint
-f:aebfa6cc3b569d3d996b1e3e15bfd98f:xfwm4-themes/.signature
+f:e9a3e282d2866723cea9d5a229423310:xfwm4-themes/.signature
 f:6568028afa86f86ce0d0b143745c4fba:xfwm4-murrine/.footprint
 f:e09bd236129974b3363c0063a44032ce:xfwm4-murrine/Pkgfile
 f:f0cbf071cfdc412fc44a07124f167794:xfwm4-murrine/.signature
@@ -103,9 +103,9 @@ f:647dd98d720f58f156c6b305a3cffdf3:thunar-volman/.signature
 f:8f1806abd35e3600af6b80596fe47eb2:thunar-volman/0001-Fix-return-with-no-value-in-function-returning-non-v.patch
 f:3468b363f79e542f880ff63b1ce0ae53:thunar-volman/.footprint
 f:c12f623ee3f6fad7e8c0c4e12c8ca80a:thunar-volman/Pkgfile
-f:39d55de65493c756d42c34a64e3028d9:xfce4-terminal/Pkgfile
-f:ff08e7112d214b89fad27fe8c060020a:xfce4-terminal/.signature
-f:f9460054a7516d4c757110a08e3450a0:xfce4-terminal/.footprint
+f:0f5d13dd9621f8d51547d2001b85b809:xfce4-terminal/.signature
+f:ad100eb4bded79d0ef26a25f10b4cdbb:xfce4-terminal/.footprint
+f:864c58ecc18f4548813c066946bba1b6:xfce4-terminal/Pkgfile
 f:3316e68d8f2c9e2a582884596118720e:tumbler/.footprint
 f:c6dd62b634951ad80f11811b49b47c78:tumbler/.signature
 f:dc3ada98e6f0e53b07f85683fa95ca54:tumbler/Pkgfile
@@ -122,8 +122,8 @@ f:27c9e8688ba0c3853104b1a5eb7db839:thunar/.footprint
 f:4d0a7fc0ba616952c92bce813b6d7bb6:thunar/01-Deactivate-SEND_MOVED-code-paths.patch
 f:39a08eb2a07ce8c2476663b3e0956443:thunar/check-thunar-file-instance-when-comparing-filenames.patch
 f:c2ee3a2bc300b4f64028c6e9c4d84038:thunar/.signature
-f:4f6336ee00e6f8b3c7b0d36a8d8c57a3:exo/Pkgfile
-f:02172d0fcbccd84ca9d98b80c10be58a:exo/.signature
+f:f8d68064dc6fbf2f0b73cc2a8da47a3b:exo/Pkgfile
+f:a3c0034e655549b218b1142d17a492d1:exo/.signature
 f:e977e5cd67c982a2c4850f9b41ab8ba8:exo/.footprint
 f:83bc29d8b790b733e506abd403382f9a:xfce4-whiskermenu-plugin/.signature
 f:37b19d8b755772a1d1b2c9d3803b9e4f:xfce4-whiskermenu-plugin/.footprint

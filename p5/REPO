@@ -93,11 +93,9 @@ f:d29976f1c56ce319af986d04febd4844:p5-readonly/Pkgfile
 f:7ced881e15fee92536ca1e392cc62448:p5-bio-cluster/.signature
 f:80382216b77c1278eaa3d93232df870a:p5-bio-cluster/.footprint
 f:3e1935a5316fa43fe8ad062f31cac036:p5-bio-cluster/Pkgfile
-f:579e0846e1024d63fcfd265e1f304f0d:p5-cpan-distnameinfo/.httpup-urlinfo
 f:23631257e03a7d4a7430be5a1374ffd1:p5-cpan-distnameinfo/.footprint
 f:98ee3f292e73033657002cc6464e779e:p5-cpan-distnameinfo/Pkgfile
 f:95b62f22b0cf53d47a91c2aa94e82baa:p5-cpan-distnameinfo/.signature
-f:210293567b9279085e2fcdf425005f8b:p5-cpan-distnameinfo/.httpup-repo.current
 f:d6dddc5cc77ca6c70bb3b329ab7d0546:p5-dbi/.signature
 f:f70ba381447f89a6e9e61d3690f19585:p5-dbi/.footprint
 f:26da2835873879014e6a5f19c556fd3e:p5-dbi/Pkgfile

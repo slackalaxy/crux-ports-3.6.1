@@ -1,13 +1,13 @@
 # Description: Cross-platform QtWebEngine browser
 # URL: https://www.falkon.org/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: double-conversion libevent libgnome-keyring libpcre2 libwebp qtwebengine extra-cmake-modules
+# Depends on: double-conversion libevent libgnome-keyring libpcre2 libwebp qtwebengine extra-cmake-modules karchive
 
 name=falkon
-version=3.1.0
-release=2
+version=3.2.0
+release=1
 
-source=(https://download.kde.org/stable/$name/${version%.*}/$name-$version.tar.xz)
+source=(https://download.kde.org/stable/$name/${version}/$name-$version.tar.xz)
 
 build() 
 {
