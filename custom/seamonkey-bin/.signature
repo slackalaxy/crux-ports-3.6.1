@@ -1,8 +1,8 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwwKijcsF44zg9wZHjuIztSOY7q1kddEMKW9SOP70IgOYFfpxWyDxwtrcQvtxSKBEA+nXxhfH0jQD00ZdzO0YVAc=
-SHA256 (Pkgfile) = c73429db23b0d2eeab7b7847ecf29a18cb7f347cb329c42ed8efdfed3867facd
+RWQ0fvpBKVgNw5cpbcyy34NyNEKKmoZsO8yWfAO2TU96neAYy0TtkdYJbMqNKuU2znfqngYHC+MYqmjxsSk/PBL1eJlOAocmEw0=
+SHA256 (Pkgfile) = 60303fcdb54a0475ed18166cb269fe1db7cdc073537d51796e86ec648d70d36d
 SHA256 (.footprint) = a6655b742cbb3332791cdf84e189e7cf1b85093ed6a51cbfc9e8032222429639
-SHA256 (seamonkey-2.53.10.1.en-US.linux-x86_64.tar.bz2) = dcfebe74323d035a9a55c728e439bbd70dc4a0e81c28e011fd34df5d527772dd
+SHA256 (seamonkey-2.53.10.2.en-US.linux-x86_64.tar.bz2) = 3f85b8bdd5a090d16641f9fdf73ff115012db6591978a16e5b2cc4d25c2d4fb2
 SHA256 (seamonkey-addressbook.desktop) = 18efb2618aefb73bf1aa16f0d3b92a2ba5db16262a969e9c2835e3443290d8ea
 SHA256 (seamonkey-composer.desktop) = 67fb20e1e4e9b5dd88c2739963a16d14fbf07e7ba16921dfbad53d4790ba2043
 SHA256 (seamonkey-mail.desktop) = 734d3d1136bf100dc8e6e628c8f9bf48e13e94eb4451173533212fe6a12ac014

@@ -4,7 +4,7 @@
 # Depends on: dbus-glib gtk gtk3 nss xorg-libxt
 
 name=seamonkey-bin
-version=2.53.10.1
+version=2.53.10.2
 release=1
 source=(https://archive.mozilla.org/pub/seamonkey/releases/$version/linux-x86_64/en-US/seamonkey-${version}.en-US.linux-x86_64.tar.bz2
 	seamonkey-addressbook.desktop
