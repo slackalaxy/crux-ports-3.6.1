@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcD31kosCYN73IEYYfCMlcWhH7F8hBfx+zO2S48pve2HTnt/GOXpMRTm5o7ShhS96rWto+aVhZUSIOVkLQoh/XAw=
-SHA256 (Pkgfile) = 97645d7a8aa46c8c38c1cb12aa74a9be22fff8c9333de206c9771527a76ddbd5
+RWTXrKv/sDjJcMGgmn7/cwxgyRD9SAaF/xiAjr4I+8cboGtdFcdTXEjb8ztZoCdkamVlLN1ZvGh2ocGV4o+qTUt9mwI1k8qejgg=
+SHA256 (Pkgfile) = d6aac65365e63203a4b72048d8ae62c9235dc8d0e56bbe3fe4e6e7698cd51886
 SHA256 (.footprint) = 85485f152204b26789814ee74f4c62a8da8e68aec00202b1ad6f1af49cbaf540
 SHA256 (muscle_src_3.8.1551.tar.gz) = c70c552231cd3289f1bad51c9bd174804c18bb3adcf47f501afec7a68f9c482e
 SHA256 (stable.tar.gz) = 588264a0f82821e813feb3e99ae9de5f293a128c19292f4acdfe00d24fe12b0d

@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw0XZifDcOLbeblAbDJgmhqNXidfkfQcudaOFutj2w7sA4yOAl0LTq867+XJTcYNvUDWoPI/EA6HWq2cX1qN05QA=
-SHA256 (Pkgfile) = f62ea9217de558cacf1b7b35f1f87ffe7b35636d88fa27db9e1ebc00a232f079
+RWQ0fvpBKVgNw1rcjhxOgniRcRlTz4sbwdnlb3YSvmN7t3OTPnGSLD8oF3Lvsg0FyJVCw6o+u5K3vAmuDPAiCyU+Fc86zetkUwc=
+SHA256 (Pkgfile) = 08c892c07c90c3ec412cc07625b9d2ac9a0614f9516ffc3b25ff794985be61dc
 SHA256 (.footprint) = 30c409522fb7bb07bd031ccd0acb1e1d2ff3db22227983d463f60736be708097
 SHA256 (courier-prime.zip) = d5d4faf1bee0d1f52bab1103cbfdfb354976331c86f999c110c22a098cb12d73
 SHA256 (courier-prime-sans.zip) = 754b3937340f5522ccf96be7832efbd809ef93f373d51b12919adbd9c0a468d7

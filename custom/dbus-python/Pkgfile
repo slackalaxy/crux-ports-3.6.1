@@ -9,11 +9,14 @@ release=1
 source=(http://dbus.freedesktop.org/releases/$name/$name-$version.tar.gz)
 
 build() {
-        cd $name-$version
-        export PYTHON_VERSION=2
-        ./configure --prefix=/usr \
-                    --disable-html-docs
-        make
-        make DESTDIR=$PKG install
-        rm -rf $PKG/usr/share
+  cd dbus-python-$version
+  mkdir build && cd build
+  PYTHON=/usr/bin/python2 \
+  ../configure --prefix=/usr
+  sed -i -e 's/ -shared / -Wl,-O1,--as-needed\0/g' libtool
+  make
+  make DESTDIR=$PKG install
+  rm -fr $PKG/usr/{share,include}
+  #mv $PKG/usr/lib/pkgconfig/dbus-python.pc $PKG/usr/lib/pkgconfig/dbus-python3.pc
 }
+

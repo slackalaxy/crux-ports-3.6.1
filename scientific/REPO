@@ -132,10 +132,10 @@ f:28771a492f739bb6a8e6d9e0f49a9033:iepcalc/Pkgfile
 f:cf66458e366a6bf40308a07aacaa3402:bpp-phyl-omics/.footprint
 f:66c6ef08052594fb45d4d52c7eb5afb7:bpp-phyl-omics/Pkgfile
 f:481a43050b18ab29a6f41588e4a58ba8:bpp-phyl-omics/.signature
-f:7ef8c8e7e687925a5d6c183b092920eb:seaview/.signature
+f:c92302b7237f5f98134c21ef95543aef:seaview/.signature
 f:fe57bed4fa0215e0867b68ef2aef27cf:seaview/.footprint
 f:f9ac6501bf8e24f9c621139b44de2e3a:seaview/seaview.desktop
-f:18c1c4a67a5c8736d035e8e7a0e67bcd:seaview/Pkgfile
+f:1deebb1ff71884353d71842ed8dca2d6:seaview/Pkgfile
 f:35fe0578b1c8cf2efaf368416a77b6bc:genometools/.footprint
 f:c437154e97178b2e3823e7e608b38fcc:genometools/.signature
 f:66d14e2584c6464e843c47d39d991d51:genometools/gcc10.patch
@@ -143,8 +143,8 @@ f:c1740264dc285ce6fdc47bf386c20f89:genometools/Pkgfile
 f:f9725e92439c35232a83913cf40fe318:muscle/.footprint
 f:0e1a87bc65864f026771bb5203493056:muscle/README
 f:bc1e54c832ef63654bea340109c95f9d:muscle/muscle.1
-f:ef611ce8d9734a2103cb3a3c42a2e91e:muscle/.signature
-f:2df5f253efeae0afb59a489964dc10c2:muscle/Pkgfile
+f:8a0e42f42bd701d4bf88ac6691b9de7f:muscle/.signature
+f:900e98fa24237bbcb950408a9cc1617e:muscle/Pkgfile
 f:bd8a3537a11a3668ee747c1007d49d9e:bpp1.9-utils/.signature
 f:a2a948ee821408a4091e08de17a0b278:bpp1.9-utils/Pkgfile
 f:bb16064bb257b2a9ca9712cb75634eb6:bpp1.9-utils/.footprint
