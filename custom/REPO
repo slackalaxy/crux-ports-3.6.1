@@ -19,6 +19,7 @@ d:inkscape-gtk2
 d:gvfs
 d:libbonoboui
 d:gnome-desktop2
+d:wps-legacy
 d:alltray
 d:wordnet
 d:libgtop
@@ -151,6 +152,8 @@ d:gtk1-theme-switch
 d:ttf-mac-fonts
 d:dbus-python
 d:zotero-gtk2
+d:wps-legacy-dict-bg
+d:wps-legacy-dict-gb
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -227,6 +230,12 @@ f:f2a3cd535189370511c1f8207d35ac73:gnome-desktop2/.signature
 f:c6d861d497cac9082dec681dda4247af:gnome-desktop2/README
 f:33ffff31bcd4df094c3f6c47a88c720e:gnome-desktop2/.footprint
 f:947b00dc34e38a694acf7f6e2143400a:gnome-desktop2/Pkgfile
+f:40c574a80d72405382d89aa593c2ffa1:wps-legacy/Pkgfile
+f:ccf92dbad771c176b72a94f715bb6ca2:wps-legacy/.footprint
+f:aa9dccf52a9f8e8d455d15b172780c2c:wps-legacy/wps-spreadsheet.desktop
+f:19d34d687c93b2f015147d59b141b3c8:wps-legacy/wps-presentations.desktop
+f:217cae5fb46675d513e6f1a5a0c75f70:wps-legacy/wps-writer.desktop
+f:f8c350febe35533f5f3219181e0c9ece:wps-legacy/.signature
 f:18d590c732328d54f7b7fe62a95b6fda:alltray/Pkgfile
 f:c6c105408e688a053ee52e03f62dc1c8:alltray/.footprint
 f:5e7c43711fec71084252ec22517d692d:alltray/.signature
@@ -760,3 +769,13 @@ f:f133a84a9647b1f754b34926a75bed6d:zotero-gtk2/.footprint
 f:4c62dfd60de4225f05bfffc57129df4b:zotero-gtk2/zotero.desktop
 f:8862de0edfe39cb8491620d1dd230e0d:zotero-gtk2/zotero.png
 f:075284f1878a363bde0bc51ae359fab9:zotero-gtk2/.signature
+f:d8c2d8373575422825841fafcc43926f:wps-legacy-dict-bg/bg_BG.aff.tar.xz
+f:128c36b3e1ca68f3368047405b879df8:wps-legacy-dict-bg/bg_BG.dic.tar.xz
+f:bba1df3d31b8a2929bc5ef9f52f6d744:wps-legacy-dict-bg/.footprint
+f:cec6e8e2b6d6035ab64eb7dd2acb81c7:wps-legacy-dict-bg/Pkgfile
+f:8f7de1215ce13eb45a616b19da315eef:wps-legacy-dict-bg/.signature
+f:988acd9bda920a585a4c3bb65e4e7892:wps-legacy-dict-gb/.footprint
+f:d2f081a4a752ba6bd8da7f1463c1e5bf:wps-legacy-dict-gb/en_GB.dic.tar.xz
+f:baf5c21d41e008c968a7cb5f3235c363:wps-legacy-dict-gb/en_GB.aff.tar.xz
+f:b23e404db9e45a321cb8b4926bfa9599:wps-legacy-dict-gb/Pkgfile
+f:9d3e738e09302fbc157823a7402abe4d:wps-legacy-dict-gb/.signature

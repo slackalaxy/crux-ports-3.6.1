@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw1N5Xc06qyJOXUaUgieeuIHIUN0Rk8VVLSQU+lFBlN4oZgNipfbwzxHVSLiKf5v9mNdLq0dgPdPucRugRWUiUgw=
+SHA256 (Pkgfile) = 7dd31e78d9aabf39c0ead4e78f2cb3264101400fe278632a677a2e7ad9accb57
+SHA256 (.footprint) = b116ad10d58b89b30e1de80024514ae76ae8abc2c6e895c69d3d4357d2f6f200
+SHA256 (wps-office_10.1.0.5707_a21_x86_64.tar.xz) = aa875a06e7eef79a30d6e5a4bd03f08eeb1524013edd59122d95a20b1638d9c5
+SHA256 (wps-presentations.desktop) = 027ba005c8c9e64d7e860d00a01f4fa1d911cb113c98b91f7d0ac2e6d8c6856e
+SHA256 (wps-spreadsheet.desktop) = 50d32e435baf10b39f391722982b23673362c3123985f07e8203e2a2c3433fff
+SHA256 (wps-writer.desktop) = f5862c5e934c364a38260d75bb005cda085e215873d68ed59752def11161fd69
