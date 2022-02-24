@@ -108,6 +108,7 @@ d:gbgoffice
 d:ffmpegthumbnailer
 d:lilo-nvme
 d:gnome-colors-48
+d:xv
 d:diffuse
 d:bodr
 d:db43
@@ -597,6 +598,11 @@ f:3a5b8fe9c7c0ba13c873bf9d26bdeab0:lilo-nvme/Pkgfile
 f:f71e97cc3657062e26d4eb1758907e14:gnome-colors-48/Pkgfile
 f:2db3f47dab514eb47df1f71da8adf751:gnome-colors-48/.footprint
 f:3f9ff5196215cf7df476104e1a655684:gnome-colors-48/.signature
+f:ac15c7a7ce157ac5dd8356c4332663d4:xv/Pkgfile
+f:45823cf4b6131dd540d61950667d38bc:xv/xv.png
+f:0e680bc2f45986e6838a3667b60825d3:xv/xv.desktop
+f:0c0dab17fbe67554d3f8f0f9a78efb2c:xv/.footprint
+f:9972836fac74fc27f465a577cf3e3196:xv/.signature
 f:f80bb967e48309dab9c4246967860a92:diffuse/Pkgfile
 f:ea7c2d1ee3b7d251b6e84f1fda657ee2:diffuse/.footprint
 f:694885a03e223e8251ab1aaf872e1e6c:diffuse/.signature
