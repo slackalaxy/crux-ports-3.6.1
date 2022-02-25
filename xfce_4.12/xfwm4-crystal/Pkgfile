@@ -6,7 +6,7 @@
 name=xfwm4-crystal
 version=0.1
 release=1
-source=($name.tar.gz)
+source=($name.tar.xz)
 
 build() {
 	cd $name

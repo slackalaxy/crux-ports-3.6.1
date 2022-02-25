@@ -6,7 +6,7 @@
 name=xfwm4-murrine
 version=0.01
 release=1
-source=(105376-MurrineX_h25.tar.bz2 MurrineXfwm.tar.bz2)
+source=(Murrine.tar.xz MurrineX2.tar.xz)
 
 build() {
 	mkdir -p $PKG/usr/share/themes
