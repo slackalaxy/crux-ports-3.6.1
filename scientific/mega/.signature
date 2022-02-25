@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcI7VzcmNmItmRP6/ECWkKyphrEwk8/TFCKoYJO9dAzmojfbjUiWRoX8YPcx/hIcSyrnlHuHVc5/c5WH12g8uxgc=
-SHA256 (Pkgfile) = 570d0249710f4576dc851e1c3de7d5d4aee8c7747efa344bbdd7dd1d7f979cc2
-SHA256 (.footprint) = 9741f4567c7abf8bb9f1e4160af11fb8d110d520b2f263a18532f321dff37140
-SHA256 (megax_10.2.5-1_amd64.deb) = 6e8b52e7f3968fc611d3a752e5f7174cbf5c040877dfb1a618112afa6a1acda2
-SHA256 (megax.desktop) = ff932da44594ce4bfc7498c7edc54c0a1863a6fbd41a764780c26c2325f1dcfd
+RWTXrKv/sDjJcA6SwmmVUHgIe5Beb85NRFK6wfvgwdBdNIxvM18LIFi4kBZOt4ATTXiWsd+i2YcpDnuuTR04k4htGBDZng5MBQo=
+SHA256 (Pkgfile) = a9cfda4f3fb9d5ff74a3d862e0f02b7895662447ed28379f3c118e448e295434
+SHA256 (.footprint) = 0046f5aea516f3adb7d3a65f4b6b105d66c2dbecd854ca9500ef5081e1c2ccdc
+SHA256 (mega_11.0.11-1_amd64.deb) = 1077a28d9d910f576f76370a6e796f83de0b87088beceff8c4a501572ff146a8
+SHA256 (mega.desktop) = a376a8a99ae00bd2bd1305fcf739b6a9c3a64a01fe5aecd851b42d564ae838da

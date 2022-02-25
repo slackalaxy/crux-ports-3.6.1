@@ -68,7 +68,6 @@ d:mcl
 d:hmmer
 d:wehi-hackit
 d:mumsa
-d:megax
 d:wehi-deid
 d:gchemutils
 d:wehi-cellsymphony
@@ -79,6 +78,7 @@ d:topd
 d:gelemental
 d:ncbi-blast
 d:aliview
+d:mega
 f:70eb0e1b41c3580a45458c72b34ea5e0:prank/.signature
 f:539bed1c5d796de9db1ef4882fb2e443:prank/.footprint
 f:9bda5548f8ea5194ee7ec2480968fb0e:prank/Pkgfile
@@ -366,10 +366,6 @@ f:d94aefa9a528533d64f7fdbeef791ab0:wehi-hackit/Pkgfile
 f:57af9e01901990d5089419e256e12124:mumsa/.signature
 f:d12d2c81f634498c340c469a7362711e:mumsa/.footprint
 f:f7f29d0fcbd24e9d935ffc4975d5e976:mumsa/Pkgfile
-f:fd00773d5dff45fb0901b972f58a7b8a:megax/.signature
-f:f4739557d982a3c723a017f839eb8d75:megax/Pkgfile
-f:dc63d0c2944963eb41675f974f3dad73:megax/megax.desktop
-f:caa62b67650d6b9d42f6c0995b89070d:megax/.footprint
 f:69b82146ee57a4ade77d77f2383f47be:wehi-deid/wehi-deid.desktop
 f:b81dc5418a27ad87bb07913cb4fc8259:wehi-deid/wehi-deid.menu
 f:42fd5e9f818713bc1852a1dfe6da9548:wehi-deid/.footprint
@@ -412,3 +408,7 @@ f:446f99ca5e98ee81bb6c87151dbb22a0:aliview/aliview.desktop
 f:5c5c27a40768894fbc7b8bfca6c7017b:aliview/.signature
 f:1dc8dba1069b6fa8751c09f5b2df109b:aliview/.footprint
 f:6f04eda4cb4b3b300a3dfdb2d4edeac7:aliview/Pkgfile
+f:f6afa570deece169aec6476ebb1c37bb:mega/.signature
+f:1964d41b6141da3bb9604d38e12d738c:mega/Pkgfile
+f:1a27ed1f6f4a3ca37e89b7fa7d88145e:mega/.footprint
+f:9ff2c487ee37746aee58a06923eea3dd:mega/mega.desktop
