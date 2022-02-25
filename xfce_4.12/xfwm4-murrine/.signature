@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/xfce_4.12.pub
-RWTkDNbF//FThKoIEXYY3nfG072ISURRikeRxHpQnb2VtO+K+QHLIW3fXtiABSgNht5l+GvZShzHp1jJYB5SO5jPUtcCLHxK/Ao=
-SHA256 (Pkgfile) = a30a1947768afc76057bc5ab64e70ba034adf4add3afa48fefd019b2ba4a3fba
+RWTkDNbF//FThJ+v0+W2buwAWjQOkua42k972Jynhpsg3PJwLLWS7IoRIFhA9gR7zilyudPDCSrE92DwwaG+YmS28+6U75qAGA8=
+SHA256 (Pkgfile) = 4b6bf24169bf2765dace88e8d3e1f94f66de470fdbdcc34375358a1eed38cfaf
 SHA256 (.footprint) = c2449e1f5813627b0562c44ae6c549a40853ffc2d9684dfb034caecadc91705f
-SHA256 (105376-MurrineX_h25.tar.bz2) = b5d345a5dd2e21b58de4ca7b57f6187ab872758fb2a2b5232f3819eeba42d740
-SHA256 (MurrineXfwm.tar.bz2) = 49f4b953de05f9e3b494b6af512d0b6701c91b7e6e22562c459a0d310738a711
+SHA256 (Murrine.tar.xz) = b5b7b2849afbe21c8812d324f16a08146727dfe8a1fa4b3cd693e3212e3b0bd4
+SHA256 (MurrineX2.tar.xz) = 17a7b33b767b4e3ce18529348d8b5283a843ebbdac1ac0e85e357e848f4c0473
