@@ -1,8 +1,8 @@
 [Desktop Entry]
 Categories=Education;
 Comment=Molecular evolutionary genetics analysis
-Exec=megax
-Icon=megax
+Exec=mega
+Icon=mega
 Name=MEGA X
 StartupNotify=false
 Terminal=false

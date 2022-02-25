@@ -3,8 +3,8 @@
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: gconf gtk libgpg-error nss xorg-libxdamage xorg-libxscrnsaver xorg-libxtst
 
-name=megax
-version=10.2.5
+name=mega
+version=11.0.11
 release=1
 source=(https://www.megasoftware.net/releases/${name}_${version}-1_amd64.deb
 	$name.desktop)
@@ -17,12 +17,12 @@ build() {
 
 	# Copy man pages to their proper place.
 	mkdir -p $PKG/usr/share/man
-	cp -a usr/local/share/man $PKG/usr/share/man
+	cp -a usr/local/share/man/man1 $PKG/usr/share/man
 
 	mkdir -p $PKG/usr/bin
 	cd $PKG/usr/bin
 	ln -s ../lib/$name/megacc
-	ln -s ../lib/$name/runmega.sh megax
+	ln -s ../lib/$name/runmega.sh mega
 	cd -
 
 	# Menu entry for MEGA X, use our .desktop file
