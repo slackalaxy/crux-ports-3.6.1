@@ -9,6 +9,7 @@ drwxr-xr-x	root/root	usr/lib/audacious/Container/
 -rwxr-xr-x	root/root	usr/lib/audacious/Container/pls.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Container/xspf.so
 drwxr-xr-x	root/root	usr/lib/audacious/Effect/
+-rwxr-xr-x	root/root	usr/lib/audacious/Effect/bitcrusher.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Effect/compressor.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Effect/crossfade.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Effect/crystalizer.so
@@ -45,7 +46,6 @@ drwxr-xr-x	root/root	usr/lib/audacious/General/
 drwxr-xr-x	root/root	usr/lib/audacious/Input/
 -rwxr-xr-x	root/root	usr/lib/audacious/Input/aac-raw.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Input/console.so
--rwxr-xr-x	root/root	usr/lib/audacious/Input/ffaudio.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Input/flacng.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Input/madplug.so
 -rwxr-xr-x	root/root	usr/lib/audacious/Input/metronom.so

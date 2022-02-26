@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw5JIogoq2fS4VY7xsWvTNSdtznS51g/qLQwQ8BigKTSHZDV2wMA2Y53SA255fPOp3OPTPoN5+u+GT3ZpmBbXSQs=
+SHA256 (Pkgfile) = d0d14f146f2f5efeaea0f1395902e3d675bac9c30758ff1143c18ea8086a0223
+SHA256 (.footprint) = 27b9322704b9d055ee5dcd6b1c948645a899ce9d1324e1ceae069f5ef39780c4
+SHA256 (mplayer-checkout-snapshot.tar.bz2) = d5039dacf4a232f0d0eb9b72a1ae4b1b9451f22d439fd42db967a650d6ac1fa1
+SHA256 (font-arial-iso-8859-1.tar.bz2) = 9730f481764f367c9089d0166fb6ccf9148808ffbbfeca635cf0e6db75765d29
+SHA256 (Blue-1.13.tar.bz2) = 1c916d81827e6368a3a8db0c3aab8a82ef2e9f864db780a194cf7689eec2cdc5
+SHA256 (mplayer.conf) = 594275750252e1e5bf4c906a284087eec508d9772913a276b6c9ff36410dbf5b

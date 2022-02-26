@@ -5,12 +5,18 @@
 
 name=ffmpegthumbnailer
 version=2.2.2
-release=1
-source=(https://github.com/dirkvdb/$name/archive/$version.tar.gz)
+release=2
+source=(https://github.com/dirkvdb/$name/archive/$version.tar.gz
+	efb5b618.patch
+	ffmpegthumbnailer-ffmpeg5.patch)
 
 build() {
-	cd $name-$version
 
+	# Taken from Arch
+	patch -d $name-$version -p1 < $SRC/ffmpegthumbnailer-ffmpeg5.patch # Fix build with FFmpeg 5
+	patch -d $name-$version -p1 < $SRC/efb5b618.patch # Fix build with FFmpeg 5
+	
+	cd $name-$version
 	mkdir -p build
 	cd build
 	cmake \

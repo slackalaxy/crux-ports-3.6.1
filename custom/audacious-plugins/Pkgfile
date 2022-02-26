@@ -4,18 +4,17 @@
 # Depends on: audacious
 
 name=audacious-plugins
-version=4.1
+version=4.2_beta1
 release=1
-source=(https://distfiles.audacious-media-player.org/$name-$version.tar.bz2)
+source=(https://distfiles.audacious-media-player.org/$name-${version/_/-}.tar.bz2)
 
 build() {
-	cd $name-$version
+	cd $name-${version/_/-}
 	
 	mkdir meson-build
 	cd meson-build
 	meson setup --prefix=/usr \
 	--buildtype=release \
-	-Dfaad=true \
 	-Dmms=false \
 	-Dpulse=true ..
 

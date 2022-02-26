@@ -1,5 +1,7 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwxjBV2EUbAC/ZzJ5aDbYtgKWRpJyDAssZmk1F22kit8VhhKlzOXiKAN6YuUOVHuJNAkloA7ggFR7eKmAfPg+tA0=
-SHA256 (Pkgfile) = 4d287ba551c61cc27518cb5b9d82e6f3d36e26b29cd4524e43df0a27d5716549
+RWQ0fvpBKVgNw9gwii7mOUqoOuXfjN9omhZUaKgU2wb8Q3AuGpfMShmYX+/8AuS2+4Q6w/oeoxoyGAQalQweoUeqBZlqhk59uQo=
+SHA256 (Pkgfile) = bac90e1628329ab0df379b973753eea8be863e0306dfdb17ffe0edbe17161f18
 SHA256 (.footprint) = d2a83d7986f09ec556a1d258270786fe13e1701fbaab6010c95c562ae89bc4b1
 SHA256 (2.2.2.tar.gz) = 8c4c42ab68144a9e2349710d42c0248407a87e7dc0ba4366891905322b331f92
+SHA256 (efb5b618.patch) = c266d1c7cab2fa26dfee2410ea6864ab81a57e8784eda6574cd8237750b9e0e1
+SHA256 (ffmpegthumbnailer-ffmpeg5.patch) = 300d3208fca6de6f7a90fbabbb8e58b9cf0cc4a4c9b1d2df0cd53ece1736646a

@@ -5,7 +5,7 @@
 
 name=gigolo
 version=0.4.2
-release=1
+release=2
 source=(https://archive.xfce.org/src/apps/$name/${version%.*}/$name-$version.tar.bz2)
 
 build() {
@@ -16,5 +16,5 @@ build() {
 	make
 	make install DESTDIR=$PKG
 	
-	rm -rf $PKG/usr/share/doc/$name
+	rm -rf $PKG/usr/share/doc
 }
