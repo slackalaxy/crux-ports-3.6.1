@@ -4,15 +4,13 @@
 # Depends on: bluez brotli glew glu harfbuzz libjpeg-turbo libpsl libsdl2 libvorbis openal openldap rtmpdump
 
 name=supertuxcart
-version=1.2
+version=1.3
 release=1
-source=(http://sourceforge.net/projects/supertuxkart/files/SuperTuxKart/$version/SuperTuxKart-$version-src.tar.xz
-	ftbfs_sdl.patch)
+source=(http://sourceforge.net/projects/supertuxkart/files/SuperTuxKart/$version/SuperTuxKart-$version-src.tar.xz)
 
 build() {
 	cd SuperTuxKart-$version-src
 	
-	patch -p1 < $SRC/ftbfs_sdl.patch
 	mkdir -p build
 	cd build
 	cmake \

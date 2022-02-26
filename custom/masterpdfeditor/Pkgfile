@@ -4,7 +4,7 @@
 # Depends on: brotli double-conversion icu keyutils krb5 libpcre2 qt5 sane
 
 name=masterpdfeditor
-version=5.8.20
+version=5.8.33
 release=1
 source=(https://code-industry.net/public/master-pdf-editor-${version}-qt5.x86_64.tar.gz)
 

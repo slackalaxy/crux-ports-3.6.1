@@ -4,7 +4,7 @@
 # Depends on: exiv2 gtk xorg-libxdamage 
 
 name=viewnior
-version=1.7
+version=1.8
 release=1
 source=(https://github.com/hellosiyan/$name/archive/$name-$version.tar.gz)
 

@@ -442,6 +442,7 @@ drwxr-xr-x	root/root	usr/lib/calibre/resources/hyphenation/
 -rw-r--r--	root/root	usr/lib/calibre/resources/hyphenation/dictionaries.tar.xz
 -rw-r--r--	root/root	usr/lib/calibre/resources/hyphenation/locales.json
 -rw-r--r--	root/root	usr/lib/calibre/resources/hyphenation/sha1sum
+-rw-r--r--	root/root	usr/lib/calibre/resources/icons.rcc
 -rw-r--r--	root/root	usr/lib/calibre/resources/images.qrc
 drwxr-xr-x	root/root	usr/lib/calibre/resources/images/
 -rw-r--r--	root/root	usr/lib/calibre/resources/images/add_book.png

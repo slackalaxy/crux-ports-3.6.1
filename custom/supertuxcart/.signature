@@ -1,6 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw9FzB4WAxtjJ7/UoojzoJ8R8o8H+/WBOw9WELlQAEbXpGIubeEPKuhAI7tZJ7AuunL5ohd/TsHY8FktDoJO4KgE=
-SHA256 (Pkgfile) = 371ac6515229c86090ecac01f30d73613c8a48df9c98844b7572f148c1a536d9
-SHA256 (.footprint) = 31a64a319fa2a30e45d4fcfd8b4dde1db095e5cf56ceef5caabc6548e28b04e3
-SHA256 (SuperTuxKart-1.2-src.tar.xz) = 052edf0afdbeb99583fe8676fb0ab80ecb6103fb88b7540f858d1b5fa1297d37
-SHA256 (ftbfs_sdl.patch) = 7a33fea9479195000e118989d6d08a0642acc1b19d9c8dd0c84d7021fd18bac5
+RWQ0fvpBKVgNw7ExkaFKGGQ355CV5SXruAuh80l03GbFok/LRzFMjNTR3M2SzrGPc+7eQJNoc39/1w/tNB0LaN8DdIKW4a/f/AQ=
+SHA256 (Pkgfile) = 87fabf9565ece9bce3c83957af1b756444006cefd539251f16127eabb3517b57
+SHA256 (.footprint) = d03747203d494a7e68238a833a7f768fd49228f0b605e614761c5e7297a75f44
+SHA256 (SuperTuxKart-1.3-src.tar.xz) = eeabeb0d9801688a218f6f0a76ea3546a46a322ccaca9a258148ecacfe083ffd
