@@ -8,7 +8,7 @@ version=20220124_f662906
 release=1
 
 source=(http://ponce.cc/slackware/sources/repo/lxde/$name-$version.tar.xz
-	$name.rc)
+	$name.rc xprofile)
 
 build() {
 	# Thank you Ponce for the sources!

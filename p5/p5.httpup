@@ -1,8 +1,0 @@
-#
-# /etc/ports/p5.httpup: p5 ports collection
-#
- 
-ROOT_DIR=/usr/ports/p5
-URL=https://raw.githubusercontent.com/slackalaxy/crux-ports/main/p5/
- 
-# End of file

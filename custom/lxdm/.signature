@@ -1,6 +1,7 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw/sANANaQcOScLI1li2TfD4lo+FoPeo9yxvoapuYBann1B3Z3Esox5FoFyVA7Awjl/mb0pvwZp2drF1oOIK8LwM=
-SHA256 (Pkgfile) = bcddadfe97d9b45bce19165a6837e49c5c40f4a28498539930a52d98725d941b
-SHA256 (.footprint) = ca0c2af517417999c60a4a22d4a7a4e4f0fd3f73e493a6b7bce69149ccb23796
+RWQ0fvpBKVgNw5IpqfVpn/KHeU0zUBYIE+UzCmnL0oBgDFOLR2Kk7eWTgz/2dqBKbpRVrv0URWR8FARpeJPX93/JO4ku4SfEJgE=
+SHA256 (Pkgfile) = 002a8c575bf4276dcbfa5e2ca7b13090ca9e01f109d910d0144a5c0fa5de81cb
+SHA256 (.footprint) = d1e6c6c80a34fc4852f4431db1a6a5490fdf7a9d4d815d1432656cb1ceacfc7f
 SHA256 (lxdm-20220124_f662906.tar.xz) = 76aa38cb324f9e12b8da4bae477d8dfc00fc3aa30f57b102dcc1d496b4ad3ce4
 SHA256 (lxdm.rc) = 46c3af3e2fea178339bce73edfdb4f95f5c6e210873a92c01ac129016019c0ea
+SHA256 (xprofile) = c090cbe30d448035c8d522b25ccb0e4733dfb130c9ea0a48c43d3f8022cb21c7

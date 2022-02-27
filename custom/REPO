@@ -475,11 +475,12 @@ f:98d7e839f08feae55db9909bd71203d5:python-uniconvertor/.signature
 f:d881186efa2fa4acadeafa1c4049a875:codeblocks/Pkgfile
 f:593c5387f19fb5541c9078a7ee9010de:codeblocks/.footprint
 f:ae79d410a48dd695505b282f0fb641a7:codeblocks/.signature
-f:c1bad65c60e123e18ea7e08736a7f0fa:lxdm/.footprint
-f:99fc8f115fc80b272c37854cd566a4be:lxdm/Pkgfile
+f:2e904ae6e809b8ad11b55949a782fa8a:lxdm/.footprint
+f:9f6f6cd738688811431aa98509b4fdbb:lxdm/Pkgfile
 f:f3bf75c816f211922b9c0ae8c2540b21:lxdm/lxdm.rc
 f:902accc395f7bc9468ecc6a9bfe55656:lxdm/README
-f:e83dbb3aafb7064afd0bb664301d9842:lxdm/.signature
+f:355aee2bfe06df8b7d246094a64c6dd6:lxdm/.signature
+f:3f72da8060d21a3ee3aad9efbdac6d22:lxdm/xprofile
 f:fb99f8fb1a4388107fb201804ffb9f64:gnome-mime-data/Pkgfile
 f:537260f88785b163589dce8484f1f2a8:gnome-mime-data/.signature
 f:b707d3bcc682c5436225203229d1efd4:gnome-mime-data/.footprint
