@@ -349,8 +349,8 @@ f:b01893f18805a8f7042423aa25fa2f9b:treeviewx/Pkgfile
 f:c25f9dabffa22cb8d12791c7fe4386eb:clustalx/clustalx.png
 f:912b5f02ca1502f63636b089eb24f01e:clustalx/fix-static.patch
 f:64ccbb684d709bae9d1f8192a1f0f6d3:clustalx/clustalx.desktop
-f:e552adc7e1c5f64586039a54c5d8921b:clustalx/.signature
-f:689b302b8db6b02b32186fe17aa64c30:clustalx/Pkgfile
+f:f241c328ae0f90c9b21c6dcf71487792:clustalx/.signature
+f:9460f21aa2fa4f55bae0e3486d09868c:clustalx/Pkgfile
 f:038acfe62674fff40a50493d5bf9e320:clustalx/.footprint
 f:564c8dcc0456e1bca230d2331369e6b5:clustalx/qt5.patch
 f:e4dbed4a9724326bb1a842b0bcbda021:mcl/.signature
