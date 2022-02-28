@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw567kaI3N/dJpa6ZH1IisBL2keQQqBkm32RY6MOSmjlcTfnO6isHwsk+A25cvboVwcmiwhDbZidO2LBT6Rvj4go=
+SHA256 (Pkgfile) = b2107cf8e7c7b16fc3d9acf02f11a845ec09fea50ddf0c94bfdbd853f7da6ba0
+SHA256 (.footprint) = 7d961e9ba6df27fbed146cc2874534b6e7ab9b436cdb5bb5b5b684a154ac13b1
+SHA256 (gkrellm-2.3.11.tar.bz2) = 1ee0643ed9ed99f88c1504c89d9ccb20780cf29319c904b68e80a8e7c8678c06
+SHA256 (gkrellm.desktop) = c7344d887571d988c3442f2646008a516b425d000779d5b5ca117c290e3433e0
+SHA256 (gkrellm.png) = f0a942cff39541ac54e65a2de21fc6e75dc0cb84e2634739564cd90b1302a27e

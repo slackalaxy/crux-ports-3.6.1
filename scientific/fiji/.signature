@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcJsmt6Hjr9swSV+c4xCo3ayHRk0JDMHMShhfB1pMT1L9BDZCiSqalLdjVJlJa19q0IiUH+0EaokJhzPBLwwOvQk=
-SHA256 (Pkgfile) = fa50c0092c360ba75d3e0b40ce9028cbd9abee06fad84f3a5bfede9bd9d3386d
+RWTXrKv/sDjJcEqzZ9sflMkZHVyfs9NMSqrG3cK+AfD7yFdKt14KOHkUkRsjoxqJxeJCKjB5/K0kl4X6/q5sH5eqBDQyc2NGeQU=
+SHA256 (Pkgfile) = 6c834b1bc6c73678e60e9b46a6e619519fa73f84d0cc2ae7addd9456cd8d9770
 SHA256 (.footprint) = 627bf80578a53c536cd610a836de90cc28db685915657d23ef5c5550979f7475
 SHA256 (fiji-nojre.tar.gz) = ea60c212f0c123c2e947f0171b3a3ec83c38f0a6bd4c2bf2d5a5c53ba5e464cb
 SHA256 (ImageJ2.desktop) = ef5ba1d8377a5de5c7b58ced8e11506bfdff810d101cd50019ba0ca6b3b742df

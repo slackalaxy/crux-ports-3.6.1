@@ -4,8 +4,8 @@
 # Depends on: adoptopenjdk gtk libglvnd xorg-libxdamage xorg-libxxf86vm
 
 name=fiji
-version=20201104_1356
-release=3
+version=20220222_1217
+release=1
 source=(https://downloads.imagej.net/fiji/archive/${version/_/-}/fiji-nojre.tar.gz
 	ImageJ2.desktop $name.sh)
 

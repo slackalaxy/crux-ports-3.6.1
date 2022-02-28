@@ -4,9 +4,9 @@
 # Depends on:
 
 name=t_coffee
-version=28bdc39
+version=0125a58
 release=1
-source=(https://github.com/cbcrg/tcoffee/archive/$version/tcoffee-28bdc39911d10d8597db8513f9515fb2ed7a9158.tar.gz)
+source=(https://github.com/cbcrg/tcoffee/archive/$version/tcoffee-0125a58be083d3e3a41368761f70387c967f26f9.tar.gz)
 
 build() {
 	cd tcoffee-${version}*

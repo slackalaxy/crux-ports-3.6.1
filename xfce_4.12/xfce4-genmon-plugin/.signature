@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/xfce_4.12.pub
+RWTkDNbF//FThNuYIVD1e2Kvseclpa62O1Pd2rtxZ2CRA+uSJJAagC9nWn8e7MJfIBhpTl6644+MiPkHKN75v9sd2ZO27E1WXQg=
+SHA256 (Pkgfile) = 12f9bc5ff495c6f1e2b8fce2d6185c86bc34d425dd7b22995062f88cead182b7
+SHA256 (.footprint) = e523b00b7729f332cc0edc9090ed3a80100b94b863748422595dd3de51463a6d
+SHA256 (xfce4-genmon-plugin-3.4.0.tar.bz2) = b0a5337b49c85623dc89f3c9e47c7374b1d466af2418033d2d6dfc57a9790387

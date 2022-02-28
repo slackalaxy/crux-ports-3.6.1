@@ -5,16 +5,19 @@
 
 name=clustalx
 version=2.1
-release=1
+release=2
 source=(http://www.clustal.org/download/current/$name-$version.tar.gz
-	$name.desktop $name.png fix-static.patch)
+	$name.desktop $name.png fix-static.patch qt5.patch)
 
 build() {
 	cd $name-$version
+	
+	# Thanks Arch for the patches
+	patch -p1 < $SRC/qt5.patch
 	patch -p1 < $SRC/fix-static.patch
 	sed -i 's/static//g' $name.pro
 
-	qmake-qt4
+	qmake
 
 	#Use our CFLAGS/CXXFLAGS
 	sed -i "/^C.*.*FLAGS/s/=/+=/" Makefile

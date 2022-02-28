@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw8kNSTHRsycHjF00CkSy5XiY0ri+biDjrecvpsvKd4ihTQtPzej87LWIE8PrkE9sdWKrdyywpS/QX/tyTl+yGgk=
+SHA256 (Pkgfile) = 39e2da9963867460393de835393cd4728ef3ead1bbf7699c7f349932c2560bee
+SHA256 (.footprint) = 9685b861e18e553ac1fc28a64481c9d14fa4bf56ead4861c99acad57a4327af6
+SHA256 (GKrellM-Skins.tar.gz) = a0d2d00410cc2290df6c89cba9a204a0592e8c18ba9e13e967dbf021937d30d1
+SHA256 (invisible-black.tar.xz) = 0972d367bfb679bece7241a315f2b2e8e00b92c54a14f90d043bb851742b4a73
+SHA256 (invisible-contrast.tar.xz) = ac505d5a37e15e67728568df2a6c406485c5f1d2f01996d19a8c6cc32fa0b509
+SHA256 (invisible-myrellm.tar.xz) = bc97f4f73540e65868a0d0556b7c618122cde2f20e5d58f007b3a1161cd12f77
