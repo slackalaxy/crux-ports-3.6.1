@@ -219,9 +219,10 @@ f:570a42137cea08165cfac65b524bc790:libgweather/.signature
 f:f236b08a49e26701329b4c8b463d9165:inkscape-gtk2/.footprint
 f:5b04511b628ab9eaedce6818103ec87a:inkscape-gtk2/im7.patch
 f:420aab9194147de0cfdd6a42edeee758:inkscape-gtk2/poppler-21.11.0.patch
-f:59a98a1c45e90561a5a04de72ef871a6:inkscape-gtk2/Pkgfile
-f:4a936107f19bf1919a553eaad594eb50:inkscape-gtk2/.signature
 f:355025fc573f89b511f9768b2b2219e5:inkscape-gtk2/gcc9.patch
+f:9cde853e5936c5335ab889d228f99749:inkscape-gtk2/.signature
+f:e9ad3d73a30dc37b22580eb5a8f0bb2e:inkscape-gtk2/Pkgfile
+f:040f3be7f82e606cdfeda72086c53434:inkscape-gtk2/README
 f:a4425a64b9e2b8a68ac43c5935869ed6:gvfs/Pkgfile
 f:d7ad149817218f3b39bb0e41e4687e29:gvfs/.signature
 f:90045271e6c3662899fc11c9f35a5483:gvfs/.footprint

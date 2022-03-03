@@ -1,11 +1,12 @@
 # Description: Inkscape SVG ediror last GTK2 version
 # URL: https://inkscape.org/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: atkmm boost gsl gtkmm potrace boehm-gc libxslt poppler-glib popt python3-lxml python-lxml python-uniconvertor python3-numpy
+# Depends on: boehm-gc brotli graphite2 gsl gtkmm gtkspell imagemagick popt potrace
+# Optional: atkmm boost libxslt poppler-glib popt python3-lxml python-lxml python-uniconvertor python3-numpy
 
 name=inkscape-gtk2
 version=0.92.5
-release=1
+release=2
 source=(https://ftp.osuosl.org/pub/blfs/conglomeration/inkscape/inkscape-$version.tar.bz2
 	im7.patch poppler-21.11.0.patch gcc9.patch)
 
@@ -14,11 +15,13 @@ build() {
 	
 	patch -p1 -i $SRC/gcc9.patch
 	patch -p1 -i $SRC/im7.patch
-	patch -p1 -i $SRC/poppler-21.11.0.patch
+	#patch -p1 -i $SRC/poppler-21.11.0.patch
 	
 	cmake -DCMAKE_INSTALL_PREFIX=/usr \
 	-D CMAKE_CXX_FLAGS_RELEASE="$CFLAGS -std=c++17" \
 	-D CMAKE_C_FLAGS_RELEASE="$CFLAGS" \
+	-D WITH_GNOME_VFS="OFF" \
+	-D ENABLE_POPPLER="OFF" \
 	-DCMAKE_BUILD_TYPE=Release .
   
 	make

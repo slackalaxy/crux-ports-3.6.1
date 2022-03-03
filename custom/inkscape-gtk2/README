@@ -1,0 +1,6 @@
+With the final updates of poppler and popplet-glib (22.03.0), inkscape-
+gtk2 does not build anymore. Honestly, I am tired of it breaking upon
+every poppler update, so I have temporarilly disabled it.
+
+The latest versions against which it build was 22.02.0, using the patch
+that is currently commented out. I will investigate in the future.
