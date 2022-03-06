@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw1UVaw9+odMJPuosJ1e7nG1NHCF6h3d6LeFHCCKgJVnDVg9j3t370y+MOaQZLmzYoJ+nYuwBK6IIQYuoB9KxGwk=
+SHA256 (Pkgfile) = e23f707610e354c771d1708574a4b11953ca5751827ad0af9f74fc67b7802cc8
+SHA256 (.footprint) = b07a7aeab1c7b6360c3162c9a85d6c591265643c4d338732f8af23df8b81d6bc
+SHA256 (connman-1.41.tar.gz) = 6ba6cdde07084c3209faed695f8d3f2292d3155276b0e20958e9cea8ae0f0bee
+SHA256 (connmand.rc) = 473712b1d50df582fc2c6682f45411c2bd7757b4fa43f7b3a9d0a0efe142b203
+SHA256 (allow_group_network.diff) = 55a0cff1ca010615e2149d184c9c36f798774409b09b40dad240f9bf6c6b193f

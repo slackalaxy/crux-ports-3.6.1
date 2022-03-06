@@ -1,0 +1,6 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/gtk/
+drwxr-xr-x	root/root	usr/lib/gtk/themes/
+drwxr-xr-x	root/root	usr/lib/gtk/themes/engines/
+-rwxr-xr-x	root/root	usr/lib/gtk/themes/engines/libsmooth.so

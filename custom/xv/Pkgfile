@@ -5,7 +5,7 @@
 
 name=xv
 version=3.10
-release=1
+release=2
 source=(http://slackware.uk/slackware/slackware64-15.0/extra/source/xv/xv-3.10.tar.xz
 	http://slackware.uk/slackware/slackware64-15.0/extra/source/xv/xv-3.10a-enhancements.20070520-20081216.diff.bz2
 	http://slackware.uk/slackware/slackware64-15.0/extra/source/xv/xv-3.10a-jumbo-additions.diff.bz2
@@ -27,11 +27,13 @@ build() {
 	bzcat $SRC/xv-3.10a-enhancements.20070520-20081216.diff.bz2 | patch -p1 --verbose --backup --suffix=.orig || exit 1
 	zcat $SRC/xv.prefix.diff.gz | patch -p1 --verbose --backup --suffix=.orig || exit 1
 	zcat $SRC/xv.prefix_x86_64.diff.gz | patch -p1 --verbose --backup --suffix=.orig || exit 1
-	zcat $SRC/xv.jasper.diff.gz | patch -p1 --verbose --backup --suffix=.orig || exit 1
 	zcat $SRC/xv-libpng-1.5.patch.gz | patch -p0 --verbose --backup --suffix=.orig || exit 1
-
+	
+	# xv breaks with new jasper (v 3.0.2) even with these changes, so let's disable it for now
+	#zcat $SRC/xv.jasper.diff.gz | patch -p1 --verbose --backup --suffix=.orig || exit 1
 	# https://www.linuxquestions.org/questions/slackware-14/xv-on-current-4175698325/#post6269993
-	sed -i "s|fp\,void\ |fp,const void |" xvjp2k.c
+	#sed -i "s|fp\,void\ |fp,const void |" xvjp2k.c
+	sed -i 's:JP2K:#JP2K:' Makefile.std
 	
 	make -f Makefile.std || exit 1
 

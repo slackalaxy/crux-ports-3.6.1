@@ -6,12 +6,20 @@ drwxr-xr-x	root/root	usr/include/libpng12/
 -rw-r--r--	root/root	usr/include/libpng12/png.h
 -rw-r--r--	root/root	usr/include/libpng12/pngconf.h
 drwxr-xr-x	root/root	usr/lib/
-lrwxrwxrwx	root/root	usr/lib/libpng.so.3 -> libpng.so.3.59.0
--rwxr-xr-x	root/root	usr/lib/libpng.so.3.59.0
--rw-r--r--	root/root	usr/lib/libpng12.a
--rwxr-xr-x	root/root	usr/lib/libpng12.la
-lrwxrwxrwx	root/root	usr/lib/libpng12.so -> libpng12.so.0.59.0
-lrwxrwxrwx	root/root	usr/lib/libpng12.so.0 -> libpng12.so.0.59.0
--rwxr-xr-x	root/root	usr/lib/libpng12.so.0.59.0
-drwxr-xr-x	root/root	usr/lib/pkgconfig/
--rw-r--r--	root/root	usr/lib/pkgconfig/libpng12.pc
+lrwxrwxrwx	root/root	usr/lib/libpng.so.3 -> ./libpng12/libpng.so.3.59.0
+lrwxrwxrwx	root/root	usr/lib/libpng12.so -> ./libpng12/libpng12.so.0.59.0
+lrwxrwxrwx	root/root	usr/lib/libpng12.so.0 -> ./libpng12/libpng12.so.0.59.0
+drwxr-xr-x	root/root	usr/lib/libpng12/
+lrwxrwxrwx	root/root	usr/lib/libpng12/libpng.a -> libpng12.a
+lrwxrwxrwx	root/root	usr/lib/libpng12/libpng.la -> libpng12.la
+lrwxrwxrwx	root/root	usr/lib/libpng12/libpng.so -> libpng12.so
+lrwxrwxrwx	root/root	usr/lib/libpng12/libpng.so.3 -> libpng.so.3.59.0
+-rwxr-xr-x	root/root	usr/lib/libpng12/libpng.so.3.59.0
+-rw-r--r--	root/root	usr/lib/libpng12/libpng12.a
+-rwxr-xr-x	root/root	usr/lib/libpng12/libpng12.la
+lrwxrwxrwx	root/root	usr/lib/libpng12/libpng12.so -> libpng12.so.0.59.0
+lrwxrwxrwx	root/root	usr/lib/libpng12/libpng12.so.0 -> libpng12.so.0.59.0
+-rwxr-xr-x	root/root	usr/lib/libpng12/libpng12.so.0.59.0
+drwxr-xr-x	root/root	usr/lib/libpng12/pkgconfig/
+lrwxrwxrwx	root/root	usr/lib/libpng12/pkgconfig/libpng.pc -> libpng12.pc
+-rw-r--r--	root/root	usr/lib/libpng12/pkgconfig/libpng12.pc

@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwxMZ4hUm3k55v4fcx8mBMPcijAixMtakAE9n01+hLOvS94+t9xMkY0Rtw8HM6kvaBqf5D2zWmhJW9/ultUdfngg=
+RWQ0fvpBKVgNw6lQ6yowUKcubV57JgLGn0Q55HHyBkK0VxSgTzxcdXRhccYr14s2Fltt/FDDERZZREOvy0799ZqLZymq301fuAI=
 SHA256 (Pkgfile) = 8dcfa2d74effdb53a88280fab7a233b1cd318fff12c46a4d7744f2795f593d01
-SHA256 (.footprint) = 73148c09ba2ba047aeab81fcedf956f2bc3887bd2f1acbfdf76a152f64b5ba91
+SHA256 (.footprint) = 5dd096b8635db410d2d38585ed1f24ce27f4977df323420e8d041544a8f5b974
 SHA256 (xmms-1.2.11.tar.bz2) = 7ec15c56632b6c82e61ccddeaefd372359af2f005708a58cdf3951c574b20390
 SHA256 (xmms.alsa.default.diff.gz) = 63309a9833e42d271404e8722dd1f8992851d5575c78c2c13a738bea465700d7
 SHA256 (xmms.desktop) = 33be898e30cbc791e6c8e5a51a653bda8f2d5f102549c27e06e9788887bfa9d5

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw1yflr2swdknn8YcrYAV1LhkYlSonj8OhIq0So7cBgEWjQ3ElCXtZDin7CtgJgV9ROIC9HFFSMBv/dDwsuxvCwU=
+SHA256 (Pkgfile) = 257a6e772d3c64bef5ec6557f71c20653e28cab88aa4f3fc01a7911f58b816e3
+SHA256 (.footprint) = d3f25fb7f844227202fc2643dc32ee364650c427e2751e3c3cca8270dc110071
+SHA256 (pnmixer-0.7.2.tar.gz) = 433487da386396f8d39244395220992ff73fe5191d0226febaead403a0cd6f2c

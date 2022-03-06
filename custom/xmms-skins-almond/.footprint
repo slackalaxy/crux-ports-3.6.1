@@ -1,0 +1,14 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/xmms/
+drwxr-xr-x	root/root	usr/share/xmms/Skins/
+-rw-r--r--	root/root	usr/share/xmms/Skins/60117-Almond_dark.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/66826-Almond_steel.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond-dark-blue.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond-dark-orange.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond_alu.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond_alu_rounded.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond_darkblue_rounded.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond_darkorange_rounded.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond_steel.wsz
+-rw-r--r--	root/root	usr/share/xmms/Skins/Almond_steel_rounded.wsz

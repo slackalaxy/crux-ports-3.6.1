@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw8rokZC1vCDvc504FjKF6fazNt8WOL7UerxqzgviCWuUtyDYZiw6F5yz7+7AsYNRuN/u62MKVuLCwJXgcTa3jAY=
+SHA256 (Pkgfile) = f588d0565ecd90448325404e21fe687475b29a60374ec6e93c1a4b6e5fb6e117
+SHA256 (.footprint) = e63a679598daaf214e1ad1705d2a008a7ce61920065b77d2e3bf19b20cc4610f
+SHA256 (gtk-smooth-engine-0.6.0.1.tar.gz) = 12bb1d1138cbbe9eedb847b5f5f258c2540efe2f65f5aafe822f18684f1b18d1
