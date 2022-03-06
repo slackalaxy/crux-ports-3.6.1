@@ -1,7 +1,7 @@
 # Description: John Bradley's interactive image viewer
 # URL: http://slackware.uk/slackware/slackware64-15.0/extra/source/xv/
 # Maintainer: Petar Petrov, slackalaxy at gmail.com
-# Depends on: jasper libwebp
+# Depends on: libwebp
 
 name=xv
 version=3.10
@@ -30,6 +30,7 @@ build() {
 	zcat $SRC/xv-libpng-1.5.patch.gz | patch -p0 --verbose --backup --suffix=.orig || exit 1
 	
 	# xv breaks with new jasper (v 3.0.2) even with these changes, so let's disable it for now
+	# When I find a fix, I will add jasper back to dependencies
 	#zcat $SRC/xv.jasper.diff.gz | patch -p1 --verbose --backup --suffix=.orig || exit 1
 	# https://www.linuxquestions.org/questions/slackware-14/xv-on-current-4175698325/#post6269993
 	#sed -i "s|fp\,void\ |fp,const void |" xvjp2k.c
