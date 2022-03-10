@@ -800,5 +800,4 @@ drwxr-xr-x	root/root	usr/share/themes/Orangine/openbox-3/
 -rw-r--r--	root/root	usr/share/themes/Orangine/openbox-3/themerc
 drwxr-xr-x	root/root	usr/share/themes/shearwater/
 drwxr-xr-x	root/root	usr/share/themes/shearwater/gtk-2.0/
-lrwxrwxrwx	root/root	usr/share/themes/shearwater/gtk-2.0/Panel -> ../../Bluebird/gtk-2.0/Panel
 -rw-r--r--	root/root	usr/share/themes/shearwater/gtk-2.0/gtkrc

@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw3IYwVuCH3HIFbSabCCZaGF4Qd4BME2C/WFLvRpPgA3Y+YzuNMA8FTKmXJKtwvwepNdvYerz2CRgF7w/7wgGbg4=
-SHA256 (Pkgfile) = 00e9c1a3ef4740215a41c0a1074aca0e8395dfd2104ad9068fdb1b7cd7be881a
-SHA256 (.footprint) = 384647849e11daa2b1d59da7caa28e706b24c427f98bf872f18906b5cd1cb3bd
-SHA256 (vivaldi-stable_5.1.2567.49-1_amd64.deb) = b90ff1c8c379bb5965ff322d9f5d56be04c1c0eaf20b9fff0e07caab123acdb3
+RWQ0fvpBKVgNw22sHklegxZo37+E4vGTVOjaAfJlS8RdgXKDc2OthITLrAdNlmoaqD6JT9QYRfMQvRohgVs0TFG1HlUjpk1SJw0=
+SHA256 (Pkgfile) = c4fa62aa74a3d41fd675b563f0335585b2f3a9aaee1f4d53aca7deca3f61e1f2
+SHA256 (.footprint) = 36ac6001dd22980ec3098977e59bc2b7a3076351452d26407d8bdf32cb968610
+SHA256 (vivaldi-stable_5.1.2567.57-1_amd64.deb) = ffb1f9ea4fc7eb9e99274f13a771999682ab1eef078641df6fcd48c1357ffd7a
 SHA256 (vivaldi.desktop) = 0ef565d3bb3b0631c8385ec831faa6596988756ad972e03ec218802eea857efe

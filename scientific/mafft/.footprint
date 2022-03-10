@@ -15,7 +15,7 @@ lrwxrwxrwx	root/root	usr/bin/mafft-ginsi -> mafft
 lrwxrwxrwx	root/root	usr/bin/mafft-linsi -> mafft
 lrwxrwxrwx	root/root	usr/bin/mafft-nwns -> mafft
 lrwxrwxrwx	root/root	usr/bin/mafft-nwnsi -> mafft
-lrwxrwxrwx	root/root	usr/bin/mafft-profile -> ../lib/mafft/mafft/mafft-profile
+lrwxrwxrwx	root/root	usr/bin/mafft-profile -> ../lib/mafft/mafft-profile
 lrwxrwxrwx	root/root	usr/bin/mafft-qinsi -> mafft
 -rwxr-xr-x	root/root	usr/bin/mafft-sparsecore.rb
 lrwxrwxrwx	root/root	usr/bin/mafft-xinsi -> mafft

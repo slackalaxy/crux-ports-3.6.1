@@ -69,6 +69,7 @@ d:p5-bio-variation
 d:p5-devel-checklib
 d:p5-set-object
 d:p5-tk
+d:p5-xml-twig
 f:5c014ca6a13449f23d1faf5f429df012:p5-xml-sax-writer/.footprint
 f:eb09368aa1758123982560ff0d01d506:p5-xml-sax-writer/Pkgfile
 f:487ecf7e797ff4e314f3a2dbd5649bee:p5-xml-sax-writer/.signature
@@ -283,3 +284,6 @@ f:0b8964ffb30117b8c6214b14c93802d2:p5-set-object/Pkgfile
 f:fe2d597bad07659a10de803b147d4b20:p5-tk/Pkgfile
 f:20ea1bd80cfa47056165cb5154964c0b:p5-tk/.footprint
 f:c6db8c366c9a956c8296b671e80d1596:p5-tk/.signature
+f:8b3e69e869b32f9dde679f54ae0a58d1:p5-xml-twig/Pkgfile
+f:55317069170dd13d947c3c74c6f460ac:p5-xml-twig/.footprint
+f:4c2b67c13564d218b37b9c5862c45261:p5-xml-twig/.signature

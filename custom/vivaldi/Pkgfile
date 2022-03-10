@@ -4,7 +4,7 @@
 # Depends on: alsa-lib brotli cups gtk3 libxkbcommon nss xorg-libxcomposite xorg-libxcursor xorg-libxinerama
 
 name=vivaldi
-version=5.1.2567.49
+version=5.1.2567.57
 release=1
 source=(https://downloads.$name.com/stable/$name-stable_${version}-1_amd64.deb
 	$name.desktop)
@@ -20,4 +20,6 @@ build() {
 	
 	cd $PKG/usr/bin
 	ln -s ../lib/$name/$name-bin $name
+	
+	rm -rf $PKG/usr/lib/vivaldi/WidevineCdm
 }

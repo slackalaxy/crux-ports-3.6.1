@@ -7,7 +7,6 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/
 drwxr-xr-x	root/root	usr/lib/vivaldi/MEIPreload/
 -rw-r--r--	root/root	usr/lib/vivaldi/MEIPreload/manifest.json
 -rw-r--r--	root/root	usr/lib/vivaldi/MEIPreload/preloaded_data.pb
-lrwxrwxrwx	root/root	usr/lib/vivaldi/WidevineCdm -> /opt/google/chrome/WidevineCdm
 -rwxr-xr-x	root/root	usr/lib/vivaldi/chrome_crashpad_handler
 drwxr-xr-x	root/root	usr/lib/vivaldi/cron/
 -rwxr-xr-x	root/root	usr/lib/vivaldi/cron/vivaldi

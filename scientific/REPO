@@ -185,9 +185,9 @@ f:c7838ebc532135890cd4a90e52bf4714:guidance/.footprint
 f:482507599e4f5649ca6b598d1b2a3529:guidance/guidance.sh
 f:fea885b13ccbc92ff8ce2ab92e794dd5:guidance/Pkgfile
 f:9ba0f478bc01f5ace62b133c035bca51:guidance/.signature
-f:bf37c5e738f30f347b03c4d8c7634164:mafft/.signature
-f:e2964028a7c351336bdc3f749d941aca:mafft/.footprint
-f:d0c0050be75082a78d09de7d8af6a6dc:mafft/Pkgfile
+f:1c5d53dcfef26dcc9426637bd94bc66f:mafft/.signature
+f:bdfd8393a837f2a01d0558ea0932ab80:mafft/.footprint
+f:1d882339e831dc231126d9676938d100:mafft/Pkgfile
 f:e62d84c608d4870c6fffb7ab9d119ffe:compnet/njplot.desktop
 f:37c314b7e88f1a5971387b5d79e4f9cd:compnet/README
 f:5a51a368b7537490afb1a121f2a71dec:compnet/compnet.desktop

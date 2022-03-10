@@ -5,7 +5,7 @@
 
 name=mafft
 version=7.481
-release=1
+release=2
 source=(https://mafft.cbrc.jp/alignment/software/$name-$version-with-extensions-src.tgz)
 
 build() {
@@ -44,7 +44,7 @@ build() {
 	( cd $PKG/usr/bin
 	rm -f mafft-distance mafft-profile
 	ln -s ../lib/$name/mafft-distance mafft-distance
-	ln -s ../lib/$name/mafft/mafft-profile mafft-profile )
+	ln -s ../lib/$name/mafft-profile mafft-profile )
 
 	# Copy some samples
 	mkdir -p $PKG/usr/share/$name

@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw96BzkI/0MpSHwVZlG0Wowe3P3qVPxuZKG0HwwwzOtH70wBjV0VHA5ruzP7lRflM8x2O5mPWUY0Kk1tUbszlBwY=
-SHA256 (Pkgfile) = 0799f99efdf78d3f778ab8800ec8a74a86e130a726f8a97232f0f177e3cf8c4b
+RWQ0fvpBKVgNw+Tgz9I4qCrwA/iA1i1cC21zMdauZ17yVziL8JsvxnAkkaM+SfYBnnywX+IIOhunP6h8Iw4KmsmKkPAXZ0NODgU=
+SHA256 (Pkgfile) = d8d9e36e0f944b255ffd28130cef07aee9c8918af04a28d9b309146adc15d760
 SHA256 (.footprint) = 9acc5aed608940dcc49d6fe7df8c9620635a8123a30c8ed23d1f49b15687e668
 SHA256 (cmst-2022.01.05.tar.xz) = 6ddc0e3a702592ec98b80164aa2b5ad1edb66d3f8dce18a545f26a67a46dc13a
 SHA256 (interface.tar.xz) = 7ae7c44d83bea56c8d5249d6954a58b0e0410c60ca536d9e31f6dab6fc986615
