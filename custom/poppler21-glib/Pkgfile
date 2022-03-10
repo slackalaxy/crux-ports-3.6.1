@@ -5,7 +5,7 @@
 
 name=poppler21-glib
 version=21.11.0
-release=1
+release=2
 source=(https://poppler.freedesktop.org/poppler-$version.tar.xz)
 
 build() {
@@ -40,4 +40,9 @@ sed -i "s:include/poppler:include/poppler21:g" poppler-$version/utils/CMakeLists
 	rm -rf $PKG/usr/lib/poppler21/libpoppler.so*
 	rm -rf $PKG/usr/lib/poppler21/pkgconfig/poppler.pc
 	rm -rf $PKG/usr/share
+	
+	mkdir -p $PKG/etc/revdep.d
+	cd $PKG/usr/lib/poppler21
+	find . -type d | perl -lne 'print tr:/::, " $_"' | sort -n | cut -d' ' -f2 > $PKG/etc/revdep.d/$name
+	sed -i "s:\.:/usr/lib/poppler21:" $PKG/etc/revdep.d/$name
 }
