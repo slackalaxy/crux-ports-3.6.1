@@ -54,7 +54,7 @@ d:smpeg
 d:libgnomeuimm
 d:icyque
 d:zoom-linux
-d:tango-icon-theme
+d:pango48
 d:dirdups
 d:rarian
 d:python-bibtex
@@ -181,6 +181,7 @@ d:libburn
 d:libisofs
 d:xfburn
 d:poppler21-glib
+d:tango-icon-theme-48
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -390,9 +391,9 @@ f:28606bdc57fa0d5b41aa8d37e4165c06:zoom-linux/zoom-linux.desktop
 f:50e02d42909dbb007b2d4a40a60a092d:zoom-linux/post-install
 f:607846d477c3ee024640d661d03f5036:zoom-linux/.footprint
 f:72fd02be60e892f99b36584945f24819:zoom-linux/Pkgfile
-f:86e0e701f4c102d0125f375625360061:tango-icon-theme/Pkgfile
-f:3cbf93234cd6b6c4350150bffb0bd763:tango-icon-theme/.footprint
-f:f1369fce2d66a5b5fae6c3123bdc2ce8:tango-icon-theme/.signature
+f:337b8c972776be726a827bb5d5bb79c2:pango48/.footprint
+f:17c4faef7560cba8db23849fd9b68a27:pango48/.signature
+f:b3f884b7a5c4dc19282de80a4203ce5c:pango48/Pkgfile
 f:69b74d58e0440d0f07d97e8b94c9cbc9:dirdups/.signature
 f:29818deb30dc0df67bb9d493fa7597cf:dirdups/.footprint
 f:d138f76952d3647f4acee64065f23a94:dirdups/Pkgfile
@@ -910,3 +911,6 @@ f:2ec58a4d068faaa7c7d6c10281aced98:xfburn/.signature
 f:e84f228ce2742dcb799b3badb79f1d9f:poppler21-glib/Pkgfile
 f:f8c42b188f07f748bf545e72091a32b0:poppler21-glib/.footprint
 f:ccab6de2948163f6c923b6e682c0bfd3:poppler21-glib/.signature
+f:cc2ad122059abfcd799ca84d90804aec:tango-icon-theme-48/.signature
+f:892d1a422a70aa46e82c3e0235232b71:tango-icon-theme-48/Pkgfile
+f:dab5c61ef36005213a7c9e2a7a4d8438:tango-icon-theme-48/.footprint

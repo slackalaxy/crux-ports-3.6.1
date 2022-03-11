@@ -3415,6 +3415,852 @@ lrwxrwxrwx	root/root	usr/share/icons/Tango/32x32/status/trashcan_full.png -> use
 -rw-r--r--	root/root	usr/share/icons/Tango/32x32/status/weather-snow.png
 -rw-r--r--	root/root	usr/share/icons/Tango/32x32/status/weather-storm.png
 lrwxrwxrwx	root/root	usr/share/icons/Tango/32x32/status/xfce-trash_full.png -> user-trash-full.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/actions/
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/add.png -> list-add.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/address-book-new.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/appointment-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/appointment.png -> appointment-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/back.png -> go-previous.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/bookmark-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/bookmark_add.png -> bookmark-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/bookmarks_list_add.png -> bookmark-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/bottom.png -> go-bottom.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/centrejust.png -> format-justify-center.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/contact-new.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-new.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-open.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-print-preview.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-print.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-properties.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-save-as.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/document-save.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/down.png -> go-down.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-clear.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-copy.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-cut.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-delete.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-find-replace.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-find.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-paste.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-redo.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-select-all.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/edit-undo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/editclear.png -> edit-clear.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/editcopy.png -> edit-copy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/editcut.png -> edit-cut.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/editdelete.png -> edit-delete.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/editpaste.png -> edit-paste.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/exit.png -> system-log-out.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/filefind.png -> edit-find.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/filenew.png -> document-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/fileopen.png -> document-open.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/fileprint.png -> document-print.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/filequickprint.png -> document-print-preview.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/filesave.png -> document-save.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/filesaveas.png -> document-save-as.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/find.png -> edit-find.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/finish.png -> go-last.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/folder-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/folder_new.png -> folder-new.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-indent-less.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-indent-more.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-justify-center.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-justify-fill.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-justify-left.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-justify-right.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-text-bold.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-text-italic.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-text-strikethrough.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/format-text-underline.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/forward.png -> go-next.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-lockscreen.png -> system-lock-screen.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-logout.png -> system-log-out.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-searchtool.png -> system-search.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-shutdown.png -> system-shutdown.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-stock-mail-fwd.png -> mail-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-stock-mail-new.png -> mail-message-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-stock-mail-rpl.png -> mail-reply-sender.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-stock-text-indent.png -> format-indent-more.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gnome-stock-text-unindent.png -> format-indent-less.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-bottom.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-down.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-first.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-home.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-jump.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-last.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-next.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-previous.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-top.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/go-up.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gohome.png -> go-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-add.png -> list-add.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-bold.png -> format-text-bold.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-cancel.png -> process-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-clear.png -> edit-clear.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-copy.png -> edit-copy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-cut.png -> edit-cut.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-delete.png -> edit-delete.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-find-and-replace.png -> edit-find-replace.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-find.png -> edit-find.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-fullscreen.png -> view-fullscreen.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-go-back-ltr.png -> go-previous.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-go-back-rtl.png -> go-next.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-go-down.png -> go-down.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-go-forward-ltr.png -> go-next.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-go-forward-rtl.png -> go-previous.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-go-up.png -> go-up.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-goto-bottom.png -> go-bottom.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-goto-first-ltr.png -> go-first.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-goto-first-rtl.png -> go-last.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-goto-last-ltr.png -> go-last.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-goto-last-rtl.png -> go-first.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-goto-top.png -> go-top.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-home.png -> go-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-indent-ltr.png -> format-indent-more.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-indent-rtl.png -> format-indent-less.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-italic.png -> format-text-italic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-jump-to-ltr.png -> go-jump.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-jump-to-rtl.png -> go-jump.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-justify-center.png -> format-justify-center.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-justify-fill.png -> format-justify-fill.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-justify-left.png -> format-justify-left.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-justify-right.png -> format-justify-right.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-forward-ltr.png -> media-seek-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-forward-rtl.png -> media-seek-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-next-ltr.png -> media-skip-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-next-rtl.png -> media-skip-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-pause.png -> media-playback-pause.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-play-ltr.png -> media-playback-start.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-previous-ltr.png -> media-skip-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-previous-rtl.png -> media-skip-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-record.png -> media-record.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-rewind-ltr.png -> media-seek-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-rewind-rtl.png -> media-seek-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-media-stop.png -> media-playback-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-new.png -> document-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-open.png -> document-open.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-paste.png -> edit-paste.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-print-preview.png -> document-print-preview.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-print.png -> document-print.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-properties.png -> document-properties.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-redo-ltr.png -> edit-redo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-refresh.png -> view-refresh.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-remove.png -> list-remove.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-save-as.png -> document-save-as.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-save.png -> document-save.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-select-all.png -> edit-select-all.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-stop.png -> process-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-strikethrough.png -> format-text-strikethrough.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-underline.png -> format-text-underline.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-undo-ltr.png -> edit-undo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-unindent-ltr.png -> format-indent-less.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/gtk-unindent-rtl.png -> format-indent-more.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/kfind.png -> system-search.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/kfm_home.png -> go-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/leftjust.png -> format-justify-left.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/list-add.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/list-remove.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/lock.png -> system-lock-screen.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/mail-forward.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/mail-message-new.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/mail-reply-all.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/mail-reply-sender.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/mail-send-receive.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/mail_forward.png -> mail-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/mail_new.png -> mail-message-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/mail_reply.png -> mail-reply-sender.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/mail_replyall.png -> mail-reply-all.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-eject.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-playback-pause.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-playback-start.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-playback-stop.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-record.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-seek-backward.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-seek-forward.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-skip-backward.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/media-skip-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/next.png -> go-next.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_eject.png -> media-eject.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_end.png -> media-skip-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_fwd.png -> media-seek-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_pause.png -> media-playback-pause.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_play.png -> media-playback-start.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_record.png -> media-record.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_rew.png -> media-seek-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_start.png -> media-skip-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/player_stop.png -> media-playback-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/previous.png -> go-previous.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/process-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/redhat-home.png -> go-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/redo.png -> edit-redo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/reload.png -> view-refresh.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/reload3.png -> view-refresh.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/reload_all_tabs.png -> view-refresh.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/reload_page.png -> view-refresh.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/remove.png -> list-remove.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/rightjust.png -> format-justify-right.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/search.png -> system-search.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/start.png -> go-first.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_add-bookmark.png -> bookmark-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_bottom.png -> go-bottom.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_copy.png -> edit-copy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_cut.png -> edit-cut.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_delete.png -> edit-delete.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_down.png -> go-down.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_file-properites.png -> document-properties.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_first.png -> go-first.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_fullscreen.png -> view-fullscreen.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_help-add-bookmark.png -> bookmark-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_home.png -> go-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_last.png -> go-last.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_left.png -> go-previous.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_mail-compose.png -> mail-message-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_mail-forward.png -> mail-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_mail-reply-to-all.png -> mail-reply-all.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_mail-reply.png -> mail-reply-sender.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_mail-send-receive.png -> mail-send-receive.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-fwd.png -> media-seek-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-next.png -> media-skip-forward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-pause.png -> media-playback-pause.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-play.png -> media-playback-start.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-prev.png -> media-skip-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-rec.png -> media-record.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-rew.png -> media-seek-backward.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_media-stop.png -> media-playback-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-address-book.png -> address-book-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-appointment.png -> appointment-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-bcard.png -> contact-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-dir.png -> folder-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-tab.png -> tab-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-text.png -> document-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_new-window.png -> window-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_paste.png -> edit-paste.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_print-preview.png -> document-print-preview.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_print.png -> document-print.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_properties.png -> document-properties.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_redo.png -> edit-redo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_refresh.png -> view-refresh.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_right.png -> go-next.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_save-as.png -> document-save-as.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_save.png -> document-save.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_search-and-replace.png -> edit-find-replace.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_search.png -> edit-find.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_select-all.png -> edit-select-all.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_stop.png -> process-stop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text-strikethrough.png -> format-text-strikethrough.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_bold.png -> format-text-bold.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_center.png -> format-justify-center.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_indent.png -> format-indent-more.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_italic.png -> format-text-italic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_justify.png -> format-justify-fill.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_left.png -> format-justify-left.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_right.png -> format-justify-right.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_underlined.png -> format-text-underline.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_text_unindent.png -> format-indent-less.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_top.png -> go-top.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_undo.png -> edit-undo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stock_up.png -> go-up.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/stop.png -> process-stop.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/system-lock-screen.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/system-log-out.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/system-search.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/system-shutdown.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/tab-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/tab_new.png -> tab-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/text_bold.png -> format-text-bold.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/text_italic.png -> format-text-italic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/text_strike.png -> format-text-strikethrough.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/text_under.png -> format-text-underline.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/top.png -> go-top.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/undo.png -> edit-undo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/up.png -> go-up.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/view-fullscreen.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/view-refresh.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/actions/window-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/window_fullscreen.png -> view-fullscreen.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/window_new.png -> window-new.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/actions/xfce-system-lock.png -> system-lock-screen.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/apps/
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/access.png -> preferences-desktop-accessibility.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/accessibility-directory.png -> preferences-desktop-accessibility.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/accessories-calculator.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/accessories-character-map.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/accessories-text-editor.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/background.png -> preferences-desktop-wallpaper.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/browser.png -> internet-web-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/calc.png -> accessories-calculator.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/config-language.png -> preferences-desktop-locale.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/config-users.png -> system-users.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/date.png -> office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/email.png -> internet-mail.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/file-manager.png -> system-file-manager.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/fonts.png -> preferences-desktop-font.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-calculator.png -> accessories-calculator.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-character-map.png -> accessories-character-map.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-help.png -> help-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-monitor.png -> utilities-system-monitor.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-remote-desktop.png -> preferences-desktop-remote-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-session.png -> preferences-system-session.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-settings-accessibility-technologies.png -> preferences-desktop-accessibility.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-settings-background.png -> preferences-desktop-wallpaper.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-settings-font.png -> preferences-desktop-font.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-settings-keybindings.png -> preferences-desktop-keyboard-shortcuts.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-settings-theme.png -> preferences-desktop-theme.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-terminal.png -> utilities-terminal.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gnome-window-manager.png -> preferences-system-windows.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/gucharmap.png -> accessories-character-map.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/help-browser.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/internet-group-chat.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/internet-mail.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/internet-news-reader.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/internet-web-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kcalc.png -> accessories-calculator.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kcharselect.png -> accessories-character-map.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kcmkwm.png -> preferences-system-windows.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kedit.png -> accessories-text-editor.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/key_bindings.png -> preferences-desktop-keyboard-shortcuts.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kfm.png -> system-file-manager.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/khelpcenter.png -> help-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/konsole.png -> utilities-terminal.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/krfb.png -> preferences-desktop-remote-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kscreensaver.png -> preferences-desktop-screensaver.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/ksysguard.png -> utilities-system-monitor.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kuser.png -> system-users.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/kwin.png -> preferences-system-windows.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/locale.png -> preferences-desktop-locale.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/mail_generic.png -> internet-mail.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/openterm.png -> utilities-terminal.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-accessibility.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-assistive-technology.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-font.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-keyboard-shortcuts.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-locale.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-multimedia.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-remote-desktop.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-screensaver.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-theme.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-desktop-wallpaper.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-system-network-proxy.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-system-session.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/preferences-system-windows.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/proxy-config.png -> preferences-system-network-proxy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/proxy.png -> preferences-system-network-proxy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/redhat-email.png -> internet-mail.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/redhat-filemanager.png -> system-file-manager.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/redhat-web-browser.png -> internet-web-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/screensaver.png -> preferences-desktop-screensaver.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/stock_proxy.png -> preferences-system-network-proxy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/style.png -> preferences-desktop-theme.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/susehelpcenter.png -> help-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/system-config-users.png -> system-users.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/system-file-manager.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/system-installer.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/system-software-update.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/system-users.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/terminal.png -> utilities-terminal.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/text-editor.png -> accessories-text-editor.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/update-manager.png -> system-software-update.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/utilities-system-monitor.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/apps/utilities-terminal.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/wallpaper.png -> preferences-desktop-wallpaper.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/web-browser.png -> internet-web-browser.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfcalendar.png -> office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfce-filemanager.png -> system-file-manager.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfce-mail.png -> internet-mail.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfce-terminal.png -> utilities-terminal.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfce4-backdrop.png -> preferences-desktop-wallpaper.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfce4-session.png -> preferences-system-session.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xfwm4.png -> preferences-system-windows.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/ximian-evolution-calendar.png -> office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/xscreensaver.png -> preferences-desktop-screensaver.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/apps/zen-icon.png -> system-software-update.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/categories/
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-accessories.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-development.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-games.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-graphics.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-internet.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-multimedia.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-office.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-other.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/applications-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-applications.png -> applications-office.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-control-center.png -> preferences-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-devel.png -> applications-development.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-globe.png -> applications-internet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-graphics.png -> applications-graphics.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-joystick.png -> applications-games.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-multimedia.png -> applications-multimedia.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-other.png -> applications-other.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-settings.png -> preferences-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-system.png -> applications-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gnome-util.png -> applications-accessories.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/gtk-preferences.png -> preferences-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/input_devices_settings.png -> preferences-desktop-peripherals.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/kcontrol.png -> preferences-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_development.png -> applications-development.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_games.png -> applications-games.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_graphics.png -> applications-graphics.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_multimedia.png -> applications-multimedia.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_network.png -> applications-internet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_office.png -> applications-office.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_settings.png -> preferences-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_system.png -> applications-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/package_utilities.png -> applications-accessories.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/preferences-desktop-peripherals.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/preferences-desktop.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/categories/preferences-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-accessories.png -> applications-accessories.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-games.png -> applications-games.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-graphics.png -> applications-graphics.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-internet.png -> applications-internet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-office.png -> applications-office.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-preferences.png -> preferences-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-programming.png -> applications-development.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-sound_video.png -> applications-multimedia.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-system_settings.png -> preferences-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/redhat-system_tools.png -> applications-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/stock_internet.png -> applications-internet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-games.png -> applications-games.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-graphics.png -> applications-graphics.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-internet.png -> applications-internet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-multimedia.png -> applications-multimedia.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-office.png -> applications-office.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-system-settings.png -> preferences-system.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce-utils.png -> applications-accessories.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/categories/xfce4-settings.png -> preferences-desktop.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/devices/
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/3floppy_unmount.png -> media-floppy.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/audio-card.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/audio-input-microphone.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/battery.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/camera-photo.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/camera-video.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/camera.png -> camera-photo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/camera_unmount.png -> camera-photo.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/cdrom_unmount.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/cdwriter_unmount.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/chardevice.png -> video-display.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/computer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/display.png -> video-display.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/drive-cdrom.png -> drive-optical.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/drive-harddisk.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/drive-optical.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/drive-removable-media.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/dvd_unmount.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-battery.png -> battery.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-cdrom-audio.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-cdrom.png -> drive-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-computer.png -> computer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-cdr.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-cdrw.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-dvdr-plus.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-dvdr.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-dvdram.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-dvdrom.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-disc-dvdrw.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-dvd.png -> drive-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-ethernet.png -> network-wired.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-floppy.png -> media-floppy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-harddisk-1394.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-harddisk-usb.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-harddisk.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-ipod.png -> multimedia-player.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-keyboard.png -> input-keyboard.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-media-cf.png -> media-flash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-media-ms.png -> media-flash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-media-sdmmc.png -> media-flash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-media-sm.png -> media-flash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-mouse-ball.png -> input-mouse.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-mouse-optical.png -> input-mouse.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-printer.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-removable-1394.png -> drive-removable-media.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-removable-usb.png -> drive-removable-media.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-removable.png -> drive-removable-media.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-dev-wavelan.png -> network-wireless.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-fs-client.png -> computer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gnome-stock-mic.png -> audio-input-microphone.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gtk-cdrom.png -> media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gtk-floppy.png -> media-floppy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/gtk-harddisk.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/harddrive.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/hdd_unmount.png -> drive-harddisk.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/input-gaming.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/input-keyboard.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/input-mouse.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/ipod_mount.png -> multimedia-player.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/joystick.png -> input-gaming.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/keyboard.png -> input-keyboard.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/kjobviewer.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/kxkb.png -> input-keyboard.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/media-cdrom.png -> media-optical.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/media-flash.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/media-floppy.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/media-optical.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/mouse.png -> input-mouse.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/multimedia-player.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/network-wired.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/network-wireless.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/printer-remote.png -> printer.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/printer1.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/printmgr.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/stock_mic.png -> audio-input-microphone.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/stock_printers.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/system-floppy.png -> media-floppy.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/system.png -> computer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/usbpendrive_unmount.png -> drive-removable-media.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/devices/video-display.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/xfce-printer.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/xfce4-display.png -> video-display.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/xfce4-keyboard.png -> input-keyboard.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/xfce4-mouse.png -> input-mouse.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/yast_HD.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/yast_idetude.png -> drive-harddisk.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/yast_joystick.png -> input-gaming.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/yast_mouse.png -> input-mouse.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/yast_printer.png -> printer.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/devices/yast_soundcard.png -> audio-card.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/emblems/
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-favorite.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-important.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emblems/emblem-noread.png -> emblem-unreadable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emblems/emblem-nowrite.png -> emblem-readonly.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-photos.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-readonly.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-symbolic-link.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-system.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emblems/emblem-unreadable.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/emotes/
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-angel.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-crying.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-devilish.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-glasses.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-grin.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-kiss.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-monkey.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-plain.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-sad.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-smile-big.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-smile.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-surprise.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/emotes/face-wink.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-1.png -> face-smile.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-11.png -> face-crying.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-13.png -> face-kiss.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-18.png -> face-angel.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-2.png -> face-smile.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-22.png -> face-monkey.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-3.png -> face-wink.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-4.png -> face-sad.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-5.png -> face-surprise.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-6.png -> face-smile-big.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-7.png -> face-smile.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/emotes/stock_smiley-8.png -> face-plain.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/mimetypes/
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/application-certificate.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.ms-excel.sheet.macroEnabled.12.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.ms-powerpoint.presentation.macroEnabled.12.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.ms-word.document.macroEnabled.12.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.openxmlformats-officedocument.presentationml.presentation.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.openxmlformats-officedocument.presentationml.template.png -> x-office-presentation-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.openxmlformats-officedocument.spreadsheetml.sheet.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.openxmlformats-officedocument.spreadsheetml.template.png -> x-office-spreadsheet-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.openxmlformats-officedocument.wordprocessingml.document.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/application-vnd.openxmlformats-officedocument.wordprocessingml.template.png -> x-office-document-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/application-x-executable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/ascii.png -> text-x-generic.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/audio-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/binary.png -> application-x-executable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/contents2.png -> x-office-address-book.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/deb.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/document.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/empty.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/exec.png -> application-x-executable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/folder_tar.png -> package-x-generic.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/font.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/font_bitmap.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/font_truetype.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/font_type1.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-fs-executable.png -> application-x-executable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-magicpoint.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-msword.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-ogg.png -> audio-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-pdf.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-postscript.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-rtf.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.lotus-1-2-3.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.ms-excel.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.ms-powerpoint.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.graphics-template.png -> x-office-drawing-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.graphics.png -> x-office-drawing.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.image.png -> x-office-drawing.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.presentation-template.png -> x-office-presentation-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.spreadsheet-template.png -> x-office-spreadsheet-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.spreadsheet.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.text-template.png -> x-office-document-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.text-web.png -> text-html.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.oasis.opendocument.text.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.rn-realmedia-secure.png -> video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.rn-realmedia-vbr.png -> video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.rn-realmedia.png -> video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.stardivision.calc.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.stardivision.impress.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.stardivision.writer.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.calc.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.calc.template.png -> x-office-spreadsheet-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.draw.png -> x-office-drawing.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.draw.template.png -> x-office-drawing-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.impress.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.impress.template.png -> x-office-presentation-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.writer.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-vnd.sun.xml.writer.template.png -> x-office-document-template.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-wordperfect.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-7z-compressed.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-abiword.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-applix-spreadsheet.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-applix-word.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-archive.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-arj.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-bzip-compressed-tar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-bzip.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-compress.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-compressed-tar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-cpio-compressed.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-cpio.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-deb.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-dvi.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-executable.png -> application-x-executable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-font-afm.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-font-bdf.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-font-linux-psf.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-font-pcf.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-font-sunos-news.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-font-ttf.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-gnumeric.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-gzip.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-gzpostscript.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-jar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-killustrator.png -> image-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-kpresenter.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-kspread.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-kword.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-lha.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-lhz.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-lzma-compressed-tar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-lzma.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-ms-dos-executable.png -> application-x-executable.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-perl.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-php.png -> text-html.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-python-bytecode.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-rar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-rpm.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-scribus.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-shellscript.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-shockwave-flash.png -> video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-stuffit.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-tar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-tarz.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-x-tex.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-xhtml+xml.png -> text-html.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-application-zip.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-audio.png -> audio-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-image.png -> image-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-html.png -> text-html.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-vnd.wap.wml.png -> text-html.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-x-csh.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-x-python.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-x-sh.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-x-vcalendar.png -> x-office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-x-vcard.png -> x-office-address-book.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text-x-zsh.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-text.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-video.png -> video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-mime-x-font-afm.png -> font-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/gnome-package.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/html.png -> text-html.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/image-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/image.png -> image-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/kpresenter_kpr.png -> x-office-presentation.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/mime_ascii.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/misc.png -> text-x-generic.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/package.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/package_editors.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/package_wordprocessing.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/plan.png -> x-office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/rpm.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/shellscript.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/sound.png -> audio-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/spreadsheet.png -> x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/stock_addressbook.png -> x-office-address-book.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/stock_calendar.png -> x-office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/stock_certificate.png -> application-certificate.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/stock_script.png -> text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/tar.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/template_source.png -> text-x-generic-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/text-html.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/text-x-generic-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/text-x-generic.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/text-x-script.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/tgz.png -> package-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/txt.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/txt2.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/unknown.png -> text-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/vcalendar.png -> x-office-calendar.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/vcard.png -> x-office-address-book.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/video.png -> video-x-generic.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/wordprocessing.png -> x-office-document.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/www.png -> text-html.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-address-book.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-calendar.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-document-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-document.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-drawing-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-drawing.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-presentation-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-presentation.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-spreadsheet-template.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/mimetypes/x-office-spreadsheet.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/mimetypes/zip.png -> package-x-generic.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/places/
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/application-x-gnome-saved-search.png -> folder-saved-search.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/desktop.png -> user-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/distributor-logo.png -> start-here.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/emptytrash.png -> user-trash.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/folder-remote.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/folder-saved-search.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/folder.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/folder_home.png -> user-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-desktop.png -> user-desktop.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-directory.png -> folder.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-ftp.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-home.png -> user-home.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-network.png -> network-workgroup.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-nfs.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-server.png -> network-server.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-share.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-smb.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-ssh.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-fs-trash-empty.png -> user-trash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-main-menu.png -> start-here.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-mime-x-directory-nfs-server.png -> network-server.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-mime-x-directory-smb-server.png -> network-server.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-mime-x-directory-smb-share.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-mime-x-directory-smb-workgroup.png -> network-workgroup.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gnome-stock-trash.png -> user-trash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gtk-directory.png -> folder.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/gtk-network.png -> network-workgroup.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/inode-directory.png -> folder.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/network-server.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/network-workgroup.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/network.png -> folder-remote.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/network_local.png -> network-workgroup.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/novell-button.png -> start-here.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/redhat-network-server.png -> network-server.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/server.png -> network-server.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/start-here.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/stock_folder.png -> folder.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/trashcan_empty.png -> user-trash.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/user-desktop.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/user-home.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/places/user-trash.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/places/xfce-trash_empty.png -> user-trash.png
+drwxr-xr-x	root/root	usr/share/icons/Tango/48x48/status/
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/audio-volume-high.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/audio-volume-low.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/audio-volume-medium.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/audio-volume-muted.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/battery-caution.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/connect_creating.png -> network-transmit-receive.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/connect_established.png -> network-idle.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/connect_no.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/dialog-error.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/dialog-information.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/dialog-warning.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/edittrash.png -> user-trash-full.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/error.png -> dialog-error.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/folder-drag-accept.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/folder-open.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/folder-visiting.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/folder_open.png -> folder-open.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-dev-wavelan-encrypted.png -> network-wireless-encrypted.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-fs-directory-accept.png -> folder-drag-accept.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-fs-directory-visiting.png -> folder-visiting.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-fs-loading-icon.png -> image-loading.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-fs-trash-full.png -> user-trash-full.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-netstatus-disconn.png -> network-offline.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-netstatus-error.png -> network-error.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-netstatus-idle.png -> network-idle.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-netstatus-rx.png -> network-receive.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-netstatus-tx.png -> network-transmit.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-netstatus-txrx.png -> network-transmit-receive.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gnome-stock-trash-full.png -> user-trash-full.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gtk-dialog-error.png -> dialog-error.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gtk-dialog-info.png -> dialog-information.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gtk-dialog-warning.png -> dialog-warning.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/gtk-missing-image.png -> image-missing.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/image-loading.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/image-missing.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/important.png -> dialog-warning.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/info.png -> dialog-information.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/mail-attachment.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/messagebox_critical.png -> dialog-error.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/messagebox_info.png -> dialog-information.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/messagebox_warning.png -> dialog-warning.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-error.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-idle.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-offline.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-receive.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-transmit-receive.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-transmit.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/network-wireless-encrypted.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/nm-adhoc.png -> network-idle.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/nm-device-wired.png -> network-idle.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/nm-device-wireless.png -> network-idle.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/nm-no-connection.png -> network-offline.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/printer-error.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/software-update-available.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/software-update-urgent.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_attach.png -> mail-attachment.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_dialog-error.png -> dialog-error.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_dialog-info.png -> dialog-information.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_dialog-warning.png -> dialog-warning.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_open.png -> folder-open.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_trash_full.png -> user-trash-full.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_volume-0.png -> audio-volume-low.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_volume-max.png -> audio-volume-high.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_volume-med.png -> audio-volume-medium.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_volume-min.png -> audio-volume-low.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_volume-mute.png -> audio-volume-muted.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_volume.png -> audio-volume-high.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-cloudy.png -> weather-overcast.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-few-clouds.png -> weather-few-clouds.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-night-clear.png -> weather-clear-night.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-night-few-clouds.png -> weather-few-clouds-night.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-showers.png -> weather-showers.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-snow.png -> weather-snow.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-storm.png -> weather-storm.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/stock_weather-sunny.png -> weather-clear.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/sunny.png -> weather-clear.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/trashcan_full.png -> user-trash-full.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/user-trash-full.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-clear-night.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-clear.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-few-clouds-night.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-few-clouds.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-overcast.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-severe-alert.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-showers-scattered.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-showers.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-snow.png
+-rw-r--r--	root/root	usr/share/icons/Tango/48x48/status/weather-storm.png
+lrwxrwxrwx	root/root	usr/share/icons/Tango/48x48/status/xfce-trash_full.png -> user-trash-full.png
 -rw-r--r--	root/root	usr/share/icons/Tango/index.theme
 drwxr-xr-x	root/root	usr/share/icons/Tango/scalable/
 drwxr-xr-x	root/root	usr/share/icons/Tango/scalable/actions/

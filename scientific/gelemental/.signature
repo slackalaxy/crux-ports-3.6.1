@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcMlEOTCK9vevd5YdkVxqhvhvouEOLZ+tCs0YSEvnZ8m8mVXBiyY/u89OjWngy/Z/IB9IJ3bDiYb/EwerUfXX6QE=
-SHA256 (Pkgfile) = b0e00ea122718f224f1d9b544b6d839c17a69582f37d37ef1e6ee742fa5be91d
+RWTXrKv/sDjJcKvBN8N+z1jronfZYYzO/juUh4oGR9sUThxOPXoKvskUgVkTOoD3HRP9t6/xmvLnCvBFTMTwF9783Q+gId3QugE=
+SHA256 (Pkgfile) = 538d81183751062636a81d92fc1e4b846533879dc94fa1b54ae0c83b9facb7cf
 SHA256 (.footprint) = b0064e6527dabddab19e7d316349ea105d619d3fb67efb2fcc9369395a814a81
-SHA256 (gelemental-2.0.0.tar.gz) = bfd5662202221756b2272e0de4ff28c68f57d1302e7deabaf357f68af10ccadf
+SHA256 (gelemental-2.0.1.tar.gz) = 88b2ef12e1bca530f9dbc5c7717d0761f1827e85b667803bd4c84103e26d54e8
