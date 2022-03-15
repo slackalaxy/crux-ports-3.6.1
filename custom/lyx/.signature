@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwz8pdNmrsGtD/7TmjklXN8Yp9oOHNXs1LnDOQm+EAoAFJTWmsLC2weSK7oYMvhVMl6TNZyKLdGTn9vdmwPU5Ewc=
+SHA256 (Pkgfile) = b53d5f228dda5c8ed1b8cd09ff5e55f5bad08a7c2bc31fe8316b20e1530c4882
+SHA256 (.footprint) = c483283dcb26fb1db6d9897478ddc4dd346b1054992853ba0b6c101f40a76261
+SHA256 (lyx-2.3.6.1.tar.xz) = c6bed2633419898e01a7cc350310d7d934bf591cab7259fc2581aa4c00eafa78

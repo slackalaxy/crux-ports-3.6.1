@@ -5,7 +5,7 @@
 
 name=embassy
 version=6.6.0
-release=1
+release=2
 source=(https://sourceforge.net/projects/sboppetrov/files/EMBOSS/CBSTOOLS-1.0.0.650.tar.gz \
 	https://sourceforge.net/projects/sboppetrov/files/EMBOSS/CLUSTALOMEGA-1.1.0.tar.gz \
 	https://sourceforge.net/projects/sboppetrov/files/EMBOSS/DOMAINATRIX-0.1.650.tar.gz \
@@ -45,10 +45,12 @@ embassy=(CBSTOOLS-1.0.0.650
 	STRUCTURE-0.1.650
 	TOPO-2.0.650)
 	
-	# Build CBSTOOLS
 	for component in ${embassy[@]} ; do
 	  cd $SRC/$component
-	  ./configure --prefix=/usr
+	  LDFLAGS="-L/usr/lib/emboss" \
+	  ./configure --prefix=/usr \
+	  --libdir=/usr/lib/emboss \
+	  --bindir=/usr/lib/emboss/bin
 	  make
 	  make install DESTDIR=$PKG
 	  cd ..
@@ -56,17 +58,25 @@ embassy=(CBSTOOLS-1.0.0.650
 	
 	# These two need some extra flags...
 	cd $SRC/VIENNA-1.7.2.650
+	LDFLAGS="-L/usr/lib/emboss" \
 	CFLAGS="$CFLAGS -std=gnu89" \
 	CXXFLAGS="$CXXFLAGS -std=gnu89" \
-	./configure --prefix=/usr
+	./configure --prefix=/usr \
+	--libdir=/usr/lib/emboss \
+	--bindir=/usr/lib/emboss/bin
 	make
 	make install DESTDIR=$PKG
 	
 	cd $SRC/PHYLIPNEW-3.69.650
+	LDFLAGS="-L/usr/lib/emboss" \
 	CFLAGS="$CFLAGS -fcommon" \
 	CXXFLAGS="$CXXFLAGS -fcommon" \
-	./configure --prefix=/usr
+	./configure --prefix=/usr \
+	--libdir=/usr/lib/emboss \
+	--bindir=/usr/lib/emboss/bin
 	make
 	make install DESTDIR=$PKG
 	
+	rm -rf $PKG/usr/lib/emboss/*.la	
+	rm -rf $PKG/usr/share/EMBOSS/doc
 }

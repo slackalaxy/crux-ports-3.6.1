@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Telegram
+Comment=Telegram
+Exec=Telegram
+Icon=telegram
+StartupNotify=false
+Type=Application
+Categories=Network

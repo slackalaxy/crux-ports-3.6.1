@@ -182,6 +182,8 @@ d:libisofs
 d:xfburn
 d:poppler21-glib
 d:tango-icon-theme-48
+d:lyx
+d:telegram
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -418,14 +420,14 @@ f:2a384db0a138358863f572c67604cb2f:gtk1-industrial-engine/.signature
 f:8e1a7e0795e373f33e3bc6b1301429ff:bluefish/Pkgfile
 f:2d09c0d93065ac37386624de0a0332b6:bluefish/.footprint
 f:091961c418fd414395a3c1dbb0a984c9:bluefish/.signature
-f:b64e8cf0d2cbc71cd3e1a95acd39ea25:seamonkey-bin/Pkgfile
+f:e9ae92ca8e9217a7605829de36b02757:seamonkey-bin/Pkgfile
 f:b0a7674d74db9ef6948b7febe8bd71ca:seamonkey-bin/seamonkey-private.desktop
 f:dc70082367700e9b1ccd9e1c6520af40:seamonkey-bin/seamonkey-addressbook.desktop
 f:f53c8a85513e23a8d0702b0e8038d401:seamonkey-bin/seamonkey.desktop
 f:bd396666b046868ff18c0b98a1e90ed1:seamonkey-bin/seamonkey-mail.desktop
 f:72e1472bc1b52e1b76de45bb784cd458:seamonkey-bin/seamonkey-composer.desktop
 f:fbb767c0f373808fbbf2cef59a83500d:seamonkey-bin/.footprint
-f:5e20d132d33ce0e2273c4e80214fa3c0:seamonkey-bin/.signature
+f:ff8fa8f7c57337cf00aee00d5a7a52d9:seamonkey-bin/.signature
 f:3c8810343bbff8128fa5d8c40a8e365d:seamonkey-bin/seamonkey.menu
 f:b695f4aaff2b153442c2794790a6d6e8:seamonkey-bin/seamonkey.directory
 f:0ea35b3713bb60287617a6b88e84732d:referencer/.footprint
@@ -914,3 +916,11 @@ f:ccab6de2948163f6c923b6e682c0bfd3:poppler21-glib/.signature
 f:cc2ad122059abfcd799ca84d90804aec:tango-icon-theme-48/.signature
 f:892d1a422a70aa46e82c3e0235232b71:tango-icon-theme-48/Pkgfile
 f:dab5c61ef36005213a7c9e2a7a4d8438:tango-icon-theme-48/.footprint
+f:48016466ee5172d5dcd79a69285be386:lyx/.footprint
+f:ef3edfb1faab62edb88997d48ea1ed59:lyx/.signature
+f:0aeca952fdcfeddce0b5d81a57fe8676:lyx/Pkgfile
+f:a0f66ebf65848f1866e5c465da126e5e:telegram/Pkgfile
+f:5b65ccd471f1ab1c1951a261ea87ff59:telegram/telegram.png
+f:58faf6e274573c87d5fa5b0aff6c2d0a:telegram/telegram.desktop
+f:7d47d77c9df3a1c5434fd62030683694:telegram/.footprint
+f:b69568398042ce10010983bc58505648:telegram/.signature

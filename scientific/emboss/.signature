@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcKGIH/1M8eU49CONJRuLg7bKZ4DYe92SDWZMxHeVx/76jLLKp4ML8Pp8wA4vjKQosShm5vp9INqRgcgJ8v/SqgE=
-SHA256 (Pkgfile) = 9f903671cac9674c11579aef243d4f8bacd6c149690ffe99925d25bd29ea5746
-SHA256 (.footprint) = 8cc821d0a90bcbb0cac6aad4eed752bfeb78539eee608eb5c8ee60150ce0d0af
+RWTXrKv/sDjJcDhJnb3UxZ9QgNgRKrbfD8vEtT6v2lRJ/C5NkhTGgupxTJt/0ZwM1cx5/I9kU1V+HA4MfrYV4FSrcFcZYf+wEQA=
+SHA256 (Pkgfile) = daef1a4ef22e76efe6bacea5dd6cdecbe1f56fecd2273fbcb36d07fc3358e33a
+SHA256 (.footprint) = 2840269c27c66b95ce97d2964aa8f1c88e15326cbc4bc33626db47b4d2e0db0f
 SHA256 (EMBOSS-6.6.0.tar.gz) = 7184a763d39ad96bb598bfd531628a34aa53e474db9e7cac4416c2a40ab10c6e
-SHA256 (EMBOSS.desktop) = 5ae8a79a9fe206358215780ca9669bb7a6d68b2b8bcfe2572257ad2d2e7d31a7
-SHA256 (EMBOSS.png) = 24b18b7e53012d1fc36a139345b50dab9777161f1054bc646b1fe2bcad64e4b1
+SHA256 (emboss.desktop) = 0c729a44c5c10e3f42dc939bdc9c2f92d5c6b1b3131423e74a00e13231ffb310
+SHA256 (emboss.png) = 24b18b7e53012d1fc36a139345b50dab9777161f1054bc646b1fe2bcad64e4b1

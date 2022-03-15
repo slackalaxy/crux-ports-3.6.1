@@ -2,7 +2,7 @@
 Categories=Education;
 Comment=Bioinformatics suite
 Exec=runJemboss.sh
-Icon=EMBOSS
+Icon=emboss
 Name=EMBOSS
 StartupNotify=false
 Type=Application
