@@ -27,6 +27,7 @@ drwxr-xr-x	root/root	usr/lib/google-chrome/default_apps/
 -rw-r--r--	root/root	usr/lib/google-chrome/icudtl.dat
 -rw-r--r--	root/root	usr/lib/google-chrome/libEGL.so
 -rw-r--r--	root/root	usr/lib/google-chrome/libGLESv2.so
+-rw-r--r--	root/root	usr/lib/google-chrome/liboptimization_guide_internal.so
 -rw-r--r--	root/root	usr/lib/google-chrome/libvk_swiftshader.so
 -rwxr-xr-x	root/root	usr/lib/google-chrome/libvulkan.so.1
 drwxr-xr-x	root/root	usr/lib/google-chrome/locales/

@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwzh6ziKLgxdK9OpXRS8jNHYyflbXowsFIX0ISPc5nZS6T26wgFXara/mDFDY27U72W7rfB+zF2bXjAY2VOsgNQs=
+SHA256 (Pkgfile) = f30a6b8fbc29ed2d70adb2094ae4f0b0abd022040262c359328a555dd8445a08
+SHA256 (.footprint) = 4314469b9e59c47811f7d6eb9674c5204f557cc4a601d547495459db5c6e8568
+SHA256 (streamtuner-0.99.99.tar.gz) = 5c223a5e8dab9e504617bd221914e97bd2f0ae5f6ed8fe78b8ea8b427fee9123
+SHA256 (streamtuner-0.99.99-live365.diff) = 3605841bda8a7571d447b25c46b36181ee3c2b03c0d6211ff91e6c82f0cf7758

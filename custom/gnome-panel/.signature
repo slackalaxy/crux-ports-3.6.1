@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw1nCJqiijn5BtsYfoyUeub8d+iW7H6Z1dj1v7X9UNw7sBTXdBeco6H9k/SBE2HidIDT21nSDEEofAi4fl3n7Qg0=
-SHA256 (Pkgfile) = a650ee0c9c67da1706e435bc911ddc259587a9b47169782362ae996ea439184d
+RWQ0fvpBKVgNwzdIQCh1hdtrjn/IjJ8zoFMwH6wFYi1PETWSEUmcx4eQ/jGf9NIpAmhICukKvIp+qW0bgrmvOYj0JmCHPY3gqQA=
+SHA256 (Pkgfile) = 012225d5f1143e6f72c0686f2dd162a33596dd7f1e251465ca49076328807386
 SHA256 (.footprint) = 911555848abffc7382ce247c947460a884c7d04faaaa4f8887c635fa29973b16
 SHA256 (gnome-panel-2.30.2.tar.bz2) = f0171c55ecdf4970f819cce66de0db99bbe43832e8a284ea0dd0c89d7d12e7b6
