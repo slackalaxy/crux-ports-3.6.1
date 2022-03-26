@@ -235,8 +235,8 @@ f:17a9078a5485feff4affb2d8e447e9ad:libffi6/Pkgfile
 f:4fe7e189723ef7e2446a1b99d5b98c85:libffi6/.signature
 f:28659e9e39a2c78812b743447eae8621:libffi6/.footprint
 f:fa568adaf1bfa25b619d6fa173183a9a:etr/.footprint
-f:80d6974a3a9a1f4a41a6d4b425caf8e8:etr/.signature
-f:5501f8008475a8a0ee3fb3943d272197:etr/Pkgfile
+f:03e4e2a3015fd250bddc7d5a2d9684a0:etr/.signature
+f:d8ce75835444d840ffaa9e41d619cd6d:etr/Pkgfile
 f:528deb43d0aa22bde7aa0b3b3bb18857:libbonobo/remove_use_of_G_DISABLE_DEPRECATED.patch
 f:36bc35adb79cb0dc35052b716bd24fd8:libbonobo/test_no_srcdir.patch
 f:f712800c74cf9a48db600a36fdcc37c9:libbonobo/.footprint
