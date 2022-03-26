@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwyylbzss4QQtbbDPHiFix8ONSMWiPtzNYhbnCaP+MPlTSXIAkBlXoK5NdlxYme3mbZUWYnt7OM2aCf4Jdz0H6Qk=
-SHA256 (Pkgfile) = 76f267de8508f63465fdc130ec5d964f806ac7801127d598fcd4266bdc07abaf
+RWQ0fvpBKVgNw7fJFwd7Kci3dMMTqTZjo+EGC0zPZVRGQS7VOwzpbQEwGV6hdFXLIQXeWvdzicIM1uSJsokG7N5UqQifeCUUBAI=
+SHA256 (Pkgfile) = ad9d6c2cc14828982c191e3d7dc7670452e5636bfc98e1a35672f01cbae364fb
 SHA256 (.footprint) = c34fa5e1cb06d8bfb581bc661daf791f9122067e0f7163cc40b41793af4a3183
 SHA256 (xscreensaver-6.02.tar.gz) = 5e6d6cb09033ad562cfe6d46bf9312e4451f7946bed8a4671aa9344df9193184
 SHA256 (xscreensaver.pam) = bf8bfc428530824f4de3582481b21bad8c6d095ffbf91aa7173dda3e158604e1

@@ -4,7 +4,7 @@
 # Depends on: libxslt python
 
 name=python-lxml
-version=4.6.3
+version=4.7.1
 release=1
 source=(https://lxml.de/files/lxml-$version.tgz)
 

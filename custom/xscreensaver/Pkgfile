@@ -9,17 +9,6 @@ release=1
 source=(https://www.jwz.org/$name/$name-$version.tar.gz
 	$name.pam 01_electricsheep.patch 02_rss.patch)
 
-unpack_source() {
-	for file in ${source[@]}; do
-		case ${file##*/} in
-			$name-$version.tar.gz)
-				tar xfvz $(get_filename $file) -C $SRC ;;
-			*)
-				cp $(get_filename $file) $SRC ;;
-		esac
-	done
-}
-
 build() {
 	cd $name-$version
 

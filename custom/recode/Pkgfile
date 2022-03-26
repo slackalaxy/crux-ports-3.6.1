@@ -6,7 +6,7 @@
 name=recode
 version=3.7beta
 release=1
-source=(pinard-Recode-v3.7-beta2-56-g2fd8385.tar.gz)
+source=(pinard-Recode-v3.7-beta2-56-g2fd8385.tar.xz)
 
 build() {
 	cd pinard-Recode-2fd8385

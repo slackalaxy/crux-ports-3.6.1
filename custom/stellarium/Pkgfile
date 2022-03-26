@@ -4,7 +4,7 @@
 # Depends on: brotli double-conversion libpcre2 pulseaudio qt5
 
 name=stellarium
-version=0.21.0
+version=0.21.3
 release=1
 source=(https://github.com/Stellarium/stellarium/releases/download/v${version}/$name-$version.tar.gz)
 

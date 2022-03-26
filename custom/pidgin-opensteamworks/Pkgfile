@@ -4,7 +4,7 @@
 # Depends on: json-glib libgnome-keyring
 
 name=pidgin-opensteamworks
-version=1.6.1
+version=1.7.2
 release=1
 source=(https://github.com/EionRobb/$name/archive/$version.tar.gz)
 

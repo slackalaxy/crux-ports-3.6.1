@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw40WRHv7rJAVkVyMzHXkvoXWgoNCYQ4qUTRxooubPV7lI+uk8dGo7ZEWWfzHnw1Pz7N2QXmx/w5CPSQaUGJhdQ0=
-SHA256 (Pkgfile) = 1a9fd00760dddc137270b56d465bd79e30d765749e8f7902727d7f0f3bc745a2
+RWQ0fvpBKVgNw2vmtWEW7lJHq9N4EuLqw3LXTCUwJ4CiNeaZ3YmzJWJ6ddImHG0QfA9d6TLwvvH6/nz14zseBXk4VEHntZAC+wc=
+SHA256 (Pkgfile) = 0f9c20506bf70c3b775fa54d2fc154972e02d9ec7fc67760a4aaac67fdcfc001
 SHA256 (.footprint) = e42e21a7a223bed8422b4a1fdfd9f79acae33f0e7010b616d9a4607fdbcb185f
-SHA256 (pinard-Recode-v3.7-beta2-56-g2fd8385.tar.gz) = 375fbe63e0ba89ab012473054eb48df7fd6b455afcf49a9bc93e316b0ffd1b21
+SHA256 (pinard-Recode-v3.7-beta2-56-g2fd8385.tar.xz) = e132d00c0d6dd4b9d847bad1a9e683bd385b7f96d914bf73cfcdf81c53f92fda

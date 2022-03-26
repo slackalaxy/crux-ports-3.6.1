@@ -1,8 +1,8 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw1SFRhZxme+7xiSwR857deDAiatgQjQfZNnHdZjZyQG7JaoAhCdQUPgJ7ZM/P0vSj8XfYrDRUTD7Iqh661e50go=
+RWQ0fvpBKVgNw5MoiwWNc9OtZmwX87U1Fc6UuDIvLh/NrmbYnDJJFdbCeCyg4GyykoKhMzuovoFzmm9k8/YOieBbUhZbJJ5OJgk=
 SHA256 (Pkgfile) = c379d8ff6e4177707b722b575c6dac8f473ad6698c3f9d64a40c5ad220fe9afd
 SHA256 (.footprint) = c5276da146497f3fbf2e24cec64793fc46c01f8b964d504565fb68c15e94beac
 SHA256 (xpdf-4.03.tar.gz) = 0fe4274374c330feaadcebb7bd7700cb91203e153b26aa95952f02bf130be846
 SHA256 (xpdfrc.diff) = 393a49cd7da2c81ba369e5854ca45b6f2b5c391530a90b98b39ebef12a2ae8d9
 SHA256 (xpdf.desktop) = 0e924e8c9dece932ab32a7d4d2ada55001a26e141efbd1891de8e3ec0aed156f
-SHA256 (xpdf.png) = f9a7d73a4e915fa7404d879529251acc66fc6154fb3f5791834a9220a5a957b3
+SHA256 (xpdf.png) = e8b0578f15861d0296631341d8dc7b131006be297038a8307a8d8920b574f114

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw+exr6qBBC9S8Y1Jion95WGo1kS2cuZt3QtzXAq5SevBFVGlminrL9PdmI/EBa9bMBx9bY7fNiZp+wAao45HPwc=
-SHA256 (Pkgfile) = 3be6b00e9dae69ba63d15e2974cc41ae7e90eadbc0dfe06e0fb9d27b841ed1ff
-SHA256 (.footprint) = ae90ffadaab8277d859b1fac6b1e50c4edfa368d5b1b76f5987beeab0159ce95
-SHA256 (etr-0.7.4.tar.xz) = da9ce3a1b1e56415285163b9ebc67fdb11fca07acd3ab18f793556d996275234
+RWQ0fvpBKVgNwy8lJAQcV4F8tGOTZeJzmjCpxLhzVb+O0n+zcb84Jy+W29xPKFyKEp2wEPQ62qRgG1c8Bw6AZyx4O/ENxFEdpAs=
+SHA256 (Pkgfile) = 62e0a66358362273b43a62164ff8c188cf91ebfa9ffcfc0b4abd148697776888
+SHA256 (.footprint) = bd9a942ea111dd8d29a7361bae464252d1294790231111f0f4343d9eb949b877
+SHA256 (etr-0.8.1.tar.xz) = 92da963ed32ab9bff126346edfb9549e871d7c3cec753f4ac5098e0d53c38341

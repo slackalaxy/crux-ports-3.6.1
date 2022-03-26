@@ -4,9 +4,9 @@
 # Depends on: brotli gtk xorg-libxdamage
 
 name=ktsuss
-version=99ea197
+version=9ea2e83
 release=1
-source=(https://github.com/nomius/ktsuss/archive/99ea197/$name-99ea19743328a8e72b8b966635e44f1e816cf294.tar.gz)
+source=(https://github.com/nomius/ktsuss/archive/$version/$name-9ea2e839b259f90b509285af49f8dc11851488cb.tar.gz)
 
 build() {
 	cd $name-${version}*
