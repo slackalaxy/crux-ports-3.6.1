@@ -7518,7 +7518,7 @@ drwxrwxr-x	root/root	usr/share/icons/gnome-colors-common/48x48/apps/
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/alltray.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/amsn.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/amule.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/amule.xpm -> amule.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/amule.xpm -> amule.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/anyremote.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/application-default-icon.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/ardour.png
@@ -7530,16 +7530,16 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/amule.xpm ->
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/background.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/badge-small.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/balsa.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/balsa.xpm -> internet-mail.svg
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/banshee.xpm -> media-player-banshee.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/balsa.xpm -> internet-mail.png
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/banshee.xpm -> media-player-banshee.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/baobab.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bash.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/blender.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish-icon.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish-icon.xpm -> bluefish.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish-icon.xpm -> bluefish.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish_icon.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish_icon.xpm -> bluefish.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish_icon.xpm -> bluefish.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/blueradio-48.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/blueradio.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluetooth-48.png
@@ -7548,7 +7548,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bluefish_ico
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/boot.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bt-logo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bum.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bum.xpm -> system-config-boot.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bum.xpm -> system-config-boot.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/cacao-oj6.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/cairo-clock.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/ccsm.png
@@ -7598,16 +7598,16 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/bum.xpm -> s
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdm-setup.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdm-xnest.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdm.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdm.xpm -> gdm.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdm.xpm -> gdm.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdmflexiserver.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gdmsetup.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/geany.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gedit-icon.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gedit-icon.xpm -> accessories-text-editor.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gedit-icon.xpm -> accessories-text-editor.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gedit-logo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gftp.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gksu-debian.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gksu-debian.xpm -> gksu-root-terminal.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gksu-debian.xpm -> gksu-root-terminal.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gksu-root-terminal.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/glipper.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gmplayer.png
@@ -7629,7 +7629,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gksu-debian.
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-inhibit-applet.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-monitor.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-mplayer.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-mplayer.xpm -> gnome-mplayer.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-mplayer.xpm -> gnome-mplayer.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-news.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-note.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-palm.png
@@ -7661,11 +7661,11 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-mplaye
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-system-monitor.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-term.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-terminal.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-terminal.xpm -> utilities-terminal.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-terminal.xpm -> utilities-terminal.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-translate.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-volume-control.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-vumeter.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-vumeter.xpm -> gnome-vumeter.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-vumeter.xpm -> gnome-vumeter.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-window-manager.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-windows.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-word.png
@@ -7676,7 +7676,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnome-vumete
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnote.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gnumeric.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/goobox.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/goobox.xpm -> rip.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/goobox.xpm -> rip.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gpicview.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gpk-repo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gpm-hibernate.png
@@ -7696,7 +7696,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/goobox.xpm -
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/gxine.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/harddrake.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/hardinfo.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/hardinfo.xpm -> hwinfo.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/hardinfo.xpm -> hwinfo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/help-browser.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/help-contents.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/help.png
@@ -7704,10 +7704,10 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/hardinfo.xpm
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/htop.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/hwbrowser.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/hwinfo.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/idle.xpm -> python.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/idle.xpm -> python.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/image-viewer.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/inkscape.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/inkscape.xpm -> inkscape.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/inkscape.xpm -> inkscape.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/internet-mail.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/internet-news-reader.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/invest-applet.png
@@ -7732,7 +7732,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/inkscape.xpm
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/language-selector.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/liferea.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/lives.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/lives.xpm -> avidemux.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/lives.xpm -> avidemux.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/locale.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/localedrake.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/lpi-translate.png
@@ -7750,13 +7750,13 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/lives.xpm ->
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/miro.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/mousepad.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/mplayer.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/mplayer.xpm -> gnome-mplayer.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/mplayer.xpm -> gnome-mplayer.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nautilus-actions.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/notecase.xpm -> gnome-sticky-notes-applet.svg
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt-mini.xpm -> d4x.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/notecase.xpm -> gnome-sticky-notes-applet.png
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt-mini.xpm -> d4x.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt-wm.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt.xpm -> d4x.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt.xpm -> d4x.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/office-mail.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/office-writer.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/ogmrip.png
@@ -7786,7 +7786,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/nt.xpm -> d4
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/ooo-writer3.0.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/ooo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/ooo3.0.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/openjdk-6.xpm -> sun-java6.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/openjdk-6.xpm -> sun-java6.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/openoffice.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/openoffice3.0.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/openofficeorg-base.png
@@ -7835,7 +7835,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/openjdk-6.xp
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pan.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pavumeter.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pidgin-menu.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pidgin-menu.xpm -> pidgin.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pidgin-menu.xpm -> pidgin.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pidgin.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pirut.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pitivi.png
@@ -7857,13 +7857,13 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pidgin-menu.
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pybliographic.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/pyrenamer.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python.xpm -> python.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python.xpm -> python.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python2.5.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python2.5.xpm -> python.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python2.5.xpm -> python.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python2.6.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python2.6.xpm -> python.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python2.6.xpm -> python.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python3.0.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python3.0.xpm -> python.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python3.0.xpm -> python.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/qtconfig.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/rapidsvn.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/rclock.png
@@ -7883,7 +7883,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/python3.0.xp
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/seahorse-applet.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/seahorse-preferences.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/seahorse.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/seahorse.xpm -> seahorse.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/seahorse.xpm -> seahorse.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/serpentine.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/session-properties.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/simple-ccsm.png
@@ -7909,11 +7909,11 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/seahorse.xpm
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/stock_todo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/style.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/sun-java6.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/sun-java6.xpm -> sun-java6.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/sun-java6.xpm -> sun-java6.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/sun_java.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/susehelpcenter.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/synaptic.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/synaptic.xpm -> system-software-installer.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/synaptic.xpm -> system-software-installer.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/system-config-boot.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/system-config-display.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/system-config-firewall.png
@@ -7958,7 +7958,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/synaptic.xpm
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/vmware.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wallpaper.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wesnoth-icon.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wesnoth-icon.xpm -> wesnoth.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wesnoth-icon.xpm -> wesnoth.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wesnoth.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wine-doors.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wine-notepad.png
@@ -7973,8 +7973,8 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/wesnoth-icon
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/x-system-software-sources.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xchat-gnome.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xchat.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xchat.xpm -> xchat-gnome.svg
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xchat_mini.xpm -> xchat-gnome.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xchat.xpm -> xchat-gnome.png
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xchat_mini.xpm -> xchat-gnome.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xfardic-logo.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xfce-edit.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/apps/xfce-mail.png
@@ -8016,7 +8016,7 @@ drwxrwxr-x	root/root	usr/share/icons/gnome-colors-common/48x48/categories/
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/applications-system.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/configuration_section.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/control-center2.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/categories/control-center2.xpm -> preferences-system.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/categories/control-center2.xpm -> preferences-system.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/development_section.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/drakconf.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/gconf-editor.png
@@ -8067,7 +8067,7 @@ lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/categories/contro
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/xfce-system.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/xfce-utils.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/xfce4-mcs-manager.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/categories/xfce4-mcs-manager.xpm -> preferences-system.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/categories/xfce4-mcs-manager.xpm -> preferences-system.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/categories/xfce4-settings.png
 drwxrwxr-x	root/root	usr/share/icons/gnome-colors-common/48x48/devices/
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/applets-screenshooter.png
@@ -8135,7 +8135,7 @@ drwxrwxr-x	root/root	usr/share/icons/gnome-colors-common/48x48/devices/
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/multimedia-player.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/music-player.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/ndisgtk.png
-lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/devices/ndisgtk.xpm -> network-wireless.svg
+lrwxrwxrwx	root/root	usr/share/icons/gnome-colors-common/48x48/devices/ndisgtk.xpm -> network-wireless.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/network-wired.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/network-wireless.png
 -rw-rw-r--	root/root	usr/share/icons/gnome-colors-common/48x48/devices/nm-device-wwan.png

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw5wNS3H3Ekds/6H7lNUWiR6xQ5ZMAO18GOzUhDGnqvhzh3mPQqIkQIViy+o8EWpnUW1dGLF82IqPdTSb/NeRGgY=
+SHA256 (Pkgfile) = a62136a688db151d004a736850a2908576b8a5f7c7f6425abd4c6ae087551d06
+SHA256 (.footprint) = 17871ee1c0c182733a7767b8cf5d684019504122274be577eb1b7b0579cdf86b
+SHA256 (gnome-icon-theme-2.28.0.tar.bz2) = 31ecbd459ae059672793e46c773742897cb95e22ca5900ccdfb2a22aa30f3884

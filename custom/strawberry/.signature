@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwz8V2v/A7pS6/mfJujy8tfv+U6InEA4bA94xJxPZDOpl16kblqd0l+WgOqsZKVWYOnSzMOLe/5vKbflPkifd4As=
+SHA256 (Pkgfile) = 23f2d15d86a400f656f4ec0d05ef488e0f19240c7e67df14092b4887741b030a
+SHA256 (.footprint) = e91f4af490835bec24fa129fc17d9f178bfb721f1109b40f0e1ec51c9eb58c31
+SHA256 (strawberry-1.0.3.tar.xz) = 5bf952efab4de4cb9569a091db359eb994bf31ad03f0677f93a40eff85eb9c6a
