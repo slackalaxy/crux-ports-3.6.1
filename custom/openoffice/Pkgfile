@@ -54,5 +54,5 @@ build() {
 	mkdir -p $PKG/etc/revdep.d
 	cd $PKG/usr/lib/$name
 	find . -type d | perl -lne 'print tr:/::, " $_"' | sort -n | cut -d' ' -f2 > $PKG/etc/revdep.d/$name
-	sed -i "s:\.:/usr/lib/$name:g" $PKG/etc/revdep.d/$name
+	sed -i "s:\.:/usr/lib/$name:" $PKG/etc/revdep.d/$name
 }

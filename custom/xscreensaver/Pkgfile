@@ -1,10 +1,10 @@
 # Description: A screen saver and locker daemon for xorg patched to work with electricsheep
 # URL: https://www.jwz.org/xscreensaver/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: bc fortune gdk-pixbuf-xlib giflib glu intltool libglade linux-pam xorg-libxmu xorg-libxi electricsheep
+# Depends on: bc electricsheep fortune gdk-pixbuf-xlib linux-pam xorg-libxi xorg-libxmu
 
 name=xscreensaver
-version=6.02
+version=6.03
 release=1
 source=(https://www.jwz.org/$name/$name-$version.tar.gz
 	$name.pam 01_electricsheep.patch 02_rss.patch)
@@ -14,24 +14,12 @@ build() {
 
 	patch -p1 -i $SRC/01_electricsheep.patch
 	#patch -p1 -i $SRC/02_rss.patch
-
-	./configure \
-		--prefix=/usr \
-		--libexecdir=/usr/lib \
-		--with-x-app-defaults='/etc/X11/app-defaults' \
-		--enable-locking \
-		--enable-root-passwd \
-		--disable-nls \
-		--with-dpms-ext \
-		--with-xinerama-ext \
-		--with-xshm-ext \
-		--with-proc-interrupts \
-		--with-shadow \
-		--with-pixbuf \
-		--with-jpeg \
-		--without-motif \
-		--without-gle \
-		--without-setuid-hacks
+	./configure --prefix=/usr \
+	--libdir=/usr/lib \
+	--libexecdir=/usr/lib/$name \
+	--without-kerberos \
+	--with-jpeg \
+	--with-gl
 
 	make
 	make install_prefix=$PKG install
@@ -43,5 +31,5 @@ build() {
 	# PAM service file
 	install -D -m 0644 $SRC/$name.pam $PKG/etc/pam.d/$name
 
-	rm -r $PKG/usr/share/{locale,xscreensaver/config/README}
+	rm -rf $PKG/usr/share/{locale,xscreensaver/config/README}
 }

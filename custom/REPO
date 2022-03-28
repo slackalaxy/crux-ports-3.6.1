@@ -80,7 +80,7 @@ d:abiword
 d:gnome-python
 d:viber
 d:pango-querymodules
-d:terminus-font
+d:terminus-font-otb
 d:polar-cursor-themes
 d:glib1
 d:python-uniconvertor
@@ -149,7 +149,6 @@ d:adoptopenjdk
 d:qt4
 d:pdflib-lite
 d:gtk1-theme-switch
-d:ttf-mac-fonts
 d:dbus-python
 d:zotero-gtk2
 d:wps-legacy-dict-bg
@@ -332,8 +331,8 @@ f:3f2753f51ab94daa567dd51f47f50d08:sharutils/.footprint
 f:5983debb8494425479d4d7769ba58026:sharutils/Pkgfile
 f:82af5ac54aff3465a3f65b94bc99511d:sharutils/.signature
 f:9083f8b9d93f72ee22870f272abe1c69:sharutils/sharutils.glibc228.diff.gz
-f:2b569a9425e764517360e62adb7958bd:openoffice/Pkgfile
-f:332468ceca8c88e75b9d3d8425340df3:openoffice/.signature
+f:8ecb4542ce18b55093422409c98f6486:openoffice/Pkgfile
+f:b7686d9992ca7fee09eed3e61cc1f69d:openoffice/.signature
 f:a3f73b3d90847a3408d20b50d034e915:openoffice/openoffice.menu
 f:abf48d8295704bc3e6b971f508ca002e:openoffice/.footprint
 f:b19d102414fee958782a3d0427f9f17a:openoffice/openoffice.directory
@@ -487,10 +486,10 @@ f:356c94fe5f724a742c23e6556b4eeb10:viber/.signature
 f:a050850739170c665ebd20f20db0bd16:pango-querymodules/Pkgfile
 f:04d2eb41c0eef90668283629908ac502:pango-querymodules/.footprint
 f:a44e59f451251608869169f4d3c18b3c:pango-querymodules/.signature
-f:d2f755c6d109c85ddb5ea36453813632:terminus-font/Pkgfile
-f:ec94fd189292d4005cad6ace7dcd46aa:terminus-font/post-install
-f:2e3828b447770c97783d36c5cf9f9a43:terminus-font/.footprint
-f:0a36c67015b9666fb7d44d58b61c600d:terminus-font/.signature
+f:a134cca72ca1ccf3411b4ef7726f6d66:terminus-font-otb/.signature
+f:99bb230451e8ce964ebda1f79f6851d7:terminus-font-otb/Pkgfile
+f:759868c73d9c01ea68ca49aaf49d4347:terminus-font-otb/.footprint
+f:e0d75b8289a7a524ef69f4fb873280e0:terminus-font-otb/post-install
 f:65dd9b746e38cf4fe0e2698c8bb72a5e:polar-cursor-themes/.footprint
 f:0d2581a71afc36832a20b92012223bb8:polar-cursor-themes/.signature
 f:b208b6f12aa362bed1744e4db5f7b315:polar-cursor-themes/Pkgfile
@@ -763,10 +762,10 @@ f:03db71df1f830714232f26b87f07d4ba:python-lxml/Pkgfile
 f:b2ecf6c528533300504730fbe84c0db0:ktsuss/.footprint
 f:a048a452c9eb1e9307c3fcf1f2c52b77:ktsuss/.signature
 f:5ad01e6be5b73a82a959bd525c4284c5:ktsuss/Pkgfile
+f:9b9d47f5655cc350ddd3434df5222f6f:xscreensaver/.signature
 f:d996d65ecfdf5f3d2d2216ee25ca6416:xscreensaver/01_electricsheep.patch
-f:4d45bc7b35599ca6ebd8282039c82c51:xscreensaver/Pkgfile
-f:5b3588883eac53ba03c8a8b53101ed22:xscreensaver/.signature
-f:371e24a243800b446695844d6f52a56c:xscreensaver/.footprint
+f:ec7b41debb2b78a430fe85159644181e:xscreensaver/Pkgfile
+f:d514922ee13503c29e3dda39809fd4e4:xscreensaver/.footprint
 f:9da54c3bbf7a884c197bbb33b2b3ade3:xscreensaver/xscreensaver.pam
 f:bd054dff3d8167d23005ab4b6f78cc4c:xscreensaver/02_rss.patch
 f:67ec9b526f30a0c62d7d723b3bf6e516:adoptopenjdk/.signature
@@ -799,9 +798,6 @@ f:4879da2580c9d69e7fb5b6c9be95a4ce:gtk1-theme-switch/.footprint
 f:4ea8378e6effa43eb380b349af64db17:gtk1-theme-switch/gtk1-theme-switch.desktop
 f:9871fa350dfe620a8deccf06916b568a:gtk1-theme-switch/Pkgfile
 f:7790963d81674fdf7c61805ca7176d5b:gtk1-theme-switch/.signature
-f:bce75b17f7c7b9d6e38c13d503cbf5ab:ttf-mac-fonts/.signature
-f:ef31b5b797799ba15148d243de1f2614:ttf-mac-fonts/Pkgfile
-f:da3ee2f6f5a3e2ee45795e2a75d600ba:ttf-mac-fonts/.footprint
 f:bc130dbd701ed2ee28fd9c2b29a3eaf5:dbus-python/.footprint
 f:2a5287ae2abcc61ec8ebc7a520358a86:dbus-python/.signature
 f:3e9946358386d08f6125af624ffd870b:dbus-python/Pkgfile

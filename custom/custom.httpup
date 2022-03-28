@@ -1,8 +1,0 @@
-#
-# /etc/ports/custom.httpup: custom ports collection
-#
- 
-ROOT_DIR=/usr/ports/custom
-URL=https://raw.githubusercontent.com/slackalaxy/crux-ports/main/custom/
- 
-# End of file
