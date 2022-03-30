@@ -189,6 +189,7 @@ d:gnome2-desktop
 d:strawberry
 d:gnome-icon-theme-stock
 d:liberation-fonts-ttf
+d:sofia-sans-fonts
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -220,10 +221,10 @@ f:a5483463afa59b02548ed053fa585914:gcolor2/color_definition_path.patch
 f:b06437a13ef231806ba731ab06deec97:gcolor2/.footprint
 f:b3053f325016c5e8de240923b43796e2:gcolor2/Pkgfile
 f:f2920b7e43251ffb9f3f6ccbdfe1feef:gcolor2/.signature
-f:2f870c091b5c5c2078a4f9ba39ea6580:urw-base35/Pkgfile
+f:b41ff4563d32f409a88cbc018a37c28f:urw-base35/Pkgfile
 f:e0ba5bc77189e6f335ce918d7958bca8:urw-base35/post-install
-f:380eff2991f9db0e3960093ca4963327:urw-base35/.footprint
-f:c8cc7f7d834812107d2939769d484fdf:urw-base35/.signature
+f:1f973e171fd8942c72befdbf4eba17fb:urw-base35/.footprint
+f:bb564478e198d79af32beae2e6ec7038:urw-base35/.signature
 f:131c6962cd0b6d4ee0b3f2334ae79692:gnome-vfsmm/Pkgfile
 f:73b4d3968769ff13db2ad7f8d80d48f6:gnome-vfsmm/.footprint
 f:93927e012359df23e355b30e5a06c3d7:gnome-vfsmm/.signature
@@ -952,3 +953,7 @@ f:7fda0cb9017ebae6567a11239ebc71f9:liberation-fonts-ttf/57-liberation-serif.conf
 f:17cd3eb4e8ff211993994cf942146eed:liberation-fonts-ttf/README
 f:3ad403aa37258e06f853274aef909f68:liberation-fonts-ttf/.footprint
 f:4496f3c6dd52198f7b0c2deea50f8088:liberation-fonts-ttf/.signature
+f:86552d44d71f0217335ca2a32109602d:sofia-sans-fonts/Pkgfile
+f:ef72af639f317b6df06a4b9c85e6eb07:sofia-sans-fonts/post-install
+f:d29a9cb33746e1f2d8e921617321e4d9:sofia-sans-fonts/.footprint
+f:f819d480ab0c1f64c2a588c8e6f2d834:sofia-sans-fonts/.signature

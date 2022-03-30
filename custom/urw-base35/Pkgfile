@@ -4,7 +4,7 @@
 
 name=urw-base35
 version=20200910
-release=1
+release=2
 source=(https://github.com/ArtifexSoftware/urw-base35-fonts/archive/refs/tags/$version.tar.gz)
 
 build() {
@@ -21,4 +21,6 @@ build() {
 	for f in ${conf[@]}; do
 	  cp $f $PKG/etc/fonts/conf.avail/69-${f}
 	done
+	
+	chmod 0644 $PKG/usr/share/fonts/urw-base35/*.otf
 }
