@@ -1,0 +1,8 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw09X3BQebJ2p1KIIm15m8ekLhMYoijH0yMBkcVb67Sho337Uyi7GVzHeZ1rzLv+uPQn5qbqbeaGiul6RS3bTfAU=
+SHA256 (Pkgfile) = af40b3b897bd934e71d94278c7b700fc3d9dd6d77ef40e20f02c2afd7e3a1cda
+SHA256 (.footprint) = ab9aa3b1a4137d8f921d1c4c21cfeda3234b6f07c88acbf7194b4f0ef6ff5a5f
+SHA256 (liberation-fonts-ttf-2.1.5.tar.gz) = 7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0
+SHA256 (57-liberation-mono.conf) = 23294852286a5179c40fbf157d30798e3fbf78db3ec20056cb8fb84b91b48297
+SHA256 (57-liberation-sans.conf) = 9288525a333e17c55b52bef935e279980d07ae9e3abece516d471d4d31deb038
+SHA256 (57-liberation-serif.conf) = 973e621103954fc98a2a87a3d5bae7403176c0e34e4530a9b77abcf6a0ca88a6

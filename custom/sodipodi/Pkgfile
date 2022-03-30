@@ -1,7 +1,7 @@
 # Description: A general vector illustrating application
 # URL: https://sourceforge.net/projects/sodipodi/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on:
+# Depends on: brotli graphite2 gtk libart_lgpl libglvnd popt xorg-libxdamage
 
 name=sodipodi
 version=0.34

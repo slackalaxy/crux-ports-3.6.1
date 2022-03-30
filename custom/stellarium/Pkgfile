@@ -5,7 +5,7 @@
 
 name=stellarium
 version=0.21.3
-release=1
+release=2
 source=(https://github.com/Stellarium/stellarium/releases/download/v${version}/$name-$version.tar.gz)
 
 build() {
@@ -21,4 +21,5 @@ build() {
 	make install DESTDIR=$PKG
 	 
 	sed -i "s:Education:Game:" $PKG/usr/share/applications/org.$name.Stellarium.desktop
+	rm -rf $PKG/usr/share/stellarium/translations
 }

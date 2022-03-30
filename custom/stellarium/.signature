@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwwODrosiQAeiQB/0duwEml0kLtiva0MdSIgzYKFwg4RLkm9uBjzYtCiNdQeG+FwSy8FrjUILGD/Qzee1xrkrNQM=
-SHA256 (Pkgfile) = 2ddbe289df35dd803a81e15782f1dde3bc3b9e8355ee87f56b47c801eb179a5b
-SHA256 (.footprint) = f8bff95ce0d162e0dc70f7d12ea6a2402d7093e4b487fd8403def33d128b6105
+RWQ0fvpBKVgNw1hobcBLvHhnoPX2BU5mUD+l/AapkBgYfgTNvudgznrO42QvTmwkbldXiNN93Rqji8b0I2bA/coa8X8MI1aUzQM=
+SHA256 (Pkgfile) = 582cbd4505a8a0b0b6f7539d3d8654652a4f4dc9762603d3853dd1070a1433b0
+SHA256 (.footprint) = 01b8fa99a4f48b22f8542f7e5b5b9934494ac86540ec61224704f0e5e47f63a4
 SHA256 (stellarium-0.21.3.tar.gz) = 8ac6c054d12f136fe0d5c0deaaa8d7b69dd2a462be1711a187364574aef97e7f
