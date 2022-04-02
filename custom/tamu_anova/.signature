@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw177ihVMS+m9Y/qc6jMKJJ4wa0k5eRJucOnYVBzJfG5o+hIuqQgziUcNcqyhSJ4r3kpogt039BDZkyNPrmVDpgw=
+SHA256 (Pkgfile) = 252cdbf33897809b1ae32f2d9927b348336f714961ae2af8fd6749dfe2aa594a
+SHA256 (.footprint) = 5ea51db49fa30a76bfe9a856957b502a7a8266ec5c234d6b16f63d52bb87194d
+SHA256 (tamuanova_0.2.orig.tar.gz) = 2583bd33bb9243709a5f44ad07677a8362bcca8816bd19f452eb4e3e375c213a

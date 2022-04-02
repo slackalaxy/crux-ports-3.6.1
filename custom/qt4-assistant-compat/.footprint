@@ -1,0 +1,20 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/qt4/
+drwxr-xr-x	root/root	usr/share/qt4/bin/
+-rwxr-xr-x	root/root	usr/share/qt4/bin/assistant_adp
+drwxr-xr-x	root/root	usr/share/qt4/include/
+drwxr-xr-x	root/root	usr/share/qt4/include/QtAssistant/
+-rwxr-xr-x	root/root	usr/share/qt4/include/QtAssistant/qassistantclient.h
+-rwxr-xr-x	root/root	usr/share/qt4/include/QtAssistant/qassistantclient_global.h
+drwxr-xr-x	root/root	usr/share/qt4/lib/
+-rw-r--r--	root/root	usr/share/qt4/lib/libQtAssistantClient.prl
+lrwxrwxrwx	root/root	usr/share/qt4/lib/libQtAssistantClient.so -> libQtAssistantClient.so.4.8.7
+lrwxrwxrwx	root/root	usr/share/qt4/lib/libQtAssistantClient.so.4 -> libQtAssistantClient.so.4.8.7
+lrwxrwxrwx	root/root	usr/share/qt4/lib/libQtAssistantClient.so.4.8 -> libQtAssistantClient.so.4.8.7
+-rwxr-xr-x	root/root	usr/share/qt4/lib/libQtAssistantClient.so.4.8.7
+drwxr-xr-x	root/root	usr/share/qt4/lib/pkgconfig/
+-rw-r--r--	root/root	usr/share/qt4/lib/pkgconfig/QtAssistantClient.pc
+drwxr-xr-x	root/root	usr/share/qt4/mkspecs/
+drwxr-xr-x	root/root	usr/share/qt4/mkspecs/features/
+-rw-r--r--	root/root	usr/share/qt4/mkspecs/features/assistant.prf

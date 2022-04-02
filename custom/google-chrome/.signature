@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw9vvGeEDqt6IFhRvHl/rcQtdLajIpECNfBJTn28nMfHRuoeJJ0Mpx+P0R3ULUF+8EHMxuIDCpim1F1BKLG1tJwU=
+RWQ0fvpBKVgNw0dkZ3dfSmKFN0TJ4DhzKF8Bm6uTB1abCmNBgrro0q+wJnYN6cbWLuxe4TC46sNzjtivPMmqMWSHnnFwGbPT6A0=
 SHA256 (Pkgfile) = 2beaa4660362cc91c5c979a59df15728758c314bfa61e4ee85934003e3160a0d
 SHA256 (.footprint) = 6c8875b9c6ad3e4094c06a223067abf5aac716fb2871d247749d26abdc15a835
-SHA256 (google-chrome-stable_current_amd64.deb) = 0444893153d4b3b628c6465c48e7c49f06649b101ce5ab066d59b14c363ef9f7
+SHA256 (google-chrome-stable_current_amd64.deb) = 05ba6d17d2704ffff1e1d554b40aaddabca9256b7e63ff73e99c469393de8a1f
