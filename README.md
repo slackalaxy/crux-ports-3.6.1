@@ -10,9 +10,9 @@ I did all this in a hurry and it would be too complicated to track back
 the original authors, in order to credit them properly. So, if someone
 recognised their port and wants to have their name on it, let me know!
 
-Ports are divided (for now) in 4 categories:
+Ports are divided (for now) in the following categories:
+* **custom**: main collection of programs and libraries
 * **locked**: ports I really need to keep locked at indicated version
-* **custom**: collection ot programs and libraries
 * **p5**: perl modules, generated mainly by cpan2crux
 * **scientific**: academic programs for biologists and chemists
 * **xfce_4.12**: I like to have a GTK2 desktop, so here it is
