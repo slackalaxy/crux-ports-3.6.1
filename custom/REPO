@@ -775,9 +775,9 @@ f:03db71df1f830714232f26b87f07d4ba:python-lxml/Pkgfile
 f:b2ecf6c528533300504730fbe84c0db0:ktsuss/.footprint
 f:a048a452c9eb1e9307c3fcf1f2c52b77:ktsuss/.signature
 f:5ad01e6be5b73a82a959bd525c4284c5:ktsuss/Pkgfile
-f:43859e4d752e7ff7522e77d4ee4c30b8:xscreensaver/.signature
+f:f93834af429fe62702ac803275ca0a09:xscreensaver/.signature
 f:d996d65ecfdf5f3d2d2216ee25ca6416:xscreensaver/01_electricsheep.patch
-f:a82619ff107e338025a0de672015be5d:xscreensaver/Pkgfile
+f:2a4de379677ab539652e0e11adb23e5d:xscreensaver/Pkgfile
 f:d514922ee13503c29e3dda39809fd4e4:xscreensaver/.footprint
 f:9da54c3bbf7a884c197bbb33b2b3ade3:xscreensaver/xscreensaver.pam
 f:bd054dff3d8167d23005ab4b6f78cc4c:xscreensaver/02_rss.patch

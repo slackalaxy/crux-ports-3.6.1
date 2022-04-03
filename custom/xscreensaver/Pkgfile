@@ -1,11 +1,11 @@
-# Description: A screen saver and locker daemon for xorg patched to work with electricsheep
+# Description: XScreenSaver patched to work with electricsheep and rss-glx
 # URL: https://www.jwz.org/xscreensaver/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: bc electricsheep rss-glx fortune gdk-pixbuf-xlib linux-pam xorg-libxi xorg-libxmu
+# Depends on: bc electricsheep fortune gdk-pixbuf-xlib linux-pam xorg-libxi xorg-libxmu
 
 name=xscreensaver
 version=6.03
-release=2
+release=3
 source=(https://www.jwz.org/$name/$name-$version.tar.gz
 	$name.pam 01_electricsheep.patch 02_rss.patch)
 
@@ -17,9 +17,13 @@ build() {
 	./configure --prefix=/usr \
 	--libdir=/usr/lib \
 	--libexecdir=/usr/lib/$name \
-	--without-kerberos \
-	--with-jpeg \
-	--with-gl
+	--with-pam \
+	--with-login-manager \
+	--with-gtk \
+	--with-gl \
+	--without-gle \
+	--with-pixbuf \
+	--with-jpeg
 
 	make
 	make install_prefix=$PKG install
