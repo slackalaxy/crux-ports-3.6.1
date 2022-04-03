@@ -5,13 +5,15 @@
 
 name=pnmixer
 version=0.7.2
-release=1
+release=2
 source=(https://github.com/nicklan/$name/archive/v${version}/$name-$version.tar.gz)
 
 build() {
 	cd $name-$version
 	
 	cmake \
+	-D CMAKE_CXX_FLAGS_RELEASE="$CXXFLAGS" \
+	-D CMAKE_C_FLAGS_RELEASE="$CFLAGS" \
 	-DCMAKE_INSTALL_PREFIX=/usr \
 	-DCMAKE_SKIP_RPATH=ON \
 	-DENABLE_NLS=OFF \

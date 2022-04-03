@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNww1wyTeWYN6qe/EZmNCGPmOHikB+DoEsLy4d/a6UTihLdlV+lg6596iFKgqCsMu9o52IHBfQc7bVZ9p77KVO+Ao=
+SHA256 (Pkgfile) = 0f62a17829bf47b4ed6167cf8052349a1ff1ce8c64e9187fdd3d2edfc7636d2f
+SHA256 (.footprint) = 3abd2038b40b6e276c437d7fdc216f441966f17d707368879104682fb9103420
+SHA256 (wxPython-src-2.8.12.1.tar.bz2) = 1f3f153d9f1504c6ce2d2c4b23e940b8f58b81f4cba35cda1a5bb31142243cd0

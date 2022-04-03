@@ -1,5 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw4oyEcsoGQxGJ6xsxUZ4L3ep9nfW3bz1OGuQ3BOSuabZTt7vkupS7GTdqm/povhNv+ui4nwAuyspKx0DEOXbHgM=
-SHA256 (Pkgfile) = 98661ea22c5b70db0e8d8faa9f847824a1eb65ea44043766881bff99aa9e5ac6
-SHA256 (.footprint) = 905ba24386ad390a76d2e1a2decb627364454eabe5a7faf10dbc16581cad47a4
+RWQ0fvpBKVgNw7LSc35K31TE5Na9uNeGh+3hBnzLr3dcRhmHku3+D74O+92M/r9uTPeYeGEpPW9o0y1rAELrAj/2EXg1rcneMgM=
+SHA256 (Pkgfile) = 75a5413cc3159f7200391f86017a1b3d2ce0f3a11f1c8df64cd068ecb5dce434
+SHA256 (.footprint) = b5aa9d1a3402ff3d80088fd383c001f22952b9b6ca956487f27b8e52c5a6e0a5
 SHA256 (clearlooks-0.6.2.tar.bz2) = be080113c9e9d137ee14eaf7f731c5ae58d24924748aaa725d0f061d59265f3b
+SHA256 (Clearlooks-White.tar.xz) = 1d9d7c12746a657c94f467fdabf29138f9f2e61413340b9557271995568202f4

@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw5JIogoq2fS4VY7xsWvTNSdtznS51g/qLQwQ8BigKTSHZDV2wMA2Y53SA255fPOp3OPTPoN5+u+GT3ZpmBbXSQs=
-SHA256 (Pkgfile) = d0d14f146f2f5efeaea0f1395902e3d675bac9c30758ff1143c18ea8086a0223
+RWQ0fvpBKVgNw752OrfNpuA1bgllNrA3+1yijnneCmoryVC02QKFAJNqATvAhH0jsnxHukwE9kEAvic9Uyn3xi/ZmYa4kvORfA0=
+SHA256 (Pkgfile) = 7bafa1f2fb3bf300cd5c49a57095b4c8ff0eb314a95091f5bd74b89132df6d1e
 SHA256 (.footprint) = 27b9322704b9d055ee5dcd6b1c948645a899ce9d1324e1ceae069f5ef39780c4
 SHA256 (mplayer-checkout-snapshot.tar.bz2) = d5039dacf4a232f0d0eb9b72a1ae4b1b9451f22d439fd42db967a650d6ac1fa1
 SHA256 (font-arial-iso-8859-1.tar.bz2) = 9730f481764f367c9089d0166fb6ccf9148808ffbbfeca635cf0e6db75765d29

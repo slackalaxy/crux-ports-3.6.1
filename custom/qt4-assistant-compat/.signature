@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw1eOnWE/biYDLlm8r1+I7ej4FsSw+c51tB+LWRfCR8gsTaLfuDvMmL1deJiwupEYJ92nrnEXGMZjPmaxTocTBAk=
-SHA256 (Pkgfile) = 9497a654870c3fcb0aba98a6e06f5c03cdb23c28303248fa6be522919ec989d3
+RWQ0fvpBKVgNw0/rbnGcEXgKmYVL1bZvcTtJnStJkOJTNoQ8eApvXSl5RC0R/2rv8uxZP9HlBNKsam+NgR2n2TPbiQm7uRzM3gE=
+SHA256 (Pkgfile) = 7afbd309cd9a4f3a8a6e6eb4f99eecb5ee6b84ed894d65a8f69f952f01b0d72b
 SHA256 (.footprint) = 57c39d3840ceedcc9b7dd11d7af314381cb641a54fa7f17248e353cf25612f30
 SHA256 (qt-assistant-qassistantclient-library-compat-src-4.6.3.tar.gz) = e698be8fc0d32c5f0b5b46cafcb8f615accaed524b864e58b99b64b7b5549c2d
 SHA256 (debian_patches_01_build_system.diff) = aa540b9b19806908957a9e087069cb4fdce4d7bf05a721435e302e2a6a4fb1db

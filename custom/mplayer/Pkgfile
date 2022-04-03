@@ -1,7 +1,7 @@
 # Description: MPlayer
 # URL: http://www.mplayerhq.hu/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: brotli faac faad2 ffmpeg graphite2 gtk icu lame liba52 libass libdca libdv libdvdnav libmad libmng libmpeg2 libtheora libva libvdpau libvpx libwebp mpg123 openal pulseaudio rtmpdump speex x264 x265 xorg-libxscrnsaver xorg-libxxf86dga xorg-libxxf86v
+# Depends on: brotli faac faad2 ffmpeg graphite2 gtk icu lame liba52 libass libdca libdv libdvdnav libmad libmng libmpeg2 libtheora libva libvdpau libvpx libwebp mpg123 openal pulseaudio rtmpdump speex x264 x265 xorg-libxscrnsaver xorg-libxxf86dga xorg-libxxf86vm
 
 name=mplayer
 version=snapshot

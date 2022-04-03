@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcBmVdnWhmaY9wQ79sTr/ZEV67QaRxnYjv/xZ9hoEATD7Pf0QaRT2e/Y8HOuE4ufqgLFrjvrwaExp9vKZ3ChMmAU=
-SHA256 (Pkgfile) = 489f83866d46d4e73e9327ef5b69a6219bfd0d7613b2dd23b9f853e3fcd355ff
+RWTXrKv/sDjJcG6zbY5MT3jQ+FuJPnRJ5A3ikGrd6rjEme/Czcgj3ZC0RKnJJ14XDz5wlT9jAb6utK9QiBF4H8jjn8/bgr3SPw0=
+SHA256 (Pkgfile) = 4dd9158e04e0fe8242b1241a74c3a2590d48f6e19f52fb2489bfff603fdb2be7
 SHA256 (.footprint) = ba65c298cdcb8b9f2c1cf920355d9ab9255f58f8a07c96410467f63b0f869907
 SHA256 (treeviewx_0.5.1+20100823.orig.tar.gz) = 2c0f41cb398a183155bed658c9e7e8ac880b2b75554901feddb2ea3ca97ff2eb
 SHA256 (70_choose_tree.patch) = 99733776abfb7fe3db2ac3dcca5051e8f11f216442206cd7f49d4b7e910a584e

@@ -1,7 +1,7 @@
 # Description: Program to display phylogenetic trees
 # URL: https://github.com/rdmpage
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: wxgtk
+# Depends on: wxpython2
 
 name=treeviewx
 version=0.5.1

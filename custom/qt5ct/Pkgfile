@@ -5,12 +5,14 @@
 
 name=qt5ct
 version=9f60cd2
-release=1
+release=2
 source=(https://github.com/desktop-app/qt5ct/archive/$version/9f60cd2352a4dcc55c8ca267f29bd8fff5c6a659.tar.gz)
 
 build(){
 	cd $name-${version}*
-	qmake-qt5 $name.pro
+	qmake-qt5 $name.pro \
+	QMAKE_CFLAGS_RELEASE="$CFLAGS" \
+	QMAKE_CXXFLAGS_RELEASE="$CXXFLAGS"
 	make
 	make INSTALL_ROOT="$PKG" install
 }

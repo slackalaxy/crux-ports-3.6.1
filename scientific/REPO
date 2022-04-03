@@ -343,9 +343,9 @@ f:a602ac3435fec28bd4a70eaaa9189fe6:treeviewx/fix_loading_crash.patch
 f:0ea70b3358f353483a22d5941043633c:treeviewx/treeview-xpm-not-xbm.patch
 f:e2e5ca79fa45492980eaff46255f0c13:treeviewx/wx3.0-compat.patch
 f:f4dae42ad91d12aae08da0063db476a3:treeviewx/wxstring-maxlen.patch
-f:27b20e5907a750cbb75b0ae20c335b5a:treeviewx/.signature
+f:23e98565cae9515bffca985dbc163acb:treeviewx/.signature
 f:b2228b40a539c92fd9fb38cbf6f3d1b5:treeviewx/.footprint
-f:b01893f18805a8f7042423aa25fa2f9b:treeviewx/Pkgfile
+f:38a1e898d177a3741333bce1b5dbb393:treeviewx/Pkgfile
 f:c25f9dabffa22cb8d12791c7fe4386eb:clustalx/clustalx.png
 f:912b5f02ca1502f63636b089eb24f01e:clustalx/fix-static.patch
 f:64ccbb684d709bae9d1f8192a1f0f6d3:clustalx/clustalx.desktop

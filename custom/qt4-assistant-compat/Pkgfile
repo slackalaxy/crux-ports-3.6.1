@@ -5,7 +5,7 @@
 
 name=qt4-assistant-compat
 version=4.6.3
-release=1
+release=2
 source=(http://master.qt.io/archive/qt/4.6/qt-assistant-qassistantclient-library-compat-src-4.6.3.tar.gz
 	debian_patches_01_build_system.diff)
 
@@ -14,7 +14,9 @@ build() {
 	patch -Np1 -i $SRC/debian_patches_01_build_system.diff
 	
 	cd lib
-	qmake-qt4 CONFIG+=create_prl
+	qmake-qt4 CONFIG+=create_prl \
+	QMAKE_CFLAGS_RELEASE="$CFLAGS" \
+	QMAKE_CXXFLAGS_RELEASE="$CXXFLAGS"
 	make
 	make install INSTALL_ROOT=$PKG
 	cd ..
