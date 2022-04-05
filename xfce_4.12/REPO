@@ -121,6 +121,7 @@ f:a3695e99eb4a288621f2bcc765061aa1:tumbler/Pkgfile
 f:29516f99d2e257330d99cd43724a8d15:xfce4-dict/.signature
 f:008e8943fb2128761c5bfdfd6d2990d2:xfce4-dict/.footprint
 f:a11e44eda1dab1046c5b872191af89f6:xfce4-dict/Pkgfile
+f:d9d2d43614be45f890efc10c9928977c:xfce4-dict/post-install
 f:2a0e69282c72134d90f207e650447701:xfce4-weather-plugin/Pkgfile
 f:a98c4bd2380d1eb4307cafb019ad02ba:xfce4-weather-plugin/.signature
 f:a90ae0ff96dcf0eb57df7336b294e59f:xfce4-weather-plugin/fix_api.patch
