@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw71BdjRFiILLhpD1loFI0mdxXyEk9YGyUn+1ty1nLas4WT67bVhQ/cpPjO+ITln0wH08mJqkqUpNW34cJmWDuAw=
-SHA256 (Pkgfile) = 7fe783a959571c4c0a82488b9f3ee73d5f798f74aa20d8f0e4a73e9732c442d8
+RWQ0fvpBKVgNw3BPVimhiZX1v2aQ++pXcAMZozBtkD8kB1ugShGp88aCpJgH228zP+sIt6NEuuA7krqmn+oj1Y8QYAXZNWaa7Ao=
+SHA256 (Pkgfile) = de3edd4bf7df6457ef385a31a1d2a3f4ab1afa2d7a675661a5c699293687c695
 SHA256 (.footprint) = 4b345328d9be18631181b2746e5f24f39a0b39973e1ba37532e849403811ab01
 SHA256 (gnumeric-1.10.17.tar.bz2) = bb2a13424811d132fe1be7a6e82d61157a18c630fc91b7409503dbd7ef600ea5

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw6ULAnaQ+flnbD5t5Vgnzhc/1t8hKDMZQTvTfYV3VLGOJ6uFj+2IF2IvU1TFeOwcsIrREWvpytu5+KbRKnLayQc=
-SHA256 (Pkgfile) = 088f786fead3109f6c5efdc7f621d645f313dfae6a3f1f6b7674c90e5dad08be
+RWQ0fvpBKVgNwzAafFcVZHx3TR0wN6YLS+khuM9awI5/JDC/X7qSGvFXiUvDqS0mFv2fKi5BRTF/wTeR1CI1EVw+/lnzEFO1wAE=
+SHA256 (Pkgfile) = c3543b21f216bcfec4c1126a96ee9cd913b50c4d9906f18e9d30c55127951174
 SHA256 (.footprint) = cdb4e6c3f386c27439113cc2161dca7379dd4b7708221785b182da559d6f393a
-SHA256 (gvfs-1.36.0.tar.xz) = 9ec388afeb373a213f2cc489184f76a17ae273a000e8a4ec720c1995943256bb
+SHA256 (gvfs-1.36.3.tar.xz) = 8a1eb8e54dc9e527ad7d9fb3c607c8dfcf9a1ee7cf7ea133cabfd2f4e400a524

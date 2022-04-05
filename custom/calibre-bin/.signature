@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwwLaCYVVKFAVDhhG3vxV/BRD+jj/4OcxfGlR7es16pHI9eGJTg46m4Va06KljAf7Zv6YbNU19dWRzb1LanByuwE=
-SHA256 (Pkgfile) = de3c0dbc90f6b064d285b8b091b05ea1c4ef0641a7ac5a79e22fb2cc40e2629f
-SHA256 (.footprint) = 14ae83efe6e4d24e08571f21dd87c1e9bd4273bbb208c521518b3ee4a403d806
-SHA256 (calibre-5.39.1-x86_64.txz) = 4052b06d7fd1fc1c1cadd189a4dcf51d6b31573f5488f0c4761d59f92897e649
+RWQ0fvpBKVgNw3G8kvFIDt1Hixh6QD/ZCRJtAMnk3mbxqRju1SF7s7tOxmXyW0Q5lTAswwuDGUn+Q9c4mXKclYkpe/Zda3uWdg0=
+SHA256 (Pkgfile) = d5438811e4bec97ce403473a0a8777da915c9c37dbcecd4ea2d8d4ec6aac31d4
+SHA256 (.footprint) = 967ff22292f90c794fc4322dfcd0b958d669cc986e748c1f5d99d7815cbff92d
+SHA256 (calibre-5.40.0-x86_64.txz) = c341796af47b608f988b2bbd5ee38b10f556c2115234731d1f612a17a396b128
 SHA256 (calibre-bin.desktop) = 10c24204c865e22718146e9a917c00d101f61eeae82408173e42c317b57a42dd
