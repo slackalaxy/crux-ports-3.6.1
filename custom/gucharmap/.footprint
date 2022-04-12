@@ -19,7 +19,6 @@ drwxr-xr-x	root/root	usr/include/gucharmap-2.0/gucharmap/
 -rw-r--r--	root/root	usr/include/gucharmap-2.0/gucharmap/gucharmap-unicode-info.h
 -rw-r--r--	root/root	usr/include/gucharmap-2.0/gucharmap/gucharmap.h
 drwxr-xr-x	root/root	usr/lib/
--rwxr-xr-x	root/root	usr/lib/libgucharmap.la
 lrwxrwxrwx	root/root	usr/lib/libgucharmap.so -> libgucharmap.so.7.0.0
 lrwxrwxrwx	root/root	usr/lib/libgucharmap.so.7 -> libgucharmap.so.7.0.0
 -rwxr-xr-x	root/root	usr/lib/libgucharmap.so.7.0.0

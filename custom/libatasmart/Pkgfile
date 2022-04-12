@@ -4,7 +4,7 @@
 
 name=libatasmart
 version=0.19
-release=1
+release=2
 source=(http://0pointer.de/public/$name-$version.tar.xz)
 
 build() {
@@ -16,4 +16,5 @@ build() {
 	make DESTDIR=$PKG install
 	
 	rm -r $PKG/usr/share/doc
+	rm -f $PKG/{,usr/}lib/*.la
 }

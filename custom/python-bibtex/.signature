@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwzI8ubHurxhwntGl19PNZjPnZeloTDx2N+EFMNbe4vJs9J8wbPC7Bd/5V2f6erI9zyH6jMH8cUs25wFvWO4KSAE=
-SHA256 (Pkgfile) = 106bfc7d155537a53dd21cc9ddf8dfb030f5c56296b6d931c9a6d85dc0e5451f
+RWQ0fvpBKVgNw1/S5LcXFoFrG2zAiGBBsljVq7qot7/J9YnQo7TyMQpiN3hXGlLivTAqW5p9EdX5Bgql5qd8ZTF0+e+G8aRjkAk=
+SHA256 (Pkgfile) = f68b29f0cdde2a1be0b51a781597dcd4302a22fc8912b9ee4a1c1dcd3dd57b48
 SHA256 (.footprint) = 9928ed8b5bd6335b59983caa3779f0b2248ce668661e9ea7e39e2e7ea929b496
 SHA256 (python-bibtex-1.2.7.tar.gz) = 37709a19b94858def4ede028e670b14153f98c62c6adc926af8102a3279eeaf0

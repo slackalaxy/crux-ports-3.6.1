@@ -23,7 +23,6 @@ drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/gconfmm-2.6/
 drwxr-xr-x	root/root	usr/lib/gconfmm-2.6/include/
 -rw-r--r--	root/root	usr/lib/gconfmm-2.6/include/gconfmmconfig.h
--rwxr-xr-x	root/root	usr/lib/libgconfmm-2.6.la
 lrwxrwxrwx	root/root	usr/lib/libgconfmm-2.6.so -> libgconfmm-2.6.so.1.0.6
 lrwxrwxrwx	root/root	usr/lib/libgconfmm-2.6.so.1 -> libgconfmm-2.6.so.1.0.6
 -rwxr-xr-x	root/root	usr/lib/libgconfmm-2.6.so.1.0.6

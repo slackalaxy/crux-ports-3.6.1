@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw2ZRmoMzT0oBfwYiEx05b8UD0kFIZ0nXv7O3ncm/1KfMSYIZAIDCcO3E1ygJ6NvpBaZMhLK85hxMLBXyCEwgcAA=
-SHA256 (Pkgfile) = 35c1faba6bc81f8e99fc60031fa02227cacfe6a29376bfac2936674b694c9488
-SHA256 (.footprint) = e354386a4433e449d55db60cd22c47bde7aa4096f25b0b747102496a14975f35
+RWQ0fvpBKVgNw4LBcwIvUwX40+/ubBLcPpZUFaXqMt0vYx8hlYid3aPaDAOsUKzMiN7D84HGatzzkK66MQmyCPNoQFGVLSriDAY=
+SHA256 (Pkgfile) = 60ddf72aea711454f2bb6b6b402b0906ae5c3cb70a828376ad24e587cd8c86a0
+SHA256 (.footprint) = b2e34210da5e93dc703c0338c6d12afb5ea2a36cc1e52b2b12f7a370f1c1cc17
 SHA256 (gnome-vfsmm-2.26.0.tar.bz2) = d6a89fc82238bbfd6d3f7e44bcaee73dc197be98635be482a2d2df38ec0446d3

@@ -5,7 +5,7 @@
 
 name=gstreamer0
 version=0.10.36
-release=1
+release=2
 source=(https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-$version.tar.xz
 	bison.patch)
 
@@ -26,5 +26,6 @@ build() {
 	make
 	make install DESTDIR=$PKG
 	
-	rm -rf $PKG/usr/share/gtk-doc	
+	rm -rf $PKG/usr/share/gtk-doc
+	rm -f $PKG/{,usr/}lib/*.la
 }

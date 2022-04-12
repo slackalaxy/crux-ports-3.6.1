@@ -5,7 +5,7 @@
 
 name=xmms
 version=1.2.11
-release=1
+release=2
 source=(http://slackware.uk/slackware/slackware64-14.2/source/xap/$name/$name-$version.tar.bz2
 	$name.alsa.default.diff.gz
 	$name.desktop
@@ -35,4 +35,6 @@ build() {
 	mkdir -p $PKG/usr/share/{applications,pixmaps}
 	cat $SRC/$name.desktop > $PKG/usr/share/applications/$name.desktop
 	cat $SRC/$name.png > $PKG/usr/share/pixmaps/$name.png
+	
+	rm -f $PKG/{,usr/}lib/*.la
 }

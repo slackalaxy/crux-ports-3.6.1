@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwznmk1yi/tsAoe7N2N9inWOcJYQbcLY+hZuO4mCctWkIQkB2RmS7Ueoo65mcg8Boc2fgcuBO3+dr9H/5/rwvcQ0=
-SHA256 (Pkgfile) = 775ce706a7843aa0b21cfc837a940820b23a28f6223c8f97daaf34cfb2c3dd12
-SHA256 (.footprint) = 10403bee575582e7191ac6cd8b98769405a091194b1874d2608355d4dc61a998
+RWQ0fvpBKVgNw0mTRQDGxTp6scU5hkun8wHT0aDoQ9SGEKYVJxgPqiP85duaUsws5cYnWkcyOV/Ecslul+xEIMMK4TFeDVjwTg4=
+SHA256 (Pkgfile) = f5322d7bd51dcfd5f02246224be6c608ce9cb9ae2efbb01c656ba87190dcd8ee
+SHA256 (.footprint) = 27c6f3e400bb9db8bd34f88eecb8e9d2bd8714271b518ece7aaa824a824e8cc5
 SHA256 (libgsf-1.14.49.tar.xz) = e9ebe36688f010c9e6e40c8903f3732948deb8aca032578d07d0751bd82cf857

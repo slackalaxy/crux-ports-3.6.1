@@ -5,7 +5,7 @@
 
 name=gst0-plugins-base
 version=0.10.36
-release=1
+release=2
 source=(https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-$version.tar.xz
 	00-fix-crash-0-byte-ogg.patch
 	01-colorbalance-fix-abi.patch
@@ -39,4 +39,5 @@ build() {
 	make install DESTDIR=$PKG
 	
 	rm -rf $PKG/usr/share/gtk-doc
+	rm -f $PKG/{,usr/}lib/*.la
 }

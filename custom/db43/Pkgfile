@@ -4,7 +4,7 @@
 
 name=db43
 version=4.3.29
-release=2
+release=3
 source=(http://download.oracle.com/berkeley-db/db-$version.tar.gz)
 
 build() {
@@ -20,6 +20,7 @@ build() {
     make DESTDIR=$PKG install
     
     # I just need the lib to make OOo happy
-    rm -r $PKG/usr/{bin,docs,include}
-    rm $PKG/usr/lib/libdb.so
+    rm -rf $PKG/usr/{bin,docs,include}
+    rm -rf $PKG/usr/lib/libdb.so
+    rm -f $PKG/{,usr/}lib/*.la
 }

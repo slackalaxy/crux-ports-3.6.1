@@ -333,7 +333,6 @@ drwxr-xr-x	root/root	usr/lib/goffice/0.8.17/plugins/gnumeric/
 -rwxr-xr-x	root/root	usr/lib/goffice/0.8.17/plugins/gnumeric/gnumeric.so
 -rw-r--r--	root/root	usr/lib/goffice/0.8.17/plugins/gnumeric/plugin.xml
 -rwxr-xr-x	root/root	usr/lib/libspreadsheet-1.10.17.so
--rwxr-xr-x	root/root	usr/lib/libspreadsheet.la
 lrwxrwxrwx	root/root	usr/lib/libspreadsheet.so -> libspreadsheet-1.10.17.so
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/libspreadsheet-1.10.pc

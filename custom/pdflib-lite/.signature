@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwzF61UXbR/qEJPLHlBmdvvbkPQFhrThV+T0NTe6SMK7RF5GToalAB5TjS/Fm5722veqzpqdVGzVMl3o0G+41owU=
-SHA256 (Pkgfile) = 41a4a778911d7a284029c880ad859d38afc7770c66f6bc05a2a93e61f3088679
-SHA256 (.footprint) = d81dcb147cc15c2b90f565d2462d0e4de6b7f0651f0a59c191ef798f800d8839
+RWQ0fvpBKVgNwyBKF1Vjg7bhIYxJ2Nr+5bjGxh4gwfVBgL6GK/1W3f0g5QH18btXXeQ83tP70dxnYaQdOOIqaz/JGoedDdAfNgg=
+SHA256 (Pkgfile) = 3d56625b31eac20e1b9f69ba52fce4c626ad9e35c9bc60560bab2357e734af29
+SHA256 (.footprint) = c8ff20b20c62f37eaba592499eb685b5af7eef421122ca1ccce8e2dfa1dd3c4c
 SHA256 (PDFlib-Lite-7.0.5p3.tar.gz) = e5fb30678165d28b2bf066f78d5f5787e73a2a28d4902b63e3e07ce1678616c9

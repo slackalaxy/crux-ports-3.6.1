@@ -12,11 +12,9 @@ drwxr-xr-x	root/root	usr/include/Aiksaurus/
 drwxr-xr-x	root/root	usr/lib/
 lrwxrwxrwx	root/root	usr/lib/libAiksaurus-1.2.so.0 -> libAiksaurus-1.2.so.0.0.1
 -rwxr-xr-x	root/root	usr/lib/libAiksaurus-1.2.so.0.0.1
--rwxr-xr-x	root/root	usr/lib/libAiksaurus.la
 lrwxrwxrwx	root/root	usr/lib/libAiksaurus.so -> libAiksaurus-1.2.so.0.0.1
 lrwxrwxrwx	root/root	usr/lib/libAiksaurusGTK-1.2.so.0 -> libAiksaurusGTK-1.2.so.0.0.1
 -rwxr-xr-x	root/root	usr/lib/libAiksaurusGTK-1.2.so.0.0.1
--rwxr-xr-x	root/root	usr/lib/libAiksaurusGTK.la
 lrwxrwxrwx	root/root	usr/lib/libAiksaurusGTK.so -> libAiksaurusGTK-1.2.so.0.0.1
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/aiksaurus-1.0.pc

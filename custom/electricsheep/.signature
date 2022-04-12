@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw+vdJrGq9S173FKH5d4Xcq6w81JlP7TdmOIPxHy8XmN7fhqFWSFrPOWvO+Qy3onLImOrPXzHZJ7uMo3cj4SLagA=
-SHA256 (Pkgfile) = 0a267ca49d64a008895344901a31605f4373b0fe51006fc7a409805f598019e7
+RWQ0fvpBKVgNwyT3xlzYst813SJ7fH5tGWsZQxaFCYJcI4Ujams/zHtPldtSt8aDY7u9Aza7IZ8ncZfyT0DtM8b0KPpyx8lcqgw=
+SHA256 (Pkgfile) = 4d57bc98dc1c36d8594e18071bbb0ff132d656d9d58e36186ac70fdf9a5010e7
 SHA256 (.footprint) = 71f552e1e17ebc05048d0c4e4759a324378f0bf99e52f3cbdf89362f5294a7af
 SHA256 (electricsheep-20090306.tar.xz) = d714749d2c548fd16518afb715235de3b26d1171d84a9b1c51d71a00d6f83300
 SHA256 (electricsheep-preferences.desktop) = 1dc7a65b110a800be3c2dcee1ab410b1e365c4ea351792a3fb070b0ea98e9a11

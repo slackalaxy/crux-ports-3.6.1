@@ -13,7 +13,6 @@ drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 -rw-r--r--	root/root	usr/lib/girepository-1.0/GMenu-2.0.typelib
 -rw-r--r--	root/root	usr/lib/libgnome-menu.a
--rwxr-xr-x	root/root	usr/lib/libgnome-menu.la
 lrwxrwxrwx	root/root	usr/lib/libgnome-menu.so -> libgnome-menu.so.2.4.10
 lrwxrwxrwx	root/root	usr/lib/libgnome-menu.so.2 -> libgnome-menu.so.2.4.10
 -rwxr-xr-x	root/root	usr/lib/libgnome-menu.so.2.4.10

@@ -5,7 +5,7 @@
 
 name=recode
 version=3.7beta
-release=1
+release=2
 source=(pinard-Recode-v3.7-beta2-56-g2fd8385.tar.xz)
 
 build() {
@@ -18,5 +18,5 @@ build() {
 	make prefix=$PKG/usr infodir=$PKG/usr/share/info install
 	
 	rm -rf $PKG/usr/share/{info,locale}
-	rm -rf $PKG/usr/lib/librecode.la
+	rm -f $PKG/{,usr/}lib/*.la
 }

@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw71pXGg+bAnJDHksl3wIoMyZyzZBpkEncyfJ+WoaQHwrlAdGUN/Qnrvu2DHhEEHp8Vb+GqiZ8ZmttOk9glR7dgk=
-SHA256 (Pkgfile) = e7f7387e43100632eb2ee742865c83e7e00d57557c2bce8c23dd3323412340ef
-SHA256 (.footprint) = e3f820de9bc60b51d8aff0bd19521bb95c2a418551941c72b528beba1bb13cfd
+RWQ0fvpBKVgNw0IYf14jc0a+3/o7McYYdNywIKvlR6fUo6JbASCwLxugLf6RP+3ZOlD3UkuiHqaibzG97gDi1IDojrmbjMquAgU=
+SHA256 (Pkgfile) = 6ee25ee923289e833c94c56308bd5d5ebb93319266dad28507af5c872bce73b9
+SHA256 (.footprint) = 14c6858dd582745e47bd156b3ee76897ef143cbc48cd3dccc737c68e1634d115
 SHA256 (goffice-0.8.17.tar.xz) = 165070beb67b84580afe80a8a100b674a81d553ab791acd72ac0c655f4fadb15
 SHA256 (disable-linking-pcre.patch) = 8ece0839168c8e83a94a9ce38a06aee7f8a201b42c033f5b502a5f53de496a0e
 SHA256 (go-conf-gsettings.c) = 09f883d905a3846b60f4b7689b5d28b63da5e049520c93c865cd4a7ce8434572

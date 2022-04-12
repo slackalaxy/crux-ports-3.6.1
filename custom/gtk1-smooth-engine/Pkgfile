@@ -5,7 +5,7 @@
 
 name=gtk1-smooth-engine
 version=0.6.0.1
-release=1
+release=2
 source=(https://sourceforge.net/projects/smooth-engine/files/smooth-engine/${version%.*}/gtk-smooth-engine-${version}.tar.gz)
 
 build() {
@@ -18,5 +18,4 @@ build() {
 	
 	make
 	make install DESTDIR=$PKG
-	rm -rf $PKG/usr/lib/gtk/themes/engines/libsmooth.la
 }

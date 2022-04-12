@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw6IiIMS8GC/oR6T3sgIbRTHD0Eh42G8f0ZE/ZI0F5qQd+i21vnd3wXA+gDcT/TPwkmzIz0LXe7ooKmKx5RaftAo=
+SHA256 (Pkgfile) = c20b75bab8c3c023516c127dbfe62f172832acefebac113368212fb2b16cd8cd
+SHA256 (.footprint) = d95452d4386e1fe278f90eb261f52f46fd9cc1576fdfe8d3fddb812ffeb35469
+SHA256 (sonata-1.6.2.1.tar.gz) = 89aa311286edc4f390061c479894835789259b9c76c944f18187374ba8e53dbf

@@ -10,7 +10,6 @@ drwxr-xr-x	root/root	usr/include/libglademm-2.4/libglademm/private/
 -rw-r--r--	root/root	usr/include/libglademm-2.4/libglademm/wrap_init.h
 -rw-r--r--	root/root	usr/include/libglademm-2.4/libglademm/xml.h
 drwxr-xr-x	root/root	usr/lib/
--rwxr-xr-x	root/root	usr/lib/libglademm-2.4.la
 lrwxrwxrwx	root/root	usr/lib/libglademm-2.4.so -> libglademm-2.4.so.1.0.5
 lrwxrwxrwx	root/root	usr/lib/libglademm-2.4.so.1 -> libglademm-2.4.so.1.0.5
 -rwxr-xr-x	root/root	usr/lib/libglademm-2.4.so.1.0.5

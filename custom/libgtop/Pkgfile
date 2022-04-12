@@ -5,7 +5,7 @@
 
 name=libgtop
 version=2.40.0
-release=1
+release=2
 source=(http://ftp.gnome.org/pub/gnome/sources/$name/${version:0:4}/$name-$version.tar.xz)
 
 build() {
@@ -18,4 +18,5 @@ build() {
 	make DESTDIR=$PKG install
 
 	rm -r $PKG/usr/share/{gtk-doc,info}
+	rm -f $PKG/{,usr/}lib/*.la
 }

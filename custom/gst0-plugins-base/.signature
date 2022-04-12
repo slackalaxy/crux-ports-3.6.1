@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw2dakP59RhEm5K56iywqMyO3/cXdil+ckGWUXaiKL6ZyMmkQ5LuTRYiKCPYdOCVNwoeHBA+FJmNmBg0Jtp+jyQ8=
-SHA256 (Pkgfile) = ba5bed204ff48398675fe674a616329633ee6156b375766b07d05142988954de
-SHA256 (.footprint) = 65f02aa9d64c2a570c127851ee9259058544c0f5b7de85d9fd6e75fb0aea005c
+RWQ0fvpBKVgNw0Y52P6mPjCHEdDbi3q4gypH8iUBmfU0+Xa4D3UvSrvHe3aE2eQ7E+PDLRd+BgHippx+DFp5DYJrz0J38rPnigg=
+SHA256 (Pkgfile) = a76fc52cbad96c932345bf87f07e355df1bbb54799c1032d792b61836da66924
+SHA256 (.footprint) = a4ff79b1d7a91372f930aaec6a2578b8d8aa3fa763d8ec308614921f11abb53f
 SHA256 (gst-plugins-base-0.10.36.tar.xz) = 1fe45c3894903001d4d008b0713dab089f53726dcb5842d5b40c2595a984e64a
 SHA256 (00-fix-crash-0-byte-ogg.patch) = a6a01035ea9627737f9c17f72919857ed43ccc7c2cb08b645b43ed89f78d0f4f
 SHA256 (01-colorbalance-fix-abi.patch) = 7442c5c68068428b8c7ac1d3825ce29f1bb152b75b77047b9e806c7d322b780c

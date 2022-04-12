@@ -5,7 +5,7 @@
 
 name=glib1
 version=1.2.10
-release=1
+release=2
 source=(https://download.gnome.org/sources/glib/${version%.*}/glib-$version.tar.gz
 	aclocal-fixes.patch
 	gcc340.patch
@@ -29,4 +29,5 @@ build() {
 	make
 	make check
 	make DESTDIR=$PKG install
+	rm -f $PKG/{,usr/}lib/*.la
 }

@@ -14,7 +14,6 @@ drwxr-xr-x	root/root	usr/include/xmms/
 -rw-r--r--	root/root	usr/include/xmms/util.h
 -rw-r--r--	root/root	usr/include/xmms/xmmsctrl.h
 drwxr-xr-x	root/root	usr/lib/
--rwxr-xr-x	root/root	usr/lib/libxmms.la
 lrwxrwxrwx	root/root	usr/lib/libxmms.so -> libxmms.so.1.3.1
 lrwxrwxrwx	root/root	usr/lib/libxmms.so.1 -> libxmms.so.1.3.1
 -rwxr-xr-x	root/root	usr/lib/libxmms.so.1.3.1

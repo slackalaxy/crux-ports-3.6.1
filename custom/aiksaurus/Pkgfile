@@ -5,7 +5,7 @@
 
 name=aiksaurus
 version=1.2.1
-release=1
+release=2
 source=(http://unrealize.co.uk/source/$name-$version.tar.gz
 	include-fixes.patch
 	gaiksaurus.png
@@ -21,4 +21,6 @@ build() {
 	mkdir -p $PKG/usr/share/{pixmaps,applications}
 	cp $SRC/gaiksaurus.png $PKG/usr/share/pixmaps
 	cp $SRC/gaiksaurus.desktop $PKG/usr/share/applications
+	
+	rm -f $PKG/{,usr/}lib/*.la
 }

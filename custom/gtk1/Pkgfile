@@ -5,7 +5,7 @@
 
 name=gtk1
 version=1.2.10
-release=1
+release=2
 source=(https://download.gnome.org/sources/gtk+/${version%.*}/gtk+-$version.tar.gz
 	aclocal-fixes.patch)
 
@@ -30,4 +30,5 @@ build() {
 	mv $PKG/usr/man $PKG/usr/share
 	
 	rm -rf $PKG/usr/share/{locale,info}
+	rm -f $PKG/{,usr/}lib/*.la
 }

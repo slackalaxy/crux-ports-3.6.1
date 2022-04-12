@@ -1,5 +1,0 @@
-untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw4onbwyIxGnqR3ivqnBS+9R9z+/Nx2KbQ6E5baGfqYwnfJL+oDq5fAiyxxsqv2lbC8zetWBtmYdiZSN14YGX3wU=
-SHA256 (Pkgfile) = 6dd59d17d7cd4d0c18d2e10406496ff0a8a32147dab62da13cd56ce03e919a19
-SHA256 (.footprint) = 3d8c0b9bb854b2ab5f7af2b8a08fc11932cd2dbe9ee81049d22955f2d5a19053
-SHA256 (python-urwid-2.1.2.tar.gz) = 366970cabce4a7f70fb4af1d16ac8be23dbcf38f995a20029a4bf32fffe7607d

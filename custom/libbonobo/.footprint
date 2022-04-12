@@ -73,12 +73,10 @@ drwxr-xr-x	root/root	usr/lib/bonobo/servers/
 -rw-r--r--	root/root	usr/lib/bonobo/servers/Bonobo_Moniker_std.server
 -rw-r--r--	root/root	usr/lib/bonobo/servers/Bonobo_Sample_Echo.server
 -rw-r--r--	root/root	usr/lib/libbonobo-2.a
--rwxr-xr-x	root/root	usr/lib/libbonobo-2.la
 lrwxrwxrwx	root/root	usr/lib/libbonobo-2.so -> libbonobo-2.so.0.0.0
 lrwxrwxrwx	root/root	usr/lib/libbonobo-2.so.0 -> libbonobo-2.so.0.0.0
 -rwxr-xr-x	root/root	usr/lib/libbonobo-2.so.0.0.0
 -rw-r--r--	root/root	usr/lib/libbonobo-activation.a
--rwxr-xr-x	root/root	usr/lib/libbonobo-activation.la
 lrwxrwxrwx	root/root	usr/lib/libbonobo-activation.so -> libbonobo-activation.so.4.0.0
 lrwxrwxrwx	root/root	usr/lib/libbonobo-activation.so.4 -> libbonobo-activation.so.4.0.0
 -rwxr-xr-x	root/root	usr/lib/libbonobo-activation.so.4.0.0

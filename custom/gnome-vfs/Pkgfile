@@ -5,7 +5,7 @@
 
 name=gnome-vfs
 version=2.24.4
-release=1
+release=2
 source=(http://deb.debian.org/debian/pool/main/g/$name/${name}_${version}.orig.tar.gz)
 
 build() {
@@ -29,7 +29,8 @@ build() {
 	make DESTDIR=$PKG install
 	
 	# I want just the libs for OOo's sake...
-	rm -rf $PKG/usr/share/{gtk-doc,locale}
 	#rm -rf $PKG/usr/{bin,etc,share}
+	rm -rf $PKG/usr/share/{gtk-doc,locale}
 	
+	rm -f $PKG/{,usr/}lib/*.la
 }

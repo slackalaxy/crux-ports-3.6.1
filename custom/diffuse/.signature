@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw1MgLrJ30/X8YESCUa6MxrJYVDLv/yLx3sviIpb1dSwaviko1NVcqE6nj9DoihGdUAYHc2kaOU2+dIhyBusGLA4=
-SHA256 (Pkgfile) = 5faf0fa584bb2365bd2ee1a6542f60a20916bcff3b0d591a5bd3abda577d2026
-SHA256 (.footprint) = e114952a4a577a7cec16b2d39b4e86aba8e1f587f75199ff4d8e08917ee2cb3e
+RWQ0fvpBKVgNw4Huwt9jjPGkD730id+pI3OyDNtyYJtejn9fzofyJ5nDCVy7cUPdDm/wthMLQ23EJmCZbJLUZQcGewRaJ5DlNgM=
+SHA256 (Pkgfile) = c874005c0ee3350f9866f8c658a6a31124915bade97a90cbb020e4f595183186
+SHA256 (.footprint) = c7c2debc5cda158ffe688bb6e3ea87adcc688c399a9378c8d5f0af701503d5d0
 SHA256 (diffuse-0.4.8.tar.bz2) = c1d3b79bba9352fcb9aa4003537d3fece248fb824781c5e21f3fcccafd42df2b
-SHA256 (diffuse.png) = 290c29e30e2fd888428d05c7b89d3fa9ec7fa0023df078b450f6f144f36bcc16
+SHA256 (diffuse.png) = 38a9fb7fd4ccca0f5ae13866fb17ebab4a995f6abb5954d72b37870adaa251ea

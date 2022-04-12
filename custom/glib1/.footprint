@@ -12,17 +12,14 @@ drwxr-xr-x	root/root	usr/lib/glib/include/
 lrwxrwxrwx	root/root	usr/lib/libglib-1.2.so.0 -> libglib-1.2.so.0.0.10
 -rwxr-xr-x	root/root	usr/lib/libglib-1.2.so.0.0.10
 -rw-r--r--	root/root	usr/lib/libglib.a
--rwxr-xr-x	root/root	usr/lib/libglib.la
 lrwxrwxrwx	root/root	usr/lib/libglib.so -> libglib-1.2.so.0.0.10
 lrwxrwxrwx	root/root	usr/lib/libgmodule-1.2.so.0 -> libgmodule-1.2.so.0.0.10
 -rw-r--r--	root/root	usr/lib/libgmodule-1.2.so.0.0.10
 -rw-r--r--	root/root	usr/lib/libgmodule.a
--rw-r--r--	root/root	usr/lib/libgmodule.la
 lrwxrwxrwx	root/root	usr/lib/libgmodule.so -> libgmodule-1.2.so.0.0.10
 lrwxrwxrwx	root/root	usr/lib/libgthread-1.2.so.0 -> libgthread-1.2.so.0.0.10
 -rwxr-xr-x	root/root	usr/lib/libgthread-1.2.so.0.0.10
 -rw-r--r--	root/root	usr/lib/libgthread.a
--rwxr-xr-x	root/root	usr/lib/libgthread.la
 lrwxrwxrwx	root/root	usr/lib/libgthread.so -> libgthread-1.2.so.0.0.10
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/glib.pc

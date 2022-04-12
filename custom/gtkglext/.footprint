@@ -40,11 +40,9 @@ drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/gtkglext-1.0/
 drwxr-xr-x	root/root	usr/lib/gtkglext-1.0/include/
 -rw-r--r--	root/root	usr/lib/gtkglext-1.0/include/gdkglext-config.h
--rwxr-xr-x	root/root	usr/lib/libgdkglext-x11-1.0.la
 lrwxrwxrwx	root/root	usr/lib/libgdkglext-x11-1.0.so -> libgdkglext-x11-1.0.so.0.0.0
 lrwxrwxrwx	root/root	usr/lib/libgdkglext-x11-1.0.so.0 -> libgdkglext-x11-1.0.so.0.0.0
 -rwxr-xr-x	root/root	usr/lib/libgdkglext-x11-1.0.so.0.0.0
--rwxr-xr-x	root/root	usr/lib/libgtkglext-x11-1.0.la
 lrwxrwxrwx	root/root	usr/lib/libgtkglext-x11-1.0.so -> libgtkglext-x11-1.0.so.0.0.0
 lrwxrwxrwx	root/root	usr/lib/libgtkglext-x11-1.0.so.0 -> libgtkglext-x11-1.0.so.0.0.0
 -rwxr-xr-x	root/root	usr/lib/libgtkglext-x11-1.0.so.0.0.0

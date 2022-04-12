@@ -12,5 +12,4 @@ build() {
 	cd lxml-$version
 	make
 	/usr/bin/python setup.py install --root $PKG
-	rm -rf $PKG/usr/lib/python*/site-packages/lxml-*-py2.7.egg-info
 }

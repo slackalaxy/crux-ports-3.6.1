@@ -5,7 +5,7 @@
 
 name=udisks2
 version=2.9.4
-release=1
+release=2
 source=(https://github.com/storaged-project/udisks/releases/download/udisks-$version/udisks-$version.tar.bz2)
 
 build() {
@@ -20,7 +20,8 @@ build() {
 	make
 	make DESTDIR=$PKG install
 
-	install -d -m 0755 $PKG/media/{hd,hd0,hd1,hd2,cdrom,cdrom0,cdrom1,cdrom2,memory,memory0,memory1,memory2}
+	install -d -m 0755 $PKG/media/{hd,hd0,hd1,hd2,hd3,cdrom,cdrom0,cdrom1,cdrom2,cdrom3,memory,memory0,memory1,memory2,memory3}
 
 	rm -r $PKG/usr/share/gtk-doc
+	rm -f $PKG/{,usr/}lib/*.la
 }

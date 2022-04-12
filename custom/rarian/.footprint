@@ -36,7 +36,6 @@ drwxr-xr-x	root/root	usr/include/rarian/
 -rw-r--r--	root/root	usr/include/rarian/rarian.h
 drwxr-xr-x	root/root	usr/lib/
 -rw-r--r--	root/root	usr/lib/librarian.a
--rwxr-xr-x	root/root	usr/lib/librarian.la
 lrwxrwxrwx	root/root	usr/lib/librarian.so -> librarian.so.0.0.0
 lrwxrwxrwx	root/root	usr/lib/librarian.so.0 -> librarian.so.0.0.0
 -rwxr-xr-x	root/root	usr/lib/librarian.so.0.0.0

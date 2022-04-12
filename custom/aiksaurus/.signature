@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw6euAjJ0iIW5WRNRcV319S0V8gME/OXyQX63WnTLuC3l48xDFH/UVBqu/3q1JQgMQhLgbKpZ0YC5xXgeyZnUwAI=
-SHA256 (Pkgfile) = 78152cc688a497d8ed711a19af302c692c917a8e47ccb35de26aaff1a61057e3
-SHA256 (.footprint) = 4b6da2db4b98abaece6aa331b0b0a85e77d302e66a8711f9b8801dee85b8fd4b
+RWQ0fvpBKVgNw+vWsV2dEZ23oeagcsb5EursMeSPkboiSUD6lFsYvrXiE/ATskWZrJlnOfKM+Gtwu/LXP42OfggHcvI0dp+FQww=
+SHA256 (Pkgfile) = 5bddfebd5c9ef5d8ca2cac41d1ee96491125620b56c1057922cda27b58f63938
+SHA256 (.footprint) = 86bd9b12f7a142ce9ac664a4b5b710333eb61ba887d5d2211dcca4b424051c68
 SHA256 (aiksaurus-1.2.1.tar.gz) = 1b62cb6351835217f3c229faba3182ba2aa0ab395849bb894dab422976dc8cf4
 SHA256 (include-fixes.patch) = 984820edc9dcdf40a0e7725cb96028be3401d455cddbfe47d7468eaa35538483
 SHA256 (gaiksaurus.png) = 1d07e01f399a6cd62d7ed631e0d3279a65ad516e555a727b24cf1bd00e75fefe

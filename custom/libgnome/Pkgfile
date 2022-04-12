@@ -5,7 +5,7 @@
 
 name=libgnome
 version=2.32.1
-release=1
+release=2
 source=(https://ftp.gnome.org/pub/GNOME/sources/$name/${version%.*}/$name-$version.tar.bz2)
 
 build() {
@@ -22,4 +22,5 @@ build() {
 	make install DESTDIR=$PKG
 	
 	rm -rf $PKG/usr/share/{locale,gtk-doc}
+	rm -f $PKG/{,usr/}lib/*.la
 }

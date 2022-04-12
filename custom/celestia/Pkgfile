@@ -5,7 +5,7 @@
 
 name=celestia
 version=1.6.2.2
-release=1
+release=2
 source=(https://github.com/CelestiaProject/Celestia/archive/$version/$name-$version.tar.gz)
 
 build() {
@@ -24,4 +24,6 @@ build() {
 	
 	sed -i "s:celestia-gtk:$name:" $PKG/usr/share/applications/$name.desktop
 	sed -i "s:Education:Game:" $PKG/usr/share/applications/$name.desktop
+	
+	rm -rf $PKG/usr/share/$name/{COPYING_*,controls_*,demo_*,guide_*,start_*,fonts/*_*.txf}
 }

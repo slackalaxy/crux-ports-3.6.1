@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwxaUYq+VXk6YBWsF46J1nIqYW4bHuVkdbjOoljMdfqgRswy++OjZZGtnfjPxx9lb4oHhbjNuyHw13Y3BJZWBZAU=
+SHA256 (Pkgfile) = dfff047f5dce2ca5faa1f98a6a5598f0164884263cc310335cb7af253366dc25
+SHA256 (.footprint) = e28cb9a36b4bee92c5831f40feb27eb8e8165da2a936dfde71ef24ce6799b4c6
+SHA256 (python-mpd-0.3.0.tar.gz) = 02812eba1d2e0f46e37457f5a6fa23ba203622e4bcab0a19b265e66b08cd21b4

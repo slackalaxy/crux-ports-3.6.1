@@ -7,14 +7,17 @@ drwxr-xr-x	root/root	media/cdrom/
 drwxr-xr-x	root/root	media/cdrom0/
 drwxr-xr-x	root/root	media/cdrom1/
 drwxr-xr-x	root/root	media/cdrom2/
+drwxr-xr-x	root/root	media/cdrom3/
 drwxr-xr-x	root/root	media/hd/
 drwxr-xr-x	root/root	media/hd0/
 drwxr-xr-x	root/root	media/hd1/
 drwxr-xr-x	root/root	media/hd2/
+drwxr-xr-x	root/root	media/hd3/
 drwxr-xr-x	root/root	media/memory/
 drwxr-xr-x	root/root	media/memory0/
 drwxr-xr-x	root/root	media/memory1/
 drwxr-xr-x	root/root	media/memory2/
+drwxr-xr-x	root/root	media/memory3/
 drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/udisksctl
@@ -38,7 +41,6 @@ drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/girepository-1.0/
 -rw-r--r--	root/root	usr/lib/girepository-1.0/UDisks-2.0.typelib
 -rw-r--r--	root/root	usr/lib/libudisks2.a
--rwxr-xr-x	root/root	usr/lib/libudisks2.la
 lrwxrwxrwx	root/root	usr/lib/libudisks2.so -> libudisks2.so.0.0.0
 lrwxrwxrwx	root/root	usr/lib/libudisks2.so.0 -> libudisks2.so.0.0.0
 -rwxr-xr-x	root/root	usr/lib/libudisks2.so.0.0.0

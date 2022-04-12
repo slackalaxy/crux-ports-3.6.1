@@ -5,7 +5,7 @@
 
 name=libgnomecanvas
 version=2.30.3
-release=2
+release=3
 source=(http://ftp.gnome.org/pub/GNOME/sources/$name/${version%.*}/$name-$version.tar.bz2)
 
 build() {
@@ -24,4 +24,5 @@ build() {
 	make DESTDIR=$PKG install
 	
 	rm -rf $PKG/usr/share/gtk-doc
+	rm -f $PKG/{,usr/}lib/*.la
 }

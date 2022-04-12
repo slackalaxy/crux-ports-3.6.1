@@ -5,7 +5,7 @@
 
 name=rarian
 version=0.8.1
-release=1
+release=2
 source=(https://rarian.freedesktop.org/Releases/$name-$version.tar.bz2)
 
 build() {
@@ -17,4 +17,5 @@ build() {
 	make install DESTDIR=$PKG
 	
 	rm -rf $PKG/usr/share/help
+	rm -f $PKG/{,usr/}lib/*.la
 }

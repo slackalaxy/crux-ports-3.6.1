@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw2XPxdN5fdGKh3x09KCxFYuA74i3D7Ao+tA+cHjiy4gySDyq2nlA8GbqrZtWyGfO0ITKu8hXVMtl5kxpniVwlgo=
-SHA256 (Pkgfile) = e2f0853f3b1b93392c056f19eb8a30a14dbd8042ca2cfdd13e9f47c5cf7fb8c2
-SHA256 (.footprint) = 36f8c86f3f7adb847bf0504e4a80b9990c49f8c865ff77c636c859a31217b9f7
+RWQ0fvpBKVgNw8aB3cb6ZQ/Rh+JkIL8M4PRHgHuykVHvVtLBIpR4NEAcBIerViqXoEVOccvv41eH5hfldz1k5N9plwKzqwb/BQA=
+SHA256 (Pkgfile) = f803e9b40030871316da2abc8c3fcd0d65e244491919bd5f5469c9041d2bc79a
+SHA256 (.footprint) = 5ac99c3211749225011fe9328eff14985b9bb15d49c0dd4d6e942b396c75b1dd
 SHA256 (gstreamer-0.10.36.tar.xz) = 9151aa108c177054387885763fa0e433e76780f7c5655c70a5390f2a6c6871da
 SHA256 (bison.patch) = 47509a5800caee330c3b07bc6820e8a78a1a07acfad72e4658c3612cbe66d057

@@ -40,7 +40,6 @@ drwxr-xr-x	root/root	usr/include/libgnomecanvasmm-2.6/libgnomecanvasmm/private/
 -rw-r--r--	root/root	usr/include/libgnomecanvasmm-2.6/libgnomecanvasmm/widget.h
 -rw-r--r--	root/root	usr/include/libgnomecanvasmm-2.6/libgnomecanvasmm/wrap_init.h
 drwxr-xr-x	root/root	usr/lib/
--rwxr-xr-x	root/root	usr/lib/libgnomecanvasmm-2.6.la
 lrwxrwxrwx	root/root	usr/lib/libgnomecanvasmm-2.6.so -> libgnomecanvasmm-2.6.so.1.0.6
 lrwxrwxrwx	root/root	usr/lib/libgnomecanvasmm-2.6.so.1 -> libgnomecanvasmm-2.6.so.1.0.6
 -rwxr-xr-x	root/root	usr/lib/libgnomecanvasmm-2.6.so.1.0.6

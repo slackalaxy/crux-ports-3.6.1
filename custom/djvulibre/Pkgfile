@@ -5,7 +5,7 @@
 
 name=djvulibre
 version=3.5.28
-release=1
+release=2
 source=(https://sourceforge.net/projects/djvu/files/DjVuLibre/$version/$name-$version.tar.gz)
 
 build() {
@@ -15,4 +15,6 @@ build() {
 	make DESTDIR=$PKG install
 	
 	rm -rf $PKG/usr/share/djvu
+	
+	rm -f $PKG/{,usr/}lib/*.la
 }

@@ -47,6 +47,7 @@ d:xfwm4-slood
 d:xfwm4-neat
 d:xfwm4-bluecurve-revival
 d:xfwm4-clearlooks-colors
+d:xfce4-artwork
 f:e9d655d4d455a9f7f25d43a70b103686:xfce4-settings/.signature
 f:86c882b08f5c5503405c3becebdf95a3:xfce4-settings/xfce4-settings.theme.diff.gz
 f:7e44e7233a51eb31b11369b7f6a6792a:xfce4-settings/xfce4-settings.xft.defaults.diff.gz
@@ -223,3 +224,6 @@ f:4dbe40190ab798e5a5c32de5dc340ec7:xfwm4-bluecurve-revival/.signature
 f:807bf6c5836aeb32b40d5ff384be7765:xfwm4-clearlooks-colors/Pkgfile
 f:279dcec36f470f532aa161e364dae2f7:xfwm4-clearlooks-colors/.footprint
 f:7cf2caf03ed1572f8c83dc1fff4d22b2:xfwm4-clearlooks-colors/.signature
+f:9a9835446f3428db111be29f5e8ae633:xfce4-artwork/Pkgfile
+f:33555764f6da7a31a72148ae8cd305c2:xfce4-artwork/.footprint
+f:fffc07fce67f82634a79d885434c2059:xfce4-artwork/.signature

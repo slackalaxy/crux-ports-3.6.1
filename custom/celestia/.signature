@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw5ZMX3g3Jlc0HZorLFg5mcGL20choHIdUM1LB+FhcQfoIA5CGBBTqhROePY1GDMd6xWxmJJG/KLxfQHKNMV/gwg=
-SHA256 (Pkgfile) = c5bdba6f20095a08b4bb032da899f619d72a22ee8326ea9ba79ef22876594837
-SHA256 (.footprint) = 5b1931aa3ee18659dcb18488f599aa0623f3275bde8ab2b910d94fdd91e55f03
+RWQ0fvpBKVgNw9r63wqEAcDIPVPFQwy0o6LdDOGUsjL6bhF4i0nLJniEHolmYBEht9AzPGUGNbjrXjMzVdGJzx+ngLILqFvggwA=
+SHA256 (Pkgfile) = 4aea9935b29bfb13064ad8ad6f765fa25947831926733c2c6fa09994d83c2baa
+SHA256 (.footprint) = 9c6d5e367e447f4954a3cb06cd898fad4d37be0346e63e70f57709f0c72c6e00
 SHA256 (celestia-1.6.2.2.tar.gz) = d4d3bccf104a9beaf4bedb58e407172555b67113bbff3e0134d4a831d747419b

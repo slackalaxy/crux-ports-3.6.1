@@ -5,14 +5,20 @@
 
 name=electricsheep
 version=20090306
-release=1
+release=2
 source=(https://slackware.uk/slackware/slackware64-15.0/source/xap/$name/$name-$version.tar.xz
 	$name-preferences.desktop)
 
 build() {
 	cd $name-$version/client
-	./configure --prefix=/usr
 	
+	# This is what electricsheep.SlackBuild does
+	chmod +x ffmpeg/doc/texi2pod.pl
+	
+	# https://lists.nongnu.org/archive/html/tinycc-devel/2013-02/msg00153.html
+	sed -i "s:texi2html -monolithic -number:texi2html -monolithic -number-sections:" ffmpeg/Makefile
+	
+	./configure --prefix=/usr
 	make
 	make DESTDIR=$PKG install
 	

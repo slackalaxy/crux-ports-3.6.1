@@ -119,7 +119,6 @@ drwxr-xr-x	root/root	usr/lib/gnome-vfs-2.0/modules/
 drwxr-xr-x	root/root	usr/lib/gnome-vfs/
 -rwxr-xr-x	root/root	usr/lib/gnome-vfs/gnome-vfs-daemon
 -rw-r--r--	root/root	usr/lib/libgnomevfs-2.a
--rwxr-xr-x	root/root	usr/lib/libgnomevfs-2.la
 lrwxrwxrwx	root/root	usr/lib/libgnomevfs-2.so -> libgnomevfs-2.so.0.2400.4
 lrwxrwxrwx	root/root	usr/lib/libgnomevfs-2.so.0 -> libgnomevfs-2.so.0.2400.4
 -rwxr-xr-x	root/root	usr/lib/libgnomevfs-2.so.0.2400.4

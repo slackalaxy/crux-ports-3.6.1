@@ -171,6 +171,20 @@ drwxr-xr-x	root/root	usr/include/codeblocks/tinyxml/
 -rw-r--r--	root/root	usr/include/codeblocks/toolsmanager.h
 -rw-r--r--	root/root	usr/include/codeblocks/uservarmanager.h
 -rw-r--r--	root/root	usr/include/codeblocks/workspaceloader.h
+drwxr-xr-x	root/root	usr/include/codeblocks/wxpropgrid/
+drwxr-xr-x	root/root	usr/include/codeblocks/wxpropgrid/include/
+drwxr-xr-x	root/root	usr/include/codeblocks/wxpropgrid/include/wx/
+drwxr-xr-x	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/advprops.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/editors.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/extras.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/manager.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/odcombo.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/pg_dox_mainpage.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/propdev.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/propgrid.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/props.h
+-rw-r--r--	root/root	usr/include/codeblocks/wxpropgrid/include/wx/propgrid/xh_propgrid.h
 drwxr-xr-x	root/root	usr/include/codeblocks/wxscintilla/
 drwxr-xr-x	root/root	usr/include/codeblocks/wxscintilla/include/
 drwxr-xr-x	root/root	usr/include/codeblocks/wxscintilla/include/wx/
@@ -205,7 +219,6 @@ drwxr-xr-x	root/root	usr/lib/codeblocks/plugins/
 -rwxr-xr-x	root/root	usr/lib/codeblocks/plugins/libscriptedwizard.so
 -rwxr-xr-x	root/root	usr/lib/codeblocks/plugins/libtodo.la
 -rwxr-xr-x	root/root	usr/lib/codeblocks/plugins/libtodo.so
--rwxr-xr-x	root/root	usr/lib/libcodeblocks.la
 lrwxrwxrwx	root/root	usr/lib/libcodeblocks.so -> libcodeblocks.so.0.0.1
 lrwxrwxrwx	root/root	usr/lib/libcodeblocks.so.0 -> libcodeblocks.so.0.0.1
 -rwxr-xr-x	root/root	usr/lib/libcodeblocks.so.0.0.1
