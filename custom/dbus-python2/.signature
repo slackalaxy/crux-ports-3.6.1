@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNwynmS/FiUvcG7C3pLy3ANQUMKjc6OiB7bPYLJ8I7TTsFNWecdGghgifhC/Aq1FAWYeP6r4HxYO7OOlzhCEdDfAI=
+SHA256 (Pkgfile) = 44f070fdacc68aff7425d7c7254faa884e12645e79320f1f710f2bab569e9ffc
+SHA256 (.footprint) = 87834bdbd979c3d1317d0b90ad041d61127aadfea5bd81d2f12e42b59bdf0505
+SHA256 (dbus-python-1.2.18.tar.gz) = 92bdd1e68b45596c833307a5ff4b217ee6929a1502f5341bae28fd120acf7260

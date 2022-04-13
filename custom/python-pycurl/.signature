@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw+9EJV5pDskK2i4q8SbtsRQjavyNZn4xRAFnH7juLky6iCV9LP76ke7+4Iid8WcZX2tHaknKEypDJ62hzwX4Sgk=
+SHA256 (Pkgfile) = 7ccb7c382070efa300e50f279c40be24bbff0dec8876b28a8bb65ed41fdb698f
+SHA256 (.footprint) = 7973bf090933ed2ee702a5bd78d2b65a754f4297ddc7a442f02c17934cc0c442
+SHA256 (pycurl-7.45.1.tar.gz) = a863ad18ff478f5545924057887cdae422e1b2746e41674615f687498ea5b88a

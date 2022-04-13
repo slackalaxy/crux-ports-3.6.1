@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw8NppbEpjSGwswVdyd+KBQi8rfrocn8fu4MtWpHOfs7Mgto7lV9jiftkvOQI7ouq9PPvcc8tWcWirjYR2p1kqQo=
+SHA256 (Pkgfile) = c63d6dfe625c7d2a2cccc8be5efac92e4d53e6b6d44b37bb9bcf76cdeef9d7ba
+SHA256 (.footprint) = 31bf3421e8dce9a4cd6c6548757a1a2bfe34025f7265e71f1f428a2fec582206
+SHA256 (parcellite-1.2.1.tar.gz) = aba1c7c56c7607e219ce9855723eefa552c5376982891aefbfb5a2d3297ef046
