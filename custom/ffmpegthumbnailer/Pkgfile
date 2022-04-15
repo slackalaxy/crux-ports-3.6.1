@@ -1,11 +1,11 @@
 # Description: Lightweight video thumbnailer that can be used by file managers.
 # URL: https://github.com/dirkvdb/ffmpegthumbnailer
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: ffmpeg libjpeg-turbo libpng gvfs gst-libav
+# Depends on: ffmpeg4 libjpeg-turbo libpng gvfs gst-libav
 
 name=ffmpegthumbnailer
 version=2.2.2
-release=2
+release=3
 source=(https://github.com/dirkvdb/$name/archive/$version.tar.gz
 	efb5b618.patch
 	ffmpegthumbnailer-ffmpeg5.patch)
@@ -13,18 +13,22 @@ source=(https://github.com/dirkvdb/$name/archive/$version.tar.gz
 build() {
 
 	# Taken from Arch
-	patch -d $name-$version -p1 < $SRC/ffmpegthumbnailer-ffmpeg5.patch # Fix build with FFmpeg 5
-	patch -d $name-$version -p1 < $SRC/efb5b618.patch # Fix build with FFmpeg 5
+	#patch -d $name-$version -p1 < $SRC/ffmpegthumbnailer-ffmpeg5.patch # Fix build with FFmpeg 5
+	#patch -d $name-$version -p1 < $SRC/efb5b618.patch # Fix build with FFmpeg 5
+	
+	export PKG_CONFIG_PATH="/usr/lib/ffmpeg4/pkgconfig/:$PKG_CONFIG_PATH"
 	
 	cd $name-$version
 	mkdir -p build
 	cd build
 	cmake \
-	-DCMAKE_BUILD_TYPE=Release \
-	-DCMAKE_INSTALL_PREFIX=/usr \
-	-DCMAKE_INSTALL_LIBDIR=lib \
-	-DENABLE_GIO=ON \
-	-DENABLE_THUMBNAILER=ON ..
+	-D CMAKE_C_FLAGS:STRING="$CFLAGS -I/usr/include/ffmpeg4/" \
+	-D CMAKE_CXX_FLAGS:STRING="$CXXCFLAGS -I/usr/include/ffmpeg4/" \
+	-D CMAKE_BUILD_TYPE=Release \
+	-D CMAKE_INSTALL_PREFIX=/usr \
+	-D CMAKE_INSTALL_LIBDIR=lib \
+	-D ENABLE_GIO=ON \
+	-D ENABLE_THUMBNAILER=ON ..
 
 	make
 	make DESTDIR=$PKG install

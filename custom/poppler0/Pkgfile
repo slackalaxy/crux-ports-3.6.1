@@ -1,0 +1,26 @@
+# Description: Legacy poppler
+# URL: https://slackware.uk/slackware/slackware-14.0/source/l/poppler/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on:
+
+name=poppler0
+version=0.20.2
+release=1
+source=(https://slackware.uk/slackware/slackware-14.0/source/l/poppler/poppler-0.20.2.tar.xz)
+
+build() {
+	cd poppler-$version
+	./configure --prefix=/usr \
+	--bindir=/usr/lib/${name}/bin \
+	--libdir=/usr/lib/${name} \
+	--sysconfdir=/usr/etc \
+	--includedir=/usr/include/$name \
+	--enable-xpdf-headers \
+	--enable-cairo-output \
+	--enable-zlib
+	
+	make
+	make DESTDIR=$PKG install
+	
+	rm -rf $PKG/usr/{bin,share}
+}

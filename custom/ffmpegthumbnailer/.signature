@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw9gwii7mOUqoOuXfjN9omhZUaKgU2wb8Q3AuGpfMShmYX+/8AuS2+4Q6w/oeoxoyGAQalQweoUeqBZlqhk59uQo=
-SHA256 (Pkgfile) = bac90e1628329ab0df379b973753eea8be863e0306dfdb17ffe0edbe17161f18
+RWQ0fvpBKVgNw40koDmWMMtE0Foa69/u6KESgLrl3smAUNAKBN5OPXqmtuZAivKX5S+XxeiRBuNKjEfnimndMZ0Wesjv3qV64Ao=
+SHA256 (Pkgfile) = 53d0124eebe5d406b51e9496ec9cc4661c3c63321d4b3ce13337c4558577df10
 SHA256 (.footprint) = d2a83d7986f09ec556a1d258270786fe13e1701fbaab6010c95c562ae89bc4b1
 SHA256 (2.2.2.tar.gz) = 8c4c42ab68144a9e2349710d42c0248407a87e7dc0ba4366891905322b331f92
 SHA256 (efb5b618.patch) = c266d1c7cab2fa26dfee2410ea6864ab81a57e8784eda6574cd8237750b9e0e1

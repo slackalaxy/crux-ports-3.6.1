@@ -203,6 +203,7 @@ d:notify-python
 d:python2-pycups
 d:python-pycurl
 d:system-config-printer
+d:poppler0
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -334,7 +335,7 @@ f:441a2ed3bff1ccbf7c4ede941bd1c8f6:gnome-menus/Pkgfile
 f:b6adca19d9fcfca357279d5aa682ba4e:gnome-menus/.signature
 f:be3e403b31dbc4a81917301b5d3af334:google-chrome/.footprint
 f:b2028d188c16310d843bb23b235aac2c:google-chrome/Pkgfile
-f:1878af17e29065aeea56b9a9411fab13:google-chrome/.signature
+f:21ce31aa95f119a6cd12493e1c2150b3:google-chrome/.signature
 f:559d92146e062365c7862835c118875d:wv/Pkgfile
 f:94fb063f57d676c23fa7f98ef13d1591:wv/.footprint
 f:90f19ea4cb71eda55faf2341b8c8bf2d:wv/.signature
@@ -631,9 +632,9 @@ f:6ad23df67f87d1c3b16cdd0a9a31383a:gbgoffice/09_deprecated_SigC.patch
 f:d6516ce9cda7468f87d90f67d6ff2017:gbgoffice/10_workhelper-buttonbox.patch
 f:103468b86444dc1058bf28ffcff6f3f7:gbgoffice/11_explicit-linkage.patch
 f:edbcdad55233a4e77f6c7d485a2f38f3:gbgoffice/gbgoffice.desktop
-f:2ce43ae7b64615262cc8e918941a91b8:ffmpegthumbnailer/.signature
+f:c9b62166b4fce8c98ee6ed913ea17112:ffmpegthumbnailer/.signature
 f:2e44b4d393c09b5c468aa77dcb5ee347:ffmpegthumbnailer/.footprint
-f:9e2fe9baa02bd4b8e179ceca22b34e6c:ffmpegthumbnailer/Pkgfile
+f:0920360a88d0c2b1eab504e1ade7e686:ffmpegthumbnailer/Pkgfile
 f:47630f5850a2cc5408e345339217d57d:ffmpegthumbnailer/efb5b618.patch
 f:10b9396153ed929473b94ee492e132c5:ffmpegthumbnailer/ffmpegthumbnailer-ffmpeg5.patch
 f:4ffbf0da6f34d71c1c8afe7c61615384:lilo-nvme/lilo.gcc10.diff.gz
@@ -1017,3 +1018,6 @@ f:9a5bbee2615cee828d38082e5c5b4b85:python-pycurl/.signature
 f:42141bac080a91a3b8e23d96d6ae01ab:system-config-printer/Pkgfile
 f:249d945e3312edd33c5f509a0559dc39:system-config-printer/.footprint
 f:4e5a0f9127499a7bd1931d6542122305:system-config-printer/.signature
+f:e7d241b970393f892c3747b4867fb22c:poppler0/Pkgfile
+f:cb80859bfbf96fd6520ef6b1156b2bfe:poppler0/.footprint
+f:286975bdf6133ff5392e6ec00b0f8eb5:poppler0/.signature
