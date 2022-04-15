@@ -5,7 +5,7 @@
 
 name=evince
 version=2.32.0
-release=3
+release=4
 source=(https://download.gnome.org/sources/$name/${version%.*}/$name-$version.tar.bz2)
 
 build() {
@@ -39,7 +39,8 @@ build() {
 
 	# Fix desktop entry
 	sed -i "/NoDisplay=true/d" $PKG/usr/share/applications/evince.desktop
-
+	sed -i "s:Categories=GNOME;GTK;Graphics;VectorGraphics;Viewer;:Categories=Office:" $PKG/usr/share/applications/evince.desktop
+	
 	# Remove these
 	rm -rf $PKG/*.schemas
 	rm -rf $PKG/usr/share/{locale,gnome,omf,gtk-doc}
