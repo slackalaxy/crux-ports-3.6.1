@@ -203,7 +203,6 @@ d:notify-python
 d:python2-pycups
 d:python-pycurl
 d:system-config-printer
-d:poppler0
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -1018,6 +1017,3 @@ f:9a5bbee2615cee828d38082e5c5b4b85:python-pycurl/.signature
 f:42141bac080a91a3b8e23d96d6ae01ab:system-config-printer/Pkgfile
 f:249d945e3312edd33c5f509a0559dc39:system-config-printer/.footprint
 f:4e5a0f9127499a7bd1931d6542122305:system-config-printer/.signature
-f:e7d241b970393f892c3747b4867fb22c:poppler0/Pkgfile
-f:cb80859bfbf96fd6520ef6b1156b2bfe:poppler0/.footprint
-f:286975bdf6133ff5392e6ec00b0f8eb5:poppler0/.signature
