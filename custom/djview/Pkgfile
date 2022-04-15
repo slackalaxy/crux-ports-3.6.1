@@ -5,7 +5,7 @@
 
 name=djview
 version=4.12
-release=2
+release=3
 source=(https://sourceforge.net/projects/djvu/files/DjView/4.12/djview-4.12.tar.gz)
 
 build() {
@@ -16,6 +16,7 @@ build() {
 	make DESTDIR=$PKG install
 	
 	sed -i "s:Exec=djview4:Exec=djview:" $PKG/usr/share/applications/djvulibre-djview4.desktop
+	sed -i "s:Categories=Qt;Graphics;Viewer;:Categories=Office;:" $PKG/usr/share/applications/djvulibre-djview4.desktop
 	
 	# I don't use Firefox
 	rm -rf $PKG/usr/lib
