@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcAHkA+2V5obHP2K7z+GrOTtO02pnfFrQd7ha9bq50Wdwd/Q5JCHozF5qp2P6mvq4kC17CQBq81Y4vfmE4g+YwQA=
-SHA256 (Pkgfile) = 83e9575bf33c00bf8447a57619a6912fafc763f4cd1d903a16e72844fe3f5ba8
+RWTXrKv/sDjJcJF6fmeCjNHOtQXbkTLYTPS0w59kcd498amZXSC5NjQ25QDoVmsgVzAZMdb15Y68eB2wolYxatFsSfk4Bb7b1g0=
+SHA256 (Pkgfile) = ae7a32e091cdd567cfe236d235cdf9296719831305fd89ac93d89423fef76ecd
 SHA256 (.footprint) = 11e2267bb4d4ea54b27955e9d6197c3024f3d64cbca7ac7de4f8e8b78bf4fbb7
 SHA256 (gephi-0.9.2-linux.tar.gz) = e817c915e666634f924d9ab103da69e4e635bb8a47bcc5ad05c10b89d4cc23f3
 SHA256 (gephi.desktop) = 70da4beb57a23dc6b16ed6f93a34bf0cefef1cafe568a800af2b334064e1f62c

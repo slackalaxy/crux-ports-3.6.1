@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcJN3yhHWChvRNW1M0VObpDfBI6z0k5UR9rj4oBWqCOK/dhxrSeL1Usm0AHirOkOhtjcQc5bl6A47OqMwTTAlaAo=
-SHA256 (Pkgfile) = 77c4379eb64b1e66c0e1e3d173120ae66e0f3009cc1ff188f4ee24a9ec66f5e2
+RWTXrKv/sDjJcIv7sI80aQ1E7JQ00mxlgBzjhK6Ho+W/d26cuW457Ur7735S+5PXw4pSLLubRAssZ3SviVvgC3QCgc5Fr85GBAA=
+SHA256 (Pkgfile) = 40a920f428156fe8d30d826f45357936c5c96abd5593c104b26ee92198df116a
 SHA256 (.footprint) = 53536088346164439893a3d9f6cd4984330f5bf07a23b13caebc8b9258199fd0
 SHA256 (aliview.tgz) = c1ae05b949673540cf23cb6ebbcdc16689ae9c00ab528975f0665503440bdcd5
 SHA256 (aliview.desktop) = 35ed617c0a6bdd5ceff07424c9b0215cdf364e38cadfebd2aa50eb72d0963b32

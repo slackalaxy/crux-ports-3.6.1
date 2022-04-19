@@ -1,10 +1,10 @@
 # Description: Fiji is Just ImageJ, with extras
 # URL: https://fiji.sc/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk gtk libglvnd xorg-libxdamage xorg-libxxf86vm
+# Depends on: jdk8-bin gtk libglvnd xorg-libxdamage xorg-libxxf86vm
 
 name=fiji
-version=20220222_1217
+version=20220414_1745
 release=1
 source=(https://downloads.imagej.net/fiji/archive/${version/_/-}/fiji-nojre.tar.gz
 	ImageJ2.desktop $name.sh)
@@ -17,7 +17,7 @@ build() {
 
 	# Update plugins, so that the latest are included in the package. This
 	# will download stuff during the package creation, so if you _really_
-	# want this, uncomment the line below. I want it.
+	# want this, uncomment the line below.
 	 ./$name --update list-local-only
 
 	# We will put here two tools, so they are not run at startup.

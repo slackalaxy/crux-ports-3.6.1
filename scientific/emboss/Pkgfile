@@ -1,7 +1,7 @@
 # Description: The European Molecular Biology Open Software Suite
 # URL: http://emboss.sourceforge.net/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk fontconfig libgd libwebp mysql postgresql
+# Depends on: jdk8-bin fontconfig libgd libwebp mysql postgresql
 
 name=emboss
 version=6.6.0

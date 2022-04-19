@@ -1,7 +1,7 @@
 # Description: Flow cytometry De-Identifier
 # URL: http://www.frankbattye.com.au/freesoftware.html
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk facsdir
+# Depends on: jdk8-bin facsdir
 
 name=wehi-deid
 version=20130720

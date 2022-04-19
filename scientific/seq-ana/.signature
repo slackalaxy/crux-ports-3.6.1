@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcC8fZTVjC0NYTd0Pg4bNzZ0pvdAm+GCugOpqTYa+/Naw/SpiBkHQ5PNzo4pAvritmpQYw8odzYEVb4iLkopo5AQ=
-SHA256 (Pkgfile) = d5d657b5f5130850826cc9529f42e8aeb2e1f205c8b3e7320cb330c9183e421b
+RWTXrKv/sDjJcCBbTfViZ3LI0lRnkIM3oXzvfRZbbcI2uCzFP9poE0/j3Zzn8SH+TSjFmL/4n1uY6DJg3TtpHSxqcWFTle/4oAk=
+SHA256 (Pkgfile) = 4a912c7c4bf29db3acb3b46bfa0ab1f86fd5f26b75da984d29863cd136ddfed6
 SHA256 (.footprint) = 28e55126057a4e4667b3e0dd65f249b400eee383a02a85605c57efced3641e2c
 SHA256 (sa.jar) = 0d0c7c7facb98782cafdf47e1fa7260efca3ae0f6e72d39ee8af4139821cdf9a
 SHA256 (seq-ana.desktop) = 49bd452b26bf3d389487caa9392b7d9a22369297d723165e87f5474f1c423ba4

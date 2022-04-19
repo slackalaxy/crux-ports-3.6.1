@@ -1,0 +1,23 @@
+# Description: AdoptOpen (Adoptium) JDK distribution
+# URL: https://github.com/adoptium/temurin11-binaries/releases/
+# Maintainer: Petar Petrov, slackalaxy at gmail dot com
+# Depends on: alsa-lib freetype xorg-libxrender xorg-libxtst
+
+name=adoptium11-jdk
+version=11.0.14.1
+release=1
+source=(https://github.com/adoptium/temurin11-binaries/releases/download/jdk-${version}%2B1/OpenJDK11U-jdk_x64_linux_hotspot_${version}_1.tar.gz)
+
+build() {
+	cd jdk-${version}+1
+	
+	# create installation folders
+	mkdir -p $PKG/usr/lib/jdk/$name
+	mv * $PKG/usr/lib/jdk/$name
+	
+	# revdep
+	mkdir -p $PKG/etc/revdep.d
+	echo "/usr/lib/jdk/$name/lib" > $PKG/etc/revdep.d/$name
+	echo "/usr/lib/jdk/$name/lib/jli" >> $PKG/etc/revdep.d/$name
+	echo "/usr/lib/jdk/$name/lib/server" >> $PKG/etc/revdep.d/$name
+}

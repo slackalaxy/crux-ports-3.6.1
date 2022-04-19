@@ -1,7 +1,7 @@
 # Description: Alignment viewer and editor
 # URL: http://www.ormbunkar.se/aliview/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk
+# Depends on: jdk8-bin
 
 name=aliview
 version=1.27

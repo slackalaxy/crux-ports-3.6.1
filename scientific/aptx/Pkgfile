@@ -1,7 +1,7 @@
 # Description: Archaeopteryx - visualise, analyse and edit phylogenetic trees
 # URL: https://sites.google.com/site/cmzmasek/home/software/archaeopteryx
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk
+# Depends on: jdk8-bin
 
 name=aptx
 version=1050

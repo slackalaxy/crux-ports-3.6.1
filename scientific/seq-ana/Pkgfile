@@ -1,7 +1,7 @@
 # Description: Biologic sequences analysis
 # URL: http://informagen.com/SA/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk
+# Depends on: jdk8-bin
 
 name=seq-ana
 version=1.7.2

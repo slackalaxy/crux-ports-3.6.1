@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcBG0zbWymFfKXaRd2Y5HxexwcpWB2AJyygE2KN5FBgInLYX7GqUmhmDgSQCuc7Ip1uQqPgRYzMcqDuAmZDMoqQo=
-SHA256 (Pkgfile) = 77c4029845a57b637951aa1453c618e9283ede6c2831f0eef0261a3871039116
+RWTXrKv/sDjJcDzCj4U15rvPl6iDslF1FwTl8nLTEtqAhtCHgEA97r67bMjYzgYFXVO8nr8q8Z/xdF3cI3cjkpQ5gqRhM/s3lA0=
+SHA256 (Pkgfile) = 18a48af2f450065752f56f1cd4c3f8ada728ffced5e50c31ff64f1e8dd560f7c
 SHA256 (.footprint) = 51d387b5ad194696e6d937181f4f3824b50c5230c26eab8b2753700f7b012bd2
 SHA256 (FCSalyzer%200.9.22-alpha.zip) = 7895bca2a8ecf4105662a328c0587c9aa93aa06db8788d1eeacf6544ff64b9cd
 SHA256 (FCSalyzer.desktop) = 4aab1ff56dca458e2b2ca69dd1d4d7bcac6aff8f0c90ec65ee66b5cbbd7d6def

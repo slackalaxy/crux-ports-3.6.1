@@ -1,7 +1,7 @@
 # Description: Audio representation of flow cytometric data
 # URL: http://www.frankbattye.com.au/freesoftware.html
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk
+# Depends on: jdk8-bin
 
 name=wehi-cellsymphony
 version=20130721

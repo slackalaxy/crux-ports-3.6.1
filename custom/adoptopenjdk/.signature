@@ -1,6 +1,0 @@
-untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwzk6PHJOB8/ZOtAPsKd7UqrsWYGiP/K7IdooOeEqNYJ7+rh+Vz7WQLtjL9Rohp61rk9/71telFnqY2A15Xz9qQs=
-SHA256 (Pkgfile) = b4e62037cce0210bde35ae4b1dea2c45608a26e3f602588ef67db2c98f6b36c8
-SHA256 (.footprint) = 67e8e0ec5799d4f9919533cd198744cb9e97560602e111ae97e47039930174f9
-SHA256 (OpenJDK11U-jdk_x64_linux_hotspot_11.0.11_9.tar.gz) = e99b98f851541202ab64401594901e583b764e368814320eba442095251e78cb
-SHA256 (adoptopenjdk.revdep) = e319e855205d15e433ad6fbc3c2597a653f1749bde9897d5bfa0854296d359b2

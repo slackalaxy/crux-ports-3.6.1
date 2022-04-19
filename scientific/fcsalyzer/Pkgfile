@@ -1,7 +1,7 @@
 # Description: Flow cytometry analysis program
 # URL: https://sourceforge.net/projects/fcsalyzer
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk facsdir
+# Depends on: jdk8-bin facsdir
 
 name=fcsalyzer
 version=0.9.22

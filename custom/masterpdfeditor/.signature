@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw+GYogoZhdUzhQaIZvk94YMxRXoxNZsNQhCYhynwdSt/gsfE+835IFfjJKV/Q29W1VfMFIy1gUG+z4m5SxuZDQw=
-SHA256 (Pkgfile) = 1084ff446e9ecf0f25601bace66b20d1e7b7f6855743ece1b3b95f8df20bb756
+RWQ0fvpBKVgNwxuDutIgTOZyWO5Uv9bK+J78V0LVYY/hA0A46hvzUFpo9pBupCVt4DV0GQu6/3x4NRcLQ+ytuv+FSbCKHcTzUQY=
+SHA256 (Pkgfile) = 9a6b2ddc45b75ad073cab4838c9b88b8f7a744b22f8ad14be33496e70661d940
 SHA256 (.footprint) = 4501e4a37d2f3e0b21dc55d0726229c9fba7620a1b42ab5e9bbce79b1627ac73
-SHA256 (master-pdf-editor-5.8.33-qt5.x86_64.tar.gz) = b202c5fcda5a36590be6203597b43332260ac1170c0eed831dd4c869e1ceb5f2
+SHA256 (master-pdf-editor-5.8.49-qt5.x86_64.tar.gz) = 278c76a51cccf7c1e3c1fa5de2be9b18e13862b967bee15e1714787a34239fe9

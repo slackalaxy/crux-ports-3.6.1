@@ -1,7 +1,7 @@
 # Description: The Open Graph Viz Platform
 # URL: https://gephi.org/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk
+# Depends on: jdk8-bin
 
 name=gephi
 version=0.9.2

@@ -1,7 +1,7 @@
 # Description: A Sequence Alignment Editor and Viewer
 # URL: http://www.jalview.org/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk
+# Depends on: jdk8-bin
 
 name=jalview
 version=2.11.1.7

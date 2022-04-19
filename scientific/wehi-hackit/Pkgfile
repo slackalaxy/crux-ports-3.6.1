@@ -1,7 +1,7 @@
 # Description: Clip a stream of cells from flow cytometry files
 # URL: http://www.frankbattye.com.au/freesoftware.html
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: adoptopenjdk facsdir
+# Depends on: jdk8-bin facsdir
 
 name=wehi-hackit
 version=20050203

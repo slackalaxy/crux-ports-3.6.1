@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcDBZK5aJICC10lDjAaD1XYEr0iEaLSFJHzmuCLGuk5UUO4xUXS+sIcxWvWJ83d6IPQNMbH59uhbXNPxhffGcsQ4=
-SHA256 (Pkgfile) = 3faa7c6d8f265d6ffcbfd4b7f2ba3fe0190e4731df369692f3231c1d0ba694b8
+RWTXrKv/sDjJcOWhglUcDiBRjxc9j21uKqEA20APxWUXfS4LephXC1KfyGEA5n8aKs96CYNcELHD4k1MVNwJ7fg9Qb6vtzIG4gw=
+SHA256 (Pkgfile) = 0bb606754c824714a1c8ae3c3f466065059d16c9e7dbc0bf86d8e148759ec63e
 SHA256 (.footprint) = 42b87b8cc81bd1556b463595f890dbfc9412ee712ce29f0210e705469bf6f8fe
 SHA256 (Hackit.jar) = 5fbf244b47dcf8b39e2ccd1a9afe97d617ae2f70b60b335a16f94164e7314b98
 SHA256 (wehi-hackit.desktop) = 36b578199c8d31d979ec60a7077da12bc32784caa404071dae3675141aafaf0e

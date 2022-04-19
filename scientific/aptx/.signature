@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcGC6I1BqziHYMQwS3s767sC2i3p0HQpnFN+LBUGKEHE40ZFR/6U7ruMknyXItUiOWIPkjySpoD6yQHw25KnGGgg=
-SHA256 (Pkgfile) = cd4cedecd4c73a974fb6baba39c0ee67c0f7187a3cfe6e3dba9863bafe28ae72
+RWTXrKv/sDjJcA/csb02OlNGhz+LrQMp1CHgYAIx+fcRne/YUjh2MdYBOnLiSYDm0IROYdIgjFQga1pPRDdQ/YKaTAl+38+pLw4=
+SHA256 (Pkgfile) = aea7340d4ab37ab9712753507b748ba184a5ea63dec8469992b60e71a65eec1c
 SHA256 (.footprint) = ca2fd0cd86a27bbf87641968933705b54f65d08028bf85d0669906415d0ae71b
 SHA256 (forester_1050.jar) = 213643a95338dd35046d75d0ab469ab2e3ca877f589a1db56c6c5c8be6098081
 SHA256 (_aptx_configuration_file.txt) = 83c9b316e6e2b5a580341637d933aeb25ac80b75ffbfe20a6e31d36c66c6ad8d
