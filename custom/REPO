@@ -1031,8 +1031,8 @@ f:3d9dbace985b7415a92ce1e4487d7107:jdk11-sym/Pkgfile
 f:d31d26356b63fbbf88b4e80e45f3db27:jdk11-sym/.footprint
 f:3965d174f79570eeaea31ffcc983769e:jdk11-sym/.signature
 f:df6d3ee1c978a009ed0f4168f9127e72:adoptium8-jdk/.footprint
-f:5f70bb871dbc97c4c85010023b03dec9:adoptium8-jdk/Pkgfile
-f:54f5ab42c6d9069b9df97a1cf716c0bb:adoptium8-jdk/.signature
+f:c1972e9b6dcc4268b2c5d6a75ef168a0:adoptium8-jdk/Pkgfile
+f:2f531fdf98242a07c2235beea2190cdc:adoptium8-jdk/.signature
 f:71958c08c39d69ca7ace28c31e3536c9:jdk8-sym/Pkgfile
 f:261c300357594f83dc4213b672fc2702:jdk8-sym/.footprint
 f:8237a427d88865408a095b3b6bdb4cce:jdk8-sym/.signature
