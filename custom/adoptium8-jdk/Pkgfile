@@ -1,11 +1,11 @@
 # Description: AdoptOpen (Adoptium) JDK 8 distribution
 # URL: https://github.com/adoptium/temurin8-binaries/releases/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: alsa-lib freetype xorg-libxrender xorg-libxtst
+# Depends on: alsa-lib brotli graphite2 harfbuzz xorg-libxtst
 
 name=adoptium8-jdk
 version=8u322
-release=2
+release=3
 source=(https://github.com/adoptium/temurin8-binaries/releases/download/jdk${version}-b06/OpenJDK8U-jdk_x64_linux_hotspot_${version}b06.tar.gz)
 
 build() {
@@ -17,7 +17,7 @@ build() {
 	
 	# revdep
 	mkdir -p $PKG/etc/revdep.d
-	echo "/usr/lib/java/$name/jre/lib/amd64" > $PKG/etc/revdep.d/$name
-	echo "/usr/lib/java/$name/jre/lib/amd64/jli" >> $PKG/etc/revdep.d/$name
-	echo "/usr/lib/java/$name/jre/lib/amd64/server" >> $PKG/etc/revdep.d/$name
+	echo "/usr/lib/jdk/$name/jre/lib/amd64" > $PKG/etc/revdep.d/$name
+	echo "/usr/lib/jdk/$name/jre/lib/amd64/jli" >> $PKG/etc/revdep.d/$name
+	echo "/usr/lib/jdk/$name/jre/lib/amd64/server" >> $PKG/etc/revdep.d/$name
 }

@@ -37,7 +37,7 @@ build() {
 
 	cd ..
 
-	# Copy the folders, db.xml and the renamed binary to /opt
+	# Copy the folders, db.xml and the renamed binary to /usr/lib
 	mkdir -p $PKG/usr/lib/$name
 	cp -a \
 	Contents \

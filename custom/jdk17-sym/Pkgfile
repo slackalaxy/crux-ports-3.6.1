@@ -1,4 +1,4 @@
-# Description: Creates a symlink to Adoptium 17 JAVA
+# Description: Creates a symlink to Adoptium 17 JDK
 # URL:
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: adoptium17-jdk

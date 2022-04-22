@@ -1,7 +1,7 @@
-# Description: AdoptOpen (Adoptium) JDK distribution
+# Description: AdoptOpen (Adoptium) JDK 11 distribution
 # URL: https://github.com/adoptium/temurin11-binaries/releases/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: alsa-lib freetype xorg-libxrender xorg-libxtst
+# Depends on: alsa-lib brotli graphite2 harfbuzz xorg-libxtst
 
 name=adoptium11-jdk
 version=11.0.14.1
