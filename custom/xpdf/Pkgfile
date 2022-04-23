@@ -5,8 +5,9 @@
 
 name=xpdf
 version=4.04
-release=1
+release=2
 source=(https://dl.xpdfreader.com/$name-$version.tar.gz
+	https://dl.xpdfreader.com/$name-t1fonts.tar.gz
 	xpdfrc.diff $name.desktop $name.png)
 
 build() {
@@ -30,4 +31,9 @@ build() {
 	mkdir -p $PKG/usr/share/{applications,pixmaps}
 	cp $SRC/$name.desktop $PKG/usr/share/applications
 	cp $SRC/$name.png $PKG/usr/share/pixmaps
+	
+	# Install fonts
+	mkdir -p $PKG/usr/share/fonts/X11/Type1
+	cp -a $SRC/$name-t1fonts/*.pfb $PKG/usr/share/fonts/X11/Type1
+	chmod 0644 $PKG/usr/share/fonts/X11/Type1/*.pfb
 }
