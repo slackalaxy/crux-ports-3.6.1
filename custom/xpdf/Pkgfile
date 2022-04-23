@@ -4,7 +4,7 @@
 # Depends on: brotli cups double-conversion icu keyutils krb5 libpcre2 qt5
 
 name=xpdf
-version=4.03
+version=4.04
 release=1
 source=(https://dl.xpdfreader.com/$name-$version.tar.gz
 	xpdfrc.diff $name.desktop $name.png)
