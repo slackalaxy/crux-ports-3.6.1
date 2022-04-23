@@ -31,6 +31,9 @@ bmp-timer  = 60,27;7,,0
 prompt
 timeout=120
 
+# Use VESA framebbuffer 1920x1080
+#vga=980
+
 image=/boot/vmlinuz-5.12.14
 	label=5.12.14
 	read-only
@@ -40,6 +43,14 @@ image=/boot/vmlinuz
         label=CRUX
         read-only
         append="root=/dev/sda2"
+
+# This loads Intel's early ucode
+# image=/boot/vmlinuz-5.15.26
+#        initrd=/boot/early-ucode.cpio
+#        label=5.15.26-u
+#        read-only
+#        root=/dev/sda2
+#        append="vt.default_utf8=1"
 
 # image = /boot/vmlinuz
 #  root = /dev/sda2

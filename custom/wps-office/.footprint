@@ -1325,7 +1325,6 @@ lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5.12 -> libQt5Xm
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libSDL2-2.0.so -> libSDL2-2.0.so.0
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libSDL2-2.0.so.0 -> libSDL2-2.0.so.0.12.0
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libSDL2-2.0.so.0.12.0
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libSDL2.so -> libSDL2-2.0.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libaeocenter.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libauth.so
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavcodec.so -> libavcodec.so.58.54.100
