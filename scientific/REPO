@@ -94,15 +94,15 @@ f:1f453a5d05b4d7f02ed5a18e0e520fea:aline/.footprint
 f:212c4c3021cf215ac96a3fb6c56b95c3:fiji/.footprint
 f:46bd8e587a31183f5bd250f44c77469d:fiji/ImageJ2.desktop
 f:1cb93a5a7ce54cfbfff3f5b4e6493547:fiji/fiji.sh
-f:204009b0ff00c361232ce8a724164a9b:fiji/Pkgfile
+f:6d4f30ee1979e73c15263bbefa4f0a10:fiji/Pkgfile
 f:5ae9cfab3367c78529b9c0d901ef661a:fiji/.signature
 f:48014bdca891cb252fb2c68f9559f765:fiji/README
 f:022b464ddac57e7d2b1773b993348a2e:genpak/.footprint
 f:649a5bbbba960cf24b02270b43969ed9:genpak/.signature
 f:fc1f5839c032a13f5fc7fe259bc0ddb7:genpak/Pkgfile
-f:daacf0587c686ed0751905fcdced5884:phyml/.signature
+f:cf04560a2590659b53cfdb0d93e2d30f:phyml/.signature
 f:22ca8b66466ce218fa12ca5025d9f004:phyml/.footprint
-f:c80b3a6160ed5e7d17d1ef8d541dd395:phyml/Pkgfile
+f:c57a587b0211e28ed2e77be23354295d:phyml/Pkgfile
 f:e50cefc889af338cbababdf6ac2417e7:gephi/.footprint
 f:6420c867ba0084d768073414f10f6829:gephi/.signature
 f:337edba7b8f8e78ff7b6c91a81f41ab8:gephi/Pkgfile
@@ -182,6 +182,7 @@ f:ef12aa4e60238478fccc12ab51660784:perlprimer/perlprimer.desktop
 f:9689e089bb57d9da64d63f57af5e22e2:perlprimer/perlprimer.png
 f:f3dbb8e783cd611daf1352d308b8f8b7:perlprimer/Pkgfile
 f:c7838ebc532135890cd4a90e52bf4714:guidance/.footprint
+f:ec998537618b77a0bcbda99f1cde7e75:guidance/guidance#2.02-1.pkg.tar.gz
 f:482507599e4f5649ca6b598d1b2a3529:guidance/guidance.sh
 f:fea885b13ccbc92ff8ce2ab92e794dd5:guidance/Pkgfile
 f:9ba0f478bc01f5ace62b133c035bca51:guidance/.signature
