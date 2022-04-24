@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw6r83atLDDnNxjXda/Al8r27AfIDeLiYI0TEMI5bvzPjyAKzEaCV0uvTFo4prlwp9K0LaNRv+j5xnBNYeWW35Ac=
+SHA256 (Pkgfile) = 3dab0b590ae6af7ce3a7355950cf3196a3543a37d490fb3dcc797aa32a618857
+SHA256 (.footprint) = 3541a1f6f49b8f2c93358e1551155dc697ddbba0ff090c4538ffd48eee426542
+SHA256 (libimobiledevice-glue-c2e237ab5449b42461639c8e1eabbc61d0c386b7.tar.gz) = 5cbf0c589f144d0b8e690ff4aefd1c6c1513ded5e02def8b49ecca21b19acbcf
