@@ -182,7 +182,6 @@ f:ef12aa4e60238478fccc12ab51660784:perlprimer/perlprimer.desktop
 f:9689e089bb57d9da64d63f57af5e22e2:perlprimer/perlprimer.png
 f:f3dbb8e783cd611daf1352d308b8f8b7:perlprimer/Pkgfile
 f:c7838ebc532135890cd4a90e52bf4714:guidance/.footprint
-f:ec998537618b77a0bcbda99f1cde7e75:guidance/guidance#2.02-1.pkg.tar.gz
 f:482507599e4f5649ca6b598d1b2a3529:guidance/guidance.sh
 f:fea885b13ccbc92ff8ce2ab92e794dd5:guidance/Pkgfile
 f:9ba0f478bc01f5ace62b133c035bca51:guidance/.signature
@@ -409,3 +408,5 @@ f:f6afa570deece169aec6476ebb1c37bb:mega/.signature
 f:1964d41b6141da3bb9604d38e12d738c:mega/Pkgfile
 f:1a27ed1f6f4a3ca37e89b7fa7d88145e:mega/.footprint
 f:9ff2c487ee37746aee58a06923eea3dd:mega/mega.desktop
+f:a50f7165de740e6f02b4025d1b5243e0:scientific.httpup
+f:fab03d23484862d1c1f121c60e9cee49:scientific.pub
