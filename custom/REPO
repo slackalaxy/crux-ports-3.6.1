@@ -216,6 +216,7 @@ d:libusbmuxd
 d:libimobiledevice
 d:usbmuxd
 d:ifuse
+d:jdiskreport
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -1074,3 +1075,8 @@ f:522616b4bf2b405a607e00c17edf4b7b:ifuse/Pkgfile
 f:e88d327a3d255b2f99214d3b95c9a585:ifuse/.footprint
 f:0163cecab331f04ea5e16126ce7bb47e:ifuse/.signature
 f:e23e7a4e8f1f9c9ef33f4f1f0bac5890:ifuse/README
+f:1ce986aed86db07fa7873f8c17a01ac1:jdiskreport/Pkgfile
+f:1d2078793959c660e39ca704b07f2e35:jdiskreport/jdiskreport.desktop
+f:aae3dac2a080a11dedc3d997f378c92f:jdiskreport/jdiskreport.png
+f:329be0261232c95f217c0e38839e9201:jdiskreport/.footprint
+f:56f58eb046b9a6008a2a2d45627b0520:jdiskreport/.signature
