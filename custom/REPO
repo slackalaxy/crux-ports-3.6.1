@@ -209,6 +209,7 @@ d:jdk11-sym
 d:adoptium8-jdk
 d:jdk8-sym
 d:grip
+d:lshw
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -1041,3 +1042,11 @@ f:8237a427d88865408a095b3b6bdb4cce:jdk8-sym/.signature
 f:47a23b0b4d3b03821a96ff0c84b39bbe:grip/Pkgfile
 f:6ada6144bc95e16ae848953b302c7162:grip/.footprint
 f:ef2460fea25b53370fb703a6a0bdc461:grip/.signature
+f:ba0d2d229df7a7f4b30d9c9330b4128b:lshw/.footprint
+f:8d2db613562c06db6d93f9e227fe8165:lshw/.signature
+f:ba9b4b3e9f8f52476571d382229066fd:lshw/Pkgfile
+f:62fbc5e14b5f4395322750029fb435dd:lshw/.httpup-repo.current
+f:7472be0a9d60e329f847ed1b56bdecca:lshw/.httpup-urlinfo
+f:50d02204c9cb8b03d6df3eafad5cbbca:lshw/lshw.desktop
+f:065f5d1f5889c5bdbf6e1795e578b17c:lshw/lshw.png
+f:d9a0f098a15504fbe14800a6fdf08b80:lshw/README
