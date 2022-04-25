@@ -743,6 +743,7 @@ drwxr-xr-x	root/root	usr/lib/calibre/resources/mathjax/output/chtml/fonts/woff-v
 -rw-r--r--	root/root	usr/lib/calibre/resources/mozilla-ca-certs.pem
 -rw-r--r--	root/root	usr/lib/calibre/resources/pdf-mathjax-loader.js
 -rw-r--r--	root/root	usr/lib/calibre/resources/pdf-preprint.js
+-rw-r--r--	root/root	usr/lib/calibre/resources/pin-template.svg
 -rw-r--r--	root/root	usr/lib/calibre/resources/qtwebengine_devtools_resources.pak
 -rw-r--r--	root/root	usr/lib/calibre/resources/qtwebengine_resources.pak
 -rw-r--r--	root/root	usr/lib/calibre/resources/qtwebengine_resources_100p.pak
