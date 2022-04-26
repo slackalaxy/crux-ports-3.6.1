@@ -1,5 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw+rPqYqNXUaIWrqjz24FihvYOu/tTj1CFY8iGNO7GGgJ3z+rCBdHVo1XDlHtobUQ+2zwsCWbEdsEuIXu/pJYPA8=
-SHA256 (Pkgfile) = f6ddc8a2b65bf12c265ea7d54b32e57c65bb17237e0e5ca057166e2cf3d6a725
+RWQ0fvpBKVgNw94Hzy96G1DZx4YkEq2iLW9wh0pQu4VaCU+AsWwRMAmJXDC4+UwPWudjB6s/RnRCNjjd5Wh6B98od2QZnMQFtwY=
+SHA256 (Pkgfile) = d4293beb8c981ee6d9c2c81c9f96b1ea3b8a82565e03de3e5fc55fa22ba3754b
 SHA256 (.footprint) = 559bf0948c1583b7d1cf4239c2484a9bc3e45bee0c2d5201255da57377b59908
 SHA256 (grip-4.2.3.tar.gz) = e5082c7f8fb1b34724858264d9cb0aba55c2de759a2d102c435e6a69390a923c
+SHA256 (grip-taglib.patch) = ba698a1f8802fceb7ee3faa1688e8dd291fa2e04862608dcffb98812713356c8
