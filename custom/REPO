@@ -208,7 +208,6 @@ d:adoptium17-jdk
 d:jdk11-sym
 d:adoptium8-jdk
 d:jdk8-sym
-d:grip
 d:lshw
 d:libplist
 d:libimobiledevice-glue
@@ -217,6 +216,7 @@ d:libimobiledevice
 d:usbmuxd
 d:ifuse
 d:jdiskreport
+d:grip
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -1046,9 +1046,6 @@ f:2f531fdf98242a07c2235beea2190cdc:adoptium8-jdk/.signature
 f:40f49ac1bd9403b7bfa3b5935c20a2a9:jdk8-sym/Pkgfile
 f:261c300357594f83dc4213b672fc2702:jdk8-sym/.footprint
 f:8237a427d88865408a095b3b6bdb4cce:jdk8-sym/.signature
-f:47a23b0b4d3b03821a96ff0c84b39bbe:grip/Pkgfile
-f:6ada6144bc95e16ae848953b302c7162:grip/.footprint
-f:ef2460fea25b53370fb703a6a0bdc461:grip/.signature
 f:ba0d2d229df7a7f4b30d9c9330b4128b:lshw/.footprint
 f:8d2db613562c06db6d93f9e227fe8165:lshw/.signature
 f:ba9b4b3e9f8f52476571d382229066fd:lshw/Pkgfile
@@ -1080,3 +1077,7 @@ f:1d2078793959c660e39ca704b07f2e35:jdiskreport/jdiskreport.desktop
 f:aae3dac2a080a11dedc3d997f378c92f:jdiskreport/jdiskreport.png
 f:329be0261232c95f217c0e38839e9201:jdiskreport/.footprint
 f:56f58eb046b9a6008a2a2d45627b0520:jdiskreport/.signature
+f:6ada6144bc95e16ae848953b302c7162:grip/.footprint
+f:cc256e64b6e20964a81c22ffe25bb231:grip/.signature
+f:fbcc754dcb1e1103b743c9cc22971458:grip/grip-taglib.patch
+f:a86397feeb277fc129de24a864df457d:grip/Pkgfile
