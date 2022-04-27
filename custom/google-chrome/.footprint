@@ -31,6 +31,7 @@ drwxr-xr-x	root/root	usr/lib/google-chrome/default_apps/
 -rw-r--r--	root/root	usr/lib/google-chrome/libvk_swiftshader.so
 -rwxr-xr-x	root/root	usr/lib/google-chrome/libvulkan.so.1
 drwxr-xr-x	root/root	usr/lib/google-chrome/locales/
+-rw-r--r--	root/root	usr/lib/google-chrome/locales/af.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/am.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/ar.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/bg.pak
@@ -81,6 +82,7 @@ drwxr-xr-x	root/root	usr/lib/google-chrome/locales/
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/th.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/tr.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/uk.pak
+-rw-r--r--	root/root	usr/lib/google-chrome/locales/ur.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/vi.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/zh-CN.pak
 -rw-r--r--	root/root	usr/lib/google-chrome/locales/zh-TW.pak
