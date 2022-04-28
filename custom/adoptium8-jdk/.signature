@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwx3UoOeMIVOk7Wh8cllv/SY0gUMSaKHFNCZ4uKx1GKo3EK4i1Pv40BIAlbKn4GUTkatETPZ++NVo8brbmkFLRwE=
-SHA256 (Pkgfile) = 2ad5a13c285af0955cc3e8d32aea6947cf53e0082d4a18817e3cdd4353fd919a
+RWQ0fvpBKVgNw9v7AbUQyTN5aUOj1VRKxNbza22tJfOK1ytCZ/aPmVB+Gf6Qu3nOPU+/Uz7FMqMGqL2t0JqPw8WSZ13rbjdcbQU=
+SHA256 (Pkgfile) = dfe16acf93aea0b29089f8f5f4b6da49bc295ac870644bb3810f5ef5f0e59537
 SHA256 (.footprint) = 96e2efdb1c16fc1ed3401e15bb7fd4021d3bc1b808c8e1eb8ad4a510ff789c13
-SHA256 (OpenJDK8U-jdk_x64_linux_hotspot_8u322b06.tar.gz) = 3d62362a78c9412766471b05253507a4cfc212daea5cdf122860173ce902400e
+SHA256 (OpenJDK8U-jdk_x64_linux_hotspot_8u332b09.tar.gz) = adc13a0a0540d77f0a3481b48f10d61eb203e5ad4914507d489c2de3bd3d83da
