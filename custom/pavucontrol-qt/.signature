@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwxQ4oJs0orLTqBRPQgq/yn8oYciXOlJibK70K8wqT+hZ2hlgU4zndiY01SquzORkS02YuxQa5RQE5AO+hwZXpgA=
-SHA256 (Pkgfile) = 21b34bfaa1c68116b265701f50dcae69fbc01bd0bbd37705a510a101c12a261f
+RWQ0fvpBKVgNwxIKrlDsobF9SlqpE8j3A05GdmKXc8JEmuNSIZ+K3i4g4PSZl0/+CHQxtwGacTM8/kPbiFoY/U+oIvpnBoTrAAg=
+SHA256 (Pkgfile) = eda7d9a07680a623bef6ab9ce0ae44574d1d89acb3c6bc962a8be1e7b36ceff3
 SHA256 (.footprint) = 0f2082077ed4a6a62e49da67d0d9a4c8bc9962edf751ba70374d8c38e000babd
-SHA256 (pavucontrol-qt-1.0.0.tar.xz) = 2407aa55a2d3dc0fdc7074b461c02b97fd455514fbbf9f5b711e68fadd45ac69
+SHA256 (pavucontrol-qt-1.1.0.tar.xz) = 1b84af1ab958c1de3521296faad94b06425416fbc735b5e5af2cbcca8aa07878
