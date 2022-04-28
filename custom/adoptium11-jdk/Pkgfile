@@ -4,12 +4,12 @@
 # Depends on: alsa-lib brotli graphite2 harfbuzz xorg-libxtst
 
 name=adoptium11-jdk
-version=11.0.14.1
+version=11.0.15+10
 release=1
-source=(https://github.com/adoptium/temurin11-binaries/releases/download/jdk-${version}%2B1/OpenJDK11U-jdk_x64_linux_hotspot_${version}_1.tar.gz)
+source=(https://github.com/adoptium/temurin11-binaries/releases/download/jdk-${version/+/\%2B}/OpenJDK11U-jdk_x64_linux_hotspot_${version/+/_}.tar.gz)
 
 build() {
-	cd jdk-${version}+1
+	cd jdk-${version}
 	
 	# create installation folders
 	mkdir -p $PKG/usr/lib/jdk/$name
