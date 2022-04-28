@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw5LjwFUh5EX8wk1o9MVFDLelQbVx7FiC7PunTahb+OFNjWuVnetGx4ngSCOQcaAnGQjrXffMvfRBuaoeH+F67Ak=
-SHA256 (Pkgfile) = 60a526bacd1044d927ed8998e55480a5d4eb616e28d2c4b03ec0f07c33d348b5
-SHA256 (.footprint) = 98c13cd2a9bd6cf587b73e90577ee99cd01362f9014c8caecb3537c500b9ab49
-SHA256 (liblxqt-1.0.0.tar.xz) = d62820a94839637aedd6a0ceecc232f85d8ccd2173d4ec655cd92c9cbcbcc98c
+RWQ0fvpBKVgNw6/4hAOdVcIF27a5weqrccXyPXXXyT07BJTnIImtv/pFOSAwDC53dZQ+FQryShHfCYjCH0k9NAOve9IyAnyC7wM=
+SHA256 (Pkgfile) = 4dfba2e0559115d53cdec5fbf50946e2d5e2cefcd08acfdb0ce3481a7f131fb2
+SHA256 (.footprint) = c8ba8ab1fc6998e7a6278e15d04c4ca2d0f8dcd26e4c111f39ec4407741165bd
+SHA256 (liblxqt-1.1.0.tar.xz) = 364db8bad17c0aad12c04cda15a7c74c80dec96b1ef4b1175aec9282c39b2cba
