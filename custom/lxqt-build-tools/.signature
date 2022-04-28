@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw/en98eGa+Hy+KF9N46hoR7uPgBVjXvcLNt+CaYt2W4iBikKciru8shyt+sJ3gjlcXaSNn2KaWjeoZE9DnKzqgU=
-SHA256 (Pkgfile) = d39d3f9281d14ebc8955ec90defb78fd001ff68edb32082a1f6572d94eaa5cd7
+RWQ0fvpBKVgNw/8gQbVNcToASMuFhkOKIj8cdWCEmyOttiuzRCFV4InrowAYt2uL2H06FhHjWuGamYRBr0eDr9SRukqWs+8swwE=
+SHA256 (Pkgfile) = fcb4fe8ffc319e067103644f984d193e0cb0d7fb6fd3f5b877a1223d80410848
 SHA256 (.footprint) = f870a8bac38ebcd203e998b909613916a76ad0022d20866d33d73bcc70fe04c4
-SHA256 (lxqt-build-tools-0.10.0.tar.xz) = facb86b0bf3bd4fd20306d3ae965a148ed59785eaf7d73169a82a97473d03bea
+SHA256 (lxqt-build-tools-0.11.0.tar.xz) = dd5d49e59f9b0552cb40118eb28a463f630b5de6e626b2910410b54ef3bcc1b9
