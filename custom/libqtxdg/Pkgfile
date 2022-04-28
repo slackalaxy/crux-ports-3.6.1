@@ -4,7 +4,7 @@
 # Depends on: brotli double-conversion graphite2 icu libpcre2 qt5 lxqt-build-tools
 
 name=libqtxdg
-version=3.8.0
+version=3.9.0
 release=1
 source=(https://github.com/lxqt/$name/releases/download/$version/$name-$version.tar.xz)
 

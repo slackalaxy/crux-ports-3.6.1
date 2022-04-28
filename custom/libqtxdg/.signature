@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw3dybKManLuCO62k2+pDYpnqyX33WFuKSI95fJLOKTV81vvzIrc56EKfBC6sJ/gnGruFN7b9g7ipIi8yp+920gI=
-SHA256 (Pkgfile) = 6d8b95fdacb8de05f9848206d166fbb1392782a021b6a5f4a2cfb66851347c48
-SHA256 (.footprint) = 5bb78fd8e02d78f9503708546203b01fad8710241f75ca66c300a7bbb2bd1036
-SHA256 (libqtxdg-3.8.0.tar.xz) = ce824fb2dda47758b44e57e8e4b63437a5bc5bd476cf37dbba61442990d7ccec
+RWQ0fvpBKVgNw95w0vrpmmcDA3iW8KJm9h3eofbPhdX/P0hJho7G9I33iymubBFeeQuBzW8FnZVHxBtPF9q+xCXK66U8gnTkDQw=
+SHA256 (Pkgfile) = aaa48ce2064fc35b6bf945db363c7f0ea5434fb65d3d0d4e2d2dfb52dc11eacb
+SHA256 (.footprint) = 092b635c5c4e61271a86fd48b90c360024367b9d585e9855a293c6125023fcbf
+SHA256 (libqtxdg-3.9.0.tar.xz) = b049a14e0b2c61001d8a9ee23f5801a3cd69ab1b2f2f705d6e1b1f5673a1b203

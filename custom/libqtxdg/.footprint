@@ -27,18 +27,18 @@ drwxr-xr-x	root/root	usr/include/qt5xdg/
 -rw-r--r--	root/root	usr/include/qt5xdg/xdgmimetype.h
 -rw-r--r--	root/root	usr/include/qt5xdg/xmlhelper.h
 drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/
-drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/3.8.0/
-drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/3.8.0/private/
-drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/3.8.0/private/xdgiconloader/
--rw-r--r--	root/root	usr/include/qt5xdgiconloader/3.8.0/private/xdgiconloader/xdgiconloader_p.h
+drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/3.9.0/
+drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/3.9.0/private/
+drwxr-xr-x	root/root	usr/include/qt5xdgiconloader/3.9.0/private/xdgiconloader/
+-rw-r--r--	root/root	usr/include/qt5xdgiconloader/3.9.0/private/xdgiconloader/xdgiconloader_p.h
 -rw-r--r--	root/root	usr/include/qt5xdgiconloader/xdgiconloader_export.h
 drwxr-xr-x	root/root	usr/lib/
 lrwxrwxrwx	root/root	usr/lib/libQt5Xdg.so -> libQt5Xdg.so.3
-lrwxrwxrwx	root/root	usr/lib/libQt5Xdg.so.3 -> libQt5Xdg.so.3.8.0
--rwxr-xr-x	root/root	usr/lib/libQt5Xdg.so.3.8.0
+lrwxrwxrwx	root/root	usr/lib/libQt5Xdg.so.3 -> libQt5Xdg.so.3.9.0
+-rwxr-xr-x	root/root	usr/lib/libQt5Xdg.so.3.9.0
 lrwxrwxrwx	root/root	usr/lib/libQt5XdgIconLoader.so -> libQt5XdgIconLoader.so.3
-lrwxrwxrwx	root/root	usr/lib/libQt5XdgIconLoader.so.3 -> libQt5XdgIconLoader.so.3.8.0
--rwxr-xr-x	root/root	usr/lib/libQt5XdgIconLoader.so.3.8.0
+lrwxrwxrwx	root/root	usr/lib/libQt5XdgIconLoader.so.3 -> libQt5XdgIconLoader.so.3.9.0
+-rwxr-xr-x	root/root	usr/lib/libQt5XdgIconLoader.so.3.9.0
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/Qt5Xdg.pc
 -rw-r--r--	root/root	usr/lib/pkgconfig/Qt5XdgIconLoader.pc
