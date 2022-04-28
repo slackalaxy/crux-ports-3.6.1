@@ -1,4 +1,4 @@
-# crux-ports
+# crux-ports (3.6.1)
 
 This is my personal collection of CRUX ports. Many of them were written
 by me, others were adapted from existing ports. There are also some that
@@ -17,13 +17,14 @@ Ports are divided (for now) in the following categories:
 * **scientific**: academic programs for biologists and chemists
 * **xfce_4.12**: I like to have a GTK2 desktop, so here it is
 
-There are 4 ports that are unversioned, they simply use the latest tar-
-ball available:
+There are 4 ports that are unversioned, they simply use the latest
+tarball available:
 
 * [custom/google-chrome](custom/google-chrome)
 * [custom/mplayer](custom/mplayer)
 * [custom/viber](custom/viber)
 * [custom/zoom-linux](custom/zoom-linux)
 
-I can extract the version number from the archive, but it's just simpler
-to do it that way. This can change of course.
+Therefore .signature and .footprint may mismatch. I can extract the
+version number from the archive, but it's just simpler to do it that
+way. This can change of course.
