@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw+lOHlX9Gc6ndBgulDPsBEU//NZSqynozLFPImXlgKAa8UArjrJsYZ5tJ3OiZ3OjkRgnS51yZT7tocj4w0Ixqg8=
-SHA256 (Pkgfile) = a60d10c1bc06fe7143a520441522f58a31b8f442e7e25ddff012228b561bdbce
-SHA256 (.footprint) = 373882e4e7c7592836a8aede8fd3cd36520bf4946870334833814be23ce43d2a
-SHA256 (libisofs-1.5.0.tar.gz) = da5f9de3085dd7e34f3bfa73bef4f6380253b839c7aa9aa8ae66f1e1a61a3400
+RWQ0fvpBKVgNwyNWQNYuePvbs7ek7VbwQKBjo9A9KLuVMMa3OIk1FhZjPLZbnbsQXjxKyogBexPrSXiBWUGFwQw+D74UbklhfAE=
+SHA256 (Pkgfile) = 0d0f67b276bfa08a1c98a28495b4ae305a1751a0a77a2cdc50088cf6df54a7d9
+SHA256 (.footprint) = ef9eddd5cdbf6f343cb93af29d075b5b658f8b6ccbc83ca7e0f6564848e3e172
+SHA256 (libisofs-1.5.4.tar.gz) = aaa0ed80a7501979316f505b0b017f29cba0ea5463b751143bad2c360215a88e
