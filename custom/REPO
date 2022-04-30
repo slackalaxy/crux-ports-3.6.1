@@ -535,9 +535,9 @@ f:e52c4b88427b9785bb8049dbdc9ff6fb:glib1/aclocal-fixes.patch
 f:877b3330e822a4be69a0f8a8c268cfd7:glib1/gcc340.patch
 f:1630c96b603136732064dc4f3ea677bf:glib1/glib1-autotools.patch
 f:94f3e13c45d8101e98740176b48ae312:glib1/Pkgfile
-f:adf934ab9b87237218b92a5f8ca7e1a6:python-uniconvertor/Pkgfile
+f:8710f76db3aa3f691a617f6d9aada87e:python-uniconvertor/Pkgfile
 f:1ea3534f7ce54d75129a2a67ef1719d5:python-uniconvertor/.footprint
-f:dbae2b8bbb66b75d6865d346a3205257:python-uniconvertor/.signature
+f:cdc3293ad8b4056fc806ca22da275a6c:python-uniconvertor/.signature
 f:0f3ff5e815fed20473ca26657e84f76c:codeblocks/Pkgfile
 f:87f7239528e285bb5702129120e0d639:codeblocks/.footprint
 f:5855d3862fbb77848e3ec617ce083160:codeblocks/.signature
