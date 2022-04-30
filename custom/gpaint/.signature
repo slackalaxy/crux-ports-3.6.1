@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw7gJIy7ucaBYZzaKBv7Bk6kc1cOqpG5ffQd79DWFpVCn1I/7WmyByyaC/BmfVmAI0lsDUNeW1eU7Cy/1ISKAPwA=
-SHA256 (Pkgfile) = 318788168e2843667f64dbe0195e207101f18f248905188d1e59eee6cac196eb
+RWQ0fvpBKVgNw+nX+dCW6xaMCZlhQ6atwopBmv28xR3/DH4/eTcTQGBTUrKlNZBsQH2IOD1HlLHfpBZZyZELkSy4ebDRHo81PQU=
+SHA256 (Pkgfile) = 1fdb6e9307f9b9bbe4e55d9b33eabbdcdbeee138aed5ac8aaf04db2a5940259c
 SHA256 (.footprint) = 62f7fa6bb940baec6c6dc4e66a29b600a33e4d24bc3534bc89e98699ab5d3982
 SHA256 (gpaint_0.3.3.orig.tar.gz) = 541706460610c8bd917225a0370762b66e378e756afa780e67677eeb0a2dd0eb
 SHA256 (gpaint.desktop) = 960163da232e70d36f05d96fe68905865cb740996fc939a513f5b5cffe2c7537

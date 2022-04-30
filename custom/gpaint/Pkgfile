@@ -1,7 +1,7 @@
 # Description: GNU Paint: a small-scale GTK2 painting program
 # URL: http://www.gnu.org/software/gpaint/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on: gtk
+# Depends on: brotli graphite2 libglade libglvnd
 
 name=gpaint
 version=0.3.3
