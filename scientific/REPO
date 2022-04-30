@@ -369,8 +369,8 @@ f:331225b948ac188177fb0f8d2e67ff63:wehi-deid/.signature
 f:2afdcd43a42ce420ba7e7c7fa2ce1ef3:wehi-deid/Pkgfile
 f:205ad942d64abb70ac816e716d783f0d:wehi-deid/wehi-deid.png
 f:b4ab540209411b56cbb5052f48c9795f:gchemutils/stream.patch
-f:398e7f698b72e233184a8bd5b2a1386c:gchemutils/.signature
-f:ad85e93cc0a0700a1f77f89d55843466:gchemutils/Pkgfile
+f:ef639d53e9e992f15229934b8ada83b3:gchemutils/.signature
+f:60f6f643ebf0f1b0e6372dbdac985934:gchemutils/Pkgfile
 f:61aefa121e30cc7fc73917385907e6ce:gchemutils/gchemutils.directory
 f:65d636f0f39d2c65a86f5f41e251005d:gchemutils/.footprint
 f:66e60a877fe7e34d4b2092534506c0a2:gchemutils/gchemutils.menu
