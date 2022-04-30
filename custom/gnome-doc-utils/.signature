@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwyoL4chzsucxXJQQ1SzI+Zj0MrMsl32kNp0Y3mE26Mj0q7d3aFCwYIZxmJG26GMnvhM9vJxwfpZGObWT39kqnww=
-SHA256 (Pkgfile) = 752f11b55591c49c79dffcb4a36cf1ee79c48cdfecff6e4243ce4e6d9325bfc3
+RWQ0fvpBKVgNw4GOA3dAV94JyGOiRoOcxLDaxh1aLqAxRufEpVUXU5YRr0DOo4cMZc2yMZdoc2fOhG1a7cgReMDN71rClxB4rQM=
+SHA256 (Pkgfile) = b952b47d10a7a04186fce56ce0c1cf24562706974ee082de0684d4d1fd1ccc41
 SHA256 (.footprint) = d2945ab9a259ffb7af9694dbe36bf866acd137e604ae88b8b716f0387bde5d2d
 SHA256 (gnome-doc-utils-0.20.10.tar.xz) = cb0639ffa9550b6ddf3b62f3b1add92fb92ab4690d351f2353cffe668be8c4a6
 SHA256 (gnome-doc-utils-0.20.10-python3.patch) = cf9bdb057cef5877a884117a607bf850df357c75c30a13d01ed77b2c36f78ee7
