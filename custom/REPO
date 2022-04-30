@@ -767,8 +767,8 @@ f:b8defbd683c76a668825a87c0d701ee6:vivaldi/.signature
 f:4face6624e7633c4cddf1942c11ccbbe:vivaldi/.footprint
 f:41301464d66260a12284a42965734752:gnome-doc-utils/.footprint
 f:af836018cc8da5204711c3e769f96895:gnome-doc-utils/gnome-doc-utils-0.20.10-python3.patch
-f:d5fa5ad3f61fde53a07fb7fe27d30f69:gnome-doc-utils/Pkgfile
-f:9c6e9ef9c111ab83a613d0dd2077bfaa:gnome-doc-utils/.signature
+f:871f89e484c7f4c6da7bad7651d55353:gnome-doc-utils/Pkgfile
+f:8d0de11aa803cb5223626402f4a65bc6:gnome-doc-utils/.signature
 f:312fbccdc471237010d9afdb43ea138e:fyre/.signature
 f:67f56e8acebe03300c248348b046e1e0:fyre/Pkgfile
 f:0e6d5526766b04b3abce18d575cfbf60:fyre/.footprint
