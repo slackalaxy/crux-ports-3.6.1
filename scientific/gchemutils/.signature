@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcKrMO9FnYBYQ0kXTRsc3NXzOfbbuyQz/7wP5o9SgdLlElPw2NT8NJuQcpcxaGSarAuN3tFQc5K6eGK8sy+uUnw4=
-SHA256 (Pkgfile) = a8f268432fee7d7461fcacd407e4a0d22b5fa7ef272e44e39459d6e6ba3639dc
+RWTXrKv/sDjJcG2lo4oaLexe+/JehXIVzt2VHlfBp2riBJEXbGRZ6hgBTr74mjwHLZmke/zxMHxT6VAXI03LLpCX9b9/LwoohgM=
+SHA256 (Pkgfile) = 7f4a11c2db58eb6c128f759e40c78608b61c13f57a63ef8e9f33ad2bddd07e57
 SHA256 (.footprint) = bb2f9228d3df922950b18147234e09d5c17210093528d8514d5db8d53f887744
 SHA256 (gnome-chemistry-utils-0.12.13.tar.xz) = a570b951e83c444c150eb1b1340004bb1610bc88c8ff4121caf58e1f77d3b451
 SHA256 (gchemutils.directory) = dfa918581d8a07f005357e8c1629042c52d870a48c8a2fd528d7e5347378ca95
