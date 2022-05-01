@@ -17,11 +17,10 @@ Ports are divided (for now) in the following categories:
 * **scientific**: academic programs for biologists and chemists
 * **xfce_4.12**: I like to have a GTK2 desktop, so here it is
 
-There are 4 ports that are unversioned, they simply use the latest
+There are 3 ports that are unversioned, they simply use the latest
 tarball available:
 
 * [custom/google-chrome](custom/google-chrome)
-* [custom/mplayer](custom/mplayer)
 * [custom/viber](custom/viber)
 * [custom/zoom-linux](custom/zoom-linux)
 
