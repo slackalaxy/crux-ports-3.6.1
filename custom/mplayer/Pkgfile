@@ -4,15 +4,15 @@
 # Depends on: brotli faac faad2 ffmpeg graphite2 gtk icu lame liba52 libass libdca libdv libdvdnav libmad libmng libmpeg2 libtheora libva libvdpau libvpx libwebp mpg123 openal pulseaudio rtmpdump speex x264 x265 xorg-libxscrnsaver xorg-libxxf86dga xorg-libxxf86vm
 
 name=mplayer
-version=snapshot
+version=1.5
 release=1
-source=(http://www.mplayerhq.hu/MPlayer/releases/$name-checkout-snapshot.tar.bz2
+source=(https://mplayerhq.hu/MPlayer/releases/MPlayer-$version.tar.xz
 	http://www1.mplayerhq.hu/MPlayer/releases/fonts/font-arial-iso-8859-1.tar.bz2
 	http://www.mplayerhq.hu/MPlayer/skins/Blue-1.13.tar.bz2	
 	$name.conf)
 
 build() {
-	cd $name-checkout-*
+	cd MPlayer-$version
 
 	./configure --prefix=/usr \
 	--mandir=/usr/share/man \
