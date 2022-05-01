@@ -645,11 +645,10 @@ f:6ad23df67f87d1c3b16cdd0a9a31383a:gbgoffice/09_deprecated_SigC.patch
 f:d6516ce9cda7468f87d90f67d6ff2017:gbgoffice/10_workhelper-buttonbox.patch
 f:103468b86444dc1058bf28ffcff6f3f7:gbgoffice/11_explicit-linkage.patch
 f:edbcdad55233a4e77f6c7d485a2f38f3:gbgoffice/gbgoffice.desktop
-f:c9b62166b4fce8c98ee6ed913ea17112:ffmpegthumbnailer/.signature
+f:707f5dc5c4620bf4c4c1c1cc60d5c2fe:ffmpegthumbnailer/.signature
 f:2e44b4d393c09b5c468aa77dcb5ee347:ffmpegthumbnailer/.footprint
-f:0920360a88d0c2b1eab504e1ade7e686:ffmpegthumbnailer/Pkgfile
-f:47630f5850a2cc5408e345339217d57d:ffmpegthumbnailer/efb5b618.patch
-f:10b9396153ed929473b94ee492e132c5:ffmpegthumbnailer/ffmpegthumbnailer-ffmpeg5.patch
+f:6e614593847e68cfce43047d167067ac:ffmpegthumbnailer/Pkgfile
+f:3c64944afdfc1f61901e2f0ad316425c:ffmpegthumbnailer/README
 f:4ffbf0da6f34d71c1c8afe7c61615384:lilo-nvme/lilo.gcc10.diff.gz
 f:1ded48ce8d71a0d1de957611bf253c44:lilo-nvme/lilo.ignore.usable.memory.above.4G.diff.gz
 f:10b44aba88a880e7460be22e0b855256:lilo-nvme/lilo.nvme.support.diff.gz
