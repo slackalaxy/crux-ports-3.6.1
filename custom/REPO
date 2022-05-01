@@ -217,6 +217,7 @@ d:usbmuxd
 d:ifuse
 d:jdiskreport
 d:grip
+d:gtklife
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -1080,3 +1081,8 @@ f:6ada6144bc95e16ae848953b302c7162:grip/.footprint
 f:cc256e64b6e20964a81c22ffe25bb231:grip/.signature
 f:fbcc754dcb1e1103b743c9cc22971458:grip/grip-taglib.patch
 f:a86397feeb277fc129de24a864df457d:grip/Pkgfile
+f:bb72b0eb923adf4fe99781a4300e1097:gtklife/Pkgfile
+f:8f27444286f74e34b3f7e7df49757f4c:gtklife/gtklife.desktop
+f:2fa8f1ada61267d698b10a25c32a41ee:gtklife/gtklife.png
+f:4b5785797a7b11d7fa8a817bc29bec02:gtklife/.footprint
+f:fde5f1d5b95e474300f5e65a35b1ee04:gtklife/.signature
