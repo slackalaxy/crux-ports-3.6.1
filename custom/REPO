@@ -550,8 +550,8 @@ f:3f72da8060d21a3ee3aad9efbdac6d22:lxdm/xprofile
 f:fb99f8fb1a4388107fb201804ffb9f64:gnome-mime-data/Pkgfile
 f:537260f88785b163589dce8484f1f2a8:gnome-mime-data/.signature
 f:b707d3bcc682c5436225203229d1efd4:gnome-mime-data/.footprint
-f:d671e1e0621aefaa04d4e48337b19cee:gpaint/.signature
-f:8b4655f112293ad44c02078df7ac1bbe:gpaint/Pkgfile
+f:0db8dbb08328af7ab23271eb47745375:gpaint/.signature
+f:35ccb63ac6daab3929cf4b7855ff9b29:gpaint/Pkgfile
 f:a02b49fefc81837ca247a7aa2bd69130:gpaint/.footprint
 f:bbfeeb43c7d5f10f87d739d1c70aeb16:gpaint/01_drawing.patch
 f:2f23ddfbf8b8a20fc4aee55a464be922:gpaint/02_remove_menu_h_reference.patch
@@ -854,11 +854,11 @@ f:d2f081a4a752ba6bd8da7f1463c1e5bf:wps-legacy-dict-gb/en_GB.dic.tar.xz
 f:baf5c21d41e008c968a7cb5f3235c363:wps-legacy-dict-gb/en_GB.aff.tar.xz
 f:b23e404db9e45a321cb8b4926bfa9599:wps-legacy-dict-gb/Pkgfile
 f:9d3e738e09302fbc157823a7402abe4d:wps-legacy-dict-gb/.signature
-f:489c311d66559c2aa0868187df1dff16:mplayer/Pkgfile
+f:f013bbab0e916987e8c482b7cce3842d:mplayer/Pkgfile
 f:f659e7a1cbd746f613edef058404b575:mplayer/mplayer.conf
 f:1cc2b2e1c32438993d1acfa9d84ff506:mplayer/.footprint
-f:3d2c66025a3f6fb8d3aaa44c3ebf8915:mplayer/README
-f:ed7d6457a56fa7f1a0f2b308e1ee37a5:mplayer/.signature
+f:3e7b0aee696cb9d0f433f6e0a0451300:mplayer/README
+f:68048c8b6206dc8f2cd58945ec30124e:mplayer/.signature
 f:35de3c478aadaf26cfc25ddde3364366:djview/Pkgfile
 f:daa5ac6bc1cc9c030d1ab2e8246fb43f:djview/.footprint
 f:d47e7abfed8ec85b68262b7ef174aa70:djview/.signature
