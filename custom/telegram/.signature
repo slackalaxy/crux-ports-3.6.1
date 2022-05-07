@@ -1,7 +1,0 @@
-untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw4CCuKb3bCGcYDCnsRZX7JoYSgVSVOwEXI655Oya7V9dxh5VU773VtFA6346hK54NFw0WCfaB6ByvNrb+rRpDgo=
-SHA256 (Pkgfile) = 3aa4df97bb24c7b5eaa29736683703078d5e79dddefff5018dc7c7a8be26a4e1
-SHA256 (.footprint) = 9a5b9121ee6240b26552e8095261743d549dda5a43828b7cb22209d850608018
-SHA256 (tsetup.3.6.0.tar.xz) = 21c31619e1e7dcf38a27df9c47b2dfdebd29c3ca97e49e68a2c760bf34270b4b
-SHA256 (telegram.desktop) = e50fc73037e1d27c8a0a6bb89dce235c2a83b2d2b78eb7c193ce24453b5b3436
-SHA256 (telegram.png) = c0cf0bf44efd454ff5915be433a9ede1995c67fbdc28ad69eb4444186f79da51
