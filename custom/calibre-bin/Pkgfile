@@ -4,7 +4,7 @@
 # Depends on: double-conversion libgpg-error libpcre2 nss qt5 libinput wayland
 
 name=calibre-bin
-version=5.41.0
+version=5.42.0
 release=1
 source=(https://download.calibre-ebook.com/$version/calibre-$version-x86_64.txz
 	$name.desktop)
