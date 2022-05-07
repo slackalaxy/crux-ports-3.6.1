@@ -4,7 +4,7 @@
 # Depends on: gconf gdk-pixbuf-xlib gtk python glu gst0-plugins-base jdk8-bin orbit2 gnome-vfs db43
 
 name=openoffice
-version=4.1.11
+version=4.1.12
 release=1
 source=(https://sourceforge.net/projects/openofficeorg.mirror/files/$version/binaries/en-US/Apache_OpenOffice_${version}_Linux_x86-64_install-rpm_en-US.tar.gz
 	$name.directory $name.menu)
