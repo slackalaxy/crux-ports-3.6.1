@@ -298,7 +298,7 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/resources/vivaldi/adblocker_resources/
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/adblocker_resources/redirectable_resources.json
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-bundle.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-common-bundle.js
--rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-service-worker-36d9d179f3163bfe8d607f96e3863602.js
+-rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-service-worker-ffc0976ffeacb808442784a683dd85ad.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/browser.html
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/bundle-mailreader-worker.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/bundle.js

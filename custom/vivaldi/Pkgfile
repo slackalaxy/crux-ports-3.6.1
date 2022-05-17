@@ -4,7 +4,7 @@
 # Depends on: alsa-lib brotli cups gtk3 libxkbcommon nss xorg-libxcomposite xorg-libxcursor xorg-libxinerama
 
 name=vivaldi
-version=5.2.2623.39
+version=5.2.2623.46
 release=1
 source=(https://downloads.$name.com/stable/$name-stable_${version}-1_amd64.deb
 	$name.desktop)
