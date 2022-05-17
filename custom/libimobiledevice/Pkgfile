@@ -1,5 +1,5 @@
 # Description: A cross-platform protocol library to communicate with iOS devices
-# URL: https://github.com/libimobiledevice/
+# URL: https://github.com/libimobiledevice/libimobiledevice
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: libusbmuxd
 
