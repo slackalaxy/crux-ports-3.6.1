@@ -12,7 +12,6 @@ drwxr-xr-x	root/root	usr/lib/geeqie/
 -rwxr-xr-x	root/root	usr/lib/geeqie/geeqie-symlink
 -rwxr-xr-x	root/root	usr/lib/geeqie/geeqie-tethered-photography
 -rwxr-xr-x	root/root	usr/lib/geeqie/geeqie-tethered-photography-hook-script
--rwxr-xr-x	root/root	usr/lib/geeqie/geeqie-ufraw
 -rwxr-xr-x	root/root	usr/lib/geeqie/geocode-parameters.awk
 -rwxr-xr-x	root/root	usr/lib/geeqie/lensID
 drwxr-xr-x	root/root	usr/share/
@@ -22,9 +21,6 @@ drwxr-xr-x	root/root	usr/share/geeqie/
 drwxr-xr-x	root/root	usr/share/geeqie/applications/
 -rw-r--r--	root/root	usr/share/geeqie/applications/camera-import.desktop
 -rw-r--r--	root/root	usr/share/geeqie/applications/export-jpeg.desktop
--rw-r--r--	root/root	usr/share/geeqie/applications/geeqie-ufraw-id.desktop
--rw-r--r--	root/root	usr/share/geeqie/applications/geeqie-ufraw-recursive.desktop
--rw-r--r--	root/root	usr/share/geeqie/applications/geeqie-ufraw.desktop
 -rw-r--r--	root/root	usr/share/geeqie/applications/image-crop.desktop
 -rw-r--r--	root/root	usr/share/geeqie/applications/random-image.desktop
 -rw-r--r--	root/root	usr/share/geeqie/applications/rotate.desktop
