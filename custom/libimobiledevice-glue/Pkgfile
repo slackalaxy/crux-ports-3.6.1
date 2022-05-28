@@ -4,9 +4,9 @@
 # Depends on: libplist
 
 name=libimobiledevice-glue
-version=c2e237a
+version=d2ff796
 release=1
-source=(https://github.com/libimobiledevice/$name/archive/$version/$name-c2e237ab5449b42461639c8e1eabbc61d0c386b7.tar.gz)
+source=(https://github.com/libimobiledevice/$name/archive/$version/$name-d2ff7969dcd0a12e4f18f63dab03e6cd03054fcb.tar.gz)
 
 build() {
 	cd $name-${version}*
