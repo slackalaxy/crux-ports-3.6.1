@@ -1,4 +1,4 @@
-# Description: a lean, small and clean implementation of an ATA S.M.A.R.T. reading and parsing library
+# Description: Implementation of an ATA S.M.A.R.T. library
 # URL: http://0pointer.de/blog/projects/being-smart.html
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 
