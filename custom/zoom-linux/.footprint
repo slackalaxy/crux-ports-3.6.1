@@ -1236,14 +1236,13 @@ drwxrwxr-x	root/root	usr/lib/zoom-linux/scheduler/
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/map.json
 drwxrwxr-x	root/root	usr/lib/zoom-linux/scheduler/static/
 drwxrwxr-x	root/root	usr/lib/zoom-linux/scheduler/static/css/
--rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/css/chunk-0b7b38e4.d1e25bd8.css
+-rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/css/chunk-34a704a4.9fd407be.css
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/css/zm-tree.cdf7ab6d.css
 drwxrwxr-x	root/root	usr/lib/zoom-linux/scheduler/static/fonts/
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/fonts/icozoom.0c8360ba.ttf
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/fonts/icozoom.c3b995fa.woff
 drwxrwxr-x	root/root	usr/lib/zoom-linux/scheduler/static/js/
--rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/app.e95f8bbd.js
--rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-0b7b38e4.49904711.js
+-rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/app.c6488505.js
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-2d0aaf55.d65e90b7.js
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-2d0b327b.51de92c9.js
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-2d0c226a.20aa17ee.js
@@ -1257,8 +1256,9 @@ drwxrwxr-x	root/root	usr/lib/zoom-linux/scheduler/static/js/
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-2d21d6ce.10dc4813.js
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-2d22258b.2ae5c025.js
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-2d230459.a4365143.js
+-rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-34a704a4.5b8a69ef.js
 -rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/chunk-vendors.a802c628.js
--rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/zm-tree.931c2cbc.js
+-rw-r--r--	root/root	usr/lib/zoom-linux/scheduler/static/js/zm-tree.28d1015b.js
 drwxrwxr-x	root/root	usr/lib/zoom-linux/sip/
 -rw-rw-r--	root/root	usr/lib/zoom-linux/sip/Hangup.WAV
 -rw-rw-r--	root/root	usr/lib/zoom-linux/sip/dtmf_#.wav

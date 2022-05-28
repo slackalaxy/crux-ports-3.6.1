@@ -1,8 +1,8 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw/MqdvmCPx5g71pGuNEWIAtB8bBh4+SCfStxL5ROlEB4qsvN1Ay1+MNeJNRF6+53Dg2gXV3vW9ToTfcFAp4aVQ0=
+RWQ0fvpBKVgNw6LQBqP7PG4Kzss3kxuGspSeBMc0jAHIC1OfDFRNOkNhaVecHNbh4lqTqAsEfXuTHT2jtnXfaeHrN9IRJzd4ewg=
 SHA256 (Pkgfile) = f805f5bdaa7b4b6d5e80c01fe67291349c0fcee69f37ed745c9ed1779ea1ae2a
-SHA256 (.footprint) = 9a4cc3e03222596215731579f9eef341f95ef60d4076dfd6ba09d081b7c87dc8
-SHA256 (zoom_x86_64.tar.xz) = 1af06e98f2ff52cab9290047ab66f3d3f9cceb8e519d72d35e14a825d248b738
+SHA256 (.footprint) = e7429aa8ea4e0cc297a17bb8025925e6bc1064ea78076a404b69401f5ee2b442
+SHA256 (zoom_x86_64.tar.xz) = a4a936dfd2388a2eedd02762b0e03315f6dca953e4c2b5ba500bb41529395dd0
 SHA256 (zoom-linux.desktop) = f429848db56070bd675c3f4673c9cbdc038a957f53b2d01b4ac288ab905f4d43
 SHA256 (zoom-linux.png) = ac811df49d9d8b792960399bb958aa9130d421f0f8a2977d696e3a4fe42dd9a4
 SHA256 (zoom-linux.xml) = 33e326f0c2dc8312b2fcbe3debe181e15871e87b8afdbbcbbff5e057f23be867
