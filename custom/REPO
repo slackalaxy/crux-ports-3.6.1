@@ -292,7 +292,6 @@ f:9ec8660ccd4ebe2a96c78e438d5fd19f:gvfs/Pkgfile
 f:ffefa140009619ecd5b818e8ed065915:libbonoboui/Pkgfile
 f:a4821925fbc196b40c8bba41c12da5e2:libbonoboui/.signature
 f:a03eb11085a0a280259a8f4214181000:libbonoboui/.footprint
-f:c64eb06a490686d647eaf66764e2150f:custom.httpup
 f:40c574a80d72405382d89aa593c2ffa1:wps-legacy/Pkgfile
 f:ccf92dbad771c176b72a94f715bb6ca2:wps-legacy/.footprint
 f:aa9dccf52a9f8e8d455d15b172780c2c:wps-legacy/wps-spreadsheet.desktop
@@ -751,9 +750,9 @@ f:cbc82d060b8673f54211889edc68b69b:goffice/.signature
 f:dd2984fb0e807083fde8f285009e000f:gftp/.footprint
 f:fdf7736e095af3336144bba1b8a3763b:gftp/Pkgfile
 f:3baeba19b500332023e616c2e0294e8d:gftp/.signature
-f:d4a096781914ab72507edb0af86211f8:xpdf/Pkgfile
+f:7a1494c7ddf156495d6891fc2cf2a32f:xpdf/Pkgfile
 f:e770d012f51f45150231f72f5ed88c53:xpdf/.footprint
-f:76756e3e243e976b15dc38be0819e6a8:xpdf/.signature
+f:b6b41804bababf7dfd47122dfd63c4fe:xpdf/.signature
 f:1b9f7c80c5b609a954317786b143be5d:xpdf/xpdf.desktop
 f:6b1a9c69223950f59bbad556775f9c1b:xpdf/xpdfrc.diff
 f:4be7d5793eb08b318dacb15d9a434d6b:xpdf/xpdf.png
@@ -833,7 +832,6 @@ f:4879da2580c9d69e7fb5b6c9be95a4ce:gtk1-theme-switch/.footprint
 f:4ea8378e6effa43eb380b349af64db17:gtk1-theme-switch/gtk1-theme-switch.desktop
 f:9871fa350dfe620a8deccf06916b568a:gtk1-theme-switch/Pkgfile
 f:7790963d81674fdf7c61805ca7176d5b:gtk1-theme-switch/.signature
-f:c0a8204ccb96e6e59bde4d27022228dd:custom.pub
 f:aeebb087b3031fcd39d87483465861e8:wxpython2/Pkgfile
 f:6dcccfa3458bdac4ea482b3da4b0fcd8:wxpython2/.footprint
 f:778a7a03b828477bd24582f1cf737b95:wxpython2/.signature
