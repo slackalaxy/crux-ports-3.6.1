@@ -5,7 +5,7 @@
 
 name=xpdf
 version=4.04
-release=2
+release=3
 source=(https://dl.xpdfreader.com/$name-$version.tar.gz
 	https://dl.xpdfreader.com/$name-t1fonts.tar.gz
 	xpdfrc.diff $name.desktop $name.png)
@@ -19,7 +19,7 @@ build() {
 	cd build
 	cmake \
 	-DCMAKE_C_FLAGS="$CFLAGS" \
-	-DCMAKE_CXX_FLAGS="$CXXCFLAGS" \
+	-DCMAKE_CXX_FLAGS="$CXXCFLAGS -fpermissive" \
 	-DCMAKE_INSTALL_PREFIX=/usr \
 	-DSYSTEM_XPDFRC="/usr/etc/xpdfrc" ..
 	
