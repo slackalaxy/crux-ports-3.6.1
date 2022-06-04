@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwzWQcTQGTXQBPpbbA5EnjyUFWD5VYQnYJmQEqkpWt8slhMD/cixsSB2BN7circ0vr8bulLImL+exB49Q0LgbJg0=
-SHA256 (Pkgfile) = 2d4cc3a095cf947ee492a1b9bbb034a11070a739c014d0c0f1002da915affb7d
+RWQ0fvpBKVgNw5rvoivvQzEz616cIyOCP+yuQOXn2GDEYXCKsSjspTbq3aiFeYp8qM8Vav6bu/c/RBbVft+uvumzjWRk+SWDiQE=
+SHA256 (Pkgfile) = c02fc63da6748630089fe90fca556ec3fbe0e4492019e2355b547071c6d04e72
 SHA256 (.footprint) = f1b5a009317251e14ea9a017ad85a0854903d61fd323db76b11566a2cc187d0e
 SHA256 (GLee-5.4.0-src.tar.gz) = 3b58430172392ec75acdad5fd833ecf494c5518382bc27932f48d46dbb01cd29
 SHA256 (glee.pc) = d000d3c4ab4b9a59dfea0e066809461f5689b29591b591bfcc916a84dd5ae3a8
