@@ -1,5 +1,5 @@
 # Description: Gweather library
-# URL: https://download.gnome.org/
+# URL: https://download.gnome.org/sources/libgweather/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: brotli gconf graphite2 gtk keyutils krb5 libsoup xorg-libxdamage
 
