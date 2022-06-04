@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwxe5EsipAs0KE1maZVn5/6RoiK150iuqjGTYQqEZlDmzP2deQ9vW/0OYUgYgtcywzExpZ/tDY2BFwwd27bdWggQ=
-SHA256 (Pkgfile) = 44fe50508b28ecfbfed4ee1b58259ad9eb35d6e8d03c8744976d8adc29a1985d
+RWQ0fvpBKVgNw6W81obfQgcAXZ3G5I4+aKAQuw4p42TCmYg+3oJxetRdEnr3YBXSE72B9oyuKQOH+jtaXVMDJJm6CNm0XH8Omgs=
+SHA256 (Pkgfile) = bd642358f9c8444fb0ea7f69c5c7de81b97a2fd3aa804426badec67f5a5469c6
 SHA256 (.footprint) = 18f0766d824ae1fb475cc862f52d5e38f1ce619b957e9a9640749065c3295739
 SHA256 (djview-4.12.tar.gz) = 5673c6a8b7e195b91a1720b24091915b8145de34879db1158bc936b100eaf3e3
