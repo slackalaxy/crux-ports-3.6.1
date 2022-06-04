@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw1bt4CZ9ndtdrqVhemS0Y7vTJNfaa+ncomzykSi+Kbx2zBhahiwkVSb+Xwjj+vDhzY9atFLUXKZsn8NJf9IeDwM=
-SHA256 (Pkgfile) = 2f76baef1cbbabf6a27cfbfd541d6206b94b36c02f3f2c7147273857aeca4acb
+RWQ0fvpBKVgNw/JLxgn7Is9Eg1sEk9dMgD65GEk+O9D8r3kfu1QRdfzBD62FA17kIaugboT+9iVhFxEZX9z84b7ODLcfMQLS/A0=
+SHA256 (Pkgfile) = ca179a930635866f3b73a9a8fa706b1f038460e40cbf623894a8a95cb3289faf
 SHA256 (.footprint) = b2083ae267ce6d8d0ac074204a2787fcfdaba8e06f543c21f48537b727e9a235
 SHA256 (fyre-1.0.1.tar.gz) = 8062ff4109efcb70c5bab0d00c5d490a1a1489468dc026d18267ad993cd9e250
