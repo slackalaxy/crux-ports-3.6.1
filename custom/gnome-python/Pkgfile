@@ -1,5 +1,5 @@
 # Description: Python bindings for a few GNOME Developer Platform libraries.
-# URL: www.pygtk.org
+# URL: http://deb.debian.org/debian/pool/main/g/gnome-python/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: brotli graphite2 libgnome libgnomecanvas
 
