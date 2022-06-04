@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw76ay3L7nFRt2ac/Hqs4TJpAorDoD+51q+SFTYxGF6esQlq2bsUaE8ZGTew9O94WbTDpD/h9NUGGog9ksKVxxgs=
-SHA256 (Pkgfile) = 91078d78dc07fb226b95f4db54a695d1da8b69adeb7086abccea0b2d61e1d43f
+RWQ0fvpBKVgNw4roZSM3wXz7VF6uzTKZ/5vR6Jkei1se+9y2sQWH+HH2Abwz+Mp8/+8a46+bqHbsV5UO8ZHKk6GtZ3TeJBrqgw8=
+SHA256 (Pkgfile) = 07a275835e9b6ee4e2e5d5e02cd92d49f5dec92807e3026dcf818d1f9b4880a0
 SHA256 (.footprint) = 77738b8d8f3c0f7d9ca2420a5d5923ba9d1e4595e68de21ef6fed93a30d128f9
-SHA256 (freetype-2.12.0.tar.xz) = ef5c336aacc1a079ff9262d6308d6c2a066dd4d2a905301c4adda9b354399033
+SHA256 (freetype-2.12.1.tar.xz) = 4766f20157cc4cf0cd292f80bf917f92d1c439b243ac3018debf6b9140c41a7f

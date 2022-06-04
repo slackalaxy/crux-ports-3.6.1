@@ -1,10 +1,10 @@
 # Description: A free and portable TrueType font rendering engine
 # URL: https://www.freetype.org
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on:  brotli libpng freetype
+# Depends on: freetype
 
 name=freetype-config
-version=2.12.0
+version=2.12.1
 release=1
 source=(http://download.savannah.gnu.org/releases/freetype/freetype-$version.tar.xz)
 
