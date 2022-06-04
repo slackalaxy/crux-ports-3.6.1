@@ -1,5 +1,5 @@
 # Description: GtkGLExt is an OpenGL extension to GTK.
-# URL: https://projects.gnome.org/gtkglext/
+# URL: https://sourceforge.net/projects/gtkglext/files/gtkglext/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: glu gtk pangox-compat xorg-libxmu
 
