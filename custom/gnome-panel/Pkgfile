@@ -1,5 +1,5 @@
 # Description: GNOME panel
-# URL: https://download.gnome.org/
+# URL: https://download.gnome.org/sources/gnome-panel/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: gnome2-desktop gnome-menus libbonoboui libgweather librsvg libsoup libwnck startup-notification xorg-libxres
 
