@@ -1,5 +1,5 @@
 # Description: GNOME calculator
-# URL: http://live.gnome.org/gcalctool
+# URL: https://download.gnome.org/sources/gcalctool/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: gconf gtk xorg-libxdamage
 
