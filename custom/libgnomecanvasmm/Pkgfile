@@ -1,12 +1,12 @@
 # Description: A C++ API for libgnomecanvas
-# URL: http://www.gtkmm.org/
+# URL: https://download.gnome.org/sources/libgnomecanvasmm/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: brotli graphite2 gtkmm libgnomecanvas
 
 name=libgnomecanvasmm
 version=2.26.0
 release=2
-source=(http://ftp.gnome.org/pub/GNOME/sources/$name/${version%.*}/$name-$version.tar.bz2)
+source=(https://download.gnome.org/sources/$name/${version%.*}/$name-$version.tar.bz2)
 
 build() {
 	cd $name-$version
