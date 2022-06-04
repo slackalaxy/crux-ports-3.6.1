@@ -1,12 +1,12 @@
 # Description: Engine for structured graphics.
-# URL: http://developer.gnome.org/doc/API/2.0/libgnomecanvas/index.html
+# URL: https://download.gnome.org/sources/libgnomecanvas/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: libart_lgpl libglade
 
 name=libgnomecanvas
 version=2.30.3
 release=3
-source=(http://ftp.gnome.org/pub/GNOME/sources/$name/${version%.*}/$name-$version.tar.bz2)
+source=(https://download.gnome.org/sources/$name/${version%.*}/$name-$version.tar.bz2)
 
 build() {
 	cd $name-$version

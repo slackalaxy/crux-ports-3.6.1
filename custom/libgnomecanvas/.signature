@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwxZfpjUki2IoKyOdsUmYDQPcnQR+00vQh+UGWQp/9h4b8eoOhME5WhEQaJE5nZf46gyyddVdALSlUn9cMI3+1wQ=
-SHA256 (Pkgfile) = e8be4b19495375ba8220338c0a32b8a14685cd325b44132ee49c579ab6ec8abd
+RWQ0fvpBKVgNw8soxHuPl7gO2RwCBN85ecDVSd+ZuAKBh1DuoOmiGExovlnasl5vtyWGxWR+1lvxLLHMvUGLTvBTIXbje/LIaAg=
+SHA256 (Pkgfile) = 2ba8aa7d5abe88f253cc1ba5a7fab7b0e3a469347b7e20750b0de65b6116038f
 SHA256 (.footprint) = 79ac707b54a85e1e853bb2dffaa5ca4a892ebe92e0b69ebf12e70cf562ff90bd
 SHA256 (libgnomecanvas-2.30.3.tar.bz2) = 859b78e08489fce4d5c15c676fec1cd79782f115f516e8ad8bed6abcb8dedd40
