@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNwyed2gLorid5BplOQ8wHfZug/ify3Gd3iSdcH0Pduc1bAhvum6dJS+GFxhoNlrwyKwxcs8/f6oVgbw4u7KqEgQI=
-SHA256 (Pkgfile) = 928beaa8a95c0de714e463b067742b609338f3fa52e6196edfb8e5750e186435
+RWQ0fvpBKVgNw/5iYO/fUO5l4Zhu590xEfB9yhdBrwwjbRr4Id4Ryx2Xzin9vM0ukJDcWy6vcYApfLa+f2F4LZdysXseZzNsGgI=
+SHA256 (Pkgfile) = 2a23c63dae72f1fc8b47ea2f85fa75e278180262c199d9ddf116bec0983aa5b7
 SHA256 (.footprint) = cd23c6e3b60c8a9e724ad06a70596f7af20bf2ce367079b1bd6f2df17d8d3db7
 SHA256 (libgnomeui-2.24.5.tar.bz2) = ae352f2495889e65524c979932c909f4629a58e64290fb0c95333373225d3c0f
