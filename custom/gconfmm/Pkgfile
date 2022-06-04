@@ -1,5 +1,5 @@
 # Description: C++ bindings for GConf
-# URL: http://gconfmm.sourceforge.net/
+# URL: https://download.gnome.org/sources/gconfmm/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: gconf gtkmm pkg-config
 

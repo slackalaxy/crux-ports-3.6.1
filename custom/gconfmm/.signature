@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNww+mM5B81GJxXMFVL9QwCyVKuajooxynbjIhrHf6Wxl5hBFrv1WUv/E46vVVAcA86VyZ4+8NLRGWSLEVrcGmAQw=
-SHA256 (Pkgfile) = da3974b90a7abc55eace6197cf780b8f8f8edca94c13cb64631ec9fd3b352bb6
+RWQ0fvpBKVgNw315pwPFlRTy2wT5Q0BGAjM6QqVmY/9JAAQoaoqh+JjQoCT55FcuXKjGK7iwSEvu8aOsINBoykWkuDyc/2/K0wg=
+SHA256 (Pkgfile) = 298c2db1043ab40003a58db8ae17323483daec076b10107a7dfb30767b88db5a
 SHA256 (.footprint) = 570a1fbd2e18291f17890541ec1c07b5dc1f1c9071033df41bbc9a2052b7b9ab
 SHA256 (gconfmm-2.28.3.tar.xz) = d7bd2d29c1a87b85329547fb29a0eca52d944e60699982152775002e24c09228
 SHA256 (gconf.patch) = 75c7f6fa62271a2ecca40d735d436ca3059cd5f4fc6c0e942927d909982c568a
