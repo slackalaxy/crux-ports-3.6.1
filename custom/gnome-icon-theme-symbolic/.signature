@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw7LLDYoP3JDeCgz5G1A319p99Q1K0dt5arMSs+3TUuw1OpB3pnrvByWztqiBCvc6m01elX7/HogbQKSHtExvQwA=
-SHA256 (Pkgfile) = 31c1635f9d9506fb9404c9c259b31ada10405392d73ce25a021c90416a602a84
+RWQ0fvpBKVgNw5PAN+joO+fPft3b1IIuoAKLOIa0osl4q6RZz836RbvwJxZyilCxrS1cysC6eesl6dpq/xf3DfagCx67jvGVJA8=
+SHA256 (Pkgfile) = dfab08a6cf515e2056e5fc869d360bf462e6ab096c47e96d57835d78ea69ee65
 SHA256 (.footprint) = 5fe8a1b3fa140557241cf52f3c25d5105b2e72bfc42c4898e93f9b3209c3aa14
 SHA256 (gnome-icon-theme-symbolic-3.12.0.tar.xz) = 851a4c9d8e8cb0000c9e5e78259ab8b8e67c5334e4250ebcc8dfdaa33520068b
 SHA256 (fix_gits_configure.patch) = e3011e05419039beff2b0f0e420d62617b7e125ade767882061c55627c600313
