@@ -1,5 +1,5 @@
 # Description: Old Evince
-# URL: https://download.gnome.org/sources
+# URL: https://download.gnome.org/sources/evince/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: gtk poppler-glib xorg-libpixman xorg-libxdamage
 

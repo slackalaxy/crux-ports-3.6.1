@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw0zR7aF1SDgm+NMnpiaes9F5dBTil/JbMiSswa2mgA1SrfzV1bt53v2kbEepzAoVSuiuivduTVu9WszOzPBc+wg=
-SHA256 (Pkgfile) = 35835e69e5ccba45fae8c8e56ba930717efae50d4f4a5825372d5083058bf426
+RWQ0fvpBKVgNw9ZfzMP5YBn3BXG9eDtV7wucUGqBWCiEPoYptDcJFnMJMFTgM2E4/0NyI8dZoar5GAsawZUn4b9x4qfD/FDQCgo=
+SHA256 (Pkgfile) = d0128bbfc9e41138de1b99567de8b744c183cc2d04f333acbd82d7796025d5f9
 SHA256 (.footprint) = 2ea59e7c4e8aa32aad28647ab68175edbfb5c5487141f94f84ead2b3d84f3aab
 SHA256 (evince-2.32.0.tar.bz2) = 2a4c91ae38f8b5028cebb91b9da9ddc50ea8ae3f3d429df89ba351da2d787ff7
