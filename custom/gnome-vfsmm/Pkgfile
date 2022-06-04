@@ -1,5 +1,5 @@
 # Description: C++ wrapper for the gnomevfs2 library.
-# URL: https://www.gtkmm.org
+# URL: http://ftp.gnome.org/pub/gnome/sources/gnome-vfsmm/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
 # Depends on: glibmm gnome-vfs doxygen
 
