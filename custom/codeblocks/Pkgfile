@@ -1,7 +1,7 @@
 # Description: Code::Blocks
 # URL: https://www.codeblocks.org/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on:
+# Depends on: wxpython2
 
 name=codeblocks
 version=20.03
