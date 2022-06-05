@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw6WUllEFCobdAMirqiVnBdA3sWL5qqgCIqs4jGfptITKIU0MWQaqg55n4FpFRIM9kjbxp5Az6nN2ue8Jdrr35Qo=
+SHA256 (Pkgfile) = eae4355f57a7dfa78ebbd4798a3e549faa21e38605ff767b81a93d092e0490f4
+SHA256 (.footprint) = d7f84e6eac68f56ff505344007724dde87cc7c8c70a01dc3a43d5586a35c2c88
+SHA256 (prboom-plus-2.6.2.tar.gz) = 5cfeec96fbfe4fc3bd5dbc2b8d581ff5f6617dd74b2799680ba5b1e2e38c4aff
