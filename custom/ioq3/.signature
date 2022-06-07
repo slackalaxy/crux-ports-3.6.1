@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw487PEkTC7HDShAhWqtxw9ja1Cp6N+OwhdlD0IhnlpFwYHKHAd+FCgCiMICZ0qzUZaAGCFPGBEmN9zdeAy16Tg0=
+SHA256 (Pkgfile) = ae6ad64d678b5750d838e04b472c34785d07b3872c9805d1f9cfcddc71a97971
+SHA256 (.footprint) = 8caa8a0733ea23df43b21553dcd3f3381af1685d345c2ce96f4aae49d757c290
+SHA256 (ioq3-6d74896557d8c193a9f19bc6845a47e9d0f77db2.tar.gz) = 1db91cfd05170ed5b37c1ab56cdf7bbe6b3c86fc6baee8b68e8e539fddfd88c1
+SHA256 (ioq3.desktop) = d353060330d082a9b868694c1ced84db6dbdcd84724a7ea910e4f8c011395eac
+SHA256 (ioq3.sh) = 90d14c46ea624c863fd7ce4a9d2db332eab45335553a42fe97271abeebf11994
