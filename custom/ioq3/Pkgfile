@@ -13,7 +13,7 @@ source=(https://github.com/ioquake/ioq3/archive/$version/$name-6d74896557d8c193a
 build() {
 	cd $name-${version}*
 	make
-	make COPYDIR=$PKG/usr/share/games/$name copyfiles
+	make COPYDIR=$PKG/usr/share/$name copyfiles
 	
 	install -D -m755 $SRC/$name.sh $PKG/usr/bin/$name
 	
