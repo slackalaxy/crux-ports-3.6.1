@@ -18,6 +18,7 @@ d:libgweather
 d:inkscape-gtk2
 d:gvfs
 d:libbonoboui
+d:ioq3
 d:wps-legacy
 d:alltray
 d:wordnet
@@ -151,6 +152,7 @@ d:pdflib-lite
 d:gtk1-theme-switch
 d:wxpython2
 d:zotero-gtk2
+d:prboom-plus
 d:wps-legacy-dict-bg
 d:wps-legacy-dict-gb
 d:mplayer
@@ -292,6 +294,11 @@ f:ed586a334baa0789981b7736c7723bef:gvfs/Pkgfile
 f:39a90c58f15127ebdc5b76070f426b80:libbonoboui/Pkgfile
 f:aae7602afc7b106d09ae2d79bcb03247:libbonoboui/.signature
 f:a03eb11085a0a280259a8f4214181000:libbonoboui/.footprint
+f:8fe84efc12099c295b26b260c32edc38:ioq3/Pkgfile
+f:8c1547eb5f2c3b1b1ccb3007a32c6e86:ioq3/ioq3.desktop
+f:fbde1ca0697fda351db967927e717e0f:ioq3/ioq3.sh
+f:30f2e70d72afb8a4173d38f14713706d:ioq3/.footprint
+f:7b1f2df708bc55952fb6faa143022c2a:ioq3/.signature
 f:40c574a80d72405382d89aa593c2ffa1:wps-legacy/Pkgfile
 f:ccf92dbad771c176b72a94f715bb6ca2:wps-legacy/.footprint
 f:aa9dccf52a9f8e8d455d15b172780c2c:wps-legacy/wps-spreadsheet.desktop
@@ -538,9 +545,9 @@ f:94f3e13c45d8101e98740176b48ae312:glib1/Pkgfile
 f:8710f76db3aa3f691a617f6d9aada87e:python-uniconvertor/Pkgfile
 f:1ea3534f7ce54d75129a2a67ef1719d5:python-uniconvertor/.footprint
 f:cdc3293ad8b4056fc806ca22da275a6c:python-uniconvertor/.signature
-f:0f3ff5e815fed20473ca26657e84f76c:codeblocks/Pkgfile
+f:077e07da37e4b2b929020655805ec425:codeblocks/Pkgfile
 f:87f7239528e285bb5702129120e0d639:codeblocks/.footprint
-f:5855d3862fbb77848e3ec617ce083160:codeblocks/.signature
+f:370b671492877c8f329b78c1b7fccfc4:codeblocks/.signature
 f:2e904ae6e809b8ad11b55949a782fa8a:lxdm/.footprint
 f:003531e07cd0e71a0d884a546069147a:lxdm/Pkgfile
 f:f3bf75c816f211922b9c0ae8c2540b21:lxdm/lxdm.rc
@@ -797,9 +804,9 @@ f:9ec202be5ad2e114ffb476bea906346a:python-lxml/Pkgfile
 f:b2ecf6c528533300504730fbe84c0db0:ktsuss/.footprint
 f:a048a452c9eb1e9307c3fcf1f2c52b77:ktsuss/.signature
 f:5ad01e6be5b73a82a959bd525c4284c5:ktsuss/Pkgfile
-f:f93834af429fe62702ac803275ca0a09:xscreensaver/.signature
+f:71289a48edde46f87b445ab9fc6be68e:xscreensaver/.signature
 f:d996d65ecfdf5f3d2d2216ee25ca6416:xscreensaver/01_electricsheep.patch
-f:2a4de379677ab539652e0e11adb23e5d:xscreensaver/Pkgfile
+f:8fdd3c3776e6d2246d6860520b5a4004:xscreensaver/Pkgfile
 f:d514922ee13503c29e3dda39809fd4e4:xscreensaver/.footprint
 f:9da54c3bbf7a884c197bbb33b2b3ade3:xscreensaver/xscreensaver.pam
 f:bd054dff3d8167d23005ab4b6f78cc4c:xscreensaver/02_rss.patch
@@ -840,6 +847,9 @@ f:f133a84a9647b1f754b34926a75bed6d:zotero-gtk2/.footprint
 f:4c62dfd60de4225f05bfffc57129df4b:zotero-gtk2/zotero.desktop
 f:8862de0edfe39cb8491620d1dd230e0d:zotero-gtk2/zotero.png
 f:075284f1878a363bde0bc51ae359fab9:zotero-gtk2/.signature
+f:c69a702fcf84877e0a915b2dc35c1cec:prboom-plus/Pkgfile
+f:5490c79e237e8294a08f30fe64685fb9:prboom-plus/.footprint
+f:3d763e0bc4dded46cfc666955018fb93:prboom-plus/.signature
 f:d8c2d8373575422825841fafcc43926f:wps-legacy-dict-bg/bg_BG.aff.tar.xz
 f:128c36b3e1ca68f3368047405b879df8:wps-legacy-dict-bg/bg_BG.dic.tar.xz
 f:bba1df3d31b8a2929bc5ef9f52f6d744:wps-legacy-dict-bg/.footprint
