@@ -10,6 +10,7 @@ drwxr-xr-x	root/root	usr/bin/
 drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/wps-office/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/EverythingDaemon
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/cef.pak
@@ -18,13 +19,23 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/cef_extensions.pak
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/devtools_resources.pak
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/icudtl.dat
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/libEGL.so
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/libGLESv2.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/libcef.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/libpng16.so
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/libpng16.so.16
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/libpng16.so.16.34.0
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/libz.so
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/libz.so.1
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/libz.so.1.2.11
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/locales/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/locales/en-GB.pak
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/locales/en-US.pak
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/locales/zh-CN.pak
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/natives_blob.bin
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/snapshot_blob.bin
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cef/swiftshader/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/swiftshader/libEGL.so
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/swiftshader/libGLESv2.so
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/cef/v8_context_snapshot.bin
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cloudpushsdk/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/cloudpushsdk/libcloudpushsdk.so
@@ -33,6 +44,10 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/docpermission/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/docpermission/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/docpermission/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/docpermission/mui/zh_CN/docpermission.qm
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/jsapi/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/jsapi/libjsapihttpserver.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/jsapi/libjsapisubserver.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/jsapi/libnativex.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kappcenter/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kappcenter/libkappcenter.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kappcenter/mui/
@@ -61,18 +76,48 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kapplist/mui/default/html
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/mui/default/html/kappcustomwidget/static/js/vendor.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menu.xml
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menu_2.xml
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/PlayBeautiful.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/WallpaperSwitcher.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/cad2pdf.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/docmerge.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/docsplit.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/docsplitmerge.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/file2pdf.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/kbatchwatermark.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/kscreensaver.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/more.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/papercheck.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdf2cad.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdf2doc.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdf2other.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdf2photo.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdf2ppt.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdf2xls.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdfbatchprint.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdfcompress.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdfedit.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdfmerge.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdfsplit.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pdfsplitmerge.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photo2pdf.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatch.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchcompress.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchconvert.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchcrop.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchrename.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchresize.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchrotate.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchtext.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photobatchwatermark.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photocad.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photocompress.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photoerasepen.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photoprint.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photoprints.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photoresize.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/photosplice.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/menuicon/pic2txt.png
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kapplist/shellext/mui/zh_CN/
@@ -96,6 +141,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings.properties
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings_en-US.properties
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings_ja-JP.properties
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings_ja.properties
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings_zh-CN.properties
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings_zh-TW.properties
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kbarcode/mui/default/i18n/strings_zh.properties
@@ -142,10 +188,17 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kclouddocs/mui/zh_TW/res/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kclouddocs/mui/zh_TW/res/web/error-page/cloud.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kclouddocs/mui/zh_TW/res/web/error-page/fail.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kclouddocs/mui/zh_TW/res/web/error-page/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kcloudfiledialog/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kcloudfiledialog/mui/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kcloudfiledialog/mui/default/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kcloudfiledialog/mui/default/icons_svg.data
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kcloudfiledialog/mui/zh_CN/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kcloudfiledialog/mui/zh_CN/kcloudfiledialog.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedback/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedback/db/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedback/db/personal_cn/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kfeedback/db/personal_cn/et.db
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kfeedback/db/personal_cn/pdf.db
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kfeedback/db/personal_cn/wpp.db
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kfeedback/db/personal_cn/wps.db
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedback/libkfeedback.so
@@ -154,6 +207,8 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedback/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kfeedback/mui/zh_CN/kfeedback.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedbackcmds/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfeedbackcmds/libkfeedbackcmds.so
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfpccomb/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kfpccomb/libkfpccomb.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/khelp/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/khelp/libkhelp.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/khelp/mui/
@@ -165,6 +220,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/khelp/mui/default/html/st
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/khelp/mui/default/html/static/css/app.css
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/khelp/mui/default/html/static/js/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/khelp/mui/default/html/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/khelp/mui/default/khelp.data
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/khelp/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/khelp/mui/zh_CN/khelp.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kjsapipage/
@@ -172,6 +228,11 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kjsapipage/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kjsapipage/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kjsapipage/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kjsapipage/mui/zh_CN/kjsapipage.qm
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kmodule/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kmodule/libkmodule.so
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knetwork/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knetwork/libknetwork.so
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knetwork/rpclimit.cfg
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewdocs/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewdocs/libknewdocs.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewdocs/mui/
@@ -280,6 +341,14 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/common/web/img/close-hover.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/common/web/img/close-normal.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/common/web/networkError.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/createsharefolder/static/js/chunk-vendors.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/foldersharingweb/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/foldersharingweb/folder-share.html
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/foldersharingweb/static/
@@ -294,13 +363,19 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/css/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/css/app.css
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/css/chunk-vendors.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/fonts/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/fonts/ionicons.ttf
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/fonts/ionicons.woff
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/fonts/ionicons.woff2
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/1g.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/disk_oversize.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/empty.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/error.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/ionicons.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/loading.gif
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/no_exist.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/placeholder_nointernet_100.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/roaming_error.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/send_success.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/knewshare/web/static/img/upgrade.svg
@@ -315,6 +390,40 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/kshare19/web/static/css/share-contact.css
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/kshare19/web/static/js/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/kshare19/web/static/js/share-contact.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefolderinvite/js/chunk-vendors.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldersentto/static/js/chunk-vendors.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/homepage.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/css/homepage.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/img/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/img/intro-1.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/img/net_error.svg
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/js/chunk-vendors.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/sharefoldertemplate/static/js/homepage.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/transfersharefolder/static/js/chunk-vendors.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/usersecurecenter/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/usersecurecenter/errPage.html
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/default/res/usersecurecenter/errPage_auto.html
@@ -326,6 +435,13 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/zh_CN/knewshare.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/zh_TW/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/knewshare/mui/zh_TW/knewshare.qm
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/libkonlinefileconfig.so
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/res/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/res/ico/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/res/ico/resh.ico
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/res/icon.rcc
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/konlinefileconfig/res/onlinefileconfig.xml
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/koptioncenter/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/koptioncenter/libkoptioncenter.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/koptioncenter/mui/
@@ -342,6 +458,22 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/koptioncenter/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/koptioncenter/mui/zh_CN/koptioncenter.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/koptioncenter/mui/zh_TW/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/koptioncenter/mui/zh_TW/koptioncenter.qm
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/libkphoneticsymbol.so
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/css/chunk-vendors.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/default/html/pinyin/static/js/chunk-vendors.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/zh_CN/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kphoneticsymbol/mui/zh_CN/kphoneticsymbol.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpluginrunner/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpluginrunner/libkpluginrunner.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/
@@ -353,10 +485,25 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/de
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/img/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/img/bg_docer.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/img/bg_svip.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/img/bg_svip_dark.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/img/bg_wps.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/css/img/bg_wps_docer.png
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/js/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/js/app.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/js/manifest.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html/static/js/vendor.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/js/manifest.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/default/html_pro/static/js/vendor.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeaccountpanel/mui/zh_CN/kpromeaccountpanel.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromebrowser/
@@ -369,13 +516,6 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocesson/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocesson/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocesson/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeprocesson/mui/zh_CN/kpromeprocesson.qm
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/libkpromeprocessonlocal.so
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/mui/
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/mui/default/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/mui/default/loading.html
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/mui/zh_CN/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kpromeprocessonlocal/mui/zh_CN/kpromeprocesson.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromewebapp/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromewebapp/libkpromewebapp.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kpromewebapp/mui/
@@ -422,9 +562,39 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/default/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/default/icons_svg.data
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/default/kscreengrab.ico
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/ja_JP/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/ja_JP/kscreengrab.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kscreengrab/mui/zh_CN/kscreengrab.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/images/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/images/bg.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/images/default.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/js/common.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/js/manifest.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/ad.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/bubbles.svga
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/default.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/error.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/golden-dark.mp4
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/golden-skin.svga
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/gray-skin.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/logo-disappeare.svga
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/logo-success.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/logo.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/skin-success.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/skin.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/star.svga
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/super.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/blackgold_res/static/images/vip.svg
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/hover_static/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/hover_static/css/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/hover_static/css/app.css
@@ -433,7 +603,19 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/hover_static/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/hover_static/js/app.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/hover_static/js/chunk-vendors.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/blackgold/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/blackgold/logo-small.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/blackgold/logo.png
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/normal/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/normal/logo-small.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/ksolaunch/normal/logo.png
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/libkskincenter.so
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/mui/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/mui/default/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/mui/default/icons_svg.data
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/mui/zh_CN/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/mui/zh_CN/kskincenter.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/static/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kskincenter/static/css/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kskincenter/static/css/app.css
@@ -463,7 +645,16 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/ht
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlep/static/css/app.css
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlep/static/js/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlep/static/js/app.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/htmlnotifymemberlookup/js/chunk-vendors.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/default/icons_svg.data
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/ja_JP/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/ja_JP/kstartpage.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/zh_CN/kstartpage.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kstartpage/mui/zh_CN/res/
@@ -489,6 +680,33 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/icons_svg.data
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/img/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/img/center.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/img/empty.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/img/loading.gif
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/css/img/right.png
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/js/0.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/js/manifest.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdf/static/js/vendor.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/css/img/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/css/img/loading.gif
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/js/0.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/js/manifest.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/web_pdfep/static/js/vendor.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/webep/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/webep/index.html
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/default/webep/static/
@@ -506,7 +724,9 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/zh_CN/res
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/zh_CN/res/errPage.html
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kusercenter/mui/zh_CN/res/fail.png
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kwebextensionlist/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kwebextensionlist/config.ini
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kwebextensionlist/kwebextensionlist.cfg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kwebextensionlist/webshapenotices.txt
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kweibo/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kweibo/libkweibo.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kweibo/mui/
@@ -519,12 +739,14 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kweibo/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kweibo/mui/zh_CN/kweibo.data
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kweibo/mui/zh_CN/kweibo.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kweibo/weibo/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kweibo/weibo/wpsweibo.data
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kweibo/weibo/wpsweibobar.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kweibo/wpsweibo.data
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kwpsartstyleborder/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kwpsartstyleborder/libkwpsartstyleborder.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/kwpsartstyleborder/resource/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/kwpsartstyleborder/resource/kwpsartstyleborder.data
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/linkeddatatype/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/linkeddatatype/linkdata.json
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/messagepush/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/messagepush/libmessagepush.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/officespace/
@@ -608,15 +830,13 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/officespace/mui/zh_TW/res
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/officespace/mui/zh_TW/resource/qing_plugins.data
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/libpdfbatchcompression.so
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/libpdfbatchcompressionapp.so
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/default/
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/default/icons/
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/default/icons/1x/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/default/icons/1x/pdfbatchcompressionapp.ico
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/zh_CN/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/pdfbatchcompressionapp/mui/zh_CN/pdfbatchcompressionapp.qm
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/libpdfbatchcompressionapp.so
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/meta.json
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/mui/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/mui/default/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/mui/default/title.ico
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/mui/zh_CN/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/pdfbatchcompression/mui/zh_CN/pdfbatchcompressionapp.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/libqingbangong.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/
@@ -649,6 +869,22 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clou
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskhomepage/static/js/app.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskhomepage/static/js/history.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskhomepage/static/js/sidebar.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/static/css/clouddisk.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/static/js/chunk-vendors.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/clouddiskpopup/static/js/clouddisk.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/cloudfolderpage/static/js/chunk-vendors.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desktop_lnk_icon.ico
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desktopbackuppage/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desktopbackuppage/desktop-backup.html
@@ -657,17 +893,32 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desk
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desktopbackuppage/static/css/backup.css
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desktopbackuppage/static/js/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/desktopbackuppage/static/js/backup.js
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/free-v2.html
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/static/
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/static/css/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/static/css/free-v2.css
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/static/js/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/limitedfreeexpiredpage/static/js/free-v2.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/static/css/app.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/privatefolder/static/js/chunk-vendors.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/qingaccount/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/qingaccount/errPage.html
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/qingaccount/errPagePic.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/qingaccount/errPage_timeout.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/todeletefilepage/js/chunk-vendors.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/uploadwechatfile/js/chunk-vendors.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/default/res/wpsbox.ico
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/en_US/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/en_US/qingaccount.data
@@ -751,16 +1002,16 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/truste
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/index.html
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/css/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/css/chunk-common.css
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/css/chunk-vendors.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/css/index.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/css/subpage.css
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/js/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/js/chunk-common.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/js/chunk-vendors.js
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/usersecurecenter/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/usersecurecenter/errPage.html
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/usersecurecenter/errPage_auto.html
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/usersecurecenter/error-network-96.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/usersecurecenter/fail.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/js/index.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/static/js/subpage.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/trusteddevice/dist/subpage.html
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/vippayment/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/vippayment/base64.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_CN/res/vippayment/close.png
@@ -777,6 +1028,8 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_TW/res/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_TW/res/qingaccount/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/mui/zh_TW/res/qingaccount/errPage.html
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/qing/rpc.cfg
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/secanalyze/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/secanalyze/secanalyze.xml
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/shareplay/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/shareplay/libshareplay.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wppcapturer/
@@ -794,8 +1047,9 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wppencoder/mui/en_US/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wppencoder/mui/en_US/common.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wppencoder/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wppencoder/mui/zh_CN/common.qm
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpppresentationtool/
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpppresentationtool/libwpppresentationtool.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/combine.tag
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/libwpsbox.so
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/
@@ -840,6 +1094,16 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/d
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/documentassistant/js/lib/base64.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/documentassistant/js/lib/kso.js
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/documentassistant/js/lib/lodash.min.js
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/css/chunk-vendors.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/fileradar/dist/static/js/chunk-vendors.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/filetransfer/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/filetransfer/css/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/filetransfer/css/app.css
@@ -870,17 +1134,20 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/m
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/index.html
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/manifest.json
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/precache-manifest.12db44976b1e677940c097decc17d6e9.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/service-worker.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/css/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/css/app.css
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/css/chunk-vendors.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/css/app.a65ff34e.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/css/chunk-vendors.a30ad320.css
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/empty.svg
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/load_error.svg
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/loading.gif
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/empty.6cf396b9.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/load_error.404464b7.svg
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/img/loading.adcb2e00.gif
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/js/
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/js/app.js
--rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/js/chunk-vendors.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/js/app.f1e923ca.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/msgchannel/dist/static/js/chunk-vendors.0153916c.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/privatefolder/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/privatefolder/index.html
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/privatefolder/static/
@@ -906,6 +1173,18 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/r
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/recommend/img/close-hover.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/recommend/img/close-normal.svg
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/recommend/networkError.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/index.html
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/css/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/css/app.css
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/css/chunk-vendors.css
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/fonts/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/fonts/element-icons.ttf
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/fonts/element-icons.woff
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/js/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/js/app.js
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/sharefolder/static/js/chunk-vendors.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/syncfolder/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/syncfolder/index.html
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/syncfolder/static/
@@ -944,15 +1223,32 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/w
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/html/wpsboxsettings/dist/static/js/chunk-vendors.js
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/icons/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/icons/wpsbox.ico
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/icons/wpsbox_pro.ico
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/default/icons/wpsbox_sharefolder.ico
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/zh_CN/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/mui/zh_CN/wpsbox.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_dark_wpsbox/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_dark_wpsbox/qing.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_dark_wpsbox/skin.ini
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_dark_wpsbox/wpsbox.kuip
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_wpsbox/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_wpsbox/qing.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_wpsbox/skin.ini
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2018white_wpsbox/wpsbox.kuip
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2019wpsbox/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2019wpsbox/common.kuip
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2019wpsbox/default/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2019wpsbox/default/wpsbox_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2019wpsbox/skin.ini
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/2019wpsbox/wpsbox.kuip
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/res/
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/res/2018white/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/res/2018white/2018white.data
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/res/2018white_dark/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/res/2018white_dark/2018white_dark.data
+-rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/res/subtheme/wpsbox.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/addons/wpsbox/run.ini
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/asso_template/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/asso_template/wps.doc
@@ -1268,77 +1564,97 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/document theme/theme fonts/
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libKMailLib.so -> libKMailLib.so.71
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libKMailLib.so.71
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libPinyinTagger.so
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so -> libQt5ConcurrentKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so.5 -> libQt5ConcurrentKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so.5.12 -> libQt5ConcurrentKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so -> libQt5CoreKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so.5 -> libQt5CoreKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so.5.12 -> libQt5CoreKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so -> libQt5DBusKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so.5 -> libQt5DBusKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so.5.12 -> libQt5DBusKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so -> libQt5GuiKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so.5 -> libQt5GuiKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so.5.12 -> libQt5GuiKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so -> libQt5NetworkKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so.5 -> libQt5NetworkKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so.5.12 -> libQt5NetworkKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so -> libQt5OpenGLKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so.5 -> libQt5OpenGLKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so.5.12 -> libQt5OpenGLKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so -> libQt5PrintSupportKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so.5 -> libQt5PrintSupportKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so.5.12 -> libQt5PrintSupportKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so -> libQt5SvgKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so.5 -> libQt5SvgKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so.5.12 -> libQt5SvgKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so.5.12.9
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so -> libQt5ConcurrentKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so.5 -> libQt5ConcurrentKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so.5.12 -> libQt5ConcurrentKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5ConcurrentKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so -> libQt5CoreKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so.5 -> libQt5CoreKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so.5.12 -> libQt5CoreKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5CoreKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so -> libQt5DBusKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so.5 -> libQt5DBusKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so.5.12 -> libQt5DBusKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5DBusKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so -> libQt5GuiKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so.5 -> libQt5GuiKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so.5.12 -> libQt5GuiKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5GuiKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so -> libQt5NetworkKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so.5 -> libQt5NetworkKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so.5.12 -> libQt5NetworkKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5NetworkKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so -> libQt5OpenGLKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so.5 -> libQt5OpenGLKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so.5.12 -> libQt5OpenGLKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5OpenGLKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so -> libQt5PrintSupportKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so.5 -> libQt5PrintSupportKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so.5.12 -> libQt5PrintSupportKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5PrintSupportKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QmlKso.so -> libQt5QmlKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QmlKso.so.5 -> libQt5QmlKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QmlKso.so.5.12 -> libQt5QmlKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5QmlKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickControls2Kso.so -> libQt5QuickControls2Kso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickControls2Kso.so.5 -> libQt5QuickControls2Kso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickControls2Kso.so.5.12 -> libQt5QuickControls2Kso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5QuickControls2Kso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickKso.so -> libQt5QuickKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickKso.so.5 -> libQt5QuickKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickKso.so.5.12 -> libQt5QuickKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5QuickKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickTemplates2Kso.so -> libQt5QuickTemplates2Kso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickTemplates2Kso.so.5 -> libQt5QuickTemplates2Kso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickTemplates2Kso.so.5.12 -> libQt5QuickTemplates2Kso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5QuickTemplates2Kso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickWidgetsKso.so -> libQt5QuickWidgetsKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickWidgetsKso.so.5 -> libQt5QuickWidgetsKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5QuickWidgetsKso.so.5.12 -> libQt5QuickWidgetsKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5QuickWidgetsKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so -> libQt5SvgKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so.5 -> libQt5SvgKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so.5.12 -> libQt5SvgKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5SvgKso.so.5.12.10
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WebKit.so -> libQt5WebKit.so.5
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WebKit.so.5 -> libQt5WebKit.so.5.212.0
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5WebKit.so.5.212.0
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WebKitWidgets.so -> libQt5WebKitWidgets.so.5
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WebKitWidgets.so.5 -> libQt5WebKitWidgets.so.5.212.0
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5WebKitWidgets.so.5.212.0
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so -> libQt5WidgetsKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so.5 -> libQt5WidgetsKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so.5.12 -> libQt5WidgetsKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so -> libQt5X11ExtrasKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so.5 -> libQt5X11ExtrasKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so.5.12 -> libQt5X11ExtrasKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so -> libQt5XcbQpaKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so.5 -> libQt5XcbQpaKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so.5.12 -> libQt5XcbQpaKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so -> libQt5XmlKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5 -> libQt5XmlKso.so.5.12.9
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5.12 -> libQt5XmlKso.so.5.12.9
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5.12.9
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so -> libQt5WidgetsKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so.5 -> libQt5WidgetsKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so.5.12 -> libQt5WidgetsKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5WidgetsKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so -> libQt5X11ExtrasKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so.5 -> libQt5X11ExtrasKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so.5.12 -> libQt5X11ExtrasKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5X11ExtrasKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so -> libQt5XcbQpaKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so.5 -> libQt5XcbQpaKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so.5.12 -> libQt5XcbQpaKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5XcbQpaKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so -> libQt5XmlKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5 -> libQt5XmlKso.so.5.12.10
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5.12 -> libQt5XmlKso.so.5.12.10
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libQt5XmlKso.so.5.12.10
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libSDL2-2.0.so -> libSDL2-2.0.so.0
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libSDL2-2.0.so.0 -> libSDL2-2.0.so.0.12.0
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libSDL2-2.0.so.0.12.0
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libaeocenter.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libauth.so
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavcodec.so -> libavcodec.so.58.54.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavcodec.so.58 -> libavcodec.so.58.54.100
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavcodec.so.58.54.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavdevice.so -> libavdevice.so.58.8.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavdevice.so.58 -> libavdevice.so.58.8.100
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavdevice.so.58.8.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavformat.so -> libavformat.so.58.29.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavformat.so.58 -> libavformat.so.58.29.100
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavformat.so.58.29.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavutil.so -> libavutil.so.56.31.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavutil.so.56 -> libavutil.so.56.31.100
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavutil.so.56.31.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavcodec.so -> libavcodec.so.58.91.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavcodec.so.58 -> libavcodec.so.58.91.100
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavcodec.so.58.91.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavdevice.so -> libavdevice.so.58.10.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavdevice.so.58 -> libavdevice.so.58.10.100
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavdevice.so.58.10.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavformat.so -> libavformat.so.58.45.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavformat.so.58 -> libavformat.so.58.45.100
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavformat.so.58.45.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavutil.so -> libavutil.so.56.51.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libavutil.so.56 -> libavutil.so.56.51.100
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libavutil.so.56.51.100
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libbz2.so -> libbz2.so.1.0.4
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libbz2.so.1 -> libbz2.so.1.0.4
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libbz2.so.1.0 -> libbz2.so.1.0.4
@@ -1351,7 +1667,7 @@ lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libc++abi.so.1 -> libc++abi.so.1
 -rw-r--r--	root/root	usr/lib/wps-office/office6/libc++abi.so.1.0
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libcrypto.so -> libcrypto.so.1.1
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libcrypto.so.1.1
--rw-r--r--	root/root	usr/lib/wps-office/office6/libcurl.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libcurl.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libdatasourcereader.so
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libdbus-1.so -> libdbus-1.so.3.14.6
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libdbus-1.so.3 -> libdbus-1.so.3.14.6
@@ -1390,15 +1706,17 @@ lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libjpeg.so.8 -> libjpeg.so.8.0.2
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libjsetapi.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libjswppapi.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libjswpsapi.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkcloudfiledialog.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkdcsdk_linux.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkdownload.so
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkpromecloudopendialog.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkprometheus.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkqingaccountsdk.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libksmso.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libkso.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libksoapi.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libksolite.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libksqlite3.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/liblibsafec.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libmediacoder.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libmediaflash.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libmediaplayer.so
@@ -1421,7 +1739,9 @@ lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libodbcinst.so.2 -> libodbcinst.
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libopencv_world.so -> libopencv_world.so.4.4
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libopencv_world.so.4.4 -> libopencv_world.so.4.4.0
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libopencv_world.so.4.4.0
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libpaho-mqtt3-as.so
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libpaho-mqtt3as.so -> libpaho-mqtt3as.so.1
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libpaho-mqtt3as.so.1 -> libpaho-mqtt3as.so.1.3.9
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libpaho-mqtt3as.so.1.3.9
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libpdfmain.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libplayer.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libpptreader.so
@@ -1429,6 +1749,9 @@ lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libopencv_world.so.4.4 -> libope
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libpptxrw.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libqingipc.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libqpdfpaint.so
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libqrencode.so -> libqrencode.so.4
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libqrencode.so.4 -> libqrencode.so.4.1.1
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libqrencode.so.4.1.1
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/librpcetapi.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/librpcetapi_sysqt5.so
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/librpcetapi_wpsqt.so
@@ -1443,17 +1766,18 @@ lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libopencv_world.so.4.4 -> libope
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libsearchcore.so
 -rw-r--r--	root/root	usr/lib/wps-office/office6/libsmime3.so
 -rw-r--r--	root/root	usr/lib/wps-office/office6/libsoftokn3.so
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libsqlite3.so
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libssl.so -> libssl.so.1.1
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libssl.so.1.1
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libstdc++.so.6 -> libstdc++.so.6.0.28
 -rw-r--r--	root/root	usr/lib/wps-office/office6/libstdc++.so.6.0.28
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libswfplayer.so
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswresample.so -> libswresample.so.3.5.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswresample.so.3 -> libswresample.so.3.5.100
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libswresample.so.3.5.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswscale.so -> libswscale.so.5.5.100
-lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswscale.so.5 -> libswscale.so.5.5.100
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/libswscale.so.5.5.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswresample.so -> libswresample.so.3.7.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswresample.so.3 -> libswresample.so.3.7.100
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libswresample.so.3.7.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswscale.so -> libswscale.so.5.7.100
+lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libswscale.so.5 -> libswscale.so.5.7.100
+-rwxr-xr-x	root/root	usr/lib/wps-office/office6/libswscale.so.5.7.100
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libtcmalloc_minimal.so -> libtcmalloc_minimal.so.4.5.5
 lrwxrwxrwx	root/root	usr/lib/wps-office/office6/libtcmalloc_minimal.so.4 -> libtcmalloc_minimal.so.4.5.5
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/libtcmalloc_minimal.so.4.5.5
@@ -1522,9 +1846,9 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/l10n/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/linux_fonts/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/linux_fonts/Kingsoft Extra.ttf
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/mso_builtin_icons.rcc
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/ongmani_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/prometheus_common_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/prometheus_kso_res.rcc
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/prometheus_shared_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/prometheus_wpsoffice_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/public_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/rainbow_res.rcc
@@ -2048,7 +2372,6 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/bsvokbtn_et.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/bsvokbtn_wpp.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/bsvokbtn_wps.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/btn_cancel_download.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/btn_down_hover.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/btn_down_normal.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/btn_lastorigin_normal.png
@@ -2099,6 +2422,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/privatespace.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/quickdisk.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/recentitem_filediff.ico
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/recentitem_filedownloading.ico
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/recentitem_filenewest.ico
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/recentitem_filestate.ico
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/recentvisit.png
@@ -2117,6 +2441,10 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/saveooxmldlg/selhover.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/saveooxmldlg/selnormal.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/saveooxmldlg/selpress.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/tipclose_hover.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/tipclose_hover_dpi.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/tipclose_normal.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/tipclose_normal_dpi.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/tipicon.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/titleicon_et.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/titleicon_wpp.png
@@ -2145,6 +2473,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/item_foler.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/item_privateSpace.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/item_recentVisit.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/item_share.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/item_team.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/maxbtn.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x1/newfolderbtn.png
@@ -2166,6 +2495,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/item_foler.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/item_privateSpace.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/item_recentVisit.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/item_share.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/item_team.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/maxbtn.png
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/resource/filedialog/x2/newfolderbtn.png
@@ -2591,7 +2921,6 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/default/templates/presentati
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/templates/presentationdesigns/Gear Drives.dpt
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/templates/presentationdesigns/Green Color.dpt
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/templates/presentationdesigns/Orange Waves.dpt
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/templates/presentationdesigns/printTemplate.pdf
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/templates/printTemplate.pdf
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/wpptips.qm
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/default/wpstips.qm
@@ -2622,42 +2951,24 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/l10n/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/qing.qm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/resource/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/background_pro_2019_loading.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_et.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_et_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_flow_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_mind_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_ofd_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_pdf.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_pdf_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wpp.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wpp_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wps.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wps_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wpsoffice.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wpsoffice_linux.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_et_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_flow_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_mind_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_ofd_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_pdf_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wpp_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wps_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/ent_background_2019_wpsoffice_linux_per.png
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_et.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_et_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_flow_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_mind_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_ofd_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_pdf.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_pdf_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wpp.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wpp_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wps.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wps_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wpsoffice.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wpsoffice_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/background_pro_2019_loading.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/ent_background_2019_et_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/ent_background_2019_ofd_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/ent_background_2019_pdf_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/ent_background_2019_wpp_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/ent_background_2019_wps_linux.png
--rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/ent_background_2019_wpsoffice_linux.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_et_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_flow_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_mind_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_ofd_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_pdf_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wpp_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wps_linux_per.png
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/en_US/resource/splash/hdpi/2x/ent_background_2019_wpsoffice_linux_per.png
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/templates/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/templates/Wpp Default Object/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/en_US/templates/Wpp Default Object/prometheus/
@@ -2850,6 +3161,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/ru_RU/resource/xlsx/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/ru_RU/resource/xlsx/Kingsoft_Et_StockD.xlsx
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/ru_RU/ru_RU.png
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/ru_RU/templates/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/mui/ru_RU/templates/Normal.dotm
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/ru_RU/templates/Wpp Default Object/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/ru_RU/templates/Wpp Default Object/Slide Layout/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/ru_RU/templates/Wpp Default Object/Slide Layout/BlankLayout.xml
@@ -2964,7 +3276,6 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/mui/ug_CN/templates/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/mui/ug_CN/templates/builtin.wpt
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/oa/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/oa/wpsoaassist.sh
--rwxr-xr-x	root/root	usr/lib/wps-office/office6/parsecloudfiletool
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/promecefpluginhost
 -rw-r--r--	root/root	usr/lib/wps-office/office6/qt.conf
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/qt/
@@ -3060,36 +3371,6 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/et/ongmani/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/ongmani/CT_shadowDrawingTools.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/ongmani/CT_shadowDrawingTools_Vml.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/ongmani/ProxyCommands.kuip
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_AddOns.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_AutoFilterTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_ChartTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Data.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Design.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_DevelopTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_DrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_DrawingTools_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_File.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Formulas.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Home.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Insert.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Layout.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_PictureTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_PictureTool_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_PivotTableDesign.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_PivotTableOptions.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_PrintPreview.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_Review.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_SlicerOptions.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_TableTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_TextTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_View.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_WAshadowDrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_WordArt.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_WorkSpace.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_shadowDrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/CT_shadowDrawingTools_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/et/rainbow/ProxyCommands.kuip
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/pdf/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/pdf/PopupMenu.kuip
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/pdf/classics/
@@ -3226,6 +3507,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_GraphicTool.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_HandoutMaster.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_Home.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_InkDraw.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_Insert.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_NotesMaster.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_OrgChart.kuip
@@ -3247,33 +3529,6 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_WorkSpace.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/CT_shadowDrawingTools.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/ongmani/ProxyCommands.kuip
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_AddOns.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_Animation.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_ChartTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_Design.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_DesignTable.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_DevelopTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_DrawingTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_DrawingTool_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_File.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_Home.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_Insert.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_OrgChart.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_PictureTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_PrintPreview.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_Review.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_SlideMaster.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_SlideShow.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_TableTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_TextTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_VideoTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_View.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_WAshadowDrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_WordArt.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_WorkSpace.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/CT_shadowDrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wpp/rainbow/ProxyCommands.kuip
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wps/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/PopupMenu.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/WordTools.kuip
@@ -3315,7 +3570,9 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_GraphicTool.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_HeaderFooter.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_Home.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_InkDraw.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_InkTools.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_InkTools_mac.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_Insert.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_Insert_Vml.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_Mailings.kuip
@@ -3342,42 +3599,10 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_WorkSpace.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/CT_shadowDrawingTools.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/ongmani/ProxyCommands.kuip
-drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_AddOns.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_ChartTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Design.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_DevelopTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_DrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_DrawingTools_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_File.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_HeaderFooter.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Home.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_InkTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Insert.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Insert_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Mailings.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Outline.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_PageLayout.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Paragraph.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_PictureTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_PictureTools_Vml.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_PrintPreview.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_References.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Review.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_Section.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_TableTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_TextTool.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_View.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_WAshadowDrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_WordArt.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_WorkSpace.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/CT_shadowDrawingTools.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/ProxyCommands.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/common.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/etclassics.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/etcommon.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/etongmani.kui
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/etrainbow.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/pdf_c_common.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/pdf_c_ongmani.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/pdfclassics.kui
@@ -3386,6 +3611,7 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/commands/wps/rainbow/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/pdfongmani.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/pdfongmani_readonly.kui
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/themes/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/appesscontrol.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/appessential.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/classicscommon.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/classicset.kuip
@@ -3393,31 +3619,27 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/res/themes/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/classicswpp.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/classicswps.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/common.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/kappessframework.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/ongmanicommon.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/ongmaniet.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/ongmanipdf.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/ongmaniwpp.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/ongmaniwps.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/palette.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/prometheuscommon.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/prometheuset.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/prometheuspdf.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/prometheuswpp.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/prometheuswps.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/prometheuswpsoffice.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/rainbowcommon.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/rainbowet.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/rainbowpdf.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/rainbowwpp.kuip
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/rainbowwps.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/theme-palette.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/themes/uicontrol.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/wppclassics.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/wppcommon.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/wppongmani.kui
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/wpprainbow.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/wpsclassics.kui
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/wpscommon.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/res/wpsongmani.kui
--rw-r--r--	root/root	usr/lib/wps-office/office6/res/wpsrainbow.kui
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/resource/
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/resource/config/
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/resource/config/WpsChangeDesktop.sh
@@ -3427,11 +3649,17 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/skins/2018white_dark/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/common_common.kuip
 drwxr-xr-x	root/root	usr/lib/wps-office/office6/skins/2018white_dark/default/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/default/prometheus_kso_res.rcc
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/default/prometheus_shared_res.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/default/prometheus_wpsoffice_res.rcc
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/default/prometheus_wpsoffice_res_xa.rcc
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/docer_common.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/et.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/kappessframework.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/palette.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/pdf.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/skin.ini
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/theme-palette.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/uicontrol.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/wpp.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/wps.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2018white_dark/wpsoffice.kuip
@@ -3467,6 +3695,17 @@ drwxr-xr-x	root/root	usr/lib/wps-office/office6/skins/2019white/
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2019white/wpp.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2019white/wps.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2019white/wpsoffice.kuip
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/common.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/common_common.kuip
+drwxr-xr-x	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/default/
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/default/prometheus_wpsoffice_res.rcc
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/et.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/pdf.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/skin.ini
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/wpp.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/wps.kuip
+-rw-r--r--	root/root	usr/lib/wps-office/office6/skins/2020dark_pdf/wpsoffice.kuip
 -rw-r--r--	root/root	usr/lib/wps-office/office6/thirdpartylegalnotices.txt
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/transerr
 -rwxr-xr-x	root/root	usr/lib/wps-office/office6/wpp
