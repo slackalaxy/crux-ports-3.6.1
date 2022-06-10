@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/locked.pub
+RWS+wz1cpYpNXUwkMOJ2cQIaSFuTuAiTtEAMYoHvdFfhTkVR4zBbeV7yxzo/udbX9iZQFqFMh5xQ02jjLZZVaGHPXAL9RNxL+gU=
+SHA256 (Pkgfile) = 2d9e82f339105666976cb632b8ff7177515aaeb776b14dd909c3b63d6bed3926
+SHA256 (.footprint) = 63ced358e03505394f076a68be0e08a228628a70fac192e3a162ee09be4bbab0
+SHA256 (libX11-1.8.tar.xz) = 081bf42ebab023aa92cfdb20c7af8c5ae13d13e88a5e22f90f4453ef80bbdde4
