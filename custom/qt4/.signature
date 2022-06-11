@@ -1,8 +1,9 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw/yovkgAS4E7c4SzyqMnHeQxEEXFqYSVqOF5D4nT8JPn4wNnbWINhw3ca8Ig2vhXEMZ5GDZ7nqbl5H2WiZ0kgwE=
-SHA256 (Pkgfile) = befbfdfadd8f6f3bdf5e59d3cac91575d0575e6049e077a1c784278faa5471d4
+RWQ0fvpBKVgNw0x3OId/VZfQcsZNBJa5hxQ8cK4ZU5aK/DX3bN3/omcO3I6L30JnGNlu8lMk+AYHhMVlJF/vf06W42G0h2mhgQs=
+SHA256 (Pkgfile) = afc35047e1a18601e0c0129dc68f48716ee4f7a445df5f607700f919fb0f2669
 SHA256 (.footprint) = a75a3e73dff9f1ba76b1e6fe5de6204b48b0fa52373f4a3fb2b26437a654f006
 SHA256 (qt-everywhere-opensource-src-4.8.7.tar.gz) = e2882295097e47fe089f8ac741a95fef47e0a73a3f3cdf21b56990638f626ea0
+SHA256 (disable-root-include.patch) = 7d812b1ec2903fc1c60493b211d322a3a034d9484bb425da615f0df6dba301aa
 SHA256 (improve-cups-support.patch) = 3ccfefb432015e4a4ea967b030c51b10dcdfb1f63445557908ddae5e75012d33
 SHA256 (moc-boost-workaround.patch) = 876c681ef8fbcc25f28cd4ad6c697abf8a4165d540bae37433bc40256dbf9d62
 SHA256 (kubuntu_14_systemtrayicon.diff) = 9fad22674c5eec835613a7f16c11b865aa793b448e90974c0f804105284a548b

@@ -5,9 +5,10 @@
 
 name=qt4
 version=4.8.7
-release=2
+release=3
 source=(https://download.qt.io/archive/qt/${version:0:3}/$version/qt-everywhere-opensource-src-$version.tar.gz
-        improve-cups-support.patch 
+        disable-root-include.patch
+	improve-cups-support.patch 
         moc-boost-workaround.patch 
         kubuntu_14_systemtrayicon.diff 
         kde4-settings.patch 
@@ -79,6 +80,10 @@ build() {
 
 	# Fix build with OpenSSL 1.1 (Debian + OpenMandriva)
 	patch -p1 -i $SRC/qt4-openssl-1.1.patch
+
+	# Do not create /include/WebCore/libdummy.prl in root of build host filesystem
+	# http://www.mail-archive.com/openembedded-devel@lists.openembedded.org/msg24436.html
+	patch -p1 -i $SRC/disable-root-include.patch
   
 	# Paths are from Alan's port, options are from Arch Linux
 	# https://aur.archlinux.org/packages/qt4/
