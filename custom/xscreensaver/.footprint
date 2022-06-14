@@ -42,6 +42,7 @@ drwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/carousel
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/ccurve
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/celtic
+-rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/chompytower
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/circuit
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/cityflow
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/cloudlife
@@ -163,6 +164,7 @@ drwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/morph3d
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/mountain
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/munch
+-rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/nakagin
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/nerverot
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/noof
 -rwxr-xr-x	root/root	usr/lib/xscreensaver/xscreensaver/noseguy
@@ -268,7 +270,7 @@ drwxr-xr-x	root/root	usr/share/X11/
 drwxr-xr-x	root/root	usr/share/X11/app-defaults/
 -rw-r--r--	root/root	usr/share/X11/app-defaults/XScreenSaver
 drwxr-xr-x	root/root	usr/share/applications/
--rw-r--r--	root/root	usr/share/applications/xscreensaver-properties.desktop
+-rwxr-xr-x	root/root	usr/share/applications/xscreensaver-settings.desktop
 drwxr-xr-x	root/root	usr/share/fonts/
 drwxr-xr-x	root/root	usr/share/fonts/xscreensaver/
 -rw-r--r--	root/root	usr/share/fonts/xscreensaver/OCRAStd.otf
@@ -315,6 +317,7 @@ drwxr-xr-x	root/root	usr/share/man/man6/
 -rw-r--r--	root/root	usr/share/man/man6/carousel.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/ccurve.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/celtic.6.gz
+-rw-r--r--	root/root	usr/share/man/man6/chompytower.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/circuit.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/cityflow.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/cloudlife.6.gz
@@ -435,6 +438,7 @@ drwxr-xr-x	root/root	usr/share/man/man6/
 -rw-r--r--	root/root	usr/share/man/man6/morph3d.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/mountain.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/munch.6.gz
+-rw-r--r--	root/root	usr/share/man/man6/nakagin.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/nerverot.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/noof.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/noseguy.6.gz
@@ -535,7 +539,7 @@ drwxr-xr-x	root/root	usr/share/man/man6/
 -rw-r--r--	root/root	usr/share/man/man6/xspirograph.6.gz
 -rw-r--r--	root/root	usr/share/man/man6/zoom.6.gz
 drwxr-xr-x	root/root	usr/share/pixmaps/
--rw-r--r--	root/root	usr/share/pixmaps/xscreensaver.xpm
+-rw-r--r--	root/root	usr/share/pixmaps/xscreensaver.png
 drwxr-xr-x	root/root	usr/share/wallpapers/
 drwxr-xr-x	root/root	usr/share/xscreensaver/
 drwxr-xr-x	root/root	usr/share/xscreensaver/config/
@@ -571,6 +575,7 @@ drwxr-xr-x	root/root	usr/share/xscreensaver/config/
 -rw-r--r--	root/root	usr/share/xscreensaver/config/carousel.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/ccurve.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/celtic.xml
+-rw-r--r--	root/root	usr/share/xscreensaver/config/chompytower.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/circuit.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/cityflow.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/cloudlife.xml
@@ -691,6 +696,7 @@ drwxr-xr-x	root/root	usr/share/xscreensaver/config/
 -rw-r--r--	root/root	usr/share/xscreensaver/config/morph3d.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/mountain.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/munch.xml
+-rw-r--r--	root/root	usr/share/xscreensaver/config/nakagin.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/nerverot.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/noof.xml
 -rw-r--r--	root/root	usr/share/xscreensaver/config/noseguy.xml
@@ -791,3 +797,4 @@ drwxr-xr-x	root/root	usr/share/xscreensaver/ui/
 -rw-r--r--	root/root	usr/share/xscreensaver/ui/screensaver-power.png
 -rw-r--r--	root/root	usr/share/xscreensaver/ui/screensaver-snap.png
 -rw-r--r--	root/root	usr/share/xscreensaver/ui/xscreensaver.ui
+-rw-r--r--	root/root	usr/share/xscreensaver/xscreensaver.service

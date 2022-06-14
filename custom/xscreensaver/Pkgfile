@@ -4,8 +4,8 @@
 # Depends on: bc electricsheep gdk-pixbuf-xlib linux-pam xorg-libxi xorg-libxmu
 
 name=xscreensaver
-version=6.03
-release=4
+version=6.04
+release=1
 source=(https://www.jwz.org/$name/$name-$version.tar.gz
 	$name.pam 01_electricsheep.patch 02_rss.patch)
 
@@ -30,8 +30,10 @@ build() {
 	chmod 755 $PKG/usr/bin/xscreensaver
 	install -d $PKG/usr/share/wallpapers
 
-	echo "NotShowIn=KDE;GNOME;" >> $PKG/usr/share/applications/xscreensaver-properties.desktop
-
+	echo "NotShowIn=KDE;GNOME;" >> $PKG/usr/share/applications/xscreensaver-settings.desktop
+	sed -i "s:Screensaver;::" $PKG/usr/share/applications/xscreensaver-settings.desktop
+	rm -rf $PKG/usr/share/applications/xscreensaver.desktop
+	
 	# PAM service file
 	install -D -m 0644 $SRC/$name.pam $PKG/etc/pam.d/$name
 
