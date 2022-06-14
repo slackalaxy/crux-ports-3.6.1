@@ -4,7 +4,7 @@
 # Depends on: tcl
 
 name=tcllib
-version=1.20
+version=1.21
 release=1
 source=(https://core.tcl-lang.org/$name/uv/$name-$version.tar.gz)
 
