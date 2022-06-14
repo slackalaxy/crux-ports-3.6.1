@@ -219,6 +219,7 @@ d:jdiskreport
 d:grip
 d:gtklife
 d:masterpdfeditor4
+d:vscodium
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -813,7 +814,7 @@ f:bd054dff3d8167d23005ab4b6f78cc4c:xscreensaver/02_rss.patch
 f:cbed0a54ff6010397e6b7c6e71e8d957:jdk17-sym/Pkgfile
 f:b1fcde73ceefaa3e2d79542108024538:jdk17-sym/.footprint
 f:784fff9eecc3eaa9a7fd8b3fa7917470:jdk17-sym/.signature
-f:41f9524fb3d231581166561925ea70d2:qt4/Pkgfile
+f:9244bdffeff1892ec6781c4348013ab3:qt4/Pkgfile
 f:1803ab6313df762d807678e58fc85f53:qt4/disable-sslv3.patch
 f:85679531c8a7310317adfb7002d9f99a:qt4/glib-honor-ExcludeSocketNotifiers-flag.diff
 f:c439c7731c25387352d8453ca7574971:qt4/improve-cups-support.patch
@@ -830,8 +831,9 @@ f:296a06554222ff5839cccc41c5d3987e:qt4/qt4-glibc-2.25.patch
 f:dbd1bec8c33c27ec0ae640b25801d25b:qt4/qt4-icu59.patch
 f:543b8d1f220bfe6116c3d08584c260e6:qt4/qt4-openssl-1.1.patch
 f:8cdb46c9852a8f9c8917fe7e080bde4f:qt4/qtconfig-qt4.desktop
-f:6c90376383634224fa059f0d6d04cb51:qt4/.signature
+f:bd1e3129f843312c835f2f1584a6efcf:qt4/.signature
 f:f503d5a9e8780d983850c5a15d8b487d:qt4/.footprint
+f:24d8706eae8189476ad3d92696773e33:qt4/disable-root-include.patch
 f:f273d20953f36edb96158b09cab38902:pdflib-lite/Pkgfile
 f:2e15f1a3f252efa224e35643ca84f586:pdflib-lite/.footprint
 f:60157e9bb67decb9688889b9f28ef1f9:pdflib-lite/.signature
@@ -1090,3 +1092,8 @@ f:fde5f1d5b95e474300f5e65a35b1ee04:gtklife/.signature
 f:36475b99421ee971cf239550da77bbba:masterpdfeditor4/Pkgfile
 f:b21ea0020c23ca08d8e154e2b1c3af9f:masterpdfeditor4/.footprint
 f:8e6584dd3f1ded228aeee2e7a0031663:masterpdfeditor4/.signature
+f:8f9260340f1c3fb53d1df37bbe315d36:vscodium/Pkgfile
+f:763ca46801c4cdb116b7fd8a7fdbc79e:vscodium/vscodium.png
+f:906fe2f86788284dbf59d627e4a24227:vscodium/vscodium.desktop
+f:bb6f5a7225a573cf90bcb1d0c995c40e:vscodium/.footprint
+f:f059777ae59492841cbc834a4186381a:vscodium/.signature

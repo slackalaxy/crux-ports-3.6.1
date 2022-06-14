@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/custom.pub
+RWQ0fvpBKVgNw7d5gS8dUZ8tFaYrZFTcOwo86u9EXNbaTouBjaIm8yzkN1fsWwx4d1DifF9R6es9kKO8XofWlFLucq1liY2NogU=
+SHA256 (Pkgfile) = c3b0e2d2d1f7b40ecebaa722fba08167b09e095ee68c4fa5a6c094bb50415eb9
+SHA256 (.footprint) = 7f708f2b21302f659ae7973adeb65785647b6cadf47a6faf2f2d5dd14c18fd65
+SHA256 (VSCodium-linux-x64-1.68.0.tar.gz) = 8e3513122eab26e7030e7afdbaf2015d274cb5de969ff599a3ab6c56db33754c
+SHA256 (vscodium.desktop) = bc1e35191e99d4ca02cbefd3d028c75543e1b74ca6f551ff22fe262f011dd3ab
+SHA256 (vscodium.png) = 497984aedd4b6e0a72a7379be830552d50bea448c4c77ea79e0b802f4e4de0cc
