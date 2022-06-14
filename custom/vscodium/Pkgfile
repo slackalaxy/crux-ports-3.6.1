@@ -1,7 +1,7 @@
 # Description: Free/Libre Open Source Software Binaries of VS Code
 # URL: https://vscodium.com/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on:
+# Depends on: alsa-lib brotli cups graphite2 gtk3 libsecret libxkbcommon nss wayland xorg-libxcomposite xorg-libxcursor xorg-libxinerama
 
 name=vscodium
 version=1.68.0
