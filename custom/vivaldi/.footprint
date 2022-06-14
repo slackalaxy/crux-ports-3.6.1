@@ -7,6 +7,7 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/
 drwxr-xr-x	root/root	usr/lib/vivaldi/MEIPreload/
 -rw-r--r--	root/root	usr/lib/vivaldi/MEIPreload/manifest.json
 -rw-r--r--	root/root	usr/lib/vivaldi/MEIPreload/preloaded_data.pb
+-rwxr-xr-x	root/root	usr/lib/vivaldi/chrome-management-service
 -rwxr-xr-x	root/root	usr/lib/vivaldi/chrome_crashpad_handler
 drwxr-xr-x	root/root	usr/lib/vivaldi/cron/
 -rwxr-xr-x	root/root	usr/lib/vivaldi/cron/vivaldi
@@ -92,6 +93,7 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/locales/
 -rw-r--r--	root/root	usr/lib/vivaldi/locales/th.pak
 -rw-r--r--	root/root	usr/lib/vivaldi/locales/tr.pak
 -rw-r--r--	root/root	usr/lib/vivaldi/locales/uk.pak
+-rw-r--r--	root/root	usr/lib/vivaldi/locales/ur.pak
 -rw-r--r--	root/root	usr/lib/vivaldi/locales/vi.pak
 -rw-r--r--	root/root	usr/lib/vivaldi/locales/zh-CN.pak
 -rw-r--r--	root/root	usr/lib/vivaldi/locales/zh-TW.pak
@@ -298,7 +300,7 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/resources/vivaldi/adblocker_resources/
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/adblocker_resources/redirectable_resources.json
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-bundle.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-common-bundle.js
--rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-service-worker-ffc0976ffeacb808442784a683dd85ad.js
+-rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/background-service-worker-42079328f7fbd6dc1a76afb6c7a2f6b0.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/browser.html
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/bundle-mailreader-worker.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/bundle.js
@@ -639,6 +641,7 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_lenta.png
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_litres.png
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_mailru.png
+-rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_ostrovok.png
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_ozon.png
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_pikabu.png
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/resources/sd_thumbnails/sd_ru_tass.png
@@ -758,9 +761,6 @@ drwxr-xr-x	root/root	usr/lib/vivaldi/resources/vivaldi/util/
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/util/internalPageUtil.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/vendor-bundle.js
 -rw-r--r--	root/root	usr/lib/vivaldi/resources/vivaldi/window.html
-drwxr-xr-x	root/root	usr/lib/vivaldi/swiftshader/
--rw-r--r--	root/root	usr/lib/vivaldi/swiftshader/libEGL.so
--rw-r--r--	root/root	usr/lib/vivaldi/swiftshader/libGLESv2.so
 -rwxr-xr-x	root/root	usr/lib/vivaldi/update-ffmpeg
 -rw-r--r--	root/root	usr/lib/vivaldi/v8_context_snapshot.bin
 -rwxr-xr-x	root/root	usr/lib/vivaldi/vivaldi
