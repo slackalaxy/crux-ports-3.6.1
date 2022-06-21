@@ -497,9 +497,9 @@ f:f3fa3306b1d34b048900f5710bed1127:leafpad/Pkgfile
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
 f:a8c54472f3fa7230eec2bd56f7d27b52:leafpad/.signature
 f:51db8d36d29a1266832d4737d83c94e3:calibre-bin/calibre-bin.desktop
-f:0740d975d89237386572bb5bae1614b8:calibre-bin/Pkgfile
+f:b43f65c487a31b8a64bd543cd0e7dbe9:calibre-bin/Pkgfile
 f:9587c503dea0e2f935c92ba95abb86f2:calibre-bin/.footprint
-f:00b12adde07ffba04f985cb6e0b7b82a:calibre-bin/.signature
+f:94cf03197698398c96a7e345edd2c6a0:calibre-bin/.signature
 f:af064131f3e9b7483d4c26565177c13b:supertux/.footprint
 f:6b5889b7526ab73726e18fa510c09b0c:supertux/Pkgfile
 f:9f571efb6697e5fc9cc51ddfc104a45c:supertux/.signature
@@ -1092,8 +1092,8 @@ f:fde5f1d5b95e474300f5e65a35b1ee04:gtklife/.signature
 f:36475b99421ee971cf239550da77bbba:masterpdfeditor4/Pkgfile
 f:b21ea0020c23ca08d8e154e2b1c3af9f:masterpdfeditor4/.footprint
 f:8e6584dd3f1ded228aeee2e7a0031663:masterpdfeditor4/.signature
-f:8811481321d80665589f66d3d1eb27a9:vscodium/Pkgfile
+f:4db01afb916ef9bb7e9276b4ba520fd6:vscodium/Pkgfile
 f:763ca46801c4cdb116b7fd8a7fdbc79e:vscodium/vscodium.png
 f:906fe2f86788284dbf59d627e4a24227:vscodium/vscodium.desktop
 f:bb6f5a7225a573cf90bcb1d0c995c40e:vscodium/.footprint
-f:f059777ae59492841cbc834a4186381a:vscodium/.signature
+f:1de08dc30f5ba898a3b5b0909fd08c56:vscodium/.signature
