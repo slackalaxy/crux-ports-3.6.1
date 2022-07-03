@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/custom.pub
-RWQ0fvpBKVgNw3ckH0aPJmOneznjw/fUXGtOcsCZZHSKbeXw9myCl3Uv4i1MIhrSzJ/neGjdF6RHkWLbihevdZsnQnpnuRLSrwI=
-SHA256 (Pkgfile) = 4a99bc09ad89962bb5a3038ce6550cd45af0d679cf6d31a173a65c4a8169b1c9
+RWQ0fvpBKVgNwyIc6J8wh3KIUYwNgKXyWCozz+NSzImOh8jyH1F8vmwCPYI4apl1fEq6wJOfAGNNQNCeXexckmOwzM5nR4gc3AM=
+SHA256 (Pkgfile) = 8e79423e2cd8b8484030078ff89d577674bbb8e0cab7dde63dc2cb30033e0a47
 SHA256 (.footprint) = 7f091f54517b4c1c7c0cc0fb9e52bd6936d1a4e6b1011d3ed249551353247c33
 SHA256 (SuperTux-v0.6.3-Source.tar.gz) = f7940e6009c40226eb34ebab8ffb0e3a894892d891a07b35d0e5762dd41c79f6
