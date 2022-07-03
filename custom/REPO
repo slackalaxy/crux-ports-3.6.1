@@ -501,8 +501,8 @@ f:b43f65c487a31b8a64bd543cd0e7dbe9:calibre-bin/Pkgfile
 f:9587c503dea0e2f935c92ba95abb86f2:calibre-bin/.footprint
 f:94cf03197698398c96a7e345edd2c6a0:calibre-bin/.signature
 f:af064131f3e9b7483d4c26565177c13b:supertux/.footprint
-f:6b5889b7526ab73726e18fa510c09b0c:supertux/Pkgfile
-f:9f571efb6697e5fc9cc51ddfc104a45c:supertux/.signature
+f:b6ae7fa773fae13241b87ca249be5c5f:supertux/Pkgfile
+f:8e9355199d73c510029a6c3790f19a54:supertux/.signature
 f:c46bd9eb93c7572e600d4fe61e0de299:glee/.signature
 f:c74219215e3f515dd637d7046ba23e82:glee/.footprint
 f:937a48856486291070943488fa2824d0:glee/glee.pc
