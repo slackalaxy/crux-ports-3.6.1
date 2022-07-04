@@ -4,8 +4,8 @@
 # Depends on: sfml
 
 name=etr
-version=0.8.1
-release=2
+version=0.8.2
+release=1
 source=(https://downloads.sourceforge.net/extremetuxracer/etr-$version.tar.xz)
 
 build() {

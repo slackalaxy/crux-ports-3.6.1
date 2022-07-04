@@ -2,8 +2,6 @@ drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/etr
 drwxr-xr-x	root/root	usr/share/
-drwxr-xr-x	root/root	usr/share/appdata/
--rw-r--r--	root/root	usr/share/appdata/etr.appdata.xml
 drwxr-xr-x	root/root	usr/share/applications/
 -rw-r--r--	root/root	usr/share/applications/etr.desktop
 drwxr-xr-x	root/root	usr/share/etr/
@@ -547,11 +545,14 @@ drwxr-xr-x	root/root	usr/share/etr/translations/
 -rw-r--r--	root/root	usr/share/etr/translations/es_ES.lst
 -rw-r--r--	root/root	usr/share/etr/translations/fi_FI.lst
 -rw-r--r--	root/root	usr/share/etr/translations/fr_FR.lst
+-rw-r--r--	root/root	usr/share/etr/translations/it_IT.lst
 -rw-r--r--	root/root	usr/share/etr/translations/languages.lst
 -rw-r--r--	root/root	usr/share/etr/translations/pl_PL.lst
 -rw-r--r--	root/root	usr/share/etr/translations/ro_RO.lst
 -rw-r--r--	root/root	usr/share/etr/translations/se_SE.lst
 -rw-r--r--	root/root	usr/share/etr/translations/xx_XX.lst
+drwxr-xr-x	root/root	usr/share/metainfo/
+-rw-r--r--	root/root	usr/share/metainfo/etr.appdata.xml
 drwxr-xr-x	root/root	usr/share/pixmaps/
 -rw-r--r--	root/root	usr/share/pixmaps/etr.png
 -rw-r--r--	root/root	usr/share/pixmaps/etr.svg
