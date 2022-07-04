@@ -4,9 +4,9 @@
 # Depends on: json-glib pidgin
 
 name=icyque
-version=4fc08a0
+version=78b90a4
 release=1
-source=(https://github.com/EionRobb/icyque/archive/4fc08a09f2824bd039089fa54cbabf6be2221707/icyque-4fc08a09f2824bd039089fa54cbabf6be2221707.tar.gz)
+source=(https://github.com/EionRobb/icyque/archive/78b90a46196d5b6ef5b1727d8139a5fdeea690bb/icyque-78b90a46196d5b6ef5b1727d8139a5fdeea690bb.tar.gz)
 
 build() {
 	cd $name-${version}*
