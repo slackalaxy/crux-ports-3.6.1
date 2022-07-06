@@ -4,9 +4,9 @@
 # Depends on: jdk8-bin
 
 name=aliview
-version=1.27
+version=1.28
 release=1
-source=(http://www.ormbunkar.se/$name/downloads/linux/linux-versions-all/linux-version-$version/$name.tgz
+source=(http://www.ormbunkar.se/aliview/downloads/linux/linux-versions-all/linux-version-$version/$name.tgz
 	$name.desktop)
 
 build() {
