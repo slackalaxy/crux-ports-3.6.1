@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcJF6fmeCjNHOtQXbkTLYTPS0w59kcd498amZXSC5NjQ25QDoVmsgVzAZMdb15Y68eB2wolYxatFsSfk4Bb7b1g0=
-SHA256 (Pkgfile) = ae7a32e091cdd567cfe236d235cdf9296719831305fd89ac93d89423fef76ecd
-SHA256 (.footprint) = 11e2267bb4d4ea54b27955e9d6197c3024f3d64cbca7ac7de4f8e8b78bf4fbb7
-SHA256 (gephi-0.9.2-linux.tar.gz) = e817c915e666634f924d9ab103da69e4e635bb8a47bcc5ad05c10b89d4cc23f3
-SHA256 (gephi.desktop) = 70da4beb57a23dc6b16ed6f93a34bf0cefef1cafe568a800af2b334064e1f62c
+RWTXrKv/sDjJcG76ePpf5PvigzfzF20kBFe/019f9/khnqzh7EJUfw9Gjsdv3SRrmzNjUqXQs6Kr9W+zIXWr7CP47kSWjTzYYA4=
+SHA256 (Pkgfile) = 231535dd57950f5617e97fc7892ae60c6fe1e1f988d8d981482c907345f8f43d
+SHA256 (.footprint) = 4cb09379bb744b6683f3207b4afdaa252b4d6fc6247a31a5ba96ffa32e6396b9
+SHA256 (gephi-0.9.6-linux-x64.tar.gz) = 00ba040c20ec5e2b0baa777774a2e1cd002a2f8b593c5a9fb6645075d8097f75
+SHA256 (gephi.desktop) = 7944f5d80efb534ba1bc5a6e998c23b492d941f4efe3c2b3bb374452b18cdbbb
 SHA256 (gephi.png) = 4631a164589752e157a48738bdb307739b304eca8e8c4d8054c98f3858e40916
