@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcO7Gx/Iku9VnEhM7798b1uhKKGLR3xnyBHZM55Y37k0sduF/wE6qVU2zg0JkjZnKHohGLcmhtHhN8x1BufesnQc=
-SHA256 (Pkgfile) = fb45136daf09ac27dc903ce08582078dcf0610a25879dd0e58fe349a4363ac9d
-SHA256 (.footprint) = 9e21ea9a55ea6e0d8bd7156c015bf536f3928182fc4a62d9b7607e66ea4ac60d
-SHA256 (ncbi-blast-2.12.0+-src.tar.gz) = fda3c9c9d488cad6c1880a98a236d842bcf3610e3e702af61f7a48cf0a714b88
+RWTXrKv/sDjJcJA+dXme4xpEalGOctQd++gwFJGxE7ISi/9nHJH7Q/esYLnhsmhf9DaLNaeXWge8J6/d1fBpEjODj2KgTR6jlg8=
+SHA256 (Pkgfile) = 1619e2edb0fd2b43ebcde11b38788fd6f0f41ed0f860070ab094c03a4d53a7fa
+SHA256 (.footprint) = cd42874eb1d68097d78e401df784ef83fe49e432906217ac317c9adb63a05de2
+SHA256 (ncbi-blast-2.13.0+-src.tar.gz) = 89553714d133daf28c477f83d333794b3c62e4148408c072a1b4620e5ec4feb2
