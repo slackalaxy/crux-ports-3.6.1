@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcGQcnFc7wYQPydTDh2bDUNUA1LiDS6ZqLtCqDtvcFz6GeQOz47mn8bCQsp/7xf4/PFAXdQv+0k/7M9e2AaVjvwE=
-SHA256 (Pkgfile) = db979f8c71d82bc28341548a5664a6288fb009047efc70427fe17424b80d66aa
+RWTXrKv/sDjJcEstbzQIv8OzA/REpkAnoCJSV+s2/Gr+rEKFnsSTUNhf8uNNMsu1KWVO4/aSXSAlLVXanFy5ZOayyQCA3HbB/w8=
+SHA256 (Pkgfile) = 608f1ede75961a93da3895d6360fe1711f3001e045eccd6399d003938ca558a7
 SHA256 (.footprint) = 780445ccdee226cd1bb48293c27777f28e91bc27d4077677bf2c2586a2dd1719
-SHA256 (seqkit_linux_amd64.tar.gz) = eedc7bb222f087703949b46fa8c6d07f5c944e67ec0da8552bd34ae3b774a82d
+SHA256 (seqkit_linux_amd64.tar.gz) = b4f0cd11ed00296ea5def33fcec2cb779f6b081f3f448be07765908f586354c1
