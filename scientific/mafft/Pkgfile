@@ -4,8 +4,8 @@
 # Depends on:
 
 name=mafft
-version=7.481
-release=2
+version=7.490
+release=1
 source=(https://mafft.cbrc.jp/alignment/software/$name-$version-with-extensions-src.tgz)
 
 build() {
