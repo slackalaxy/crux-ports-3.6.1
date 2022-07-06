@@ -254,7 +254,7 @@ drwxr-xr-x	root/root	usr/lib/igv/lib/genomes/
 -rw-rw-r--	root/root	usr/lib/igv/lib/genomes/zebrafish.chrom.sizes
 -rw-rw-r--	root/root	usr/lib/igv/lib/gson-2.8.5.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/guava-27.0.1-jre.jar
--rw-rw-r--	root/root	usr/lib/igv/lib/htsjdk-2.24.1.jar
+-rw-rw-r--	root/root	usr/lib/igv/lib/htsjdk-3.0.0.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/http-client-spi-2.16.7.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/httpclient-4.5.13.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/httpcore-4.4.13.jar
@@ -286,7 +286,7 @@ drwxr-xr-x	root/root	usr/lib/igv/lib/genomes/
 -rw-rw-r--	root/root	usr/lib/igv/lib/s3-2.16.7.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/sdk-core-2.16.7.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/slf4j-api-1.7.28.jar
--rw-rw-r--	root/root	usr/lib/igv/lib/snappy-java-1.1.7.3.jar
+-rw-rw-r--	root/root	usr/lib/igv/lib/snappy-java-1.1.8.4.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/sts-2.16.7.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/swing-layout-1.0.3.jar
 -rw-rw-r--	root/root	usr/lib/igv/lib/utils-2.16.7.jar
