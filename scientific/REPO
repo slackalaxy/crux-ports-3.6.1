@@ -409,10 +409,10 @@ f:f6afa570deece169aec6476ebb1c37bb:mega/.signature
 f:1964d41b6141da3bb9604d38e12d738c:mega/Pkgfile
 f:1a27ed1f6f4a3ca37e89b7fa7d88145e:mega/.footprint
 f:9ff2c487ee37746aee58a06923eea3dd:mega/mega.desktop
-f:50de9dafa8347f66311f8121e83f9224:rstudio-desktop/.SRCINFO
-f:fb7cf0042c1e09e540e6d03cc878dddb:rstudio-desktop/.gitignore
 f:c29664d61cefedecf23a6a6b989bdaf3:rstudio-desktop/10952.patch
 f:26dce437587bd609fe21676d76510b8a:rstudio-desktop/pandoc_version.patch
 f:0fcb3462da774c8d938ac8fcaf7d70a9:rstudio-desktop/qt.conf
 f:b56398c25c7be43e4c4e8e681213ef5c:rstudio-desktop/Pkgfile
 f:3bdcbaeae736901051ab71edb22ef413:rstudio-desktop/README
+f:8327c5247c10618d59e16b2eda4c733f:rstudio-desktop/.footprint
+f:f2943b6b992d0e350a1a0c1bea32bb3b:rstudio-desktop/.signature
