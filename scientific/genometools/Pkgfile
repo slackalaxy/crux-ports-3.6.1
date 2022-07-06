@@ -4,16 +4,12 @@
 # Depends on: pango
 
 name=genometools
-version=1.6.1
+version=1.6.2
 release=1
-source=(http://genometools.org/pub/genometools-$version.tar.gz
-	gcc10.patch)
+source=(http://genometools.org/pub/genometools-$version.tar.gz)
 
 build() {
 	cd $name-$version
-
-	# Thanks Debian for the patch
-	patch -p1 -i $SRC/gcc10.patch
 
 	CFLAGS="$CFLAGS -Wno-error=format-truncation=" \
 	make prefix=/usr
