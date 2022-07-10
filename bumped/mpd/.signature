@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/bumped.pub
+RWRXURJc55x41vC73KHFZJFMj2BJ7ThesgbGMM2O9hEtEj3lvVDUsRnhdGuKSPK9CEPmw1lTLkQpacfpb52uK5YvlO+ECmSmLgg=
+SHA256 (Pkgfile) = 6d442ebc4a50407b00e3dcb1f34e0b666bd5400586d50b72a2e0096860fc2cb3
+SHA256 (.footprint) = fbed54c68de1c373369d75e82e5ae5c6fb470a1841286a16a135ce21deb42de9
+SHA256 (mpd-0.23.8.tar.xz) = 86bb569bf3b519821f36f6bb5564e484e85d2564411b34b200fe2cd3a04e78cf
+SHA256 (mpd) = ec90dbf45d72c30b0837e2caed55df9c28b00416a92838012e1aea8cfe704ce3
