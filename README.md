@@ -11,7 +11,7 @@ the original authors, in order to credit them properly. So, if someone
 recognised their port and wants to be credited, let me know!
 
 Ports are divided (for now) in the following categories:
-* **bumped**: ports that need to be bumped to a newer version (until maintainer catches up)
+* **bumped**: ports (*in any*) that need to be bumped to a newer version (until maintainer catches up)
 * **custom/**: main collection of programs and libraries
 * **locked/**: ports that need to be locked at an older version
 * **p5/**: perl modules, generated mainly by [cpan2crux](https://crux.nu/portdb/index.php?q=cpan2crux&a=search)
