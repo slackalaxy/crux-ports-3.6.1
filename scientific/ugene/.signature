@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcPhUFBNpWBWSAPibDn7PxzlY6sS/ks2qY97HEu0Yu+NTQkxkp9U6Cx48xN1pG5Ejb+h/mlQt74MP9ghfHX5fmgk=
-SHA256 (Pkgfile) = 2c12602bad21ea0a97bd61bd172b891323dcee5e4265debbf1719c531cc8b4c8
-SHA256 (.footprint) = 22e6f761d38b1a2f7ab0be5c843cf7c172d1e827b3f3eff94de4e23cab37e951
-SHA256 (ugene-39.0.tar.gz) = 1e5141c097b22735497d91d59a47356a6fc132f8355c0a0bc97e26097c43570a
+RWTXrKv/sDjJcA3pWUNGTYhZUc7scqkRK8kTJw+c0fasJEqbVVu+iZ8TwC4vc6LRT2DjLCF5V5ojvhdVErowkHj8n7nPRhmZygE=
+SHA256 (Pkgfile) = 0ffe885feca6fd52b518821a3d997aeb23b7d558a3d4039c5a32fb4d4e5707a5
+SHA256 (.footprint) = 76040c9c156d438e302b101fb671cbdc2b2a61aba2027fe3666c0ab55c860225
+SHA256 (ugene-43.0.tar.gz) = 029dfa4e4e1ce64ffd41c37119eaab5a28b3a11201b23f283c79a98d69ef906f
