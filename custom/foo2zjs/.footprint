@@ -52,13 +52,6 @@ drwxr-xr-x	root/root	usr/lib/cups/filter/
 lrwxrwxrwx	root/root	usr/lib/cups/filter/command2foo2lava-pjl -> /usr/bin/command2foo2lava-pjl
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/doc/
-drwxr-xr-x	root/root	usr/share/doc/foo2zjs/
--rw-r--r--	root/root	usr/share/doc/foo2zjs/COPYING
--rw-r--r--	root/root	usr/share/doc/foo2zjs/ChangeLog
--rw-r--r--	root/root	usr/share/doc/foo2zjs/INSTALL
--rw-r--r--	root/root	usr/share/doc/foo2zjs/INSTALL.osx
--rw-r--r--	root/root	usr/share/doc/foo2zjs/README
--rw-r--r--	root/root	usr/share/doc/foo2zjs/manual.pdf
 drwxr-xr-x	root/root	usr/share/foo2hbpl/
 drwxrwxr-x	root/lp	usr/share/foo2hbpl/icm/
 drwxr-xr-x	root/root	usr/share/foo2hiperc/

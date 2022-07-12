@@ -5,12 +5,15 @@
 
 name=foo2zjs
 version=e04290d
-release=1
+release=2
 source=(https://github.com/koenkooi/foo2zjs/archive/$version/$name-e04290de6b7a30d588f3411fd9834618e09f7b9b.tar.gz
 	destdir.patch)
 
 build() {
 	cd $name-${version}*
+	
+	# stupid workaround (make will break) for something that will not be included in the package...
+	touch manual.pdf
 	
 	# use DESTDIR variable...
 	patch -p1 -i $SRC/destdir.patch
@@ -30,4 +33,6 @@ build() {
 
 	make DESTDIR=$PKG install
 	make DESTDIR=$PKG install-hotplug
+	
+	rm -rf $PKG/usr/share/doc/$name
 }
