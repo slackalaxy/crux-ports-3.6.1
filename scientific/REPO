@@ -71,7 +71,6 @@ d:wehi-deid
 d:gchemutils
 d:wehi-cellsymphony
 d:datamash
-d:ugene
 d:bpp1.9-phyl
 d:topd
 d:gelemental
@@ -79,6 +78,7 @@ d:ncbi-blast
 d:aliview
 d:mega
 d:rstudio-desktop
+d:ugene
 f:70eb0e1b41c3580a45458c72b34ea5e0:prank/.signature
 f:539bed1c5d796de9db1ef4882fb2e443:prank/.footprint
 f:9bda5548f8ea5194ee7ec2480968fb0e:prank/Pkgfile
@@ -385,9 +385,6 @@ f:3292f84781d4b19a76c8384b587dfc87:wehi-cellsymphony/.signature
 f:131cd7cb579a046174d3e3ea8b97b363:datamash/.footprint
 f:28579f56383af77ff90cda11201de1d9:datamash/Pkgfile
 f:57e5e83a23cf2620cb9a9dee1cce5690:datamash/.signature
-f:83a922cb43c88513a9a2d61f5bdfade6:ugene/.footprint
-f:b7089bbe39b3681b318c32d50933d065:ugene/.signature
-f:be88287a9c68ce1131d23b9fa48b3d6b:ugene/Pkgfile
 f:5d2cb4e515b32435ea6a4cd851c35cd1:bpp1.9-phyl/caps_TreeTemplateTools.patch
 f:db4e6cc9edea5f233f25b3e00396f3a3:bpp1.9-phyl/.signature
 f:9e0b627a1b7fb7eaaeccf2d872e7ea5a:bpp1.9-phyl/Pkgfile
@@ -416,3 +413,6 @@ f:b56398c25c7be43e4c4e8e681213ef5c:rstudio-desktop/Pkgfile
 f:3bdcbaeae736901051ab71edb22ef413:rstudio-desktop/README
 f:8327c5247c10618d59e16b2eda4c733f:rstudio-desktop/.footprint
 f:f2943b6b992d0e350a1a0c1bea32bb3b:rstudio-desktop/.signature
+f:929aec2d6d05a0af3b82340e5ab72c3f:ugene/Pkgfile
+f:22ed965af11eecaeff654c2901f34257:ugene/.signature
+f:310d00820ec9c103efe653ad05c559a7:ugene/.footprint
