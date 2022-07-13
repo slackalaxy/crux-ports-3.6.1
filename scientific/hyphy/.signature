@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcOYmaEYClXB98ytemKeoM22Wb1wVadF7rQB+clQGf8wCjyQVQOc6jf4JwW45KeCEl8q/qEn7CDT/PCsKqZMMNAo=
+SHA256 (Pkgfile) = 7e0f1bc3bc20487a6acd0bd693633c35c4045467b12304b8ca55b2826ad9207e
+SHA256 (.footprint) = 45fe5305e26761cca0dc52b1ecb0f002f15c8cd43f231ddfca8b86ade6f06766
+SHA256 (hyphy-2.5.39.tar.gz) = b2382dc95924ddea09fc1a795568d5727c4b0bdee916f1f41afc6401363f0cf5
