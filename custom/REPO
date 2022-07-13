@@ -220,6 +220,7 @@ d:grip
 d:gtklife
 d:masterpdfeditor4
 d:vscodium
+d:xscreensaverstopper
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -300,7 +301,7 @@ f:8c1547eb5f2c3b1b1ccb3007a32c6e86:ioq3/ioq3.desktop
 f:fbde1ca0697fda351db967927e717e0f:ioq3/ioq3.sh
 f:30f2e70d72afb8a4173d38f14713706d:ioq3/.footprint
 f:7b1f2df708bc55952fb6faa143022c2a:ioq3/.signature
-f:69f75b21324d5f7a8f8e6c4730bffc23:ioq3/README
+f:adc5e9655522cf78390606e24080cabd:ioq3/README
 f:40c574a80d72405382d89aa593c2ffa1:wps-legacy/Pkgfile
 f:ccf92dbad771c176b72a94f715bb6ca2:wps-legacy/.footprint
 f:aa9dccf52a9f8e8d455d15b172780c2c:wps-legacy/wps-spreadsheet.desktop
@@ -1016,10 +1017,10 @@ f:848a9b100613061919e706865e2673d2:sonata/Pkgfile
 f:34f158896f161daf125a3bad37d93c6f:sonata/.signature
 f:0932cee065db6452a65d52c9e22ee8d8:foo2zjs/destdir.patch
 f:6c60b0951c73eed9fa9227424ee4419d:foo2zjs/post-install
-f:34735fc5d00daecc1693c952c3937fe2:foo2zjs/Pkgfile
-f:7fb860d8dd74bd74c08c7ec93669cf17:foo2zjs/.footprint
+f:71d6e0edf7b08c4a20b3071058c495a0:foo2zjs/Pkgfile
+f:08292e3351e473af21048ceda1bb05f2:foo2zjs/.footprint
 f:e27af2b1da1c7fdac38982a1bdbbc643:foo2zjs/README
-f:9f12781000fe04cc6894da479ffc6661:foo2zjs/.signature
+f:03ac33ffb4c2f00a48369d7c0cd4d930:foo2zjs/.signature
 f:837c918909c645a8805b305855f1b928:dbus-python2/.signature
 f:bc130dbd701ed2ee28fd9c2b29a3eaf5:dbus-python2/.footprint
 f:694bd595d3fec9c67c962e33caa50894:dbus-python2/Pkgfile
@@ -1072,6 +1073,7 @@ f:d686804cee9710fe798121dd0de5f7b3:usbmuxd/Pkgfile
 f:64adfd0df8fef87f9c376d8aee3585b4:usbmuxd/.footprint
 f:6a10e04472d602a697b8d9f25a3b296b:usbmuxd/.signature
 f:8bfdf54d8f2527b1903fcd575a1b5d18:usbmuxd/usbmuxd.rc
+f:a708bf07f105bbc0568a5c8271656fc2:usbmuxd/README
 f:522616b4bf2b405a607e00c17edf4b7b:ifuse/Pkgfile
 f:e88d327a3d255b2f99214d3b95c9a585:ifuse/.footprint
 f:0163cecab331f04ea5e16126ce7bb47e:ifuse/.signature
@@ -1098,3 +1100,6 @@ f:763ca46801c4cdb116b7fd8a7fdbc79e:vscodium/vscodium.png
 f:906fe2f86788284dbf59d627e4a24227:vscodium/vscodium.desktop
 f:bb6f5a7225a573cf90bcb1d0c995c40e:vscodium/.footprint
 f:1de08dc30f5ba898a3b5b0909fd08c56:vscodium/.signature
+f:1f36481b0ae073543bdcf89b01d09331:xscreensaverstopper/Pkgfile
+f:e1232af60d00ee349ccaa59a70566b0a:xscreensaverstopper/xscreensaverstopper.sh
+f:ec48b34bdb1cb9b7501e4ae1ed1ec9f5:xscreensaverstopper/xscreensaverstopper.desktop
