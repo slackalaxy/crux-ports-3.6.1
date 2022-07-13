@@ -79,6 +79,10 @@ d:aliview
 d:mega
 d:rstudio-desktop
 d:ugene
+d:meme-db-gomo
+d:meme-db-motif
+d:meme-db-tgene
+d:meme-suite
 f:70eb0e1b41c3580a45458c72b34ea5e0:prank/.signature
 f:539bed1c5d796de9db1ef4882fb2e443:prank/.footprint
 f:9bda5548f8ea5194ee7ec2480968fb0e:prank/Pkgfile
@@ -416,3 +420,16 @@ f:f2943b6b992d0e350a1a0c1bea32bb3b:rstudio-desktop/.signature
 f:929aec2d6d05a0af3b82340e5ab72c3f:ugene/Pkgfile
 f:22ed965af11eecaeff654c2901f34257:ugene/.signature
 f:310d00820ec9c103efe653ad05c559a7:ugene/.footprint
+f:b870836b673122a33a84cead3ead57a0:meme-db-gomo/Pkgfile
+f:1ac83e782854b102cdd15caf05699c7b:meme-db-gomo/.footprint
+f:6d3fdc2af6ef19c44e1bb50bdfb28311:meme-db-gomo/.signature
+f:ce9759b3978a5527d96baf5602862175:meme-db-motif/Pkgfile
+f:69dfa1f5667309a5e3a27ab65fb6b352:meme-db-motif/.footprint
+f:f3f6e2bdb48901d4fb469c83d98cb3e5:meme-db-motif/.signature
+f:7b6ee42c274a45a6f5e10fb600c27802:meme-db-tgene/Pkgfile
+f:793a782e396544a83a9cf5490335282d:meme-db-tgene/.footprint
+f:994d094760a0849b002e0c66215b8357:meme-db-tgene/.signature
+f:4a7db5fa725a88139a665c783f35f8fa:meme-suite/Pkgfile
+f:b7cab57ea33b598406966bdbfac451b1:meme-suite/.footprint
+f:6c0138b618c3e0155350836fdcefb4a5:meme-suite/.signature
+f:aeb20433c9c536d5221eafb8dfc49a81:meme-suite/README
