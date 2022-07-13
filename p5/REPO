@@ -289,7 +289,9 @@ f:c6db8c366c9a956c8296b671e80d1596:p5-tk/.signature
 f:8b3e69e869b32f9dde679f54ae0a58d1:p5-xml-twig/Pkgfile
 f:55317069170dd13d947c3c74c6f460ac:p5-xml-twig/.footprint
 f:4c2b67c13564d218b37b9c5862c45261:p5-xml-twig/.signature
-f:73c516b7bd1be001cfcc85e40a12c933:p5-test-pod/.md5sum
 f:fb580bfaf62f3f42229227e1de762ee4:p5-test-pod/Pkgfile
-f:7d83464186e2dc63ef10ebe353147313:p5-html-template/.md5sum
+f:bd9ee52bc42b7dbdf4cd2251e971d3ec:p5-test-pod/.footprint
+f:14ed66b972440a45f8443a74c830f963:p5-test-pod/.signature
 f:e780800a5a822be606c0b6524df2be43:p5-html-template/Pkgfile
+f:1d264ab3b2cc206c4cf61be5d834497d:p5-html-template/.signature
+f:c484587d445b2850b24560c1fa89296a:p5-html-template/.footprint
