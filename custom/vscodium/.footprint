@@ -247,6 +247,9 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/
 -rwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/askpass-empty.sh
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/askpass-main.js
 -rwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/askpass.sh
+-rwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/git-editor-empty.sh
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/git-editor-main.js
+-rwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/git-editor.sh
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/main.js
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/main.js.LICENSE.txt
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/git/dist/nls.metadata.header.json
@@ -279,6 +282,7 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/github-authentica
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/README.md
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/dist/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/dist/extension.js
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/dist/extension.js.LICENSE.txt
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/images/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/images/icon.png
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/github-authentication/media/
@@ -451,6 +455,7 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/json-language-fea
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/client/dist/
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/client/dist/node/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js.LICENSE.txt
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/client/dist/node/nls.metadata.header.json
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/client/dist/node/nls.metadata.json
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/json-language-features/icons/
@@ -524,6 +529,7 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/README.md
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/dist/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/dist/extension.js
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/dist/extension.js.LICENSE.txt
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/dist/nls.metadata.header.json
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/dist/nls.metadata.json
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/markdown-language-features/esbuild-notebook.js
@@ -591,6 +597,7 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authent
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/README.md
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/dist/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/dist/extension.js
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/dist/nls.metadata.header.json
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/dist/nls.metadata.json
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/microsoft-authentication/media/
@@ -715,7 +722,6 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debu
 -rw-rw-r--	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/edgeDevToolOpener.nls.metadata.json
 -rw-rw-r--	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/linkedBreakpointLocationUI.nls.metadata.json
 -rw-rw-r--	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/longPredictionUI.nls.metadata.json
--rw-rw-r--	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/prettyPrint.nls.metadata.json
 -rw-rw-r--	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/processPicker.nls.metadata.json
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/profiling/
 -rw-rw-r--	root/root	usr/lib/vscodium/resources/app/extensions/ms-vscode.js-debug/src/ui/profiling/breakpointTerminationCondition.nls.metadata.json
@@ -1120,6 +1126,7 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/typescript-langua
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/README.md
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/dist/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/dist/extension.js
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/dist/extension.js.LICENSE.txt
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/dist/nls.metadata.header.json
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/dist/nls.metadata.json
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/extensions/typescript-language-features/media/
@@ -1234,6 +1241,7 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/base/common/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/base/common/stripComments.js
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/base/common/worker/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/base/common/worker/simpleWorker.js
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/base/common/worker/simpleWorker.nls.js
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/base/node/
 -rwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/base/node/cpuUsage.sh
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/base/node/languagePacks.js
@@ -1278,6 +1286,10 @@ drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/code/node/
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/code/node/cli.nls.js
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/code/node/cliProcessMain.js
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/code/node/cliProcessMain.nls.js
+drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/editor/
+drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/editor/common/
+drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/editor/common/services/
+-rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/editor/common/services/editorSimpleWorker.nls.js
 -rw-r--r--	root/root	usr/lib/vscodium/resources/app/out/vs/loader.js
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/platform/
 drwxr-xr-x	root/root	usr/lib/vscodium/resources/app/out/vs/platform/environment/
