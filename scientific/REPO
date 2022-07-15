@@ -85,6 +85,7 @@ d:meme-db-tgene
 d:meme-suite
 d:hyphy
 d:pal2nal
+d:alphaplot
 f:70eb0e1b41c3580a45458c72b34ea5e0:prank/.signature
 f:539bed1c5d796de9db1ef4882fb2e443:prank/.footprint
 f:9bda5548f8ea5194ee7ec2480968fb0e:prank/Pkgfile
@@ -441,3 +442,6 @@ f:f2cb7613e40a9b14264404aee9dcb43e:hyphy/.signature
 f:6a24956898d0d9b02ceaa1785bd8ee40:pal2nal/Pkgfile
 f:3b9988e4eff2a598e097edf0001fe0ef:pal2nal/.footprint
 f:304d93b8add07c8c19279211fca601ed:pal2nal/.signature
+f:9389f7021ffaf5adfc477b0d348a4582:alphaplot/Pkgfile
+f:f099434df4fef2974ccf35200aada817:alphaplot/.footprint
+f:9a16e93775bc94e867063b5e0d79a331:alphaplot/.signature
