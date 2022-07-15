@@ -499,9 +499,9 @@ f:f3fa3306b1d34b048900f5710bed1127:leafpad/Pkgfile
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
 f:a8c54472f3fa7230eec2bd56f7d27b52:leafpad/.signature
 f:51db8d36d29a1266832d4737d83c94e3:calibre-bin/calibre-bin.desktop
-f:f3eaf26fd91ebfc4fe5b539aefe189d3:calibre-bin/Pkgfile
+f:9d0de5f37de436a0063ef21c00523fff:calibre-bin/Pkgfile
 f:86fb8a43c92737c14d489b0df6042a24:calibre-bin/.footprint
-f:16df0630ad43a57b547edad8348dfd62:calibre-bin/.signature
+f:2357a72bace0f45bd3254381cff1d763:calibre-bin/.signature
 f:af064131f3e9b7483d4c26565177c13b:supertux/.footprint
 f:b6ae7fa773fae13241b87ca249be5c5f:supertux/Pkgfile
 f:8e9355199d73c510029a6c3790f19a54:supertux/.signature
