@@ -2449,6 +2449,7 @@ drwxr-xr-x	root/root	usr/share/stellarium/skycultures/khoi-san/
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/constellationship.fab
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/description.en.utf8
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/description.ru.utf8
+-rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/description.sk.utf8
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/description.uk.utf8
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/hunter.png
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/khoi-san/info.ini
@@ -3152,6 +3153,9 @@ drwxr-xr-x	root/root	usr/share/stellarium/skycultures/xhosa/
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/constellationsart.fab
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/constellationship.fab
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/description.en.utf8
+-rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/description.es.utf8
+-rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/description.gl.utf8
+-rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/description.sk.utf8
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/description.uk.utf8
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/digging-stars.png
 -rw-r--r--	root/root	usr/share/stellarium/skycultures/xhosa/in-a-queue.png
