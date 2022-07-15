@@ -4,9 +4,9 @@
 # Depends on: libimobiledevice
 
 name=usbmuxd
-version=2839789
-release=2
-source=(https://github.com/libimobiledevice/$name/archive/$version/$name-2839789bdb581ede7c331b9b4e07e0d5a89d7d18.tar.gz
+version=f50e52f
+release=1
+source=(https://github.com/libimobiledevice/$name/archive/$version/$name-f50e52f3393a9149ac65fdda8f0d425109efc7fe.tar.gz
 	$name.rc)
 
 build() {
