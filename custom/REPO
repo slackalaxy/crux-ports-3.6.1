@@ -221,6 +221,7 @@ d:gtklife
 d:masterpdfeditor4
 d:vscodium
 d:xscreensaverstopper
+d:scribus
 f:feaa1451c3881d7ad4be5ee796b91a04:xdg-user-dirs/.signature
 f:698e151378259848c24a37f67edb1760:xdg-user-dirs/.footprint
 f:26acc22ac0c8b710337ff377af69fdcf:xdg-user-dirs/Pkgfile
@@ -1103,3 +1104,10 @@ f:c6d7b31043b674e10b0fc9ec30101181:vscodium/.signature
 f:1f36481b0ae073543bdcf89b01d09331:xscreensaverstopper/Pkgfile
 f:e1232af60d00ee349ccaa59a70566b0a:xscreensaverstopper/xscreensaverstopper.sh
 f:ec48b34bdb1cb9b7501e4ae1ed1ec9f5:xscreensaverstopper/xscreensaverstopper.desktop
+f:12167324ddef4ae8e384d7a265b03ecc:scribus/Pkgfile
+f:fec30d34be76f3402899b97519d35ca2:scribus/poppler-22.02.0.patch
+f:df29922471d4894ffb2954bbb2344692:scribus/poppler-22.02.0-fixup.patch
+f:94f1fb2abcee2182eb1d8b38a9939b5c:scribus/poppler-22.03.0.patch
+f:a2d1921fd5bfa9ede4901bedf1a992c0:scribus/poppler-22.04.0.patch
+f:82a832a74378680fec0336b6617fd91c:scribus/.footprint
+f:94d80470d0c68dc9c3934a90876a4ebd:scribus/.signature
