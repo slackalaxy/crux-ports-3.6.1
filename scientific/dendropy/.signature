@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcNVBae4MhTf9haM6yzBUDBODosNwfmgpoVBgvqmNtm6qTMi6fDK7zAVLhGVVqeVCZ2jX4GXIw7B1k5UPEB4kxQ4=
+SHA256 (Pkgfile) = 30f1da6e0b827791ea9fff88bb97fbf4cd5e23f76f3cf0efc11164c7b83ec1c9
+SHA256 (.footprint) = ca20aeee185e3555cec8195f8482ae0a11e915493af93f89d67b0430ff104448
+SHA256 (DendroPy-4.5.1.tar.gz) = 6ef3f66d47126047575fd47578fc1b2fc6a21390cf2d2ee57d0678852bce52ed
