@@ -5,7 +5,7 @@
 
 name=dbus-python2
 version=1.2.18
-release=1
+release=2
 source=(http://dbus.freedesktop.org/releases/dbus-python/dbus-python-$version.tar.gz)
 
 build() {
@@ -17,5 +17,6 @@ build() {
 	make
 	make DESTDIR=$PKG install
 	rm -fr $PKG/usr/{share,include}
+	mv $PKG/usr/lib/pkgconfig/dbus-python.pc $PKG/usr/lib/pkgconfig/dbus-python2.pc
 }
 
