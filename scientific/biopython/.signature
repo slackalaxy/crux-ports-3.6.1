@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcCnKhnvvPtIFLsPN3wIdR3whYEwKCmgGxGE1KLyBztvSJiFeYtsf5v5NyD9WTH9QBfLAe63XLV3t1a0vfmFcTwI=
-SHA256 (Pkgfile) = b2d2cb33b3dd717925cedb141a4473f0c513bbafdd1e99d5c4e86b55217882e2
+RWTXrKv/sDjJcA1H1EwJryikR+89c8Izw4v8EQ9EVz2mPo2WpShnu3/9vcrZZhvLbV0YcWCRw65ikXOkU3zrMo6m+InB2L8l1Qg=
+SHA256 (Pkgfile) = 3318e0e46ef444e23edbadaa54420f7f92b1b4fe27079271a5b4c01c1fd74714
 SHA256 (.footprint) = e9aa1f136848a320eea8227794c6b0bb638ca7047900328952840c73a249131d
 SHA256 (biopython-1.79.tar.gz) = edb07eac99d3b8abd7ba56ff4bedec9263f76dfc3c3f450e7d2e2bcdecf8559b

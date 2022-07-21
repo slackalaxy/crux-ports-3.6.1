@@ -1,7 +1,7 @@
 # Description: A set of Python tools for biological computation
 # URL: https://biopython.org/
 # Maintainer: Petar Petrov, slackalaxy at gmail dot com
-# Depends on:
+# Depends on: python3-numpy
 
 name=biopython
 version=1.79
