@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPfcZMGYks17FH5mS4KCoFf0rd3RyTs3Wr8OXYynD4Se9ANYU6OoDs/jdA0qVSG+gwTiywNyH5BwgeTIQhSUywk=
+SHA256 (Pkgfile) = a08c321e8ad3583dc1248859d22920f32791d616545e10a9aa6ae6e1b36c7ff2
+SHA256 (.footprint) = 79b90d35c6700521d23f5ce9851869f2358247c61c0ffadaf56aacaa34d942fb
+SHA256 (cap3.linux.x86_64.tar) = 3aff30423e052887925b32f31bdd76764406661f2be3750afbf46341c3d38a06
