@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcLbI3ATNRcvAO5eOe25OdkPL2mgPHpsCpf6YhwcoVxIj1NVK4oJ1IYrNedmpkiAhMm9xuuE9OEFNffTPulLYFQE=
+SHA256 (Pkgfile) = c0a430021a9d0258a142e0c91a17fc317b6efe33774361bee9c62698b86a62ea
+SHA256 (.footprint) = ad0940e94b07703fc57b8b2e3ec5b765ff45d58b13ed1a1c1a5240f5eb0ad362
+SHA256 (bwa-0.7.17.tar.bz2) = de1b4d4e745c0b7fc3e107b5155a51ac063011d33a5d82696331ecf4bed8d0fd
