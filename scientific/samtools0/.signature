@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcKrhakqOrRz2HpDHQv/GCoWIFiofPgZlHFfUt7xNibt6zA/MFBFOJR/VK61+toJP/EPyLJyIVdM3FBBrCtATwws=
+SHA256 (Pkgfile) = 45d59891c46dcbec54fe1b8838a3dd685c5834e86f9a6f212dda600afc287bfe
+SHA256 (.footprint) = 53c5a00d5139b675c5bb20131b767d33755a9be89bc6ac4c1049a7f388415c57
+SHA256 (samtools-0.1.19.tar.bz2) = d080c9d356e5f0ad334007e4461cbcee3c4ca97b8a7a5a48c44883cf9dee63d4
