@@ -16,7 +16,8 @@ build() {
 	CXXFLAGS="$CXXFLAGS" \
 	make
 	
-	executables=$( ls bowtie2* )
+	install -D -m755 $name $PKG/usr/bin/$name
+	executables=$( ls bowtie2-* )
 	for b in ${executables[@]}; do
 	  install -D -m755 $b $PKG/usr/bin/$b
 	done

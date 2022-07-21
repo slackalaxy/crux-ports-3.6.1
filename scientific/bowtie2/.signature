@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcHUnTYdoZp7jHoT2lzSmPWVUqActhPA5DYdykFweno4C/E9mfN2QywvBEcv4JF3/edO1/97jwfOWRmVYhmmbxAQ=
-SHA256 (Pkgfile) = a7b6372608130f7b253bb9a65ac00a25148a7c21f68a6ab290f09344a3b1aab1
+RWTXrKv/sDjJcP9EeZdaXWDrH9FEkkkCKUQ/mf+20rgWfKxfmOZbRS9OqrouXM4R+rd807oOGzfVGf4VHUn+cmAyoq6Azf+qtwo=
+SHA256 (Pkgfile) = 595bd473a3e37d7cad38904d80c3ad575d5aa8aca0de90784735bd685b15f784
 SHA256 (.footprint) = 6ef218c4a810ffd66870782de2e8ef0730b31ab46d0eeff65e9772bf7093483b
 SHA256 (bowtie2-2.4.5.tar.gz) = db101391b54a5e0eeed7469b05aee55ee6299558b38607f592f6b35a7d41dcb6
