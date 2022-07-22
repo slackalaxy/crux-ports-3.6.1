@@ -6,7 +6,7 @@
 name=cufflinks
 version=2.2.1
 release=1
-source=(http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/cufflinks-2.2.1.tar.gz
+source=(http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/$name-$version.tar.gz
 	cufflinks-2.2.1-boost-1.65-tr1-removal.patch
 	cufflinks-2.2.1-gcc5-make_shared.patch
 	cufflinks-2.2.1-gcc6.patch

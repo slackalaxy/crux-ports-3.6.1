@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/scientific.pub
-RWTXrKv/sDjJcBi/ty/vJCUqa7PzpV0p+ayhvTV+rN/D2AGkCjx8BdfRJTTZTTklYzA6Ja5CNZgZw6W12FMrRpQ6uoK2hXxMjgA=
-SHA256 (Pkgfile) = 8b40358d10f541d62f1aeb3766fc255c8f5c1a6604ad1572c38ad7d6aaa7c2a0
+RWTXrKv/sDjJcB3b/97DR8JX7P6u3DdDoQUIG/QsFGD9DnJe+8B8qHzXJr8+1+j1qKZEuduqFWVW8jRLZeQmP42cbl2eNyyHwgM=
+SHA256 (Pkgfile) = 3550beb8ddfb375cb789c49558b5c8cf0bb609530d45f96a72f7d64cab254792
 SHA256 (.footprint) = cfdaa168cea3b28cdaedb69d34339feec487f4b7f0155c62dfd7b4ef5d06a914
 SHA256 (cufflinks-2.2.1.tar.gz) = e8316b66177914f14b3a0c317e436d386a46c4c212ca1b2326f89f8a2e08d5ae
 SHA256 (cufflinks-2.2.1-boost-1.65-tr1-removal.patch) = 284c120453ec82ed194cdff6cd6344ac9fcf3dfba9c960483313be077241838e
