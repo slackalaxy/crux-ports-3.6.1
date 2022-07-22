@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcMfAG1vPggoJUFY2lN1SeNKHUan//J6KVNZp7iqHN2vjqyCJ6FAjL9nC1ip4AcXTr0Ll4Nu0QlZktSW30YUPPQM=
+SHA256 (Pkgfile) = c75d11256a693d0576eb5e3c631b58be17a1e7c200e077050334a2b9027ed93c
+SHA256 (.footprint) = e1b83149cee555b9af6106f793a9863df6f5c413cd8813c6a6f2afb2d1c4607f
+SHA256 (SPAdes-3.15.4.tar.gz) = 3b241c528a42a8bdfdf23e5bf8f0084834790590d08491decea9f0f009d8589f
