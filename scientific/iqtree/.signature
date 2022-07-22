@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcH5psVA2jwhvGUupbtdXnbUusK0NjpBljnZoTEzMPTZV8WNpAXid76Ya+5YmsI8Ol+ZsdkmCBNyxGg7ase7eDAE=
+SHA256 (Pkgfile) = e5d6dd0e2fb212ad5fda24d275a3c2ae5be20ba58d0997e20b16cdf9146bbe7a
+SHA256 (.footprint) = 484e4b2377d7703fbaa68433608f653e65fbba003be714b6154e18e4f12dcabb
+SHA256 (iqtree-1.6.12-Linux.tar.gz) = 3762f471d8853d9fd2bdf5f18af60f916c10690fa53eed8015b71a8cc674d487
