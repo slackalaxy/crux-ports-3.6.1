@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/scientific.pub
+RWTXrKv/sDjJcPfUiNYRwF7EEHz9HeY1Cviuh/BL2+bVxGyvliNjFbuxsDj1AbA4Cgg20O4ufQwVZpyT+eo/4P1PIzf+9NagdAQ=
+SHA256 (Pkgfile) = 30571fa313f719e81eff93fd23399e11d60f2e85d6cc1e65ca3e88666e0e50d2
+SHA256 (.footprint) = 3b98b62dad804b3bba5f36683cf6abbe4ecf94e7be515caab69e525542b1c155
+SHA256 (tabix-0.2.6.tar.bz2) = e4066be7101bae83bec62bc2bc6917013f6c2875b66eb5055fbb013488d68b73
